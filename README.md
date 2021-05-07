@@ -1,5 +1,5 @@
-# pokedex-sprites
-![](https://res.cloudinary.com/lajosneto/image/upload/v1614305052/pokedex-sprites/repo-background.png)
+# pokedex-backend-sprites
+![](https://res.cloudinary.com/lajosneto/image/upload/v1620426648/pokedex-backend-sprites/repo-background.png)
 
 <br>
 <br>
@@ -18,9 +18,13 @@ Repository for pokemon sprites used on Android Pokedex project.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
-original source from:
+original sprites source from:
 - https://github.com/PokeAPI/sprites
 
 icons from :
