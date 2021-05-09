@@ -41,14 +41,14 @@ REGIONS_ID_RANGE = [
 ALL_REGIONS_ID_RANGE = range(1, 899)
 
 REGION_FOLDERS = [
-    "kanto-pokedex/",
-    "johto-pokedex/",
-    "hoenn-pokedex/",
-    "sinnoh-pokedex/",
-    "unova-pokedex/",
-    "kalos-pokedex/",
-    "alola-pokedex/",
-    "galar-pokedex/"
+    "filtered_sprites/kanto-pokedex/",
+    "filtered_sprites/johto-pokedex/",
+    "filtered_sprites/hoenn-pokedex/",
+    "filtered_sprites/sinnoh-pokedex/",
+    "filtered_sprites/unova-pokedex/",
+    "filtered_sprites/kalos-pokedex/",
+    "filtered_sprites/alola-pokedex/",
+    "filtered_sprites/galar-pokedex/"
 ]
 
 def build_id_name_map():
