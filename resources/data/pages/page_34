@@ -1,0 +1,195 @@
+[
+    {
+        "id": 681,
+        "nameEn": "aegislash-shield",
+        "nameJa": "ギルガルド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/681.png",
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "id": 682,
+        "nameEn": "spritzee",
+        "nameJa": "シュシュプ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/682.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 683,
+        "nameEn": "aromatisse",
+        "nameJa": "フレフワン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/683.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 684,
+        "nameEn": "swirlix",
+        "nameJa": "ペロッパフ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/684.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 685,
+        "nameEn": "slurpuff",
+        "nameJa": "ペロリーム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/685.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 686,
+        "nameEn": "inkay",
+        "nameJa": "マーイーカ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/686.png",
+        "types": [
+            "dark",
+            "psychic"
+        ]
+    },
+    {
+        "id": 687,
+        "nameEn": "malamar",
+        "nameJa": "カラマネロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/687.png",
+        "types": [
+            "dark",
+            "psychic"
+        ]
+    },
+    {
+        "id": 688,
+        "nameEn": "binacle",
+        "nameJa": "カメテテ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/688.png",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": 689,
+        "nameEn": "barbaracle",
+        "nameJa": "ガメノデス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/689.png",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": 690,
+        "nameEn": "skrelp",
+        "nameJa": "クズモー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/690.png",
+        "types": [
+            "poison",
+            "water"
+        ]
+    },
+    {
+        "id": 691,
+        "nameEn": "dragalge",
+        "nameJa": "ドラミドロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/691.png",
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    {
+        "id": 692,
+        "nameEn": "clauncher",
+        "nameJa": "ウデッポウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/692.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 693,
+        "nameEn": "clawitzer",
+        "nameJa": "ブロスター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/693.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 694,
+        "nameEn": "helioptile",
+        "nameJa": "エリキテル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/694.png",
+        "types": [
+            "electric",
+            "normal"
+        ]
+    },
+    {
+        "id": 695,
+        "nameEn": "heliolisk",
+        "nameJa": "エレザード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/695.png",
+        "types": [
+            "electric",
+            "normal"
+        ]
+    },
+    {
+        "id": 696,
+        "nameEn": "tyrunt",
+        "nameJa": "チゴラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/696.png",
+        "types": [
+            "rock",
+            "dragon"
+        ]
+    },
+    {
+        "id": 697,
+        "nameEn": "tyrantrum",
+        "nameJa": "ガチゴラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/697.png",
+        "types": [
+            "rock",
+            "dragon"
+        ]
+    },
+    {
+        "id": 698,
+        "nameEn": "amaura",
+        "nameJa": "アマルス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/698.png",
+        "types": [
+            "rock",
+            "ice"
+        ]
+    },
+    {
+        "id": 699,
+        "nameEn": "aurorus",
+        "nameJa": "アマルルガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/699.png",
+        "types": [
+            "rock",
+            "ice"
+        ]
+    },
+    {
+        "id": 700,
+        "nameEn": "sylveon",
+        "nameJa": "ニンフィア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/700.png",
+        "types": [
+            "fairy"
+        ]
+    }
+]

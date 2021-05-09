@@ -1,0 +1,196 @@
+[
+    {
+        "id": 701,
+        "nameEn": "hawlucha",
+        "nameJa": "ルチャブル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/701.png",
+        "types": [
+            "fighting",
+            "flying"
+        ]
+    },
+    {
+        "id": 702,
+        "nameEn": "dedenne",
+        "nameJa": "デデンネ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/702.png",
+        "types": [
+            "electric",
+            "fairy"
+        ]
+    },
+    {
+        "id": 703,
+        "nameEn": "carbink",
+        "nameJa": "メレシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/703.png",
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    {
+        "id": 704,
+        "nameEn": "goomy",
+        "nameJa": "ヌメラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/704.png",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": 705,
+        "nameEn": "sliggoo",
+        "nameJa": "ヌメイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/705.png",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": 706,
+        "nameEn": "goodra",
+        "nameJa": "ヌメルゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/706.png",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": 707,
+        "nameEn": "klefki",
+        "nameJa": "クレッフィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/707.png",
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": 708,
+        "nameEn": "phantump",
+        "nameJa": "ボクレー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/708.png",
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "id": 709,
+        "nameEn": "trevenant",
+        "nameJa": "オーロット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/709.png",
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "id": 710,
+        "nameEn": "pumpkaboo-average",
+        "nameJa": "バケッチャ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/710.png",
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "id": 711,
+        "nameEn": "gourgeist-average",
+        "nameJa": "パンプジン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/711.png",
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "id": 712,
+        "nameEn": "bergmite",
+        "nameJa": "カチコール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/712.png",
+        "types": [
+            "ice"
+        ]
+    },
+    {
+        "id": 713,
+        "nameEn": "avalugg",
+        "nameJa": "クレベース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/713.png",
+        "types": [
+            "ice"
+        ]
+    },
+    {
+        "id": 714,
+        "nameEn": "noibat",
+        "nameJa": "オンバット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/714.png",
+        "types": [
+            "flying",
+            "dragon"
+        ]
+    },
+    {
+        "id": 715,
+        "nameEn": "noivern",
+        "nameJa": "オンバーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/715.png",
+        "types": [
+            "flying",
+            "dragon"
+        ]
+    },
+    {
+        "id": 716,
+        "nameEn": "xerneas",
+        "nameJa": "ゼルネアス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/716.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 717,
+        "nameEn": "yveltal",
+        "nameJa": "イベルタル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/717.png",
+        "types": [
+            "dark",
+            "flying"
+        ]
+    },
+    {
+        "id": 718,
+        "nameEn": "zygarde",
+        "nameJa": "ジガルデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/718.png",
+        "types": [
+            "dragon",
+            "ground"
+        ]
+    },
+    {
+        "id": 719,
+        "nameEn": "diancie",
+        "nameJa": "ディアンシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/719.png",
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    {
+        "id": 720,
+        "nameEn": "hoopa",
+        "nameJa": "フーパ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/720.png",
+        "types": [
+            "psychic",
+            "ghost"
+        ]
+    }
+]

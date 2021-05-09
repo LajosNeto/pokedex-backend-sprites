@@ -1,0 +1,191 @@
+[
+    {
+        "id": 121,
+        "nameEn": "starmie",
+        "nameJa": "スターミー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/121.png",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "id": 122,
+        "nameEn": "mr-mime",
+        "nameJa": "バリヤード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/122.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "id": 123,
+        "nameEn": "scyther",
+        "nameJa": "ストライク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/123.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 124,
+        "nameEn": "jynx",
+        "nameJa": "ルージュラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/124.png",
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "id": 125,
+        "nameEn": "electabuzz",
+        "nameJa": "エレブー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/125.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 126,
+        "nameEn": "magmar",
+        "nameJa": "ブーバー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/126.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 127,
+        "nameEn": "pinsir",
+        "nameJa": "カイロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/127.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 128,
+        "nameEn": "tauros",
+        "nameJa": "ケンタロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/128.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 129,
+        "nameEn": "magikarp",
+        "nameJa": "コイキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/129.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 130,
+        "nameEn": "gyarados",
+        "nameJa": "ギャラドス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/130.png",
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "id": 131,
+        "nameEn": "lapras",
+        "nameJa": "ラプラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/131.png",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": 132,
+        "nameEn": "ditto",
+        "nameJa": "メタモン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/132.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 133,
+        "nameEn": "eevee",
+        "nameJa": "イーブイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/133.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 134,
+        "nameEn": "vaporeon",
+        "nameJa": "シャワーズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/134.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 135,
+        "nameEn": "jolteon",
+        "nameJa": "サンダース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/135.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 136,
+        "nameEn": "flareon",
+        "nameJa": "ブースター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/136.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 137,
+        "nameEn": "porygon",
+        "nameJa": "ポリゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/137.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 138,
+        "nameEn": "omanyte",
+        "nameJa": "オムナイト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/138.png",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": 139,
+        "nameEn": "omastar",
+        "nameJa": "オムスター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/139.png",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": 140,
+        "nameEn": "kabuto",
+        "nameJa": "カブト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/140.png",
+        "types": [
+            "rock",
+            "water"
+        ]
+    }
+]

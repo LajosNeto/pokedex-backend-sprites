@@ -1,0 +1,194 @@
+[
+    {
+        "id": 721,
+        "nameEn": "volcanion",
+        "nameJa": "ボルケニオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/721.png",
+        "types": [
+            "fire",
+            "water"
+        ]
+    },
+    {
+        "id": 722,
+        "nameEn": "rowlet",
+        "nameJa": "モクロー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/722.png",
+        "types": [
+            "grass",
+            "flying"
+        ]
+    },
+    {
+        "id": 723,
+        "nameEn": "dartrix",
+        "nameJa": "フクスロー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/723.png",
+        "types": [
+            "grass",
+            "flying"
+        ]
+    },
+    {
+        "id": 724,
+        "nameEn": "decidueye",
+        "nameJa": "ジュナイパー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/724.png",
+        "types": [
+            "grass",
+            "ghost"
+        ]
+    },
+    {
+        "id": 725,
+        "nameEn": "litten",
+        "nameJa": "ニャビー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/725.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 726,
+        "nameEn": "torracat",
+        "nameJa": "ニャヒート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/726.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 727,
+        "nameEn": "incineroar",
+        "nameJa": "ガオガエン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/727.png",
+        "types": [
+            "fire",
+            "dark"
+        ]
+    },
+    {
+        "id": 728,
+        "nameEn": "popplio",
+        "nameJa": "アシマリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/728.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 729,
+        "nameEn": "brionne",
+        "nameJa": "オシャマリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/729.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 730,
+        "nameEn": "primarina",
+        "nameJa": "アシレーヌ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/730.png",
+        "types": [
+            "water",
+            "fairy"
+        ]
+    },
+    {
+        "id": 731,
+        "nameEn": "pikipek",
+        "nameJa": "ツツケラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/731.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 732,
+        "nameEn": "trumbeak",
+        "nameJa": "ケララッパ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/732.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 733,
+        "nameEn": "toucannon",
+        "nameJa": "ドデカバシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/733.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 734,
+        "nameEn": "yungoos",
+        "nameJa": "ヤングース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/734.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 735,
+        "nameEn": "gumshoos",
+        "nameJa": "デカグース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/735.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 736,
+        "nameEn": "grubbin",
+        "nameJa": "アゴジムシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/736.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 737,
+        "nameEn": "charjabug",
+        "nameJa": "デンヂムシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/737.png",
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "id": 738,
+        "nameEn": "vikavolt",
+        "nameJa": "クワガノン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/738.png",
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "id": 739,
+        "nameEn": "crabrawler",
+        "nameJa": "マケンカニ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/739.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 740,
+        "nameEn": "crabominable",
+        "nameJa": "ケケンカニ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/740.png",
+        "types": [
+            "fighting",
+            "ice"
+        ]
+    }
+]

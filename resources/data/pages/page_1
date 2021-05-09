@@ -1,0 +1,188 @@
+[
+    {
+        "id": 21,
+        "nameEn": "spearow",
+        "nameJa": "オニスズメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/21.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 22,
+        "nameEn": "fearow",
+        "nameJa": "オニドリル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/22.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 23,
+        "nameEn": "ekans",
+        "nameJa": "アーボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/23.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 24,
+        "nameEn": "arbok",
+        "nameJa": "アーボック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/24.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 25,
+        "nameEn": "pikachu",
+        "nameJa": "ピカチュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/25.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 26,
+        "nameEn": "raichu",
+        "nameJa": "ライチュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/26.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 27,
+        "nameEn": "sandshrew",
+        "nameJa": "サンド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/27.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 28,
+        "nameEn": "sandslash",
+        "nameJa": "サンドパン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/28.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 29,
+        "nameEn": "nidoran-f",
+        "nameJa": "ニドラン♀",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/29.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 30,
+        "nameEn": "nidorina",
+        "nameJa": "ニドリーナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/30.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 31,
+        "nameEn": "nidoqueen",
+        "nameJa": "ニドクイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/31.png",
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": 32,
+        "nameEn": "nidoran-m",
+        "nameJa": "ニドラン♂",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/32.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 33,
+        "nameEn": "nidorino",
+        "nameJa": "ニドリーノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/33.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 34,
+        "nameEn": "nidoking",
+        "nameJa": "ニドキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/34.png",
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": 35,
+        "nameEn": "clefairy",
+        "nameJa": "ピッピ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/35.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 36,
+        "nameEn": "clefable",
+        "nameJa": "ピクシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/36.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 37,
+        "nameEn": "vulpix",
+        "nameJa": "ロコン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/37.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 38,
+        "nameEn": "ninetales",
+        "nameJa": "キュウコン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/38.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 39,
+        "nameEn": "jigglypuff",
+        "nameJa": "プリン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/39.png",
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "id": 40,
+        "nameEn": "wigglytuff",
+        "nameJa": "プクリン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/40.png",
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    }
+]

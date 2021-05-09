@@ -1,0 +1,192 @@
+[
+    {
+        "id": 301,
+        "nameEn": "delcatty",
+        "nameJa": "エネコロロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/301.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 302,
+        "nameEn": "sableye",
+        "nameJa": "ヤミラミ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/302.png",
+        "types": [
+            "dark",
+            "ghost"
+        ]
+    },
+    {
+        "id": 303,
+        "nameEn": "mawile",
+        "nameJa": "クチート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/303.png",
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": 304,
+        "nameEn": "aron",
+        "nameJa": "ココドラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/304.png",
+        "types": [
+            "steel",
+            "rock"
+        ]
+    },
+    {
+        "id": 305,
+        "nameEn": "lairon",
+        "nameJa": "コドラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/305.png",
+        "types": [
+            "steel",
+            "rock"
+        ]
+    },
+    {
+        "id": 306,
+        "nameEn": "aggron",
+        "nameJa": "ボスゴドラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/306.png",
+        "types": [
+            "steel",
+            "rock"
+        ]
+    },
+    {
+        "id": 307,
+        "nameEn": "meditite",
+        "nameJa": "アサナン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/307.png",
+        "types": [
+            "fighting",
+            "psychic"
+        ]
+    },
+    {
+        "id": 308,
+        "nameEn": "medicham",
+        "nameJa": "チャーレム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/308.png",
+        "types": [
+            "fighting",
+            "psychic"
+        ]
+    },
+    {
+        "id": 309,
+        "nameEn": "electrike",
+        "nameJa": "ラクライ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/309.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 310,
+        "nameEn": "manectric",
+        "nameJa": "ライボルト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/310.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 311,
+        "nameEn": "plusle",
+        "nameJa": "プラスル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/311.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 312,
+        "nameEn": "minun",
+        "nameJa": "マイナン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/312.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 313,
+        "nameEn": "volbeat",
+        "nameJa": "バルビート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/313.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 314,
+        "nameEn": "illumise",
+        "nameJa": "イルミーゼ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/314.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 315,
+        "nameEn": "roselia",
+        "nameJa": "ロゼリア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/315.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 316,
+        "nameEn": "gulpin",
+        "nameJa": "ゴクリン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/316.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 317,
+        "nameEn": "swalot",
+        "nameJa": "マルノーム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/317.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 318,
+        "nameEn": "carvanha",
+        "nameJa": "キバニア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/318.png",
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    {
+        "id": 319,
+        "nameEn": "sharpedo",
+        "nameJa": "サメハダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/319.png",
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    {
+        "id": 320,
+        "nameEn": "wailmer",
+        "nameJa": "ホエルコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/320.png",
+        "types": [
+            "water"
+        ]
+    }
+]

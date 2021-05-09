@@ -1,0 +1,175 @@
+[
+    {
+        "id": 881,
+        "nameEn": "arctozolt",
+        "nameJa": "パッチルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/881.png",
+        "types": [
+            "electric",
+            "ice"
+        ]
+    },
+    {
+        "id": 882,
+        "nameEn": "dracovish",
+        "nameJa": "ウオノラゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/882.png",
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    {
+        "id": 883,
+        "nameEn": "arctovish",
+        "nameJa": "ウオチルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/883.png",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": 884,
+        "nameEn": "duraludon",
+        "nameJa": "ジュラルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/884.png",
+        "types": [
+            "steel",
+            "dragon"
+        ]
+    },
+    {
+        "id": 885,
+        "nameEn": "dreepy",
+        "nameJa": "ドラメシヤ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/885.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "id": 886,
+        "nameEn": "drakloak",
+        "nameJa": "ドロンチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/886.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "id": 887,
+        "nameEn": "dragapult",
+        "nameJa": "ドラパルト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/887.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "id": 888,
+        "nameEn": "zacian-hero",
+        "nameJa": "ザシアン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/888.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 889,
+        "nameEn": "zamazenta-hero",
+        "nameJa": "ザマゼンタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/889.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 890,
+        "nameEn": "eternatus",
+        "nameJa": "ムゲンダイナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/890.png",
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    {
+        "id": 891,
+        "nameEn": "kubfu",
+        "nameJa": "ダクマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/891.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 892,
+        "nameEn": "urshifu-single-strike",
+        "nameJa": "ウーラオス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/892.png",
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    {
+        "id": 893,
+        "nameEn": "zarude",
+        "nameJa": "ザルード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/893.png",
+        "types": [
+            "dark",
+            "grass"
+        ]
+    },
+    {
+        "id": 894,
+        "nameEn": "regieleki",
+        "nameJa": "レジエレキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/894.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 895,
+        "nameEn": "regidrago",
+        "nameJa": "レジドラゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/895.png",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": 896,
+        "nameEn": "glastrier",
+        "nameJa": "ブリザポス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/896.png",
+        "types": [
+            "ice"
+        ]
+    },
+    {
+        "id": 897,
+        "nameEn": "spectrier",
+        "nameJa": "レイスポス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/897.png",
+        "types": [
+            "ghost"
+        ]
+    },
+    {
+        "id": 898,
+        "nameEn": "calyrex",
+        "nameJa": "バドレックス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/898.png",
+        "types": [
+            "psychic",
+            "grass"
+        ]
+    }
+]

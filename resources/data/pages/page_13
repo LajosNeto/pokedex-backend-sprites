@@ -1,0 +1,194 @@
+[
+    {
+        "id": 261,
+        "nameEn": "poochyena",
+        "nameJa": "ポチエナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/261.png",
+        "types": [
+            "dark"
+        ]
+    },
+    {
+        "id": 262,
+        "nameEn": "mightyena",
+        "nameJa": "グラエナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/262.png",
+        "types": [
+            "dark"
+        ]
+    },
+    {
+        "id": 263,
+        "nameEn": "zigzagoon",
+        "nameJa": "ジグザグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/263.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 264,
+        "nameEn": "linoone",
+        "nameJa": "マッスグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/264.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 265,
+        "nameEn": "wurmple",
+        "nameJa": "ケムッソ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/265.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 266,
+        "nameEn": "silcoon",
+        "nameJa": "カラサリス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/266.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 267,
+        "nameEn": "beautifly",
+        "nameJa": "アゲハント",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/267.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 268,
+        "nameEn": "cascoon",
+        "nameJa": "マユルド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/268.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 269,
+        "nameEn": "dustox",
+        "nameJa": "ドクケイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/269.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 270,
+        "nameEn": "lotad",
+        "nameJa": "ハスボー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/270.png",
+        "types": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "id": 271,
+        "nameEn": "lombre",
+        "nameJa": "ハスブレロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/271.png",
+        "types": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "id": 272,
+        "nameEn": "ludicolo",
+        "nameJa": "ルンパッパ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/272.png",
+        "types": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "id": 273,
+        "nameEn": "seedot",
+        "nameJa": "タネボー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/273.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 274,
+        "nameEn": "nuzleaf",
+        "nameJa": "コノハナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/274.png",
+        "types": [
+            "grass",
+            "dark"
+        ]
+    },
+    {
+        "id": 275,
+        "nameEn": "shiftry",
+        "nameJa": "ダーテング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/275.png",
+        "types": [
+            "grass",
+            "dark"
+        ]
+    },
+    {
+        "id": 276,
+        "nameEn": "taillow",
+        "nameJa": "スバメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/276.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 277,
+        "nameEn": "swellow",
+        "nameJa": "オオスバメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/277.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 278,
+        "nameEn": "wingull",
+        "nameJa": "キャモメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/278.png",
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "id": 279,
+        "nameEn": "pelipper",
+        "nameJa": "ペリッパー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/279.png",
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "id": 280,
+        "nameEn": "ralts",
+        "nameJa": "ラルトス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/280.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    }
+]

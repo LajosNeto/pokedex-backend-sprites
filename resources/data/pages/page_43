@@ -1,0 +1,191 @@
+[
+    {
+        "id": 861,
+        "nameEn": "grimmsnarl",
+        "nameJa": "オーロンゲ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/861.png",
+        "types": [
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "id": 862,
+        "nameEn": "obstagoon",
+        "nameJa": "タチフサグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/862.png",
+        "types": [
+            "dark",
+            "normal"
+        ]
+    },
+    {
+        "id": 863,
+        "nameEn": "perrserker",
+        "nameJa": "ニャイキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/863.png",
+        "types": [
+            "steel"
+        ]
+    },
+    {
+        "id": 864,
+        "nameEn": "cursola",
+        "nameJa": "サニゴーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/864.png",
+        "types": [
+            "ghost"
+        ]
+    },
+    {
+        "id": 865,
+        "nameEn": "sirfetchd",
+        "nameJa": "ネギガナイト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/865.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 866,
+        "nameEn": "mr-rime",
+        "nameJa": "バリコオル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/866.png",
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "id": 867,
+        "nameEn": "runerigus",
+        "nameJa": "デスバーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/867.png",
+        "types": [
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "id": 868,
+        "nameEn": "milcery",
+        "nameJa": "マホミル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/868.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 869,
+        "nameEn": "alcremie",
+        "nameJa": "マホイップ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/869.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 870,
+        "nameEn": "falinks",
+        "nameJa": "タイレーツ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/870.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 871,
+        "nameEn": "pincurchin",
+        "nameJa": "バチンウニ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/871.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 872,
+        "nameEn": "snom",
+        "nameJa": "ユキハミ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/872.png",
+        "types": [
+            "ice",
+            "bug"
+        ]
+    },
+    {
+        "id": 873,
+        "nameEn": "frosmoth",
+        "nameJa": "モスノウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/873.png",
+        "types": [
+            "ice",
+            "bug"
+        ]
+    },
+    {
+        "id": 874,
+        "nameEn": "stonjourner",
+        "nameJa": "イシヘンジン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/874.png",
+        "types": [
+            "rock"
+        ]
+    },
+    {
+        "id": 875,
+        "nameEn": "eiscue-ice",
+        "nameJa": "コオリッポ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/875.png",
+        "types": [
+            "ice"
+        ]
+    },
+    {
+        "id": 876,
+        "nameEn": "indeedee-male",
+        "nameJa": "イエッサン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/876.png",
+        "types": [
+            "psychic",
+            "normal"
+        ]
+    },
+    {
+        "id": 877,
+        "nameEn": "morpeko",
+        "nameJa": "モルペコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/877.png",
+        "types": [
+            "electric",
+            "dark"
+        ]
+    },
+    {
+        "id": 878,
+        "nameEn": "cufant",
+        "nameJa": "ゾウドウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/878.png",
+        "types": [
+            "steel"
+        ]
+    },
+    {
+        "id": 879,
+        "nameEn": "copperajah",
+        "nameJa": "ダイオウドウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/879.png",
+        "types": [
+            "steel"
+        ]
+    },
+    {
+        "id": 880,
+        "nameEn": "dracozolt",
+        "nameJa": "パッチラゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/880.png",
+        "types": [
+            "electric",
+            "dragon"
+        ]
+    }
+]

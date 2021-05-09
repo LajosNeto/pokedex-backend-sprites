@@ -1,0 +1,193 @@
+[
+    {
+        "id": 81,
+        "nameEn": "magnemite",
+        "nameJa": "コイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/81.png",
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": 82,
+        "nameEn": "magneton",
+        "nameJa": "レアコイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/82.png",
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": 83,
+        "nameEn": "farfetchd",
+        "nameJa": "カモネギ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/83.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 84,
+        "nameEn": "doduo",
+        "nameJa": "ドードー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/84.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 85,
+        "nameEn": "dodrio",
+        "nameJa": "ドードリオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/85.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 86,
+        "nameEn": "seel",
+        "nameJa": "パウワウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/86.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 87,
+        "nameEn": "dewgong",
+        "nameJa": "ジュゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/87.png",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": 88,
+        "nameEn": "grimer",
+        "nameJa": "ベトベター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/88.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 89,
+        "nameEn": "muk",
+        "nameJa": "ベトベトン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/89.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 90,
+        "nameEn": "shellder",
+        "nameJa": "シェルダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/90.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 91,
+        "nameEn": "cloyster",
+        "nameJa": "パルシェン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/91.png",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": 92,
+        "nameEn": "gastly",
+        "nameJa": "ゴース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/92.png",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": 93,
+        "nameEn": "haunter",
+        "nameJa": "ゴースト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/93.png",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": 94,
+        "nameEn": "gengar",
+        "nameJa": "ゲンガー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/94.png",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": 95,
+        "nameEn": "onix",
+        "nameJa": "イワーク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/95.png",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": 96,
+        "nameEn": "drowzee",
+        "nameJa": "スリープ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/96.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 97,
+        "nameEn": "hypno",
+        "nameJa": "スリーパー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/97.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 98,
+        "nameEn": "krabby",
+        "nameJa": "クラブ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/98.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 99,
+        "nameEn": "kingler",
+        "nameJa": "キングラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/99.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 100,
+        "nameEn": "voltorb",
+        "nameJa": "ビリリダマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/100.png",
+        "types": [
+            "electric"
+        ]
+    }
+]

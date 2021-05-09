@@ -1,0 +1,193 @@
+[
+    {
+        "id": 201,
+        "nameEn": "unown",
+        "nameJa": "アンノーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/201.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 202,
+        "nameEn": "wobbuffet",
+        "nameJa": "ソーナンス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/202.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 203,
+        "nameEn": "girafarig",
+        "nameJa": "キリンリキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/203.png",
+        "types": [
+            "normal",
+            "psychic"
+        ]
+    },
+    {
+        "id": 204,
+        "nameEn": "pineco",
+        "nameJa": "クヌギダマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/204.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 205,
+        "nameEn": "forretress",
+        "nameJa": "フォレトス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/205.png",
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": 206,
+        "nameEn": "dunsparce",
+        "nameJa": "ノコッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/206.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 207,
+        "nameEn": "gligar",
+        "nameJa": "グライガー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/207.png",
+        "types": [
+            "ground",
+            "flying"
+        ]
+    },
+    {
+        "id": 208,
+        "nameEn": "steelix",
+        "nameJa": "ハガネール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/208.png",
+        "types": [
+            "steel",
+            "ground"
+        ]
+    },
+    {
+        "id": 209,
+        "nameEn": "snubbull",
+        "nameJa": "ブルー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/209.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 210,
+        "nameEn": "granbull",
+        "nameJa": "グランブル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/210.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 211,
+        "nameEn": "qwilfish",
+        "nameJa": "ハリーセン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/211.png",
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "id": 212,
+        "nameEn": "scizor",
+        "nameJa": "ハッサム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/212.png",
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": 213,
+        "nameEn": "shuckle",
+        "nameJa": "ツボツボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/213.png",
+        "types": [
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "id": 214,
+        "nameEn": "heracross",
+        "nameJa": "ヘラクロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/214.png",
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    {
+        "id": 215,
+        "nameEn": "sneasel",
+        "nameJa": "ニューラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/215.png",
+        "types": [
+            "dark",
+            "ice"
+        ]
+    },
+    {
+        "id": 216,
+        "nameEn": "teddiursa",
+        "nameJa": "ヒメグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/216.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 217,
+        "nameEn": "ursaring",
+        "nameJa": "リングマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/217.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 218,
+        "nameEn": "slugma",
+        "nameJa": "マグマッグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/218.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 219,
+        "nameEn": "magcargo",
+        "nameJa": "マグカルゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/219.png",
+        "types": [
+            "fire",
+            "rock"
+        ]
+    },
+    {
+        "id": 220,
+        "nameEn": "swinub",
+        "nameJa": "ウリムー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/220.png",
+        "types": [
+            "ice",
+            "ground"
+        ]
+    }
+]

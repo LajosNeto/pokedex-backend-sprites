@@ -1,0 +1,191 @@
+[
+    {
+        "id": 221,
+        "nameEn": "piloswine",
+        "nameJa": "イノムー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/221.png",
+        "types": [
+            "ice",
+            "ground"
+        ]
+    },
+    {
+        "id": 222,
+        "nameEn": "corsola",
+        "nameJa": "サニーゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/222.png",
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    {
+        "id": 223,
+        "nameEn": "remoraid",
+        "nameJa": "テッポウオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/223.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 224,
+        "nameEn": "octillery",
+        "nameJa": "オクタン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/224.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 225,
+        "nameEn": "delibird",
+        "nameJa": "デリバード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/225.png",
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "id": 226,
+        "nameEn": "mantine",
+        "nameJa": "マンタイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/226.png",
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "id": 227,
+        "nameEn": "skarmory",
+        "nameJa": "エアームド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/227.png",
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    {
+        "id": 228,
+        "nameEn": "houndour",
+        "nameJa": "デルビル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/228.png",
+        "types": [
+            "dark",
+            "fire"
+        ]
+    },
+    {
+        "id": 229,
+        "nameEn": "houndoom",
+        "nameJa": "ヘルガー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/229.png",
+        "types": [
+            "dark",
+            "fire"
+        ]
+    },
+    {
+        "id": 230,
+        "nameEn": "kingdra",
+        "nameJa": "キングドラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/230.png",
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    {
+        "id": 231,
+        "nameEn": "phanpy",
+        "nameJa": "ゴマゾウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/231.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 232,
+        "nameEn": "donphan",
+        "nameJa": "ドンファン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/232.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 233,
+        "nameEn": "porygon2",
+        "nameJa": "ポリゴン２",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/233.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 234,
+        "nameEn": "stantler",
+        "nameJa": "オドシシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/234.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 235,
+        "nameEn": "smeargle",
+        "nameJa": "ドーブル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/235.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 236,
+        "nameEn": "tyrogue",
+        "nameJa": "バルキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/236.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 237,
+        "nameEn": "hitmontop",
+        "nameJa": "カポエラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/237.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 238,
+        "nameEn": "smoochum",
+        "nameJa": "ムチュール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/238.png",
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "id": 239,
+        "nameEn": "elekid",
+        "nameJa": "エレキッド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/239.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 240,
+        "nameEn": "magby",
+        "nameJa": "ブビィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/240.png",
+        "types": [
+            "fire"
+        ]
+    }
+]

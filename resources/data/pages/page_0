@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "nameEn": "bulbasaur",
+        "nameJa": "フシギダネ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/1.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 2,
+        "nameEn": "ivysaur",
+        "nameJa": "フシギソウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/2.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 3,
+        "nameEn": "venusaur",
+        "nameJa": "フシギバナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/3.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 4,
+        "nameEn": "charmander",
+        "nameJa": "ヒトカゲ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/4.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 5,
+        "nameEn": "charmeleon",
+        "nameJa": "リザード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/5.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 6,
+        "nameEn": "charizard",
+        "nameJa": "リザードン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/6.png",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 7,
+        "nameEn": "squirtle",
+        "nameJa": "ゼニガメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/7.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 8,
+        "nameEn": "wartortle",
+        "nameJa": "カメール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/8.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 9,
+        "nameEn": "blastoise",
+        "nameJa": "カメックス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/9.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 10,
+        "nameEn": "caterpie",
+        "nameJa": "キャタピー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/10.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 11,
+        "nameEn": "metapod",
+        "nameJa": "トランセル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/11.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 12,
+        "nameEn": "butterfree",
+        "nameJa": "バタフリー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/12.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 13,
+        "nameEn": "weedle",
+        "nameJa": "ビードル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/13.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 14,
+        "nameEn": "kakuna",
+        "nameJa": "コクーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/14.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 15,
+        "nameEn": "beedrill",
+        "nameJa": "スピアー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/15.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 16,
+        "nameEn": "pidgey",
+        "nameJa": "ポッポ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/16.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 17,
+        "nameEn": "pidgeotto",
+        "nameJa": "ピジョン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/17.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 18,
+        "nameEn": "pidgeot",
+        "nameJa": "ピジョット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/18.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 19,
+        "nameEn": "rattata",
+        "nameJa": "コラッタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/19.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 20,
+        "nameEn": "raticate",
+        "nameJa": "ラッタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/20.png",
+        "types": [
+            "normal"
+        ]
+    }
+]

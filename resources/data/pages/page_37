@@ -1,0 +1,195 @@
+[
+    {
+        "id": 741,
+        "nameEn": "oricorio-baile",
+        "nameJa": "オドリドリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/741.png",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 742,
+        "nameEn": "cutiefly",
+        "nameJa": "アブリー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/742.png",
+        "types": [
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": 743,
+        "nameEn": "ribombee",
+        "nameJa": "アブリボン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/743.png",
+        "types": [
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": 744,
+        "nameEn": "rockruff",
+        "nameJa": "イワンコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/744.png",
+        "types": [
+            "rock"
+        ]
+    },
+    {
+        "id": 745,
+        "nameEn": "lycanroc-midday",
+        "nameJa": "ルガルガン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/745.png",
+        "types": [
+            "rock"
+        ]
+    },
+    {
+        "id": 746,
+        "nameEn": "wishiwashi-solo",
+        "nameJa": "ヨワシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/746.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 747,
+        "nameEn": "mareanie",
+        "nameJa": "ヒドイデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/747.png",
+        "types": [
+            "poison",
+            "water"
+        ]
+    },
+    {
+        "id": 748,
+        "nameEn": "toxapex",
+        "nameJa": "ドヒドイデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/748.png",
+        "types": [
+            "poison",
+            "water"
+        ]
+    },
+    {
+        "id": 749,
+        "nameEn": "mudbray",
+        "nameJa": "ドロバンコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/749.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 750,
+        "nameEn": "mudsdale",
+        "nameJa": "バンバドロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/750.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 751,
+        "nameEn": "dewpider",
+        "nameJa": "シズクモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/751.png",
+        "types": [
+            "water",
+            "bug"
+        ]
+    },
+    {
+        "id": 752,
+        "nameEn": "araquanid",
+        "nameJa": "オニシズクモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/752.png",
+        "types": [
+            "water",
+            "bug"
+        ]
+    },
+    {
+        "id": 753,
+        "nameEn": "fomantis",
+        "nameJa": "カリキリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/753.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 754,
+        "nameEn": "lurantis",
+        "nameJa": "ラランテス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/754.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 755,
+        "nameEn": "morelull",
+        "nameJa": "ネマシュ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/755.png",
+        "types": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "id": 756,
+        "nameEn": "shiinotic",
+        "nameJa": "マシェード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/756.png",
+        "types": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "id": 757,
+        "nameEn": "salandit",
+        "nameJa": "ヤトウモリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/757.png",
+        "types": [
+            "poison",
+            "fire"
+        ]
+    },
+    {
+        "id": 758,
+        "nameEn": "salazzle",
+        "nameJa": "エンニュート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/758.png",
+        "types": [
+            "poison",
+            "fire"
+        ]
+    },
+    {
+        "id": 759,
+        "nameEn": "stufful",
+        "nameJa": "ヌイコグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/759.png",
+        "types": [
+            "normal",
+            "fighting"
+        ]
+    },
+    {
+        "id": 760,
+        "nameEn": "bewear",
+        "nameJa": "キテルグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/760.png",
+        "types": [
+            "normal",
+            "fighting"
+        ]
+    }
+]

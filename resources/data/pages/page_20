@@ -1,0 +1,190 @@
+[
+    {
+        "id": 401,
+        "nameEn": "kricketot",
+        "nameJa": "コロボーシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/401.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 402,
+        "nameEn": "kricketune",
+        "nameJa": "コロトック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/402.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 403,
+        "nameEn": "shinx",
+        "nameJa": "コリンク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/403.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 404,
+        "nameEn": "luxio",
+        "nameJa": "ルクシオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/404.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 405,
+        "nameEn": "luxray",
+        "nameJa": "レントラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/405.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 406,
+        "nameEn": "budew",
+        "nameJa": "スボミー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/406.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 407,
+        "nameEn": "roserade",
+        "nameJa": "ロズレイド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/407.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 408,
+        "nameEn": "cranidos",
+        "nameJa": "ズガイドス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/408.png",
+        "types": [
+            "rock"
+        ]
+    },
+    {
+        "id": 409,
+        "nameEn": "rampardos",
+        "nameJa": "ラムパルド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/409.png",
+        "types": [
+            "rock"
+        ]
+    },
+    {
+        "id": 410,
+        "nameEn": "shieldon",
+        "nameJa": "タテトプス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/410.png",
+        "types": [
+            "rock",
+            "steel"
+        ]
+    },
+    {
+        "id": 411,
+        "nameEn": "bastiodon",
+        "nameJa": "トリデプス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/411.png",
+        "types": [
+            "rock",
+            "steel"
+        ]
+    },
+    {
+        "id": 412,
+        "nameEn": "burmy",
+        "nameJa": "ミノムッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/412.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 413,
+        "nameEn": "wormadam-plant",
+        "nameJa": "ミノマダム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/413.png",
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": 414,
+        "nameEn": "mothim",
+        "nameJa": "ガーメイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/414.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 415,
+        "nameEn": "combee",
+        "nameJa": "ミツハニー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/415.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 416,
+        "nameEn": "vespiquen",
+        "nameJa": "ビークイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/416.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 417,
+        "nameEn": "pachirisu",
+        "nameJa": "パチリス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/417.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 418,
+        "nameEn": "buizel",
+        "nameJa": "ブイゼル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/418.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 419,
+        "nameEn": "floatzel",
+        "nameJa": "フローゼル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/419.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 420,
+        "nameEn": "cherubi",
+        "nameJa": "チェリンボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/420.png",
+        "types": [
+            "grass"
+        ]
+    }
+]

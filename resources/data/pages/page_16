@@ -1,0 +1,193 @@
+[
+    {
+        "id": 321,
+        "nameEn": "wailord",
+        "nameJa": "ホエルオー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/321.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 322,
+        "nameEn": "numel",
+        "nameJa": "ドンメル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/322.png",
+        "types": [
+            "fire",
+            "ground"
+        ]
+    },
+    {
+        "id": 323,
+        "nameEn": "camerupt",
+        "nameJa": "バクーダ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/323.png",
+        "types": [
+            "fire",
+            "ground"
+        ]
+    },
+    {
+        "id": 324,
+        "nameEn": "torkoal",
+        "nameJa": "コータス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/324.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 325,
+        "nameEn": "spoink",
+        "nameJa": "バネブー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/325.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 326,
+        "nameEn": "grumpig",
+        "nameJa": "ブーピッグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/326.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 327,
+        "nameEn": "spinda",
+        "nameJa": "パッチール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/327.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 328,
+        "nameEn": "trapinch",
+        "nameJa": "ナックラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/328.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 329,
+        "nameEn": "vibrava",
+        "nameJa": "ビブラーバ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/329.png",
+        "types": [
+            "ground",
+            "dragon"
+        ]
+    },
+    {
+        "id": 330,
+        "nameEn": "flygon",
+        "nameJa": "フライゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/330.png",
+        "types": [
+            "ground",
+            "dragon"
+        ]
+    },
+    {
+        "id": 331,
+        "nameEn": "cacnea",
+        "nameJa": "サボネア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/331.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 332,
+        "nameEn": "cacturne",
+        "nameJa": "ノクタス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/332.png",
+        "types": [
+            "grass",
+            "dark"
+        ]
+    },
+    {
+        "id": 333,
+        "nameEn": "swablu",
+        "nameJa": "チルット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/333.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 334,
+        "nameEn": "altaria",
+        "nameJa": "チルタリス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/334.png",
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    {
+        "id": 335,
+        "nameEn": "zangoose",
+        "nameJa": "ザングース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/335.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 336,
+        "nameEn": "seviper",
+        "nameJa": "ハブネーク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/336.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 337,
+        "nameEn": "lunatone",
+        "nameJa": "ルナトーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/337.png",
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    {
+        "id": 338,
+        "nameEn": "solrock",
+        "nameJa": "ソルロック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/338.png",
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    {
+        "id": 339,
+        "nameEn": "barboach",
+        "nameJa": "ドジョッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/339.png",
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "id": 340,
+        "nameEn": "whiscash",
+        "nameJa": "ナマズン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/340.png",
+        "types": [
+            "water",
+            "ground"
+        ]
+    }
+]

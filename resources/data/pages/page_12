@@ -1,0 +1,192 @@
+[
+    {
+        "id": 241,
+        "nameEn": "miltank",
+        "nameJa": "ミルタンク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/241.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 242,
+        "nameEn": "blissey",
+        "nameJa": "ハピナス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/242.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 243,
+        "nameEn": "raikou",
+        "nameJa": "ライコウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/243.png",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 244,
+        "nameEn": "entei",
+        "nameJa": "エンテイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/244.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 245,
+        "nameEn": "suicune",
+        "nameJa": "スイクン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/245.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 246,
+        "nameEn": "larvitar",
+        "nameJa": "ヨーギラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/246.png",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": 247,
+        "nameEn": "pupitar",
+        "nameJa": "サナギラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/247.png",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": 248,
+        "nameEn": "tyranitar",
+        "nameJa": "バンギラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/248.png",
+        "types": [
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": 249,
+        "nameEn": "lugia",
+        "nameJa": "ルギア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/249.png",
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "id": 250,
+        "nameEn": "ho-oh",
+        "nameJa": "ホウオウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/250.png",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 251,
+        "nameEn": "celebi",
+        "nameJa": "セレビィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/251.png",
+        "types": [
+            "psychic",
+            "grass"
+        ]
+    },
+    {
+        "id": 252,
+        "nameEn": "treecko",
+        "nameJa": "キモリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/252.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 253,
+        "nameEn": "grovyle",
+        "nameJa": "ジュプトル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/253.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 254,
+        "nameEn": "sceptile",
+        "nameJa": "ジュカイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/254.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 255,
+        "nameEn": "torchic",
+        "nameJa": "アチャモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/255.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 256,
+        "nameEn": "combusken",
+        "nameJa": "ワカシャモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/256.png",
+        "types": [
+            "fire",
+            "fighting"
+        ]
+    },
+    {
+        "id": 257,
+        "nameEn": "blaziken",
+        "nameJa": "バシャーモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/257.png",
+        "types": [
+            "fire",
+            "fighting"
+        ]
+    },
+    {
+        "id": 258,
+        "nameEn": "mudkip",
+        "nameJa": "ミズゴロウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/258.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 259,
+        "nameEn": "marshtomp",
+        "nameJa": "ヌマクロー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/259.png",
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "id": 260,
+        "nameEn": "swampert",
+        "nameJa": "ラグラージ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/260.png",
+        "types": [
+            "water",
+            "ground"
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "id": 41,
+        "nameEn": "zubat",
+        "nameJa": "ズバット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/41.png",
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": 42,
+        "nameEn": "golbat",
+        "nameJa": "ゴルバット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/42.png",
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": 43,
+        "nameEn": "oddish",
+        "nameJa": "ナゾノクサ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/43.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 44,
+        "nameEn": "gloom",
+        "nameJa": "クサイハナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/44.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 45,
+        "nameEn": "vileplume",
+        "nameJa": "ラフレシア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/45.png",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 46,
+        "nameEn": "paras",
+        "nameJa": "パラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/46.png",
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": 47,
+        "nameEn": "parasect",
+        "nameJa": "パラセクト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/47.png",
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": 48,
+        "nameEn": "venonat",
+        "nameJa": "コンパン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/48.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 49,
+        "nameEn": "venomoth",
+        "nameJa": "モルフォン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/49.png",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 50,
+        "nameEn": "diglett",
+        "nameJa": "ディグダ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/50.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 51,
+        "nameEn": "dugtrio",
+        "nameJa": "ダグトリオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/51.png",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 52,
+        "nameEn": "meowth",
+        "nameJa": "ニャース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/52.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 53,
+        "nameEn": "persian",
+        "nameJa": "ペルシアン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/53.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 54,
+        "nameEn": "psyduck",
+        "nameJa": "コダック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/54.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 55,
+        "nameEn": "golduck",
+        "nameJa": "ゴルダック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/55.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 56,
+        "nameEn": "mankey",
+        "nameJa": "マンキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/56.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 57,
+        "nameEn": "primeape",
+        "nameJa": "オコリザル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/57.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 58,
+        "nameEn": "growlithe",
+        "nameJa": "ガーディ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/58.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 59,
+        "nameEn": "arcanine",
+        "nameJa": "ウインディ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/59.png",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 60,
+        "nameEn": "poliwag",
+        "nameJa": "ニョロモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/60.png",
+        "types": [
+            "water"
+        ]
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "id": 761,
+        "nameEn": "bounsweet",
+        "nameJa": "アマカジ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/761.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 762,
+        "nameEn": "steenee",
+        "nameJa": "アママイコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/762.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 763,
+        "nameEn": "tsareena",
+        "nameJa": "アマージョ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/763.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 764,
+        "nameEn": "comfey",
+        "nameJa": "キュワワー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/764.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 765,
+        "nameEn": "oranguru",
+        "nameJa": "ヤレユータン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/765.png",
+        "types": [
+            "normal",
+            "psychic"
+        ]
+    },
+    {
+        "id": 766,
+        "nameEn": "passimian",
+        "nameJa": "ナゲツケサル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/766.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 767,
+        "nameEn": "wimpod",
+        "nameJa": "コソクムシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/767.png",
+        "types": [
+            "bug",
+            "water"
+        ]
+    },
+    {
+        "id": 768,
+        "nameEn": "golisopod",
+        "nameJa": "グソクムシャ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/768.png",
+        "types": [
+            "bug",
+            "water"
+        ]
+    },
+    {
+        "id": 769,
+        "nameEn": "sandygast",
+        "nameJa": "スナバァ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/769.png",
+        "types": [
+            "ghost",
+            "ground"
+        ]
+    },
+    {
+        "id": 770,
+        "nameEn": "palossand",
+        "nameJa": "シロデスナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/770.png",
+        "types": [
+            "ghost",
+            "ground"
+        ]
+    },
+    {
+        "id": 771,
+        "nameEn": "pyukumuku",
+        "nameJa": "ナマコブシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/771.png",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 772,
+        "nameEn": "type-null",
+        "nameJa": "タイプ：ヌル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/772.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 773,
+        "nameEn": "silvally",
+        "nameJa": "シルヴァディ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/773.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 774,
+        "nameEn": "minior-red-meteor",
+        "nameJa": "メテノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/774.png",
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "id": 775,
+        "nameEn": "komala",
+        "nameJa": "ネッコアラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/775.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 776,
+        "nameEn": "turtonator",
+        "nameJa": "バクガメス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/776.png",
+        "types": [
+            "fire",
+            "dragon"
+        ]
+    },
+    {
+        "id": 777,
+        "nameEn": "togedemaru",
+        "nameJa": "トゲデマル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/777.png",
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": 778,
+        "nameEn": "mimikyu-disguised",
+        "nameJa": "ミミッキュ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/778.png",
+        "types": [
+            "ghost",
+            "fairy"
+        ]
+    },
+    {
+        "id": 779,
+        "nameEn": "bruxish",
+        "nameJa": "ハギギシリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/779.png",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "id": 780,
+        "nameEn": "drampa",
+        "nameJa": "ジジーロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/780.png",
+        "types": [
+            "normal",
+            "dragon"
+        ]
+    }
+]

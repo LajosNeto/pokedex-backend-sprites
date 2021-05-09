@@ -1,0 +1,188 @@
+[
+    {
+        "id": 561,
+        "nameEn": "sigilyph",
+        "nameJa": "シンボラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/561.png",
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "id": 562,
+        "nameEn": "yamask",
+        "nameJa": "デスマス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/562.png",
+        "types": [
+            "ghost"
+        ]
+    },
+    {
+        "id": 563,
+        "nameEn": "cofagrigus",
+        "nameJa": "デスカーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/563.png",
+        "types": [
+            "ghost"
+        ]
+    },
+    {
+        "id": 564,
+        "nameEn": "tirtouga",
+        "nameJa": "プロトーガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/564.png",
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    {
+        "id": 565,
+        "nameEn": "carracosta",
+        "nameJa": "アバゴーラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/565.png",
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    {
+        "id": 566,
+        "nameEn": "archen",
+        "nameJa": "アーケン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/566.png",
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "id": 567,
+        "nameEn": "archeops",
+        "nameJa": "アーケオス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/567.png",
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "id": 568,
+        "nameEn": "trubbish",
+        "nameJa": "ヤブクロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/568.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 569,
+        "nameEn": "garbodor",
+        "nameJa": "ダストダス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/569.png",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 570,
+        "nameEn": "zorua",
+        "nameJa": "ゾロア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/570.png",
+        "types": [
+            "dark"
+        ]
+    },
+    {
+        "id": 571,
+        "nameEn": "zoroark",
+        "nameJa": "ゾロアーク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/571.png",
+        "types": [
+            "dark"
+        ]
+    },
+    {
+        "id": 572,
+        "nameEn": "minccino",
+        "nameJa": "チラーミィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/572.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 573,
+        "nameEn": "cinccino",
+        "nameJa": "チラチーノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/573.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 574,
+        "nameEn": "gothita",
+        "nameJa": "ゴチム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/574.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 575,
+        "nameEn": "gothorita",
+        "nameJa": "ゴチミル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/575.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 576,
+        "nameEn": "gothitelle",
+        "nameJa": "ゴチルゼル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/576.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 577,
+        "nameEn": "solosis",
+        "nameJa": "ユニラン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/577.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 578,
+        "nameEn": "duosion",
+        "nameJa": "ダブラン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/578.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 579,
+        "nameEn": "reuniclus",
+        "nameJa": "ランクルス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/579.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 580,
+        "nameEn": "ducklett",
+        "nameJa": "コアルヒー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/580.png",
+        "types": [
+            "water",
+            "flying"
+        ]
+    }
+]

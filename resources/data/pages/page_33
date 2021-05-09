@@ -1,0 +1,191 @@
+[
+    {
+        "id": 661,
+        "nameEn": "fletchling",
+        "nameJa": "ヤヤコマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/661.png",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 662,
+        "nameEn": "fletchinder",
+        "nameJa": "ヒノヤコマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/662.png",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 663,
+        "nameEn": "talonflame",
+        "nameJa": "ファイアロー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/663.png",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 664,
+        "nameEn": "scatterbug",
+        "nameJa": "コフキムシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/664.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 665,
+        "nameEn": "spewpa",
+        "nameJa": "コフーライ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/665.png",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 666,
+        "nameEn": "vivillon",
+        "nameJa": "ビビヨン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/666.png",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 667,
+        "nameEn": "litleo",
+        "nameJa": "シシコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/667.png",
+        "types": [
+            "fire",
+            "normal"
+        ]
+    },
+    {
+        "id": 668,
+        "nameEn": "pyroar",
+        "nameJa": "カエンジシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/668.png",
+        "types": [
+            "fire",
+            "normal"
+        ]
+    },
+    {
+        "id": 669,
+        "nameEn": "flabebe",
+        "nameJa": "フラベベ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/669.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 670,
+        "nameEn": "floette",
+        "nameJa": "フラエッテ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/670.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 671,
+        "nameEn": "florges",
+        "nameJa": "フラージェス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/671.png",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 672,
+        "nameEn": "skiddo",
+        "nameJa": "メェークル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/672.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 673,
+        "nameEn": "gogoat",
+        "nameJa": "ゴーゴート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/673.png",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": 674,
+        "nameEn": "pancham",
+        "nameJa": "ヤンチャム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/674.png",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": 675,
+        "nameEn": "pangoro",
+        "nameJa": "ゴロンダ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/675.png",
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    {
+        "id": 676,
+        "nameEn": "furfrou",
+        "nameJa": "トリミアン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/676.png",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 677,
+        "nameEn": "espurr",
+        "nameJa": "ニャスパー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/677.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 678,
+        "nameEn": "meowstic-male",
+        "nameJa": "ニャオニクス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/678.png",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": 679,
+        "nameEn": "honedge",
+        "nameJa": "ヒトツキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/679.png",
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "id": 680,
+        "nameEn": "doublade",
+        "nameJa": "ニダンギル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/680.png",
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    }
+]
