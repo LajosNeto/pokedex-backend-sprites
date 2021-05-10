@@ -6,6 +6,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/601.png",
         "types": [
             "steel"
+        ],
+        "typesColors": [
+            "#afafc9"
         ]
     },
     {
@@ -15,6 +18,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/602.png",
         "types": [
             "electric"
+        ],
+        "typesColors": [
+            "#f6cb3b"
         ]
     },
     {
@@ -24,6 +30,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/603.png",
         "types": [
             "electric"
+        ],
+        "typesColors": [
+            "#f6cb3b"
         ]
     },
     {
@@ -33,6 +42,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/604.png",
         "types": [
             "electric"
+        ],
+        "typesColors": [
+            "#f6cb3b"
         ]
     },
     {
@@ -42,6 +54,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/605.png",
         "types": [
             "psychic"
+        ],
+        "typesColors": [
+            "#f6527e"
         ]
     },
     {
@@ -51,6 +66,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/606.png",
         "types": [
             "psychic"
+        ],
+        "typesColors": [
+            "#f6527e"
         ]
     },
     {
@@ -61,6 +79,10 @@
         "types": [
             "ghost",
             "fire"
+        ],
+        "typesColors": [
+            "#654e8c",
+            "#ed7835"
         ]
     },
     {
@@ -71,6 +93,10 @@
         "types": [
             "ghost",
             "fire"
+        ],
+        "typesColors": [
+            "#654e8c",
+            "#ed7835"
         ]
     },
     {
@@ -81,6 +107,10 @@
         "types": [
             "ghost",
             "fire"
+        ],
+        "typesColors": [
+            "#654e8c",
+            "#ed7835"
         ]
     },
     {
@@ -90,6 +120,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/610.png",
         "types": [
             "dragon"
+        ],
+        "typesColors": [
+            "#6630f3"
         ]
     },
     {
@@ -99,6 +132,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/611.png",
         "types": [
             "dragon"
+        ],
+        "typesColors": [
+            "#6630f3"
         ]
     },
     {
@@ -108,6 +144,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/612.png",
         "types": [
             "dragon"
+        ],
+        "typesColors": [
+            "#6630f3"
         ]
     },
     {
@@ -117,6 +156,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/613.png",
         "types": [
             "ice"
+        ],
+        "typesColors": [
+            "#8ed2d2"
         ]
     },
     {
@@ -126,6 +168,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/614.png",
         "types": [
             "ice"
+        ],
+        "typesColors": [
+            "#8ed2d2"
         ]
     },
     {
@@ -135,6 +180,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/615.png",
         "types": [
             "ice"
+        ],
+        "typesColors": [
+            "#8ed2d2"
         ]
     },
     {
@@ -144,6 +192,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/616.png",
         "types": [
             "bug"
+        ],
+        "typesColors": [
+            "#9daf2b"
         ]
     },
     {
@@ -153,6 +204,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/617.png",
         "types": [
             "bug"
+        ],
+        "typesColors": [
+            "#9daf2b"
         ]
     },
     {
@@ -163,6 +217,10 @@
         "types": [
             "ground",
             "electric"
+        ],
+        "typesColors": [
+            "#dbb963",
+            "#f6cb3b"
         ]
     },
     {
@@ -172,6 +230,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/619.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     },
     {
@@ -181,6 +242,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/620.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     }
 ]

@@ -7,6 +7,10 @@
         "types": [
             "grass",
             "dragon"
+        ],
+        "typesColors": [
+            "#6dc04c",
+            "#6630f3"
         ]
     },
     {
@@ -17,6 +21,10 @@
         "types": [
             "grass",
             "dragon"
+        ],
+        "typesColors": [
+            "#6dc04c",
+            "#6630f3"
         ]
     },
     {
@@ -26,6 +34,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/843.png",
         "types": [
             "ground"
+        ],
+        "typesColors": [
+            "#dbb963"
         ]
     },
     {
@@ -35,6 +46,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/844.png",
         "types": [
             "ground"
+        ],
+        "typesColors": [
+            "#dbb963"
         ]
     },
     {
@@ -45,6 +59,10 @@
         "types": [
             "flying",
             "water"
+        ],
+        "typesColors": [
+            "#9e85eb",
+            "#5f84ea"
         ]
     },
     {
@@ -54,6 +72,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/846.png",
         "types": [
             "water"
+        ],
+        "typesColors": [
+            "#5f84ea"
         ]
     },
     {
@@ -63,6 +84,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/847.png",
         "types": [
             "water"
+        ],
+        "typesColors": [
+            "#5f84ea"
         ]
     },
     {
@@ -73,6 +97,10 @@
         "types": [
             "electric",
             "poison"
+        ],
+        "typesColors": [
+            "#f6cb3b",
+            "#953a93"
         ]
     },
     {
@@ -83,6 +111,10 @@
         "types": [
             "electric",
             "poison"
+        ],
+        "typesColors": [
+            "#f6cb3b",
+            "#953a93"
         ]
     },
     {
@@ -93,6 +125,10 @@
         "types": [
             "fire",
             "bug"
+        ],
+        "typesColors": [
+            "#ed7835",
+            "#9daf2b"
         ]
     },
     {
@@ -103,6 +139,10 @@
         "types": [
             "fire",
             "bug"
+        ],
+        "typesColors": [
+            "#ed7835",
+            "#9daf2b"
         ]
     },
     {
@@ -112,6 +152,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/852.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     },
     {
@@ -121,6 +164,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/853.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     },
     {
@@ -130,6 +176,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/854.png",
         "types": [
             "ghost"
+        ],
+        "typesColors": [
+            "#654e8c"
         ]
     },
     {
@@ -139,6 +188,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/855.png",
         "types": [
             "ghost"
+        ],
+        "typesColors": [
+            "#654e8c"
         ]
     },
     {
@@ -148,6 +200,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/856.png",
         "types": [
             "psychic"
+        ],
+        "typesColors": [
+            "#f6527e"
         ]
     },
     {
@@ -157,6 +212,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/857.png",
         "types": [
             "psychic"
+        ],
+        "typesColors": [
+            "#f6527e"
         ]
     },
     {
@@ -167,6 +225,10 @@
         "types": [
             "psychic",
             "fairy"
+        ],
+        "typesColors": [
+            "#f6527e",
+            "#eb90a4"
         ]
     },
     {
@@ -177,6 +239,10 @@
         "types": [
             "dark",
             "fairy"
+        ],
+        "typesColors": [
+            "#644e40",
+            "#eb90a4"
         ]
     },
     {
@@ -187,6 +253,10 @@
         "types": [
             "dark",
             "fairy"
+        ],
+        "typesColors": [
+            "#644e40",
+            "#eb90a4"
         ]
     }
 ]

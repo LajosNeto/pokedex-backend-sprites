@@ -7,6 +7,10 @@
         "types": [
             "electric",
             "ice"
+        ],
+        "typesColors": [
+            "#f6cb3b",
+            "#8ed2d2"
         ]
     },
     {
@@ -17,6 +21,10 @@
         "types": [
             "water",
             "dragon"
+        ],
+        "typesColors": [
+            "#5f84ea",
+            "#6630f3"
         ]
     },
     {
@@ -27,6 +35,10 @@
         "types": [
             "water",
             "ice"
+        ],
+        "typesColors": [
+            "#5f84ea",
+            "#8ed2d2"
         ]
     },
     {
@@ -37,6 +49,10 @@
         "types": [
             "steel",
             "dragon"
+        ],
+        "typesColors": [
+            "#afafc9",
+            "#6630f3"
         ]
     },
     {
@@ -47,6 +63,10 @@
         "types": [
             "dragon",
             "ghost"
+        ],
+        "typesColors": [
+            "#6630f3",
+            "#654e8c"
         ]
     },
     {
@@ -57,6 +77,10 @@
         "types": [
             "dragon",
             "ghost"
+        ],
+        "typesColors": [
+            "#6630f3",
+            "#654e8c"
         ]
     },
     {
@@ -67,6 +91,10 @@
         "types": [
             "dragon",
             "ghost"
+        ],
+        "typesColors": [
+            "#6630f3",
+            "#654e8c"
         ]
     },
     {
@@ -76,6 +104,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/888.png",
         "types": [
             "fairy"
+        ],
+        "typesColors": [
+            "#eb90a4"
         ]
     },
     {
@@ -85,6 +116,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/889.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     },
     {
@@ -95,6 +129,10 @@
         "types": [
             "poison",
             "dragon"
+        ],
+        "typesColors": [
+            "#953a93",
+            "#6630f3"
         ]
     },
     {
@@ -104,6 +142,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/891.png",
         "types": [
             "fighting"
+        ],
+        "typesColors": [
+            "#b72f29"
         ]
     },
     {
@@ -114,6 +155,10 @@
         "types": [
             "fighting",
             "dark"
+        ],
+        "typesColors": [
+            "#b72f29",
+            "#644e40"
         ]
     },
     {
@@ -124,6 +169,10 @@
         "types": [
             "dark",
             "grass"
+        ],
+        "typesColors": [
+            "#644e40",
+            "#6dc04c"
         ]
     },
     {
@@ -133,6 +182,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/894.png",
         "types": [
             "electric"
+        ],
+        "typesColors": [
+            "#f6cb3b"
         ]
     },
     {
@@ -142,6 +194,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/895.png",
         "types": [
             "dragon"
+        ],
+        "typesColors": [
+            "#6630f3"
         ]
     },
     {
@@ -151,6 +206,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/896.png",
         "types": [
             "ice"
+        ],
+        "typesColors": [
+            "#8ed2d2"
         ]
     },
     {
@@ -160,6 +218,9 @@
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/897.png",
         "types": [
             "ghost"
+        ],
+        "typesColors": [
+            "#654e8c"
         ]
     },
     {
@@ -170,6 +231,10 @@
         "types": [
             "psychic",
             "grass"
+        ],
+        "typesColors": [
+            "#f6527e",
+            "#6dc04c"
         ]
     }
 ]
