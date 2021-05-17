@@ -12,15 +12,15 @@ from shutil import copyfile
 import requests
 import json
 
-PAGES_BASE_PATH = "pages/page_"
+PAGES_BASE_PATH = "../resources/page/"
 
 BASE_POKEMON_DETAILS_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_NAMES_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 
-BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/"
+BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/"
 SPRITE_FILE_TYPE = ".png"
 
-ALL_REGIONS_ID_RANGE = range(1, 899)
+ALL_REGIONS_ID_RANGE = range(1, 898)
 PAGE_SIZE = 20
 
 TYPES_COLORS = {
@@ -49,23 +49,24 @@ def build_pages():
     pokemons = list()
     for id in ALL_REGIONS_ID_RANGE:
         print(f"Building data for id {id} of 898")
+
         pokemon_details = requests.get(BASE_POKEMON_DETAILS_API_URL + str(id))
         pokemon_details = dict(pokemon_details.json())
         pokemon_names = requests.get(BASE_NAMES_API_URL + str(id))
         pokemon_names = dict(pokemon_names.json())
 
-        nameJa = "-"
+        name_ja = ""
         for name in pokemon_names['names']:
             if (name['language']['name'] == "ja"):
-                nameJa = name['name']
+                name_ja = name['name']
 
         pokemon_data = dict()
         pokemon_data['id'] = id
-        pokemon_data['nameEn'] = pokemon_details['name']
-        pokemon_data['nameJa'] = nameJa
+        pokemon_data['name_en'] = pokemon_details['name']
+        pokemon_data['name_ja'] = name_ja
         pokemon_data['sprite'] = BASE_SPRITE_PATH + str(id) + SPRITE_FILE_TYPE
         pokemon_data['types'] = [type['type']['name'] for type in pokemon_details['types']]
-        pokemon_data['typesColors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_details['types']]
+        pokemon_data['types_colors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_details['types']]
 
         pokemons.append(pokemon_data)
     
@@ -81,4 +82,8 @@ if __name__ == '__main__':
     filter_argparse.add_argument('-s', '--setup', action='store_true')
     args = filter_argparse.parse_args()
     if(args.setup):
-        build_pages()
+        if not os.path.exists(PAGES_BASE_PATH):
+            os.makedirs(PAGES_BASE_PATH)
+            build_pages()
+        else :
+            print("Pages data folder already exists. Maybe it's not empty?")

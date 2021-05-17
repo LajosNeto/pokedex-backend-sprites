@@ -12,17 +12,17 @@ from shutil import copyfile
 import requests
 import json
 
-DETAIL_BASE_PATH = "detail/"
+DETAIL_BASE_PATH = "../resources/detail/"
 
-ALL_REGIONS_ID_RANGE = range(1, 10)
+ALL_REGIONS_ID_RANGE = range(1, 898)
 
 BASE_POKEMON_DATA_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_POKEMON_DETAILS_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_POKEMON_SPECIES_DATA_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 
-BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprites/original-source/"
+BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/"
 SPRITE_FILE_TYPE = ".png"
-ID_ART_MAP_FILE = "../sprites/id_art_map"
+ID_ART_MAP_FILE = "../resources/id_art_map"
 
 SPECIES_COLORS = {
     'black': "#585858",
@@ -35,6 +35,28 @@ SPECIES_COLORS = {
     'red': "#e0626a",
     'white': "#f0f0f0",
     'yellow': "#ecd061"
+}
+
+TYPES_COLORS = {
+    "normal": "#9e9e6f",
+    "fire": "#ed7835",
+    "fighting": "#b72f29",
+    "water": "#5f84ea",
+    "flying": "#9e85eb",
+    "grass": "#6dc04c",
+    "poison": "#953a93",
+    "electric": "#f6cb3b",
+    "ground": "#dbb963",
+    "psychic": "#f6527e",
+    "rock": "#af9539",
+    "ice": "#8ed2d2",
+    "bug": "#9daf2b",
+    "dragon": "#6630f3",
+    "ghost": "#654e8c",
+    "dark": "#644e40",
+    "steel": "#afafc9",
+    "fairy": "#eb90a4",
+    "???": "#5e9585"
 }
 
 
@@ -61,12 +83,14 @@ def build_detail_data():
         pokemon_detail['art_url'] = id_art_map[str(id)]
         pokemon_detail['base_stats'] = extract_base_stats(pokemon_data)
         pokemon_detail['abilities'] = extract_abilities(pokemon_data)
+        pokemon_detail['types'] = [type['type']['name'] for type in pokemon_data['types']]
+        pokemon_detail['types_colors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
         pokemon_detail['short_description'] = extract_flavor_description(species_data)
         pokemon_detail['is_legendary'] = species_data['is_legendary']
         pokemon_detail['is_mythical'] = species_data['is_mythical']
         pokemon_detail['habitat'] = species_data['habitat']['name']
         pokemon_detail['growth_rate'] = species_data['growth_rate']['name']
-        pokemon_detail['color'] = species_data['color']['name']
+        pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
         pokemon_detail['evolution_chain'] = process_evolution_chain(species_data['evolution_chain']['url'])
 
         with open(DETAIL_BASE_PATH + str(id), 'w') as fout:
@@ -148,4 +172,8 @@ if __name__ == '__main__':
     filter_argparse.add_argument('-s', '--setup', action='store_true')
     args = filter_argparse.parse_args()
     if(args.setup):
-        build_detail_data()
+        if not os.path.exists(DETAIL_BASE_PATH):
+            os.makedirs(DETAIL_BASE_PATH)
+            build_detail_data()
+        else :
+            print("Detail data folder already exists. Maybe it's not empty?")
