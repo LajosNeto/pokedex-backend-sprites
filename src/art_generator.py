@@ -12,16 +12,16 @@ import json
 import requests
 import bs4 as bs
 
-ALL_REGIONS_ID_RANGE = range(1, 898)
-
+ID_ART_MAP_PATH = "../resources/id_art_maptemp"
+NAME_ID_MAP_PATH = "../resources/name_id_map"
+ALL_REGIONS_ID_RANGE = range(1, 10)
 POKEMON_ART_BULBA_BASE_URL = "https://bulbapedia.bulbagarden.net/wiki/File:"
 ART_FILE_EXTENSION = ".png"
-
 POKEMON_ID_FULL_MASK_SIZE = 3
 
 def build_art_assets():
     art_assets = dict()
-    with open('name_id_map') as name_id_map:
+    with open(NAME_ID_MAP_PATH) as name_id_map:
         name_id_map = json.load(name_id_map)
     for id in ALL_REGIONS_ID_RANGE:
         print(f"Building art asset for id {id} of 898")
@@ -36,7 +36,7 @@ def build_art_assets():
 
         art_assets[str(id)] = "https:" + art_url
         
-    with open("id_art_map", 'w') as fout:
+    with open(ID_ART_MAP_PATH, 'w') as fout:
         json.dump(art_assets , fout, ensure_ascii=False, indent=4)
 
 def format_id(raw_id):
