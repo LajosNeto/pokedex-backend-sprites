@@ -1,0 +1,49 @@
+{
+    "id": 462,
+    "name": "magnezone",
+    "height": 1.2,
+    "weight": 180.0,
+    "base_exp": 241,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/53/462Magnezone.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 115,
+        "special-attack": 130,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#afafc9"
+    ],
+    "short_description": "It’s thought that a special magnetic field changed\nthe molecular structure of this Pokémon’s body,\nand that’s what caused the Pokémon’s evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "magnemite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png"
+        },
+        {
+            "name": "magneton",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png"
+        },
+        {
+            "name": "magnezone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png"
+        }
+    ]
+}

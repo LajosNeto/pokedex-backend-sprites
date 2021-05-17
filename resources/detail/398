@@ -1,0 +1,49 @@
+{
+    "id": 398,
+    "name": "staraptor",
+    "height": 1.2,
+    "weight": 24.9,
+    "base_exp": 218,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5e/398Staraptor.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 70,
+        "special-attack": 50,
+        "special-defense": 60,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "When Staravia evolve into Staraptor, they leave the\nflock to live alone. They have sturdy wings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "starly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/396.png"
+        },
+        {
+            "name": "staravia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/397.png"
+        },
+        {
+            "name": "staraptor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png"
+        }
+    ]
+}

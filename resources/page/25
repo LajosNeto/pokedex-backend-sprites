@@ -1,0 +1,246 @@
+[
+    {
+        "id": 501,
+        "name_en": "oshawott",
+        "name_ja": "ミジュマル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 502,
+        "name_en": "dewott",
+        "name_ja": "フタチマル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 503,
+        "name_en": "samurott",
+        "name_ja": "ダイケンキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 504,
+        "name_en": "patrat",
+        "name_ja": "ミネズミ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/504.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 505,
+        "name_en": "watchog",
+        "name_ja": "ミルホッグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/505.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 506,
+        "name_en": "lillipup",
+        "name_ja": "ヨーテリー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/506.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 507,
+        "name_en": "herdier",
+        "name_ja": "ハーデリア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/507.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 508,
+        "name_en": "stoutland",
+        "name_ja": "ムーランド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/508.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 509,
+        "name_en": "purrloin",
+        "name_ja": "チョロネコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/509.png",
+        "types": [
+            "dark"
+        ],
+        "types_colors": [
+            "#644e40"
+        ]
+    },
+    {
+        "id": 510,
+        "name_en": "liepard",
+        "name_ja": "レパルダス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png",
+        "types": [
+            "dark"
+        ],
+        "types_colors": [
+            "#644e40"
+        ]
+    },
+    {
+        "id": 511,
+        "name_en": "pansage",
+        "name_ja": "ヤナップ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/511.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 512,
+        "name_en": "simisage",
+        "name_ja": "ヤナッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/512.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 513,
+        "name_en": "pansear",
+        "name_ja": "バオップ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/513.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 514,
+        "name_en": "simisear",
+        "name_ja": "バオッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 515,
+        "name_en": "panpour",
+        "name_ja": "ヒヤップ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/515.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 516,
+        "name_en": "simipour",
+        "name_ja": "ヒヤッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/516.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 517,
+        "name_en": "munna",
+        "name_ja": "ムンナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/517.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 518,
+        "name_en": "musharna",
+        "name_ja": "ムシャーナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 519,
+        "name_en": "pidove",
+        "name_ja": "マメパト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 520,
+        "name_en": "tranquill",
+        "name_ja": "ハトーボー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    }
+]

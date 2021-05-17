@@ -1,0 +1,39 @@
+{
+    "id": 775,
+    "name": "komala",
+    "height": 0.4,
+    "weight": 19.9,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/775.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7d/775Komala.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 75,
+        "special-defense": 95,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "comatose",
+        "description": "This Pokémon always  acts as though it were Asleep."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "It remains asleep from birth to death as a result\nof the sedative properties of the leaves that\nform its diet.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "komala",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/775.png"
+        }
+    ]
+}

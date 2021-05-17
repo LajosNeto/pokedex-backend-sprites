@@ -1,0 +1,45 @@
+{
+    "id": 757,
+    "name": "salandit",
+    "height": 0.6,
+    "weight": 4.8,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/27/757Salandit.png",
+    "base_stats": {
+        "hp": 48,
+        "attack": 44,
+        "defense": 40,
+        "special-attack": 71,
+        "special-defense": 40,
+        "speed": 77
+    },
+    "abilities": {
+        "name": "oblivious",
+        "description": "Prevents infatuation and protects against captivate."
+    },
+    "types": [
+        "poison",
+        "fire"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#ed7835"
+    ],
+    "short_description": "This sneaky Pokémon will slink behind its prey\nand immobilize it with poisonous gas before the\nprey even realizes Salandit is there.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "salandit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png"
+        },
+        {
+            "name": "salazzle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png"
+        }
+    ]
+}

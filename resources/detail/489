@@ -1,0 +1,43 @@
+{
+    "id": 489,
+    "name": "phione",
+    "height": 0.4,
+    "weight": 3.1,
+    "base_exp": 216,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/489.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/72/489Phione.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It drifts in warm seas. It always returns to where it\nwas born, no matter how far it may have drifted.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "phione",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/489.png"
+        },
+        {
+            "name": "manaphy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/490.png"
+        }
+    ]
+}

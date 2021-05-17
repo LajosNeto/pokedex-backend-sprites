@@ -1,0 +1,43 @@
+{
+    "id": 512,
+    "name": "simisage",
+    "height": 1.1,
+    "weight": 30.5,
+    "base_exp": 174,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/512.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/24/512Simisage.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 98,
+        "special-defense": 63,
+        "speed": 101
+    },
+    "abilities": {
+        "name": "overgrow",
+        "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "pansage",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/511.png"
+        },
+        {
+            "name": "simisage",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/512.png"
+        }
+    ]
+}

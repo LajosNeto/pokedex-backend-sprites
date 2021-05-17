@@ -1,0 +1,45 @@
+{
+    "id": 760,
+    "name": "bewear",
+    "height": 2.1,
+    "weight": 135.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/760Bewear.png",
+    "base_stats": {
+        "hp": 120,
+        "attack": 125,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "normal",
+        "fighting"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#b72f29"
+    ],
+    "short_description": "The moves it uses to take down its prey would\nmake a martial artist jealous. It tucks subdued\nprey under its arms to carry them to its nest.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "stufful",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png"
+        },
+        {
+            "name": "bewear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png"
+        }
+    ]
+}

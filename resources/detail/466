@@ -1,0 +1,47 @@
+{
+    "id": 466,
+    "name": "electivire",
+    "height": 1.8,
+    "weight": 138.6,
+    "base_exp": 243,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/466.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/23/466Electivire.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 123,
+        "defense": 67,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "vital-spirit",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "A single Electivire can provide enough electricity\nfor all the buildings in a big city for a year.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "elekid",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/239.png"
+        },
+        {
+            "name": "electabuzz",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/125.png"
+        },
+        {
+            "name": "electivire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/466.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 532,
+    "name": "timburr",
+    "height": 0.6,
+    "weight": 12.5,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/532.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/69/532Timburr.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 35,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "iron-fist",
+        "description": "Strengthens punch-based moves to 1.2× their power."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Timburr that have started carrying logs that are\nabout three times their size are nearly ready\nto evolve.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "timburr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/532.png"
+        },
+        {
+            "name": "gurdurr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/533.png"
+        },
+        {
+            "name": "conkeldurr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/534.png"
+        }
+    ]
+}

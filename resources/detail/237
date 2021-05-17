@@ -1,0 +1,51 @@
+{
+    "id": 237,
+    "name": "hitmontop",
+    "height": 1.4,
+    "weight": 48.0,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/94/237Hitmontop.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 35,
+        "special-defense": 110,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "steadfast",
+        "description": "Raises Speed one stage upon flinching."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "After doing a handstand to throw off the\nopponent’s timing, it presents its fancy kick moves.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "tyrogue",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png"
+        },
+        {
+            "name": "hitmonlee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png"
+        },
+        {
+            "name": "hitmonchan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png"
+        },
+        {
+            "name": "hitmontop",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png"
+        }
+    ]
+}

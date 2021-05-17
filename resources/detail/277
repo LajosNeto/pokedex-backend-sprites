@@ -1,0 +1,45 @@
+{
+    "id": 277,
+    "name": "swellow",
+    "height": 0.7,
+    "weight": 19.8,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/277.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/45/277Swellow.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 50,
+        "speed": 125
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "Swellow is very conscientious about the upkeep of its glossy\nwings. Once two Swellow are gathered, they diligently take\ncare of cleaning each other’s wings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "taillow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/276.png"
+        },
+        {
+            "name": "swellow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/277.png"
+        }
+    ]
+}

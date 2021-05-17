@@ -1,0 +1,45 @@
+{
+    "id": 472,
+    "name": "gliscor",
+    "height": 2.0,
+    "weight": 42.5,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/472Gliscor.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 125,
+        "special-attack": 45,
+        "special-defense": 75,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "poison-heal",
+        "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+    },
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#9e85eb"
+    ],
+    "short_description": "Its flight is soundless. It uses its lengthy tail to\ncarry off its prey... Then its elongated fangs do\nthe rest.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gligar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png"
+        },
+        {
+            "name": "gliscor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 861,
+    "name": "grimmsnarl",
+    "height": 1.5,
+    "weight": 61.0,
+    "base_exp": 255,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/861.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/67/861Grimmsnarl.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "special-attack": 95,
+        "special-defense": 75,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#eb90a4"
+    ],
+    "short_description": "Its hairs work like muscle fibers. When its hairs\nunfurl, they latch on to opponents, ensnaring\nthem as tentacles would.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "impidimp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png"
+        },
+        {
+            "name": "morgrem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/860.png"
+        },
+        {
+            "name": "grimmsnarl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/861.png"
+        }
+    ]
+}

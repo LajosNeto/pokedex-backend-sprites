@@ -1,0 +1,256 @@
+[
+    {
+        "id": 521,
+        "name_en": "unfezant",
+        "name_ja": "ケンホロウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 522,
+        "name_en": "blitzle",
+        "name_ja": "シママ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/522.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 523,
+        "name_en": "zebstrika",
+        "name_ja": "ゼブライカ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/523.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 524,
+        "name_en": "roggenrola",
+        "name_ja": "ダンゴロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/524.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 525,
+        "name_en": "boldore",
+        "name_ja": "ガントル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/525.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 526,
+        "name_en": "gigalith",
+        "name_ja": "ギガイアス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/526.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 527,
+        "name_en": "woobat",
+        "name_ja": "コロモリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/527.png",
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 528,
+        "name_en": "swoobat",
+        "name_ja": "ココロモリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/528.png",
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 529,
+        "name_en": "drilbur",
+        "name_ja": "モグリュー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 530,
+        "name_en": "excadrill",
+        "name_ja": "ドリュウズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png",
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 531,
+        "name_en": "audino",
+        "name_ja": "タブンネ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/531.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 532,
+        "name_en": "timburr",
+        "name_ja": "ドッコラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/532.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 533,
+        "name_en": "gurdurr",
+        "name_ja": "ドテッコツ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/533.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 534,
+        "name_en": "conkeldurr",
+        "name_ja": "ローブシン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/534.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 535,
+        "name_en": "tympole",
+        "name_ja": "オタマロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 536,
+        "name_en": "palpitoad",
+        "name_ja": "ガマガル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/536.png",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 537,
+        "name_en": "seismitoad",
+        "name_ja": "ガマゲロゲ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/537.png",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 538,
+        "name_en": "throh",
+        "name_ja": "ナゲキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/538.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 539,
+        "name_en": "sawk",
+        "name_ja": "ダゲキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/539.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 540,
+        "name_en": "sewaddle",
+        "name_ja": "クルミル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#6dc04c"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+{
+    "id": 6,
+    "name": "charizard",
+    "height": 1.7,
+    "weight": 90.5,
+    "base_exp": 240,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/006Charizard.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special-attack": 109,
+        "special-defense": 85,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "solar-power",
+        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9e85eb"
+    ],
+    "short_description": "The flame inside its body burns hotter than\n3,600 degrees Fahrenheit. When Charizard\nroars, that temperature climbs even higher.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "charmander",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png"
+        },
+        {
+            "name": "charmeleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png"
+        },
+        {
+            "name": "charizard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png"
+        }
+    ]
+}

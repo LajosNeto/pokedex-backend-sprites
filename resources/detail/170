@@ -1,0 +1,45 @@
+{
+    "id": 170,
+    "name": "chinchou",
+    "height": 0.5,
+    "weight": 12.0,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/170.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d9/170Chinchou.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 38,
+        "defense": 38,
+        "special-attack": 56,
+        "special-defense": 56,
+        "speed": 67
+    },
+    "abilities": {
+        "name": "water-absorb",
+        "description": "Absorbs water moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "water",
+        "electric"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6cb3b"
+    ],
+    "short_description": "On the dark ocean floor, its only means of\ncommunication is its constantly flashing lights.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "chinchou",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/170.png"
+        },
+        {
+            "name": "lanturn",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/171.png"
+        }
+    ]
+}

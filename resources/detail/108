@@ -1,0 +1,43 @@
+{
+    "id": 108,
+    "name": "lickitung",
+    "height": 1.2,
+    "weight": 65.5,
+    "base_exp": 77,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/108.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/00/108Lickitung.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 55,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "cloud-nine",
+        "description": "Negates all effects of weather, but does not prevent the weather itself."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Bug Pokémon are Lickitung’s main food source.\nThis Pokémon paralyzes its prey with a lick from\nits long tongue, then swallows the prey whole.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "lickitung",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/108.png"
+        },
+        {
+            "name": "lickilicky",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/463.png"
+        }
+    ]
+}

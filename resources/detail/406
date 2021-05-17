@@ -1,0 +1,49 @@
+{
+    "id": 406,
+    "name": "budew",
+    "height": 0.2,
+    "weight": 1.2,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/406Budew.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "special-attack": 50,
+        "special-defense": 70,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "leaf-guard",
+        "description": "Protects against major status ailments during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "This Pokémon is highly sensitive to temperature\nchanges. When its bud starts to open, that means\nspring is right around the corner.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "budew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png"
+        },
+        {
+            "name": "roselia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png"
+        },
+        {
+            "name": "roserade",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png"
+        }
+    ]
+}

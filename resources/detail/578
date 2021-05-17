@@ -1,0 +1,47 @@
+{
+    "id": 578,
+    "name": "duosion",
+    "height": 0.6,
+    "weight": 8.0,
+    "base_exp": 130,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/578.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/83/578Duosion.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 125,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Its brain has split into two, and the two\nhalves rarely think alike. Its actions are\nutterly unpredictable.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "solosis",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/577.png"
+        },
+        {
+            "name": "duosion",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/578.png"
+        },
+        {
+            "name": "reuniclus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/579.png"
+        }
+    ]
+}

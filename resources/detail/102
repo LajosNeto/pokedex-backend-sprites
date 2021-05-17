@@ -1,0 +1,45 @@
+{
+    "id": 102,
+    "name": "exeggcute",
+    "height": 0.4,
+    "weight": 2.5,
+    "base_exp": 65,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/af/102Exeggcute.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 45,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "harvest",
+        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    },
+    "types": [
+        "grass",
+        "psychic"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#f6527e"
+    ],
+    "short_description": "These Pokémon get nervous when they’re not in a\ngroup of six. The minute even one member of the\ngroup goes missing, Exeggcute become cowardly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "exeggcute",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png"
+        },
+        {
+            "name": "exeggutor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png"
+        }
+    ]
+}

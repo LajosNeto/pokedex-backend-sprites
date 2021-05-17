@@ -1,0 +1,47 @@
+{
+    "id": 268,
+    "name": "cascoon",
+    "height": 0.7,
+    "weight": 11.5,
+    "base_exp": 72,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/268Cascoon.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "shed-skin",
+        "description": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "If it is attacked, Cascoon remains motionless however badly it\nmay be hurt. It does so because if it were to move, its body\nwould be weak upon evolution. This Pokémon will also not\nforget the pain it endured.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "wurmple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png"
+        },
+        {
+            "name": "silcoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png"
+        },
+        {
+            "name": "cascoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png"
+        }
+    ]
+}

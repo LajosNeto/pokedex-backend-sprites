@@ -1,0 +1,45 @@
+{
+    "id": 430,
+    "name": "honchkrow",
+    "height": 0.9,
+    "weight": 27.3,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/46/430Honchkrow.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 52,
+        "special-attack": 105,
+        "special-defense": 52,
+        "speed": 71
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#9e85eb"
+    ],
+    "short_description": "Its goons take care of most of the fighting for it.\nThe only time it dirties its own hands is in\ndelivering a final blow to finish off an opponent.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "murkrow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png"
+        },
+        {
+            "name": "honchkrow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png"
+        }
+    ]
+}

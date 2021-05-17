@@ -1,0 +1,45 @@
+{
+    "id": 22,
+    "name": "fearow",
+    "height": 1.2,
+    "weight": 38.0,
+    "base_exp": 155,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/22.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a0/022Fearow.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "special-attack": 61,
+        "special-defense": 61,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "sniper",
+        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "A Pokémon that dates back many years. If it\nsenses danger, it flies high and away, instantly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "spearow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/21.png"
+        },
+        {
+            "name": "fearow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/22.png"
+        }
+    ]
+}

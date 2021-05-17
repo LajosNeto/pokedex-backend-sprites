@@ -1,0 +1,43 @@
+{
+    "id": 317,
+    "name": "swalot",
+    "height": 1.7,
+    "weight": 80.0,
+    "base_exp": 163,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/317.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/317Swalot.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 73,
+        "defense": 83,
+        "special-attack": 73,
+        "special-defense": 83,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "gluttony",
+        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "Swalot has no teeth, so what it eats, it swallows whole, no\nmatter what. Its cavernous mouth yawns widely. An automobile\ntire could easily fit inside this Pokémon’s mouth.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gulpin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/316.png"
+        },
+        {
+            "name": "swalot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/317.png"
+        }
+    ]
+}

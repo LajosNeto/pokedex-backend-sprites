@@ -1,0 +1,39 @@
+{
+    "id": 482,
+    "name": "azelf",
+    "height": 0.3,
+    "weight": 0.3,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/482.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/482Azelf.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 70,
+        "special-attack": 125,
+        "special-defense": 70,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It is thought that Uxie, Mesprit, and Azelf all came\nfrom the same egg.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "azelf",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/482.png"
+        }
+    ]
+}

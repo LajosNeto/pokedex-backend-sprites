@@ -1,0 +1,47 @@
+{
+    "id": 789,
+    "name": "cosmog",
+    "height": 0.2,
+    "weight": 0.1,
+    "base_exp": 40,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/17/789Cosmog.png",
+    "base_stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special-attack": 29,
+        "special-defense": 31,
+        "speed": 37
+    },
+    "abilities": {
+        "name": "unaware",
+        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Cosmog is very curious but not very cautious,\noften placing itself in danger. If things start to\nlook dicey, it teleports away.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cosmog",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png"
+        },
+        {
+            "name": "cosmoem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png"
+        },
+        {
+            "name": "solgaleo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 474,
+    "name": "porygon-z",
+    "height": 0.9,
+    "weight": 34.0,
+    "base_exp": 241,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/474.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/24/474Porygon-Z.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 80,
+        "defense": 70,
+        "special-attack": 135,
+        "special-defense": 75,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Some say an additional program made this\nPokémon evolve, but even academics can’t agree\non whether Porygon-Z is really an evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "porygon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/137.png"
+        },
+        {
+            "name": "porygon2",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/233.png"
+        },
+        {
+            "name": "porygon-z",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/474.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 765,
+    "name": "oranguru",
+    "height": 1.5,
+    "weight": 76.0,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/765.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d8/765Oranguru.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 110,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "symbiosis",
+        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+    },
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#f6527e"
+    ],
+    "short_description": "It knows the forest inside and out. If it comes\nacross a wounded Pokémon, Oranguru will\ngather medicinal herbs to treat it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "oranguru",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/765.png"
+        }
+    ]
+}

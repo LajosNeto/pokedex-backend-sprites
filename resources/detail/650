@@ -1,0 +1,47 @@
+{
+    "id": 650,
+    "name": "chespin",
+    "height": 0.4,
+    "weight": 9.0,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/650Chespin.png",
+    "base_stats": {
+        "hp": 56,
+        "attack": 61,
+        "defense": 65,
+        "special-attack": 48,
+        "special-defense": 45,
+        "speed": 38
+    },
+    "abilities": {
+        "name": "bulletproof",
+        "description": "Protects against bullet, ball, and bomb-based moves."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Such a thick shell of wood covers its head and back\nthat even a direct hit from a truck wouldn’t faze it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "chespin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png"
+        },
+        {
+            "name": "quilladin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png"
+        },
+        {
+            "name": "chesnaught",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/652.png"
+        }
+    ]
+}

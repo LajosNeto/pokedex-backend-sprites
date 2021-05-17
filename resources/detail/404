@@ -1,0 +1,47 @@
+{
+    "id": 404,
+    "name": "luxio",
+    "height": 0.9,
+    "weight": 30.5,
+    "base_exp": 127,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/404.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/49/404Luxio.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 49,
+        "special-attack": 60,
+        "special-defense": 49,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "guts",
+        "description": "Increases Attack to 1.5× with a major status ailment."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Upon encountering an opponent, this Pokémon\nprepares for battle by extending its claws, which\ncan put out 1,000,000 volts of electricity.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "shinx",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/403.png"
+        },
+        {
+            "name": "luxio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/404.png"
+        },
+        {
+            "name": "luxray",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png"
+        }
+    ]
+}

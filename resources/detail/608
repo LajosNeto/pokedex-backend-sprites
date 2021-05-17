@@ -1,0 +1,49 @@
+{
+    "id": 608,
+    "name": "lampent",
+    "height": 0.6,
+    "weight": 13.0,
+    "base_exp": 130,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/608Lampent.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 60,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#ed7835"
+    ],
+    "short_description": "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "litwick",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png"
+        },
+        {
+            "name": "lampent",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png"
+        },
+        {
+            "name": "chandelure",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png"
+        }
+    ]
+}

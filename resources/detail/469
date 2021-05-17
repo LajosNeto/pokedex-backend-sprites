@@ -1,0 +1,45 @@
+{
+    "id": 469,
+    "name": "yanmega",
+    "height": 1.9,
+    "weight": 51.5,
+    "base_exp": 180,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e6/469Yanmega.png",
+    "base_stats": {
+        "hp": 86,
+        "attack": 76,
+        "defense": 86,
+        "special-attack": 116,
+        "special-defense": 56,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "This six-legged Pokémon is easily capable of\ntransporting an adult in flight. The wings on its tail\nhelp it stay balanced.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "yanma",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/193.png"
+        },
+        {
+            "name": "yanmega",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png"
+        }
+    ]
+}

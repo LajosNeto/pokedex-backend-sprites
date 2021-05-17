@@ -1,0 +1,47 @@
+{
+    "id": 651,
+    "name": "quilladin",
+    "height": 0.7,
+    "weight": 29.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/71/651Quilladin.png",
+    "base_stats": {
+        "hp": 61,
+        "attack": 78,
+        "defense": 95,
+        "special-attack": 56,
+        "special-defense": 58,
+        "speed": 57
+    },
+    "abilities": {
+        "name": "bulletproof",
+        "description": "Protects against bullet, ball, and bomb-based moves."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "chespin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png"
+        },
+        {
+            "name": "quilladin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png"
+        },
+        {
+            "name": "chesnaught",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/652.png"
+        }
+    ]
+}

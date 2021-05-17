@@ -1,0 +1,47 @@
+{
+    "id": 8,
+    "name": "wartortle",
+    "height": 1.0,
+    "weight": 22.5,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/8.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0c/008Wartortle.png",
+    "base_stats": {
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "special-attack": 65,
+        "special-defense": 80,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It cleverly controls its furry ears and tail to\nmaintain its balance while swimming.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "squirtle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png"
+        },
+        {
+            "name": "wartortle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/8.png"
+        },
+        {
+            "name": "blastoise",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/9.png"
+        }
+    ]
+}

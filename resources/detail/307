@@ -1,0 +1,45 @@
+{
+    "id": 307,
+    "name": "meditite",
+    "height": 0.6,
+    "weight": 11.2,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/71/307Meditite.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 55,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#f6527e"
+    ],
+    "short_description": "Meditite heightens its inner energy through meditation.\nIt survives on just one berry a day. Minimal eating is another\naspect of this Pokémon’s training.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "meditite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png"
+        },
+        {
+            "name": "medicham",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png"
+        }
+    ]
+}

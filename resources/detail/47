@@ -1,0 +1,45 @@
+{
+    "id": 47,
+    "name": "parasect",
+    "height": 1.0,
+    "weight": 29.5,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/80/047Parasect.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "The bug host is drained of energy by\nthe mushroom on its back. The mushroom\nappears to do all the thinking.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "paras",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png"
+        },
+        {
+            "name": "parasect",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png"
+        }
+    ]
+}

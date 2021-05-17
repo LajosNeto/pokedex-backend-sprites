@@ -1,0 +1,49 @@
+{
+    "id": 499,
+    "name": "pignite",
+    "height": 1.0,
+    "weight": 55.5,
+    "base_exp": 146,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/499Pignite.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 93,
+        "defense": 55,
+        "special-attack": 70,
+        "special-defense": 55,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#b72f29"
+    ],
+    "short_description": "When its internal fire flares up, its movements grow\nsharper and faster. When in trouble, it emits smoke.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "tepig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png"
+        },
+        {
+            "name": "pignite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png"
+        },
+        {
+            "name": "emboar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png"
+        }
+    ]
+}

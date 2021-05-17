@@ -1,0 +1,45 @@
+{
+    "id": 752,
+    "name": "araquanid",
+    "height": 1.8,
+    "weight": 82.0,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/82/752Araquanid.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 70,
+        "defense": 92,
+        "special-attack": 50,
+        "special-defense": 132,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "water-absorb",
+        "description": "Absorbs water moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "water",
+        "bug"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#9daf2b"
+    ],
+    "short_description": "It acts as a caretaker for Dewpider, putting them\ninside its bubble and letting them eat any\nleftover food.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "dewpider",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/751.png"
+        },
+        {
+            "name": "araquanid",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png"
+        }
+    ]
+}

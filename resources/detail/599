@@ -1,0 +1,47 @@
+{
+    "id": 599,
+    "name": "klink",
+    "height": 0.3,
+    "weight": 21.0,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ea/599Klink.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 70,
+        "special-attack": 45,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "clear-body",
+        "description": "Prevents stats from being lowered by other Pokémon."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "It’s suspected that Klink were the inspiration\nbehind ancient people’s invention of the\nfirst gears.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "klink",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png"
+        },
+        {
+            "name": "klang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png"
+        },
+        {
+            "name": "klinklang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png"
+        }
+    ]
+}

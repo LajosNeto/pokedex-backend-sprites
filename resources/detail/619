@@ -1,0 +1,43 @@
+{
+    "id": 619,
+    "name": "mienfoo",
+    "height": 0.9,
+    "weight": 20.0,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/41/619Mienfoo.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Though small, Mienfoo’s temperament is fierce.\nAny creature that approaches Mienfoo carelessly\nwill be greeted with a flurry of graceful attacks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "mienfoo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png"
+        },
+        {
+            "name": "mienshao",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/620.png"
+        }
+    ]
+}

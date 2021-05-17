@@ -1,0 +1,45 @@
+{
+    "id": 333,
+    "name": "swablu",
+    "height": 0.4,
+    "weight": 1.2,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/333.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/99/333Swablu.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 75,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "cloud-nine",
+        "description": "Negates all effects of weather, but does not prevent the weather itself."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "Swablu loves to make things clean. If it spots something dirty,\nit will wipe and polish it with its cottony wings. If its wings\nbecome dirty, this Pokémon finds a stream and showers itself.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "swablu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/333.png"
+        },
+        {
+            "name": "altaria",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/334.png"
+        }
+    ]
+}

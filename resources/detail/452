@@ -1,0 +1,45 @@
+{
+    "id": 452,
+    "name": "drapion",
+    "height": 1.3,
+    "weight": 61.5,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/13/452Drapion.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 110,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "keen-eye",
+        "description": "Prevents accuracy from being lowered."
+    },
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#644e40"
+    ],
+    "short_description": "It’s so vicious that it’s called the Sand Demon.\nYet when confronted by Hippowdon, Drapion\nkeeps a low profile and will never pick a fight.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "skorupi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png"
+        },
+        {
+            "name": "drapion",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png"
+        }
+    ]
+}

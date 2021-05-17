@@ -1,0 +1,45 @@
+{
+    "id": 124,
+    "name": "jynx",
+    "height": 1.4,
+    "weight": 40.6,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7c/124Jynx.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 50,
+        "defense": 35,
+        "special-attack": 115,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "dry-skin",
+        "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#f6527e"
+    ],
+    "short_description": "Appears to move to a rhythm of its own, as if it\nwere dancing. It wiggles its hips as it walks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "smoochum",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/238.png"
+        },
+        {
+            "name": "jynx",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png"
+        }
+    ]
+}

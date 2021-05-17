@@ -1,0 +1,45 @@
+{
+    "id": 286,
+    "name": "breloom",
+    "height": 1.2,
+    "weight": 39.2,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/de/286Breloom.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 130,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "technician",
+        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    "types": [
+        "grass",
+        "fighting"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#b72f29"
+    ],
+    "short_description": "The seeds ringing Breloom’s tail are made of hardened toxic\nspores. It is horrible to eat the seeds. Just taking a bite of this\nPokémon’s seed will cause your stomach to rumble.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "shroomish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png"
+        },
+        {
+            "name": "breloom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png"
+        }
+    ]
+}

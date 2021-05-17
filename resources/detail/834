@@ -1,0 +1,45 @@
+{
+    "id": 834,
+    "name": "drednaw",
+    "height": 1.0,
+    "weight": 115.5,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/be/834Drednaw.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 115,
+        "defense": 90,
+        "special-attack": 48,
+        "special-defense": 68,
+        "speed": 74
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#af9539"
+    ],
+    "short_description": "This Pokémon rapidly extends its retractable neck\nto sink its sharp fangs into distant enemies and\ntake them down.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "chewtle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png"
+        },
+        {
+            "name": "drednaw",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 158,
+    "name": "totodile",
+    "height": 0.6,
+    "weight": 9.5,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/158.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/df/158Totodile.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 64,
+        "special-attack": 44,
+        "special-defense": 48,
+        "speed": 43
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Despite the smallness of its body, Totodile’s jaws are very\npowerful. While the Pokémon may think it is just playfully\nnipping, its bite has enough power to cause serious injury.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "totodile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/158.png"
+        },
+        {
+            "name": "croconaw",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/159.png"
+        },
+        {
+            "name": "feraligatr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/160.png"
+        }
+    ]
+}

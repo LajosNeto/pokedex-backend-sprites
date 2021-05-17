@@ -1,0 +1,45 @@
+{
+    "id": 547,
+    "name": "whimsicott",
+    "height": 0.7,
+    "weight": 6.6,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a2/547Whimsicott.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 67,
+        "defense": 85,
+        "special-attack": 77,
+        "special-defense": 75,
+        "speed": 116
+    },
+    "abilities": {
+        "name": "chlorophyll",
+        "description": "Doubles Speed during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#eb90a4"
+    ],
+    "short_description": "As long as this Pokémon bathes in sunlight, its\ncotton keeps growing. If too much cotton fluff\nbuilds up, Whimsicott tears it off and scatters it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "cottonee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png"
+        },
+        {
+            "name": "whimsicott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png"
+        }
+    ]
+}

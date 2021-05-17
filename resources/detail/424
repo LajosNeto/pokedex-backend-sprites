@@ -1,0 +1,43 @@
+{
+    "id": 424,
+    "name": "ambipom",
+    "height": 1.2,
+    "weight": 20.3,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/424.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/86/424Ambipom.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 66,
+        "special-attack": 60,
+        "special-defense": 66,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "skill-link",
+        "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "aipom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/190.png"
+        },
+        {
+            "name": "ambipom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/424.png"
+        }
+    ]
+}

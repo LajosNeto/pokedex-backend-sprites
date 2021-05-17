@@ -1,0 +1,47 @@
+{
+    "id": 125,
+    "name": "electabuzz",
+    "height": 1.1,
+    "weight": 30.0,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/125.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/de/125Electabuzz.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "vital-spirit",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "If a major power outage occurs, it is certain\nthat this Pokémon has eaten electricity\nat a power plant.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "elekid",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/239.png"
+        },
+        {
+            "name": "electabuzz",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/125.png"
+        },
+        {
+            "name": "electivire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/466.png"
+        }
+    ]
+}

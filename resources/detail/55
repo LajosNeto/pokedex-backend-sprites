@@ -1,0 +1,43 @@
+{
+    "id": 55,
+    "name": "golduck",
+    "height": 1.7,
+    "weight": 76.6,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/55.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fe/055Golduck.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 78,
+        "special-attack": 95,
+        "special-defense": 80,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Old tales tell of Golduck punishing those that\ndefiled its river. The guilty were dragged into\nthe water and taken away.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "psyduck",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/54.png"
+        },
+        {
+            "name": "golduck",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/55.png"
+        }
+    ]
+}

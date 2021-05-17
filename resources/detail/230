@@ -1,0 +1,49 @@
+{
+    "id": 230,
+    "name": "kingdra",
+    "height": 1.8,
+    "weight": 152.0,
+    "base_exp": 243,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/230.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3c/230Kingdra.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 95,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6630f3"
+    ],
+    "short_description": "Scales shed by this Pokémon have such a\nsplendorous gleam to them that they’ve been\ngiven to royalty as gifts.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "horsea",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/116.png"
+        },
+        {
+            "name": "seadra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/117.png"
+        },
+        {
+            "name": "kingdra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/230.png"
+        }
+    ]
+}

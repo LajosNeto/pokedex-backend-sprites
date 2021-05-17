@@ -1,0 +1,45 @@
+{
+    "id": 84,
+    "name": "doduo",
+    "height": 1.4,
+    "weight": 39.2,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/84.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/54/084Doduo.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "tangled-feet",
+        "description": "Doubles evasion when confused."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "Its short wings make flying difficult. Instead, this\nPokémon runs at high speed on developed legs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "doduo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/84.png"
+        },
+        {
+            "name": "dodrio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/85.png"
+        }
+    ]
+}

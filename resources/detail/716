@@ -1,0 +1,39 @@
+{
+    "id": 716,
+    "name": "xerneas",
+    "height": 3.0,
+    "weight": 215.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/716.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/13/716Xerneas.png",
+    "base_stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "special-attack": 131,
+        "special-defense": 98,
+        "speed": 99
+    },
+    "abilities": {
+        "name": "fairy-aura",
+        "description": "Strengthens fairy moves to 1.33× their power for all friendly and opposing Pokémon."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "When the horns on its head shine\nin seven colors, it is said to be\nsharing everlasting life.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "xerneas",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/716.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 871,
+    "name": "pincurchin",
+    "height": 0.3,
+    "weight": 1.0,
+    "base_exp": 152,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/871.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/871Pincurchin.png",
+    "base_stats": {
+        "hp": 48,
+        "attack": 101,
+        "defense": 95,
+        "special-attack": 91,
+        "special-defense": 85,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "electric-surge",
+        "description": "When this Pokémon enters battle, it changes the terrain to Electric Terrain."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "It stores electricity in each spine. Even if one gets\nbroken off, it still continues to emit electricity for\nat least three hours.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "pincurchin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/871.png"
+        }
+    ]
+}

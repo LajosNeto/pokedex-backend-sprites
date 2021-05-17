@@ -1,0 +1,47 @@
+{
+    "id": 355,
+    "name": "duskull",
+    "height": 0.8,
+    "weight": 15.0,
+    "base_exp": 59,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/355Duskull.png",
+    "base_stats": {
+        "hp": 20,
+        "attack": 40,
+        "defense": 90,
+        "special-attack": 30,
+        "special-defense": 90,
+        "speed": 25
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "Making itself invisible, it silently sneaks up to\nprey. It has the ability to slip through thick walls.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "duskull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png"
+        },
+        {
+            "name": "dusclops",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png"
+        },
+        {
+            "name": "dusknoir",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 813,
+    "name": "scorbunny",
+    "height": 0.3,
+    "weight": 4.5,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/813.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/06/813Scorbunny.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 71,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 69
+    },
+    "abilities": {
+        "name": "libero",
+        "description": ""
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "It has special pads on the backs of its feet, and\none on its nose. Once it’s raring to fight, these\npads radiate tremendous heat.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "scorbunny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/813.png"
+        },
+        {
+            "name": "raboot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/814.png"
+        },
+        {
+            "name": "cinderace",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/815.png"
+        }
+    ]
+}

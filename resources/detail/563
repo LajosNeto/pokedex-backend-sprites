@@ -1,0 +1,47 @@
+{
+    "id": 563,
+    "name": "cofagrigus",
+    "height": 1.7,
+    "weight": 76.5,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/563Cofagrigus.png",
+    "base_stats": {
+        "hp": 58,
+        "attack": 50,
+        "defense": 145,
+        "special-attack": 95,
+        "special-defense": 105,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "mummy",
+        "description": "Changes attacking Pokémon's abilities to Mummy on contact."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "There are many depictions of Cofagrigus\ndecorating ancient tombs. They’re symbols\nof the wealth that kings of bygone eras had.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "yamask",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png"
+        },
+        {
+            "name": "cofagrigus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png"
+        },
+        {
+            "name": "runerigus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/867.png"
+        }
+    ]
+}

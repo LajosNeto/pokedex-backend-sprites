@@ -1,0 +1,71 @@
+{
+    "id": 471,
+    "name": "glaceon",
+    "height": 0.8,
+    "weight": 25.9,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/23/471Glaceon.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 110,
+        "special-attack": 130,
+        "special-defense": 95,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "ice-body",
+        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    "types": [
+        "ice"
+    ],
+    "types_colors": [
+        "#8ed2d2"
+    ],
+    "short_description": "The coldness emanating from Glaceon causes\npowdery snow to form, making it quite a popular\nPokémon at ski resorts.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "eevee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png"
+        },
+        {
+            "name": "vaporeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png"
+        },
+        {
+            "name": "jolteon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png"
+        },
+        {
+            "name": "flareon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png"
+        },
+        {
+            "name": "espeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png"
+        },
+        {
+            "name": "umbreon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png"
+        },
+        {
+            "name": "leafeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png"
+        },
+        {
+            "name": "glaceon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png"
+        },
+        {
+            "name": "sylveon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/700.png"
+        }
+    ]
+}

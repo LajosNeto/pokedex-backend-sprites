@@ -1,0 +1,41 @@
+{
+    "id": 645,
+    "name": "landorus-incarnate",
+    "height": 1.5,
+    "weight": 68.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/645Landorus.png",
+    "base_stats": {
+        "hp": 89,
+        "attack": 125,
+        "defense": 90,
+        "special-attack": 115,
+        "special-defense": 80,
+        "speed": 101
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#9e85eb"
+    ],
+    "short_description": "From the forces of lightning and wind, it creates\nenergy to give nutrients to the soil and make the\nland abundant.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "landorus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png"
+        }
+    ]
+}

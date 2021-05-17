@@ -1,0 +1,45 @@
+{
+    "id": 121,
+    "name": "starmie",
+    "height": 1.1,
+    "weight": 80.0,
+    "base_exp": 182,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/121Starmie.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 100,
+        "special-defense": 85,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6527e"
+    ],
+    "short_description": "Starmie swims by spinning its body at high speed.\nAs this Pokémon cruises through the ocean, it\nabsorbs tiny plankton.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "staryu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png"
+        },
+        {
+            "name": "starmie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png"
+        }
+    ]
+}

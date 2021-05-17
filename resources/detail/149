@@ -1,0 +1,49 @@
+{
+    "id": 149,
+    "name": "dragonite",
+    "height": 2.2,
+    "weight": 210.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/149Dragonite.png",
+    "base_stats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "multiscale",
+        "description": "Halves damage taken from full HP."
+    },
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#9e85eb"
+    ],
+    "short_description": "It is said that this Pokémon lives somewhere\nin the sea and that it flies. However, these are\nonly rumors.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "dratini",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png"
+        },
+        {
+            "name": "dragonair",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png"
+        },
+        {
+            "name": "dragonite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png"
+        }
+    ]
+}

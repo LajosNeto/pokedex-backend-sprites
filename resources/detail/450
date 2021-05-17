@@ -1,0 +1,43 @@
+{
+    "id": 450,
+    "name": "hippowdon",
+    "height": 2.0,
+    "weight": 300.0,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5f/450Hippowdon.png",
+    "base_stats": {
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "special-attack": 68,
+        "special-defense": 72,
+        "speed": 47
+    },
+    "abilities": {
+        "name": "sand-force",
+        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "When roused to violence by its rage, it spews out\nthe quantities of sand it has swallowed and\nwhips up a sandstorm.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "hippopotas",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png"
+        },
+        {
+            "name": "hippowdon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png"
+        }
+    ]
+}

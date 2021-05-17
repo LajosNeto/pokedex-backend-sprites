@@ -1,0 +1,49 @@
+{
+    "id": 723,
+    "name": "dartrix",
+    "height": 0.7,
+    "weight": 16.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1e/723Dartrix.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 52
+    },
+    "abilities": {
+        "name": "long-reach",
+        "description": "This Pokémon's moves do not make contact."
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#9e85eb"
+    ],
+    "short_description": "It never slacks when it comes to the task of\ncleaning its feathers. Thorough preening keeps it\nlooking spiffy and its blade quills nice and sharp.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "rowlet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png"
+        },
+        {
+            "name": "dartrix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png"
+        },
+        {
+            "name": "decidueye",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png"
+        }
+    ]
+}

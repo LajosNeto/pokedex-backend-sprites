@@ -1,0 +1,41 @@
+{
+    "id": 618,
+    "name": "stunfisk",
+    "height": 0.7,
+    "weight": 11.0,
+    "base_exp": 165,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/618Stunfisk.png",
+    "base_stats": {
+        "hp": 109,
+        "attack": 66,
+        "defense": 84,
+        "special-attack": 81,
+        "special-defense": 99,
+        "speed": 32
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground",
+        "electric"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#f6cb3b"
+    ],
+    "short_description": "Its conspicuous lips lure prey in as it lies in wait in\nthe mud. When prey gets close, Stunfisk clamps\nits jagged steel fins down on them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "stunfisk",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png"
+        }
+    ]
+}

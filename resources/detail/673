@@ -1,0 +1,43 @@
+{
+    "id": 673,
+    "name": "gogoat",
+    "height": 1.7,
+    "weight": 91.0,
+    "base_exp": 186,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/673.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/673Gogoat.png",
+    "base_stats": {
+        "hp": 123,
+        "attack": 100,
+        "defense": 62,
+        "special-attack": 97,
+        "special-defense": 81,
+        "speed": 68
+    },
+    "abilities": {
+        "name": "grass-pelt",
+        "description": "Boosts Defense while grassy terrain is in effect."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "They inhabit mountainous regions.\nThe leader of the herd is decided by\na battle of clashing horns.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "skiddo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/672.png"
+        },
+        {
+            "name": "gogoat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/673.png"
+        }
+    ]
+}

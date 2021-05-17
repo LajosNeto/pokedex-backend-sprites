@@ -1,0 +1,47 @@
+{
+    "id": 153,
+    "name": "bayleef",
+    "height": 1.2,
+    "weight": 15.8,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/153.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/153Bayleef.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 80,
+        "special-attack": 63,
+        "special-defense": 80,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "leaf-guard",
+        "description": "Protects against major status ailments during strong sunlight."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Bayleef’s neck is ringed by curled-up leaves. Inside each\ntubular leaf is a small shoot of a tree. The fragrance of this\nshoot makes people peppy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "chikorita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/152.png"
+        },
+        {
+            "name": "bayleef",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/153.png"
+        },
+        {
+            "name": "meganium",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/154.png"
+        }
+    ]
+}

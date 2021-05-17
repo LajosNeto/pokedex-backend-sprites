@@ -1,0 +1,49 @@
+{
+    "id": 730,
+    "name": "primarina",
+    "height": 1.8,
+    "weight": 44.0,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/730.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/89/730Primarina.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 74,
+        "defense": 74,
+        "special-attack": 126,
+        "special-defense": 116,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "liquid-voice",
+        "description": "Sound-based moves become Water-type."
+    },
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#eb90a4"
+    ],
+    "short_description": "For Primarina, every battle’s a stage. Its singing\nand the dancing of its balloons will mesmerize\nthe audience.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "popplio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/728.png"
+        },
+        {
+            "name": "brionne",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/729.png"
+        },
+        {
+            "name": "primarina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/730.png"
+        }
+    ]
+}

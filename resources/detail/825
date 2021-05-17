@@ -1,0 +1,49 @@
+{
+    "id": 825,
+    "name": "dottler",
+    "height": 0.4,
+    "weight": 19.5,
+    "base_exp": 117,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/95/825Dottler.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 80,
+        "special-attack": 50,
+        "special-defense": 90,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#f6527e"
+    ],
+    "short_description": "As it grows inside its shell, it uses its psychic\nabilities to monitor the outside world and\nprepare for evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "blipbug",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png"
+        },
+        {
+            "name": "dottler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png"
+        },
+        {
+            "name": "orbeetle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png"
+        }
+    ]
+}

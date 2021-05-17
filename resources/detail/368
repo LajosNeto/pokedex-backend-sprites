@@ -1,0 +1,47 @@
+{
+    "id": 368,
+    "name": "gorebyss",
+    "height": 1.8,
+    "weight": 22.6,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/37/368Gorebyss.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 84,
+        "defense": 105,
+        "special-attack": 114,
+        "special-defense": 75,
+        "speed": 52
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It sucks bodily fluids out of its prey. The\nleftover meat sinks to the seafloor, where it\nbecomes food for other Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "clamperl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png"
+        },
+        {
+            "name": "huntail",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/367.png"
+        },
+        {
+            "name": "gorebyss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png"
+        }
+    ]
+}

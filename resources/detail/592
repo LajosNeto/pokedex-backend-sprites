@@ -1,0 +1,45 @@
+{
+    "id": 592,
+    "name": "frillish",
+    "height": 1.2,
+    "weight": 33.0,
+    "base_exp": 67,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/88/592Frillish.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 65,
+        "special-defense": 85,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "water",
+        "ghost"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#654e8c"
+    ],
+    "short_description": "Legend has it that the residents of a sunken\nancient city changed into these Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "frillish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png"
+        },
+        {
+            "name": "jellicent",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 391,
+    "name": "monferno",
+    "height": 0.9,
+    "weight": 22.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2e/391Monferno.png",
+    "base_stats": {
+        "hp": 64,
+        "attack": 78,
+        "defense": 52,
+        "special-attack": 78,
+        "special-defense": 52,
+        "speed": 81
+    },
+    "abilities": {
+        "name": "iron-fist",
+        "description": "Strengthens punch-based moves to 1.2× their power."
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#b72f29"
+    ],
+    "short_description": "It uses ceilings and walls to launch aerial attacks.\nIts fiery tail is but one weapon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "chimchar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png"
+        },
+        {
+            "name": "monferno",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png"
+        },
+        {
+            "name": "infernape",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png"
+        }
+    ]
+}

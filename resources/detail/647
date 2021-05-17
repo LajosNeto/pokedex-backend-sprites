@@ -1,0 +1,41 @@
+{
+    "id": 647,
+    "name": "keldeo-ordinary",
+    "height": 1.4,
+    "weight": 48.5,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/647.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/50/647Keldeo.png",
+    "base_stats": {
+        "hp": 91,
+        "attack": 72,
+        "defense": 90,
+        "special-attack": 129,
+        "special-defense": 90,
+        "speed": 108
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "water",
+        "fighting"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#b72f29"
+    ],
+    "short_description": "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "keldeo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/647.png"
+        }
+    ]
+}

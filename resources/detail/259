@@ -1,0 +1,49 @@
+{
+    "id": 259,
+    "name": "marshtomp",
+    "height": 0.7,
+    "weight": 28.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/259.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/27/259Marshtomp.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#dbb963"
+    ],
+    "short_description": "Marshtomp is much faster at traveling through mud than it is at\nswimming. This Pokémon’s hindquarters exhibit obvious\ndevelopment, giving it the ability to walk on just its hind legs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "mudkip",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/258.png"
+        },
+        {
+            "name": "marshtomp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/259.png"
+        },
+        {
+            "name": "swampert",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/260.png"
+        }
+    ]
+}

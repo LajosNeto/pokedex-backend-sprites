@@ -1,0 +1,45 @@
+{
+    "id": 872,
+    "name": "snom",
+    "height": 0.3,
+    "weight": 3.8,
+    "base_exp": 37,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/872Snom.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "special-attack": 45,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "ice-scales",
+        "description": ""
+    },
+    "types": [
+        "ice",
+        "bug"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#9daf2b"
+    ],
+    "short_description": "It eats snow that piles up on the ground.\nThe more snow it eats, the bigger and more\nimpressive the spikes on its back grow.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "snom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png"
+        },
+        {
+            "name": "frosmoth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/873.png"
+        }
+    ]
+}

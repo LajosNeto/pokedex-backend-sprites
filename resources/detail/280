@@ -1,0 +1,49 @@
+{
+    "id": 280,
+    "name": "ralts",
+    "height": 0.4,
+    "weight": 6.6,
+    "base_exp": 40,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/280Ralts.png",
+    "base_stats": {
+        "hp": 28,
+        "attack": 25,
+        "defense": 25,
+        "special-attack": 45,
+        "special-defense": 35,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#eb90a4"
+    ],
+    "short_description": "If its horns capture the warm feelings of people\nor Pokémon, its body warms up slightly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "ralts",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+        },
+        {
+            "name": "kirlia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+        },
+        {
+            "name": "gardevoir",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+        }
+    ]
+}

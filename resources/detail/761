@@ -1,0 +1,47 @@
+{
+    "id": 761,
+    "name": "bounsweet",
+    "height": 0.3,
+    "weight": 3.2,
+    "base_exp": 42,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/761Bounsweet.png",
+    "base_stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 38,
+        "special-attack": 30,
+        "special-defense": 38,
+        "speed": 32
+    },
+    "abilities": {
+        "name": "sweet-veil",
+        "description": "Prevents friendly Pokémon from sleeping."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "When under attack, it secretes a sweet\nand delicious sweat. The scent only calls\nmore enemies to it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "bounsweet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png"
+        },
+        {
+            "name": "steenee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png"
+        },
+        {
+            "name": "tsareena",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png"
+        }
+    ]
+}

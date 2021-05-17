@@ -1,0 +1,43 @@
+{
+    "id": 210,
+    "name": "granbull",
+    "height": 1.4,
+    "weight": 48.7,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/210.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/210Granbull.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "Although it’s popular with young people,\nGranbull is timid and sensitive, so it’s totally\nincompetent as a watchdog.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "snubbull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/209.png"
+        },
+        {
+            "name": "granbull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/210.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 62,
+    "name": "poliwrath",
+    "height": 1.3,
+    "weight": 54.0,
+    "base_exp": 230,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2d/062Poliwrath.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 70,
+        "special-defense": 90,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water",
+        "fighting"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#b72f29"
+    ],
+    "short_description": "Poliwrath is skilled at both swimming and martial\narts. It uses its well-trained arms to dish out\npowerful punches.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "poliwag",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/60.png"
+        },
+        {
+            "name": "poliwhirl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/61.png"
+        },
+        {
+            "name": "poliwrath",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 37,
+    "name": "vulpix",
+    "height": 0.6,
+    "weight": 9.9,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/60/037Vulpix.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 65,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "drought",
+        "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "If you observe its curly hairs through\na microscope, you’ll see small ice\nparticles springing up.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "vulpix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png"
+        },
+        {
+            "name": "ninetales",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png"
+        }
+    ]
+}

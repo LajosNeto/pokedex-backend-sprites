@@ -1,0 +1,47 @@
+{
+    "id": 611,
+    "name": "fraxure",
+    "height": 1.0,
+    "weight": 36.0,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/611.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/05/611Fraxure.png",
+    "base_stats": {
+        "hp": 66,
+        "attack": 117,
+        "defense": 70,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 67
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Its skin is as hard as a suit of armor. Fraxure’s\nfavorite strategy is to tackle its opponents,\nstabbing them with its tusks at the same time.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "axew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/610.png"
+        },
+        {
+            "name": "fraxure",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/611.png"
+        },
+        {
+            "name": "haxorus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/612.png"
+        }
+    ]
+}

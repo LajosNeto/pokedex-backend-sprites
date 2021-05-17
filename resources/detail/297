@@ -1,0 +1,43 @@
+{
+    "id": 297,
+    "name": "hariyama",
+    "height": 2.3,
+    "weight": 253.8,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/297.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6f/297Hariyama.png",
+    "base_stats": {
+        "hp": 144,
+        "attack": 120,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Hariyama that are big and fat aren’t necessarily\nstrong. There are some small ones that move\nnimbly and use moves skillfully.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "makuhita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/296.png"
+        },
+        {
+            "name": "hariyama",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/297.png"
+        }
+    ]
+}

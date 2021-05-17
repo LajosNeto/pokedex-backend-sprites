@@ -1,0 +1,41 @@
+{
+    "id": 786,
+    "name": "tapu-lele",
+    "height": 1.2,
+    "weight": 18.6,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/786.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4d/786Tapu_Lele.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 75,
+        "special-attack": 130,
+        "special-defense": 115,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#eb90a4"
+    ],
+    "short_description": "Although called a guardian deity, Tapu Lele is\ndevoid of guilt about its cruel disposition and\ncan be described as nature incarnate.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "tapu-lele",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/786.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 464,
+    "name": "rhyperior",
+    "height": 2.4,
+    "weight": 282.8,
+    "base_exp": 241,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d9/464Rhyperior.png",
+    "base_stats": {
+        "hp": 115,
+        "attack": 140,
+        "defense": 130,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "ground",
+        "rock"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#af9539"
+    ],
+    "short_description": "It relies on its carapace to deflect incoming\nattacks and throw its enemy off balance. As soon\nas that happens, it drives its drill into the foe.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "rhyhorn",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png"
+        },
+        {
+            "name": "rhydon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png"
+        },
+        {
+            "name": "rhyperior",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 448,
+    "name": "lucario",
+    "height": 1.2,
+    "weight": 54.0,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d7/448Lucario.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "special-attack": 115,
+        "special-defense": 70,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#afafc9"
+    ],
+    "short_description": "It can tell what people are thinking. Only Trainers\nwho have justice in their hearts can earn this\nPokémon’s trust.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "riolu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png"
+        },
+        {
+            "name": "lucario",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png"
+        }
+    ]
+}

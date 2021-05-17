@@ -1,0 +1,47 @@
+{
+    "id": 574,
+    "name": "gothita",
+    "height": 0.4,
+    "weight": 5.8,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/574.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/71/574Gothita.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "shadow-tag",
+        "description": "Prevents opponents from fleeing or switching out."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Even when nobody seems to be around, Gothita\ncan still be heard making a muted cry. Many believe\nit’s speaking to something only it can see.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gothita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/574.png"
+        },
+        {
+            "name": "gothorita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/575.png"
+        },
+        {
+            "name": "gothitelle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/576.png"
+        }
+    ]
+}

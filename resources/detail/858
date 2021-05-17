@@ -1,0 +1,49 @@
+{
+    "id": 858,
+    "name": "hatterene",
+    "height": 2.1,
+    "weight": 5.1,
+    "base_exp": 255,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/10/858Hatterene.png",
+    "base_stats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "special-attack": 136,
+        "special-defense": 103,
+        "speed": 29
+    },
+    "abilities": {
+        "name": "magic-bounce",
+        "description": "Reflects most non-damaging moves back at their user."
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#eb90a4"
+    ],
+    "short_description": "If you’re too loud around it, you risk being torn\napart by the claws on its tentacle. This Pokémon\nis also known as the Forest Witch.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "hatenna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/856.png"
+        },
+        {
+            "name": "hattrem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png"
+        },
+        {
+            "name": "hatterene",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png"
+        }
+    ]
+}

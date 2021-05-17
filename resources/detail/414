@@ -1,0 +1,49 @@
+{
+    "id": 414,
+    "name": "mothim",
+    "height": 0.9,
+    "weight": 23.3,
+    "base_exp": 148,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/18/414Mothim.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 94,
+        "defense": 50,
+        "special-attack": 94,
+        "special-defense": 50,
+        "speed": 66
+    },
+    "abilities": {
+        "name": "tinted-lens",
+        "description": "Doubles damage inflicted with not-very-effective moves."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "It flutters around at night and steals honey from\nthe Combee hive.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "burmy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png"
+        },
+        {
+            "name": "wormadam",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png"
+        },
+        {
+            "name": "mothim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png"
+        }
+    ]
+}

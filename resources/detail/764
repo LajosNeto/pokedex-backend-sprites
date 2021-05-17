@@ -1,0 +1,39 @@
+{
+    "id": 764,
+    "name": "comfey",
+    "height": 0.1,
+    "weight": 0.3,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/764Comfey.png",
+    "base_stats": {
+        "hp": 51,
+        "attack": 52,
+        "defense": 90,
+        "special-attack": 82,
+        "special-defense": 110,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "natural-cure",
+        "description": "Cures any major status ailment upon switching out."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "These Pokémon smell very nice. All Comfey wear\ndifferent flowers, so each of these Pokémon has\nits own individual scent.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "comfey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png"
+        }
+    ]
+}

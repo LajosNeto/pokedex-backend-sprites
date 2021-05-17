@@ -1,0 +1,45 @@
+{
+    "id": 323,
+    "name": "camerupt",
+    "height": 1.9,
+    "weight": 220.0,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/323.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7d/323Camerupt.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 105,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "anger-point",
+        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#dbb963"
+    ],
+    "short_description": "The humps on Camerupt’s back are formed by a transformation\nof its bones. They sometimes blast out molten magma.\nThis Pokémon apparently erupts often when it is enraged.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "numel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/322.png"
+        },
+        {
+            "name": "camerupt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/323.png"
+        }
+    ]
+}

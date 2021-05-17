@@ -1,0 +1,45 @@
+{
+    "id": 194,
+    "name": "wooper",
+    "height": 0.4,
+    "weight": 8.5,
+    "base_exp": 42,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/78/194Wooper.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "unaware",
+        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#dbb963"
+    ],
+    "short_description": "When walking on land, it covers its body with a\npoisonous film that keeps its skin from dehydrating.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "wooper",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png"
+        },
+        {
+            "name": "quagsire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png"
+        }
+    ]
+}

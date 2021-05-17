@@ -1,0 +1,43 @@
+{
+    "id": 678,
+    "name": "meowstic-male",
+    "height": 0.6,
+    "weight": 8.5,
+    "base_exp": 163,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/678.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/678Meowstic.png",
+    "base_stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "special-attack": 83,
+        "special-defense": 81,
+        "speed": 104
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "The defensive instinct of the males is strong.\nIt’s when they’re protecting themselves or their\npartners that they unleash their full power.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "espurr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/677.png"
+        },
+        {
+            "name": "meowstic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/678.png"
+        }
+    ]
+}

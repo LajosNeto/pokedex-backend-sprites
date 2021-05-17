@@ -1,0 +1,49 @@
+{
+    "id": 866,
+    "name": "mr-rime",
+    "height": 1.5,
+    "weight": 58.2,
+    "base_exp": 182,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/51/866Mr._Rime.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 85,
+        "defense": 75,
+        "special-attack": 110,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "ice-body",
+        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#f6527e"
+    ],
+    "short_description": "Its amusing movements make it very popular.\nIt releases its psychic power from the pattern\non its belly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "mime-jr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png"
+        },
+        {
+            "name": "mr-mime",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png"
+        },
+        {
+            "name": "mr-rime",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 784,
+    "name": "kommo-o",
+    "height": 1.6,
+    "weight": 78.2,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/84/784Kommo-o.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "special-attack": 100,
+        "special-defense": 105,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#b72f29"
+    ],
+    "short_description": "Certain ruins have paintings of ancient warriors\nwearing armor made of Kommo-o scales.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "jangmo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png"
+        },
+        {
+            "name": "hakamo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png"
+        },
+        {
+            "name": "kommo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png"
+        }
+    ]
+}

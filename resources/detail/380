@@ -1,0 +1,41 @@
+{
+    "id": 380,
+    "name": "latias",
+    "height": 1.4,
+    "weight": 40.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/24/380Latias.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 110,
+        "special-defense": 130,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#f6527e"
+    ],
+    "short_description": "Latias is highly intelligent and capable of understanding\nhuman speech. It is covered with a glass-like down.\nThe Pokémon enfolds its body with its down and refracts\nlight to alter its appearance.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "latias",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png"
+        }
+    ]
+}

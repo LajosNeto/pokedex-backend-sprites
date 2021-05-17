@@ -1,0 +1,43 @@
+{
+    "id": 571,
+    "name": "zoroark",
+    "height": 1.6,
+    "weight": 81.1,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/571Zoroark.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 105,
+        "defense": 60,
+        "special-attack": 120,
+        "special-defense": 60,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "illusion",
+        "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Seeking to ease the burden of their solitude,\nlonely Trainers tell Zoroark to show illusions\nto them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "zorua",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png"
+        },
+        {
+            "name": "zoroark",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png"
+        }
+    ]
+}

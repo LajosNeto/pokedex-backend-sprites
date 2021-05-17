@@ -1,0 +1,45 @@
+{
+    "id": 696,
+    "name": "tyrunt",
+    "height": 0.8,
+    "weight": 26.0,
+    "base_exp": 72,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c3/696Tyrunt.png",
+    "base_stats": {
+        "hp": 58,
+        "attack": 89,
+        "defense": 77,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 48
+    },
+    "abilities": {
+        "name": "sturdy",
+        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#6630f3"
+    ],
+    "short_description": "Tyrunt is spoiled and selfish. It may just be\ntrying to frolic, but sometimes the ones it’s\ntrying to frolic with are gravely injured.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "tyrunt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png"
+        },
+        {
+            "name": "tyrantrum",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png"
+        }
+    ]
+}

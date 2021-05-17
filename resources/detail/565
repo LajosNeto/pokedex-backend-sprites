@@ -1,0 +1,45 @@
+{
+    "id": 565,
+    "name": "carracosta",
+    "height": 1.2,
+    "weight": 81.0,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/565Carracosta.png",
+    "base_stats": {
+        "hp": 74,
+        "attack": 108,
+        "defense": 133,
+        "special-attack": 83,
+        "special-defense": 65,
+        "speed": 32
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#af9539"
+    ],
+    "short_description": "Carracosta eats every last bit of the prey it\ncatches, even the shells and bones, to further\nstrengthen its sturdy shell.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tirtouga",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png"
+        },
+        {
+            "name": "carracosta",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png"
+        }
+    ]
+}

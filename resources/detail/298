@@ -1,0 +1,49 @@
+{
+    "id": 298,
+    "name": "azurill",
+    "height": 0.2,
+    "weight": 2.0,
+    "base_exp": 38,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/298Azurill.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 40,
+        "special-attack": 20,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "sap-sipper",
+        "description": "Absorbs grass moves, raising Attack one stage."
+    },
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#eb90a4"
+    ],
+    "short_description": "Although Azurill are normally docile, an angry\none will swing around the big ball on its tail and\ntry to smash its opponents.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "azurill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png"
+        },
+        {
+            "name": "marill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png"
+        },
+        {
+            "name": "azumarill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png"
+        }
+    ]
+}

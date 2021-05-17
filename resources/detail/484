@@ -1,0 +1,41 @@
+{
+    "id": 484,
+    "name": "palkia",
+    "height": 4.2,
+    "weight": 336.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/66/484Palkia.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 100,
+        "special-attack": 150,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6630f3"
+    ],
+    "short_description": "It has the ability to distort space. It is described as\na deity in Sinnoh-region mythology.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "palkia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png"
+        }
+    ]
+}

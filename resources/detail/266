@@ -1,0 +1,47 @@
+{
+    "id": 266,
+    "name": "silcoon",
+    "height": 0.6,
+    "weight": 10.0,
+    "base_exp": 72,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/266Silcoon.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "shed-skin",
+        "description": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Silcoon was thought to endure hunger and not consume\nanything before its evolution. However, it is now thought\nthat this Pokémon slakes its thirst by drinking rainwater\nthat collects on its silk.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "wurmple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png"
+        },
+        {
+            "name": "silcoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png"
+        },
+        {
+            "name": "cascoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png"
+        }
+    ]
+}

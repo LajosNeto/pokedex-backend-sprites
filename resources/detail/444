@@ -1,0 +1,49 @@
+{
+    "id": 444,
+    "name": "gabite",
+    "height": 1.4,
+    "weight": 56.0,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/444Gabite.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 90,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 55,
+        "speed": 82
+    },
+    "abilities": {
+        "name": "rough-skin",
+        "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#dbb963"
+    ],
+    "short_description": "It sheds its skin and gradually grows larger. Its\nscales can be ground into a powder and used\nas raw materials for traditional medicine.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "gible",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png"
+        },
+        {
+            "name": "gabite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png"
+        },
+        {
+            "name": "garchomp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png"
+        }
+    ]
+}

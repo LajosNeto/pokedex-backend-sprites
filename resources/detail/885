@@ -1,0 +1,49 @@
+{
+    "id": 885,
+    "name": "dreepy",
+    "height": 0.5,
+    "weight": 2.0,
+    "base_exp": 54,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/885Dreepy.png",
+    "base_stats": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 82
+    },
+    "abilities": {
+        "name": "cursed-body",
+        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    },
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#654e8c"
+    ],
+    "short_description": "If this weak Pokémon is by itself, a mere child\ncould defeat it. But if Dreepy has friends to help\nit train, it can evolve and become much stronger.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "dreepy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png"
+        },
+        {
+            "name": "drakloak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png"
+        },
+        {
+            "name": "dragapult",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png"
+        }
+    ]
+}

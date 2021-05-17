@@ -1,0 +1,39 @@
+{
+    "id": 313,
+    "name": "volbeat",
+    "height": 0.7,
+    "weight": 17.7,
+    "base_exp": 151,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/313.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d6/313Volbeat.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 73,
+        "defense": 75,
+        "special-attack": 47,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Volbeat’s tail glows like a lightbulb. With other Volbeat,\nit uses its tail to draw geometric shapes in the night sky.\nThis Pokémon loves the sweet aroma given off by Illumise.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "volbeat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/313.png"
+        }
+    ]
+}

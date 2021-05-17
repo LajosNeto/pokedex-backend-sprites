@@ -1,0 +1,49 @@
+{
+    "id": 315,
+    "name": "roselia",
+    "height": 0.3,
+    "weight": 2.0,
+    "base_exp": 140,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/315Roselia.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 45,
+        "special-attack": 100,
+        "special-defense": 80,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "leaf-guard",
+        "description": "Protects against major status ailments during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "It uses the different poisons in each hand\nseparately when it attacks. The stronger its\naroma, the healthier it is.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "budew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png"
+        },
+        {
+            "name": "roselia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png"
+        },
+        {
+            "name": "roserade",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png"
+        }
+    ]
+}

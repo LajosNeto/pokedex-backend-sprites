@@ -1,0 +1,49 @@
+{
+    "id": 540,
+    "name": "sewaddle",
+    "height": 0.3,
+    "weight": 2.5,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4a/540Sewaddle.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 53,
+        "defense": 70,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "Since this Pokémon makes its own clothes out of\nleaves, it is a popular mascot for fashion designers.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "sewaddle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png"
+        },
+        {
+            "name": "swadloon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png"
+        },
+        {
+            "name": "leavanny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png"
+        }
+    ]
+}

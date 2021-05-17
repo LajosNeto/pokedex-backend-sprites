@@ -1,0 +1,39 @@
+{
+    "id": 631,
+    "name": "heatmor",
+    "height": 1.4,
+    "weight": 58.0,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b0/631Heatmor.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 97,
+        "defense": 66,
+        "special-attack": 105,
+        "special-defense": 66,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "white-smoke",
+        "description": "Prevents stats from being lowered by other Pokémon."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "A flame serves as its tongue, melting through the\nhard shell of Durant so that Heatmor can devour\ntheir insides.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "heatmor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png"
+        }
+    ]
+}

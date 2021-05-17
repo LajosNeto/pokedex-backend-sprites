@@ -1,0 +1,41 @@
+{
+    "id": 794,
+    "name": "buzzwole",
+    "height": 2.4,
+    "weight": 333.6,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/794.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/794Buzzwole.png",
+    "base_stats": {
+        "hp": 107,
+        "attack": 139,
+        "defense": 139,
+        "special-attack": 53,
+        "special-defense": 53,
+        "speed": 79
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#b72f29"
+    ],
+    "short_description": "Buzzwole goes around showing off its\nabnormally swollen muscles. It is one kind\nof Ultra Beast.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "buzzwole",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/794.png"
+        }
+    ]
+}

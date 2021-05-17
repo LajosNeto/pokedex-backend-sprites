@@ -1,0 +1,49 @@
+{
+    "id": 275,
+    "name": "shiftry",
+    "height": 1.3,
+    "weight": 59.6,
+    "base_exp": 216,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/275Shiftry.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 60,
+        "special-attack": 90,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#644e40"
+    ],
+    "short_description": "It lives quietly in the deep forest. It is said to\ncreate chilly winter winds with the fans it holds.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "seedot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png"
+        },
+        {
+            "name": "nuzleaf",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png"
+        },
+        {
+            "name": "shiftry",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png"
+        }
+    ]
+}

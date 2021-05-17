@@ -1,0 +1,43 @@
+{
+    "id": 828,
+    "name": "thievul",
+    "height": 1.2,
+    "weight": 19.9,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/828Thievul.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 58,
+        "defense": 58,
+        "special-attack": 87,
+        "special-defense": 92,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "stakeout",
+        "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "With a lithe body and sharp claws, it goes\naround stealing food and eggs. Boltund\nis its natural enemy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "nickit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png"
+        },
+        {
+            "name": "thievul",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png"
+        }
+    ]
+}

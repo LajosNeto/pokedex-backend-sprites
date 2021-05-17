@@ -1,0 +1,49 @@
+{
+    "id": 840,
+    "name": "applin",
+    "height": 0.2,
+    "weight": 0.5,
+    "base_exp": 52,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/840Applin.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "bulletproof",
+        "description": "Protects against bullet, ball, and bomb-based moves."
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#6630f3"
+    ],
+    "short_description": "As soon as it’s born, it burrows into an apple. Not\nonly does the apple serve as its food source, but\nthe flavor of the fruit determines its evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "applin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png"
+        },
+        {
+            "name": "flapple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png"
+        },
+        {
+            "name": "appletun",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png"
+        }
+    ]
+}

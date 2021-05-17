@@ -1,0 +1,47 @@
+{
+    "id": 294,
+    "name": "loudred",
+    "height": 1.0,
+    "weight": 40.5,
+    "base_exp": 126,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/12/294Loudred.png",
+    "base_stats": {
+        "hp": 84,
+        "attack": 71,
+        "defense": 43,
+        "special-attack": 71,
+        "special-defense": 43,
+        "speed": 48
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "The force of this Pokémon’s loud voice isn’t just\nthe sound—it’s also the wave of air pressure that\nblows opponents away and damages them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "whismur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png"
+        },
+        {
+            "name": "loudred",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png"
+        },
+        {
+            "name": "exploud",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png"
+        }
+    ]
+}

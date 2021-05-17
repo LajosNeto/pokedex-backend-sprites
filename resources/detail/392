@@ -1,0 +1,49 @@
+{
+    "id": 392,
+    "name": "infernape",
+    "height": 1.2,
+    "weight": 55.0,
+    "base_exp": 240,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/392Infernape.png",
+    "base_stats": {
+        "hp": 76,
+        "attack": 104,
+        "defense": 71,
+        "special-attack": 104,
+        "special-defense": 71,
+        "speed": 108
+    },
+    "abilities": {
+        "name": "iron-fist",
+        "description": "Strengthens punch-based moves to 1.2× their power."
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#b72f29"
+    ],
+    "short_description": "It tosses its enemies around with agility. It uses all\nits limbs to fight in its own unique style.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "chimchar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png"
+        },
+        {
+            "name": "monferno",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png"
+        },
+        {
+            "name": "infernape",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 848,
+    "name": "toxel",
+    "height": 0.4,
+    "weight": 11.0,
+    "base_exp": 48,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d5/848Toxel.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 38,
+        "defense": 35,
+        "special-attack": 54,
+        "special-defense": 35,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "klutz",
+        "description": "Prevents the Pokémon from using its held item in battle."
+    },
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#953a93"
+    ],
+    "short_description": "It manipulates the chemical makeup of its poison\nto produce electricity. The voltage is weak, but it\ncan cause a tingling paralysis.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "toxel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png"
+        },
+        {
+            "name": "toxtricity",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png"
+        }
+    ]
+}

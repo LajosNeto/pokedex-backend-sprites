@@ -1,0 +1,45 @@
+{
+    "id": 624,
+    "name": "pawniard",
+    "height": 0.5,
+    "weight": 10.2,
+    "base_exp": 68,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9c/624Pawniard.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "pressure",
+        "description": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#afafc9"
+    ],
+    "short_description": "A pack of these Pokémon forms to serve a\nBisharp boss. Each Pawniard trains diligently,\ndreaming of one day taking the lead.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "pawniard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png"
+        },
+        {
+            "name": "bisharp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/625.png"
+        }
+    ]
+}

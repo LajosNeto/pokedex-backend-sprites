@@ -1,0 +1,41 @@
+{
+    "id": 780,
+    "name": "drampa",
+    "height": 3.0,
+    "weight": 185.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/dc/780Drampa.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 60,
+        "defense": 85,
+        "special-attack": 135,
+        "special-defense": 91,
+        "speed": 36
+    },
+    "abilities": {
+        "name": "cloud-nine",
+        "description": "Negates all effects of weather, but does not prevent the weather itself."
+    },
+    "types": [
+        "normal",
+        "dragon"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#6630f3"
+    ],
+    "short_description": "Drampa is a kind and friendly Pokémon—up until\nit’s angered. When that happens, it stirs up a\ngale and flattens everything around.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "drampa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png"
+        }
+    ]
+}

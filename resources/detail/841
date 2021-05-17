@@ -1,0 +1,49 @@
+{
+    "id": 841,
+    "name": "flapple",
+    "height": 0.3,
+    "weight": 1.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/01/841Flapple.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "special-attack": 95,
+        "special-defense": 60,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#6630f3"
+    ],
+    "short_description": "It flies on wings of apple skin and spits a\npowerful acid. It can also change its shape\ninto that of an apple.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "applin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png"
+        },
+        {
+            "name": "flapple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png"
+        },
+        {
+            "name": "appletun",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 671,
+    "name": "florges",
+    "height": 1.1,
+    "weight": 10.0,
+    "base_exp": 248,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/37/671Florges.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "special-attack": 112,
+        "special-defense": 154,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "symbiosis",
+        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "Its life can span several hundred years. It’s said\nto devote its entire life to protecting gardens.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "flabebe",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png"
+        },
+        {
+            "name": "floette",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png"
+        },
+        {
+            "name": "florges",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 659,
+    "name": "bunnelby",
+    "height": 0.4,
+    "weight": 5.0,
+    "base_exp": 47,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/70/659Bunnelby.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 36,
+        "defense": 38,
+        "special-attack": 32,
+        "special-defense": 36,
+        "speed": 57
+    },
+    "abilities": {
+        "name": "huge-power",
+        "description": "Doubles Attack in battle."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "It’s very sensitive to danger. The sound of\nCorviknight’s flapping will have Bunnelby\ndigging a hole to hide underground in moments.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "bunnelby",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png"
+        },
+        {
+            "name": "diggersby",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png"
+        }
+    ]
+}

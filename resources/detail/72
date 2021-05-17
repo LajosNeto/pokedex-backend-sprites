@@ -1,0 +1,45 @@
+{
+    "id": 72,
+    "name": "tentacool",
+    "height": 0.9,
+    "weight": 45.5,
+    "base_exp": 67,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/072Tentacool.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "special-attack": 50,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "water",
+        "poison"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#953a93"
+    ],
+    "short_description": "This Pokémon is mostly made of water.\nA Tentacool out in the ocean is very hard to\nspot, because its body blends in with the sea.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tentacool",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png"
+        },
+        {
+            "name": "tentacruel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png"
+        }
+    ]
+}

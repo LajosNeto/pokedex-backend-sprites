@@ -1,0 +1,45 @@
+{
+    "id": 711,
+    "name": "gourgeist-average",
+    "height": 0.9,
+    "weight": 12.5,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/88/711Gourgeist.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 122,
+        "special-attack": 58,
+        "special-defense": 75,
+        "speed": 84
+    },
+    "abilities": {
+        "name": "insomnia",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#6dc04c"
+    ],
+    "short_description": "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "pumpkaboo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png"
+        },
+        {
+            "name": "gourgeist",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png"
+        }
+    ]
+}

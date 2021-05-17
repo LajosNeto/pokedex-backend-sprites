@@ -1,0 +1,49 @@
+{
+    "id": 187,
+    "name": "hoppip",
+    "height": 0.4,
+    "weight": 0.5,
+    "base_exp": 50,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/187Hoppip.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 55,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#9e85eb"
+    ],
+    "short_description": "This Pokémon drifts and floats with the wind. If it senses the\napproach of strong winds, Hoppip links its leaves with other\nHoppip to prepare against being blown away.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "hoppip",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png"
+        },
+        {
+            "name": "skiploom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png"
+        },
+        {
+            "name": "jumpluff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 24,
+    "name": "arbok",
+    "height": 3.5,
+    "weight": 65.0,
+    "base_exp": 157,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/24.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/024Arbok.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 69,
+        "special-attack": 65,
+        "special-defense": 79,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "The frightening patterns on its belly have been\nstudied. Six variations have been confirmed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "ekans",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/23.png"
+        },
+        {
+            "name": "arbok",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/24.png"
+        }
+    ]
+}

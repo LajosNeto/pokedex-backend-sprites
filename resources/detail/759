@@ -1,0 +1,45 @@
+{
+    "id": 759,
+    "name": "stufful",
+    "height": 0.5,
+    "weight": 6.8,
+    "base_exp": 68,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/759Stufful.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "cute-charm",
+        "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    "types": [
+        "normal",
+        "fighting"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#b72f29"
+    ],
+    "short_description": "The way it protects itself by flailing its arms may\nbe an adorable sight, but stay well away. This is\nflailing that can snap thick tree trunks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "stufful",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png"
+        },
+        {
+            "name": "bewear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png"
+        }
+    ]
+}

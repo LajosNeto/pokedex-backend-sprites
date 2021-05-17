@@ -1,0 +1,43 @@
+{
+    "id": 358,
+    "name": "chimecho",
+    "height": 0.6,
+    "weight": 1.0,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/358.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/358Chimecho.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 80,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "In high winds, Chimecho cries as it hangs from a tree branch or\nthe eaves of a building using a suction cup on its head. This\nPokémon plucks berries with its long tail and eats them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "chingling",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/433.png"
+        },
+        {
+            "name": "chimecho",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/358.png"
+        }
+    ]
+}

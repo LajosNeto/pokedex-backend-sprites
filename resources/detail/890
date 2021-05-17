@@ -1,0 +1,41 @@
+{
+    "id": 890,
+    "name": "eternatus",
+    "height": 20.0,
+    "weight": 950.0,
+    "base_exp": 345,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/62/890Eternatus.png",
+    "base_stats": {
+        "hp": 140,
+        "attack": 85,
+        "defense": 95,
+        "special-attack": 145,
+        "special-defense": 95,
+        "speed": 130
+    },
+    "abilities": {
+        "name": "pressure",
+        "description": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#6630f3"
+    ],
+    "short_description": "It was inside a meteorite that fell 20,000 years\nago. There seems to be a connection between\nthis Pokémon and the Dynamax phenomenon.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "eternatus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png"
+        }
+    ]
+}

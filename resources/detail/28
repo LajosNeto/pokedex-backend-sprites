@@ -1,0 +1,43 @@
+{
+    "id": 28,
+    "name": "sandslash",
+    "height": 1.0,
+    "weight": 29.5,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/28.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0b/028Sandslash.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "sand-rush",
+        "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "Many people climb snowy mountains, hoping to\nsee the icy spikes of these Pokémon glistening\nin the light of dawn.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "sandshrew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/27.png"
+        },
+        {
+            "name": "sandslash",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/28.png"
+        }
+    ]
+}

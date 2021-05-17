@@ -1,0 +1,45 @@
+{
+    "id": 46,
+    "name": "paras",
+    "height": 0.3,
+    "weight": 5.4,
+    "base_exp": 57,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/046Paras.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 25
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "Burrows under the ground to gnaw on\ntree roots. The mushrooms on its back\nabsorb most of the nutrition.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "paras",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png"
+        },
+        {
+            "name": "parasect",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png"
+        }
+    ]
+}

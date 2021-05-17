@@ -1,0 +1,39 @@
+{
+    "id": 481,
+    "name": "mesprit",
+    "height": 0.3,
+    "weight": 0.3,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/481.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/40/481Mesprit.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 105,
+        "special-attack": 105,
+        "special-defense": 105,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It sleeps at the bottom of a lake. Its spirit is said to\nleave its body to fly on the lake’s surface.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "mesprit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/481.png"
+        }
+    ]
+}

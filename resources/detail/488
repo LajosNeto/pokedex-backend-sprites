@@ -1,0 +1,39 @@
+{
+    "id": 488,
+    "name": "cresselia",
+    "height": 1.5,
+    "weight": 85.6,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/488.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4a/488Cresselia.png",
+    "base_stats": {
+        "hp": 120,
+        "attack": 70,
+        "defense": 120,
+        "special-attack": 75,
+        "special-defense": 130,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Those who sleep holding Cresselia’s feather are\nassured of joyful dreams. It is said to represent\nthe crescent moon.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "cresselia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/488.png"
+        }
+    ]
+}

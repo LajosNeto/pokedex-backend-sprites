@@ -1,0 +1,41 @@
+{
+    "id": 213,
+    "name": "shuckle",
+    "height": 0.6,
+    "weight": 20.5,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/213Shuckle.png",
+    "base_stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 230,
+        "special-attack": 10,
+        "special-defense": 230,
+        "speed": 5
+    },
+    "abilities": {
+        "name": "contrary",
+        "description": "Inverts stat changes."
+    },
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#af9539"
+    ],
+    "short_description": "The berries stored in its vaselike shell eventually\nbecome a thick, pulpy juice.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "shuckle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png"
+        }
+    ]
+}

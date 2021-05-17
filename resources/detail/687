@@ -1,0 +1,45 @@
+{
+    "id": 687,
+    "name": "malamar",
+    "height": 1.5,
+    "weight": 47.0,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/687Malamar.png",
+    "base_stats": {
+        "hp": 86,
+        "attack": 92,
+        "defense": 88,
+        "special-attack": 68,
+        "special-defense": 75,
+        "speed": 73
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#f6527e"
+    ],
+    "short_description": "It’s said that Malamar’s hypnotic powers played\na role in certain history-changing events.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "inkay",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/686.png"
+        },
+        {
+            "name": "malamar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 20,
+    "name": "raticate",
+    "height": 0.7,
+    "weight": 18.5,
+    "base_exp": 145,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/020Raticate.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 81,
+        "defense": 60,
+        "special-attack": 50,
+        "special-defense": 70,
+        "speed": 97
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Its hind feet are webbed. They act as flippers,\nso it can swim in rivers and hunt for prey.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "rattata",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/19.png"
+        },
+        {
+            "name": "raticate",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png"
+        }
+    ]
+}

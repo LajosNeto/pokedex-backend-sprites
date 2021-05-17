@@ -1,0 +1,43 @@
+{
+    "id": 674,
+    "name": "pancham",
+    "height": 0.6,
+    "weight": 8.0,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1c/674Pancham.png",
+    "base_stats": {
+        "hp": 67,
+        "attack": 82,
+        "defense": 62,
+        "special-attack": 46,
+        "special-defense": 48,
+        "speed": 43
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Wanting to make sure it’s taken seriously,\nPancham’s always giving others a glare.\nBut if it’s not focusing, it ends up smiling.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "pancham",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png"
+        },
+        {
+            "name": "pangoro",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 265,
+    "name": "wurmple",
+    "height": 0.3,
+    "weight": 3.6,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/76/265Wurmple.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "run-away",
+        "description": "Ensures success fleeing from wild battles."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Wurmple is targeted by Swellow as prey. This Pokémon\nwill try to resist by pointing the spikes on its rear at the\nattacking predator. It will weaken the foe by leaking poison\nfrom the spikes.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "wurmple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png"
+        },
+        {
+            "name": "silcoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png"
+        },
+        {
+            "name": "cascoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png"
+        }
+    ]
+}

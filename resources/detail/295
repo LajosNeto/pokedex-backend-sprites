@@ -1,0 +1,47 @@
+{
+    "id": 295,
+    "name": "exploud",
+    "height": 1.5,
+    "weight": 84.0,
+    "base_exp": 221,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/12/295Exploud.png",
+    "base_stats": {
+        "hp": 104,
+        "attack": 91,
+        "defense": 63,
+        "special-attack": 91,
+        "special-defense": 73,
+        "speed": 68
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This Pokémon can do more than just shout. To\ncommunicate with others of its kind, it’ll emit all\nsorts of sounds from the holes in its body.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "whismur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png"
+        },
+        {
+            "name": "loudred",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png"
+        },
+        {
+            "name": "exploud",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png"
+        }
+    ]
+}

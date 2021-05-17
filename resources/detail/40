@@ -1,0 +1,49 @@
+{
+    "id": 40,
+    "name": "wigglytuff",
+    "height": 1.0,
+    "weight": 12.0,
+    "base_exp": 196,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/92/040Wigglytuff.png",
+    "base_stats": {
+        "hp": 140,
+        "attack": 70,
+        "defense": 45,
+        "special-attack": 85,
+        "special-defense": 50,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#eb90a4"
+    ],
+    "short_description": "It’s proud of its fur, which is fine and delicate.\nIn particular, the curl on its forehead has a\ntexture that’s perfectly heavenly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "igglybuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png"
+        },
+        {
+            "name": "jigglypuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png"
+        },
+        {
+            "name": "wigglytuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png"
+        }
+    ]
+}

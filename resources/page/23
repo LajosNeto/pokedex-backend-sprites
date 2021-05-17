@@ -1,0 +1,264 @@
+[
+    {
+        "id": 461,
+        "name_en": "weavile",
+        "name_ja": "マニューラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
+        "types": [
+            "dark",
+            "ice"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 462,
+        "name_en": "magnezone",
+        "name_ja": "ジバコイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 463,
+        "name_en": "lickilicky",
+        "name_ja": "ベロベルト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/463.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 464,
+        "name_en": "rhyperior",
+        "name_ja": "ドサイドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 465,
+        "name_en": "tangrowth",
+        "name_ja": "モジャンボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/465.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 466,
+        "name_en": "electivire",
+        "name_ja": "エレキブル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/466.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 467,
+        "name_en": "magmortar",
+        "name_ja": "ブーバーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/467.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 468,
+        "name_en": "togekiss",
+        "name_ja": "トゲキッス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
+        "types": [
+            "fairy",
+            "flying"
+        ],
+        "types_colors": [
+            "#eb90a4",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 469,
+        "name_en": "yanmega",
+        "name_ja": "メガヤンマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 470,
+        "name_en": "leafeon",
+        "name_ja": "リーフィア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 471,
+        "name_en": "glaceon",
+        "name_ja": "グレイシア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 472,
+        "name_en": "gliscor",
+        "name_ja": "グライオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
+        "types": [
+            "ground",
+            "flying"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 473,
+        "name_en": "mamoswine",
+        "name_ja": "マンムー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png",
+        "types": [
+            "ice",
+            "ground"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 474,
+        "name_en": "porygon-z",
+        "name_ja": "ポリゴンＺ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/474.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 475,
+        "name_en": "gallade",
+        "name_ja": "エルレイド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/475.png",
+        "types": [
+            "psychic",
+            "fighting"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 476,
+        "name_en": "probopass",
+        "name_ja": "ダイノーズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png",
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 477,
+        "name_en": "dusknoir",
+        "name_ja": "ヨノワール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 478,
+        "name_en": "froslass",
+        "name_ja": "ユキメノコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png",
+        "types": [
+            "ice",
+            "ghost"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 479,
+        "name_en": "rotom",
+        "name_ja": "ロトム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/479.png",
+        "types": [
+            "electric",
+            "ghost"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 480,
+        "name_en": "uxie",
+        "name_ja": "ユクシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    }
+]

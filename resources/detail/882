@@ -1,0 +1,41 @@
+{
+    "id": 882,
+    "name": "dracovish",
+    "height": 2.3,
+    "weight": 215.0,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/16/882Dracovish.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "sand-rush",
+        "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6630f3"
+    ],
+    "short_description": "Its mighty legs are capable of running at\nspeeds exceeding 40 mph, but this Pokémon\ncan’t breathe unless it’s underwater.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "dracovish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png"
+        }
+    ]
+}

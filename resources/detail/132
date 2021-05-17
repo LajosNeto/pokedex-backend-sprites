@@ -1,0 +1,39 @@
+{
+    "id": 132,
+    "name": "ditto",
+    "height": 0.3,
+    "weight": 4.0,
+    "base_exp": 101,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/132.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/36/132Ditto.png",
+    "base_stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "special-attack": 48,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "abilities": {
+        "name": "imposter",
+        "description": "Transforms upon entering battle."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "When it encounters another Ditto, it will move\nfaster than normal to duplicate that opponent exactly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "ditto",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/132.png"
+        }
+    ]
+}

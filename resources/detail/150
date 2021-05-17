@@ -1,0 +1,39 @@
+{
+    "id": 150,
+    "name": "mewtwo",
+    "height": 2.0,
+    "weight": 122.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/150.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/78/150Mewtwo.png",
+    "base_stats": {
+        "hp": 106,
+        "attack": 110,
+        "defense": 90,
+        "special-attack": 154,
+        "special-defense": 90,
+        "speed": 130
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Psychic power has augmented its muscles.\nIt has a grip strength of one ton and can sprint\na hundred meters in two seconds flat!",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "rare",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "mewtwo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/150.png"
+        }
+    ]
+}

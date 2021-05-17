@@ -1,0 +1,49 @@
+{
+    "id": 363,
+    "name": "spheal",
+    "height": 0.8,
+    "weight": 39.5,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9f/363Spheal.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 50,
+        "speed": 25
+    },
+    "abilities": {
+        "name": "oblivious",
+        "description": "Prevents infatuation and protects against captivate."
+    },
+    "types": [
+        "ice",
+        "water"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#5f84ea"
+    ],
+    "short_description": "Spheal always travels by rolling around on its ball-like body.\nWhen the season for ice floes arrives, this Pokémon can be\nseen rolling about on ice and crossing the sea.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "spheal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+        },
+        {
+            "name": "sealeo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+        },
+        {
+            "name": "walrein",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 188,
+    "name": "skiploom",
+    "height": 0.6,
+    "weight": 1.0,
+    "base_exp": 119,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/188Skiploom.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#9e85eb"
+    ],
+    "short_description": "Skiploom’s flower blossoms when the temperature rises\nabove 64 degrees Fahrenheit. How much the flower opens\ndepends on the temperature. For that reason, this Pokémon\nis sometimes used as a thermometer.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "hoppip",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png"
+        },
+        {
+            "name": "skiploom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png"
+        },
+        {
+            "name": "jumpluff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png"
+        }
+    ]
+}

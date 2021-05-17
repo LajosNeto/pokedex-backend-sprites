@@ -1,0 +1,39 @@
+{
+    "id": 796,
+    "name": "xurkitree",
+    "height": 3.8,
+    "weight": 100.0,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/796.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/796Xurkitree.png",
+    "base_stats": {
+        "hp": 83,
+        "attack": 89,
+        "defense": 71,
+        "special-attack": 173,
+        "special-defense": 71,
+        "speed": 83
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "They’ve been dubbed Ultra Beasts. Some of\nthem stand unmoving, like trees, with their\narms and legs stuck into the ground.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "xurkitree",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/796.png"
+        }
+    ]
+}

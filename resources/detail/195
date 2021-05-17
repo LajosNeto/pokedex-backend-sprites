@@ -1,0 +1,45 @@
+{
+    "id": 195,
+    "name": "quagsire",
+    "height": 1.4,
+    "weight": 75.0,
+    "base_exp": 151,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/195Quagsire.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 85,
+        "defense": 85,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "unaware",
+        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#dbb963"
+    ],
+    "short_description": "Its body is always slimy. It often bangs its head\non the river bottom as it swims but seems not\nto care.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "wooper",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png"
+        },
+        {
+            "name": "quagsire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 606,
+    "name": "beheeyem",
+    "height": 1.0,
+    "weight": 34.5,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/606.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/606Beheeyem.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 125,
+        "special-defense": 95,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Sometimes found drifting above wheat fields,\nthis Pokémon can control the memories of\nits opponents.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "elgyem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/605.png"
+        },
+        {
+            "name": "beheeyem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/606.png"
+        }
+    ]
+}

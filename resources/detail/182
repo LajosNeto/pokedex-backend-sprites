@@ -1,0 +1,47 @@
+{
+    "id": 182,
+    "name": "bellossom",
+    "height": 0.4,
+    "weight": 5.8,
+    "base_exp": 221,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/182.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/182Bellossom.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 95,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "healer",
+        "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Bellossom gather at times and appear to dance.\nThey say that the dance is a ritual to summon\nthe sun.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "oddish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png"
+        },
+        {
+            "name": "gloom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png"
+        },
+        {
+            "name": "vileplume",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png"
+        }
+    ]
+}

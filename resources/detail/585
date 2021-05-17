@@ -1,0 +1,45 @@
+{
+    "id": 585,
+    "name": "deerling",
+    "height": 0.6,
+    "weight": 19.5,
+    "base_exp": 67,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/585.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/68/585Deerling-Spring.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "serene-grace",
+        "description": "Doubles the chance of moves' extra effects occurring."
+    },
+    "types": [
+        "normal",
+        "grass"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#6dc04c"
+    ],
+    "short_description": "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "deerling",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/585.png"
+        },
+        {
+            "name": "sawsbuck",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/586.png"
+        }
+    ]
+}

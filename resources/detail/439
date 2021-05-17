@@ -1,0 +1,49 @@
+{
+    "id": 439,
+    "name": "mime-jr",
+    "height": 0.6,
+    "weight": 13.0,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/37/439Mime_Jr.png",
+    "base_stats": {
+        "hp": 20,
+        "attack": 25,
+        "defense": 45,
+        "special-attack": 70,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "technician",
+        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#eb90a4"
+    ],
+    "short_description": "It looks for a Mr. Rime that’s a good dancer\nand carefully copies the Mr. Rime’s steps\nlike an apprentice.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "mime-jr",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png"
+        },
+        {
+            "name": "mr-mime",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png"
+        },
+        {
+            "name": "mr-rime",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png"
+        }
+    ]
+}

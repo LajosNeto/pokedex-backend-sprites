@@ -1,0 +1,43 @@
+{
+    "id": 110,
+    "name": "weezing",
+    "height": 1.2,
+    "weight": 9.5,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/42/110Weezing.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "special-attack": 85,
+        "special-defense": 70,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "Long ago, during a time when droves of factories\nfouled the air with pollution, Weezing changed\ninto this form for some reason.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "koffing",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png"
+        },
+        {
+            "name": "weezing",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png"
+        }
+    ]
+}

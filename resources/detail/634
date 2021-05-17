@@ -1,0 +1,49 @@
+{
+    "id": 634,
+    "name": "zweilous",
+    "height": 1.4,
+    "weight": 50.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/634Zweilous.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#6630f3"
+    ],
+    "short_description": "Their two heads will fight each other over a\nsingle piece of food. Zweilous are covered in\nscars even without battling others.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "deino",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png"
+        },
+        {
+            "name": "zweilous",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png"
+        },
+        {
+            "name": "hydreigon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png"
+        }
+    ]
+}

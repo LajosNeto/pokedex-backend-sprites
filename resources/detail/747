@@ -1,0 +1,45 @@
+{
+    "id": 747,
+    "name": "mareanie",
+    "height": 0.4,
+    "weight": 8.0,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/747Mareanie.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "special-attack": 43,
+        "special-defense": 52,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "poison",
+        "water"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#5f84ea"
+    ],
+    "short_description": "Unlike their Alolan counterparts, the Mareanie\nof the Galar region have not yet figured out\nthat the branches of Corsola are delicious.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "mareanie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png"
+        },
+        {
+            "name": "toxapex",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png"
+        }
+    ]
+}

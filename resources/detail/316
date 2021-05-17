@@ -1,0 +1,43 @@
+{
+    "id": 316,
+    "name": "gulpin",
+    "height": 0.4,
+    "weight": 10.3,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/316.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/316Gulpin.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 43,
+        "defense": 53,
+        "special-attack": 43,
+        "special-defense": 53,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "gluttony",
+        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "Most of Gulpin’s body is made up of its stomach—its heart and\nbrain are very small in comparison. This Pokémon’s stomach\ncontains special enzymes that dissolve anything.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "gulpin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/316.png"
+        },
+        {
+            "name": "swalot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/317.png"
+        }
+    ]
+}

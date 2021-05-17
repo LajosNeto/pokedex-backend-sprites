@@ -1,0 +1,41 @@
+{
+    "id": 385,
+    "name": "jirachi",
+    "height": 0.3,
+    "weight": 1.1,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/385.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/85/385Jirachi.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "serene-grace",
+        "description": "Doubles the chance of moves' extra effects occurring."
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#f6527e"
+    ],
+    "short_description": "It’s believed that when this Pokémon wakes from\nits 1,000-year slumber, it will grant any wishes\nwritten on the notes attached to its head.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "mountain",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "jirachi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/385.png"
+        }
+    ]
+}

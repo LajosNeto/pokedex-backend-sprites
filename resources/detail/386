@@ -1,0 +1,39 @@
+{
+    "id": 386,
+    "name": "deoxys-normal",
+    "height": 1.7,
+    "weight": 60.8,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/386.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/386Deoxys.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 150,
+        "defense": 50,
+        "special-attack": 150,
+        "special-defense": 50,
+        "speed": 150
+    },
+    "abilities": {
+        "name": "pressure",
+        "description": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Deoxys emerged from a virus that came from space. It is highly\nintelligent and wields psychokinetic powers. This Pokémon\nshoots lasers from the crystalline organ on its chest.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "rare",
+    "growth_rate": "slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "deoxys",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/386.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 501,
+    "name": "oshawott",
+    "height": 0.5,
+    "weight": 5.9,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/501Oshawott.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 45,
+        "special-attack": 63,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "oshawott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png"
+        },
+        {
+            "name": "dewott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png"
+        },
+        {
+            "name": "samurott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png"
+        }
+    ]
+}

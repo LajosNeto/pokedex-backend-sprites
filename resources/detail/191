@@ -1,0 +1,43 @@
+{
+    "id": 191,
+    "name": "sunkern",
+    "height": 0.3,
+    "weight": 1.8,
+    "base_exp": 36,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/95/191Sunkern.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "early-bird",
+        "description": "Makes sleep pass twice as quickly."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Sunkern tries to move as little as it possibly can. It does so\nbecause it tries to conserve all the nutrients it has stored in its\nbody for its evolution. It will not eat a thing, subsisting only on\nmorning dew.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "sunkern",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png"
+        },
+        {
+            "name": "sunflora",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/192.png"
+        }
+    ]
+}

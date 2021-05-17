@@ -1,0 +1,47 @@
+{
+    "id": 113,
+    "name": "chansey",
+    "height": 1.1,
+    "weight": 34.6,
+    "base_exp": 395,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/113Chansey.png",
+    "base_stats": {
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "special-attack": 35,
+        "special-defense": 105,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "healer",
+        "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This species was once very slow. To protect their\neggs from other creatures, these Pokémon\nbecame able to flee quickly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "happiny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png"
+        },
+        {
+            "name": "chansey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png"
+        },
+        {
+            "name": "blissey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/242.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 209,
+    "name": "snubbull",
+    "height": 0.6,
+    "weight": 7.8,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/209.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7f/209Snubbull.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "In contrast to its appearance, it’s quite\ntimid. When playing with other puppy\nPokémon, it sometimes gets bullied.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "snubbull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/209.png"
+        },
+        {
+            "name": "granbull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/210.png"
+        }
+    ]
+}

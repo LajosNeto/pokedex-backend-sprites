@@ -1,0 +1,39 @@
+{
+    "id": 807,
+    "name": "zeraora",
+    "height": 1.5,
+    "weight": 44.5,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/807.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/807Zeraora.png",
+    "base_stats": {
+        "hp": 88,
+        "attack": 112,
+        "defense": 75,
+        "special-attack": 102,
+        "special-defense": 80,
+        "speed": 143
+    },
+    "abilities": {
+        "name": "volt-absorb",
+        "description": "Absorbs electric moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Electricity sparks from the pads on its limbs.\nWherever Zeraora runs, lightning flashes and\nthunder echoes.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "zeraora",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/807.png"
+        }
+    ]
+}

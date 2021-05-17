@@ -1,0 +1,39 @@
+{
+    "id": 594,
+    "name": "alomomola",
+    "height": 1.2,
+    "weight": 31.6,
+    "base_exp": 165,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/594.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/10/594Alomomola.png",
+    "base_stats": {
+        "hp": 165,
+        "attack": 75,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "The reason it helps Pokémon in a weakened\ncondition is that any Pokémon coming after\nthem may also attack Alomomola.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "alomomola",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/594.png"
+        }
+    ]
+}

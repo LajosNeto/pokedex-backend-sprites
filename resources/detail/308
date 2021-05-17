@@ -1,0 +1,45 @@
+{
+    "id": 308,
+    "name": "medicham",
+    "height": 1.3,
+    "weight": 31.5,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/05/308Medicham.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#f6527e"
+    ],
+    "short_description": "Through the power of meditation, Medicham developed its\nsixth sense. It gained the ability to use psychokinetic powers.\nThis Pokémon is known to meditate for a whole month\nwithout eating.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "meditite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png"
+        },
+        {
+            "name": "medicham",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png"
+        }
+    ]
+}

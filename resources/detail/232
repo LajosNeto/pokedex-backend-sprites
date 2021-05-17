@@ -1,0 +1,43 @@
+{
+    "id": 232,
+    "name": "donphan",
+    "height": 1.1,
+    "weight": 120.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/53/232Donphan.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 120,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "If Donphan were to tackle with its hard body, even a house\ncould be destroyed. Using its massive strength, the Pokémon\nhelps clear rock and mud slides that block mountain trails.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "phanpy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png"
+        },
+        {
+            "name": "donphan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png"
+        }
+    ]
+}

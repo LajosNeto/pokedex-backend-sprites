@@ -1,0 +1,47 @@
+{
+    "id": 535,
+    "name": "tympole",
+    "height": 0.5,
+    "weight": 4.5,
+    "base_exp": 59,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/535Tympole.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 64
+    },
+    "abilities": {
+        "name": "water-absorb",
+        "description": "Absorbs water moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It uses sound waves to communicate with\nothers of its kind. People and other Pokémon\nspecies can’t hear its cries of warning.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tympole",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png"
+        },
+        {
+            "name": "palpitoad",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/536.png"
+        },
+        {
+            "name": "seismitoad",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/537.png"
+        }
+    ]
+}

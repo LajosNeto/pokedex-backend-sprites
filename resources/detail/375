@@ -1,0 +1,49 @@
+{
+    "id": 375,
+    "name": "metang",
+    "height": 1.2,
+    "weight": 202.5,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/62/375Metang.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "light-metal",
+        "description": "Halves the Pokémon's weight."
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#f6527e"
+    ],
+    "short_description": "It flies at high speeds around the skies. When it\nfinds its prey, Metang takes a firm grip with its\nsharp claws and never lets go.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "beldum",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png"
+        },
+        {
+            "name": "metang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png"
+        },
+        {
+            "name": "metagross",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png"
+        }
+    ]
+}

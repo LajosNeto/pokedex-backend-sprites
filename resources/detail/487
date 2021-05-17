@@ -1,0 +1,41 @@
+{
+    "id": 487,
+    "name": "giratina-altered",
+    "height": 4.5,
+    "weight": 750.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c5/487Giratina-Altered.png",
+    "base_stats": {
+        "hp": 150,
+        "attack": 100,
+        "defense": 120,
+        "special-attack": 100,
+        "special-defense": 120,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "ghost",
+        "dragon"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#6630f3"
+    ],
+    "short_description": "It was banished for its violence. It silently gazed\nupon the old world from the Distortion World.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "giratina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png"
+        }
+    ]
+}

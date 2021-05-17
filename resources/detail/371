@@ -1,0 +1,47 @@
+{
+    "id": 371,
+    "name": "bagon",
+    "height": 0.6,
+    "weight": 42.1,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/371Bagon.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Some theories suggest that its behavior\nof forcefully bashing its head into things\nstimulates cells that affect its evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "bagon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png"
+        },
+        {
+            "name": "shelgon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png"
+        },
+        {
+            "name": "salamence",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png"
+        }
+    ]
+}

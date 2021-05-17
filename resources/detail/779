@@ -1,0 +1,41 @@
+{
+    "id": 779,
+    "name": "bruxish",
+    "height": 0.9,
+    "weight": 19.0,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/779.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/92/779Bruxish.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 105,
+        "defense": 70,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 92
+    },
+    "abilities": {
+        "name": "wonder-skin",
+        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6527e"
+    ],
+    "short_description": "Its skin is thick enough to fend off Mareanie’s\nspikes. With its robust teeth, Bruxish crunches\nup the spikes and eats them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "bruxish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/779.png"
+        }
+    ]
+}

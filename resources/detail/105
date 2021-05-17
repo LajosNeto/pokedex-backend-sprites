@@ -1,0 +1,43 @@
+{
+    "id": 105,
+    "name": "marowak",
+    "height": 1.0,
+    "weight": 45.0,
+    "base_exp": 149,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/105.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/98/105Marowak.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "special-attack": 50,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "battle-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "When this Pokémon evolved, the skull of its\nmother fused to it. Marowak’s temperament also\nturned vicious at the same time.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "cubone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png"
+        },
+        {
+            "name": "marowak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/105.png"
+        }
+    ]
+}

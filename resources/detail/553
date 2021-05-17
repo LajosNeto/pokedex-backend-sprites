@@ -1,0 +1,49 @@
+{
+    "id": 553,
+    "name": "krookodile",
+    "height": 1.5,
+    "weight": 96.3,
+    "base_exp": 234,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/553Krookodile.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 80,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 92
+    },
+    "abilities": {
+        "name": "anger-point",
+        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#644e40"
+    ],
+    "short_description": "While terribly aggressive, Krookodile also has\nthe patience to stay hidden under sand for days,\nlying in wait for prey.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "sandile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png"
+        },
+        {
+            "name": "krokorok",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png"
+        },
+        {
+            "name": "krookodile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png"
+        }
+    ]
+}

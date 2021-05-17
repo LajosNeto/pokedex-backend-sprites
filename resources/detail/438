@@ -1,0 +1,43 @@
+{
+    "id": 438,
+    "name": "bonsly",
+    "height": 0.5,
+    "weight": 15.0,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/438.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/438Bonsly.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 80,
+        "defense": 95,
+        "special-attack": 10,
+        "special-defense": 45,
+        "speed": 10
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "This Pokémon lives in dry, rocky areas. As its\ngreen spheres dry out, their dull luster increases.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "bonsly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/438.png"
+        },
+        {
+            "name": "sudowoodo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png"
+        }
+    ]
+}

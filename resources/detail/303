@@ -1,0 +1,41 @@
+{
+    "id": 303,
+    "name": "mawile",
+    "height": 0.6,
+    "weight": 11.5,
+    "base_exp": 133,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/303.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c0/303Mawile.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#eb90a4"
+    ],
+    "short_description": "It chomps with its gaping mouth. Its huge jaws are\nactually steel horns that have been transformed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "mawile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/303.png"
+        }
+    ]
+}

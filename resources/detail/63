@@ -1,0 +1,47 @@
+{
+    "id": 63,
+    "name": "abra",
+    "height": 0.9,
+    "weight": 19.5,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/62/063Abra.png",
+    "base_stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "special-attack": 105,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "magic-guard",
+        "description": "Protects against damage not directly caused by a move."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Abra can teleport in its sleep. Apparently\nthe more deeply Abra sleeps, the farther its\nteleportations go.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "abra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png"
+        },
+        {
+            "name": "kadabra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/64.png"
+        },
+        {
+            "name": "alakazam",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png"
+        }
+    ]
+}

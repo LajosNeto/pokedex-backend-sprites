@@ -1,0 +1,45 @@
+{
+    "id": 748,
+    "name": "toxapex",
+    "height": 0.7,
+    "weight": 14.5,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/06/748Toxapex.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 63,
+        "defense": 152,
+        "special-attack": 53,
+        "special-defense": 142,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "poison",
+        "water"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#5f84ea"
+    ],
+    "short_description": "Within the poison sac in its body is a poison so\ntoxic that Pokémon as large as Wailord will still\nbe suffering three days after it first takes effect.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "mareanie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png"
+        },
+        {
+            "name": "toxapex",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png"
+        }
+    ]
+}

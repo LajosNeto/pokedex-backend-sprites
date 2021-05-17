@@ -1,0 +1,45 @@
+{
+    "id": 593,
+    "name": "jellicent",
+    "height": 2.2,
+    "weight": 135.0,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5c/593Jellicent.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 105,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "damp",
+        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+    },
+    "types": [
+        "water",
+        "ghost"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#654e8c"
+    ],
+    "short_description": "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "frillish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png"
+        },
+        {
+            "name": "jellicent",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png"
+        }
+    ]
+}

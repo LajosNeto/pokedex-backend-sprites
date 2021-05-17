@@ -1,0 +1,47 @@
+{
+    "id": 4,
+    "name": "charmander",
+    "height": 0.6,
+    "weight": 8.5,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/73/004Charmander.png",
+    "base_stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "solar-power",
+        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "From the time it is born, a flame burns at the tip\nof its tail. Its life would end if the flame were to\ngo out.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "charmander",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png"
+        },
+        {
+            "name": "charmeleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png"
+        },
+        {
+            "name": "charizard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png"
+        }
+    ]
+}

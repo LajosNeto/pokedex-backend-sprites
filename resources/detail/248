@@ -1,0 +1,49 @@
+{
+    "id": 248,
+    "name": "tyranitar",
+    "height": 2.0,
+    "weight": 202.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/82/248Tyranitar.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 134,
+        "defense": 110,
+        "special-attack": 95,
+        "special-defense": 100,
+        "speed": 61
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "rock",
+        "dark"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#644e40"
+    ],
+    "short_description": "The quakes caused when it walks make even\ngreat mountains crumble and change\nthe surrounding terrain.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "larvitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png"
+        },
+        {
+            "name": "pupitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png"
+        },
+        {
+            "name": "tyranitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png"
+        }
+    ]
+}

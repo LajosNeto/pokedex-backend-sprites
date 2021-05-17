@@ -1,0 +1,47 @@
+{
+    "id": 600,
+    "name": "klang",
+    "height": 0.6,
+    "weight": 51.0,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/80/600Klang.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 95,
+        "special-attack": 70,
+        "special-defense": 85,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "clear-body",
+        "description": "Prevents stats from being lowered by other Pokémon."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "Many companies in the Galar region choose\nKlang as their logo. This Pokémon is considered\nthe symbol of industrial technology.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "klink",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png"
+        },
+        {
+            "name": "klang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png"
+        },
+        {
+            "name": "klinklang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png"
+        }
+    ]
+}

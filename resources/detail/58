@@ -1,0 +1,43 @@
+{
+    "id": 58,
+    "name": "growlithe",
+    "height": 0.7,
+    "weight": 19.0,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/58.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/058Growlithe.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "special-attack": 70,
+        "special-defense": 50,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "Extremely loyal, it will fearlessly bark at any\nopponent to protect its own Trainer from harm.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "growlithe",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/58.png"
+        },
+        {
+            "name": "arcanine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/59.png"
+        }
+    ]
+}

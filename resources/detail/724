@@ -1,0 +1,49 @@
+{
+    "id": 724,
+    "name": "decidueye",
+    "height": 1.6,
+    "weight": 36.6,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/724Decidueye.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 107,
+        "defense": 75,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "long-reach",
+        "description": "This Pokémon's moves do not make contact."
+    },
+    "types": [
+        "grass",
+        "ghost"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#654e8c"
+    ],
+    "short_description": "In a tenth of a second, it can nock and fire an\narrow quill, piercing an opponent’s weak point\nbefore they notice what’s happening.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "rowlet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png"
+        },
+        {
+            "name": "dartrix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png"
+        },
+        {
+            "name": "decidueye",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 681,
+    "name": "aegislash-shield",
+    "height": 1.7,
+    "weight": 53.0,
+    "base_exp": 234,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/681.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/681Aegislash.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 140,
+        "special-attack": 50,
+        "special-defense": 140,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "stance-change",
+        "description": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield."
+    },
+    "types": [
+        "steel",
+        "ghost"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#654e8c"
+    ],
+    "short_description": "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "honedge",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png"
+        },
+        {
+            "name": "doublade",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/680.png"
+        },
+        {
+            "name": "aegislash",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/681.png"
+        }
+    ]
+}

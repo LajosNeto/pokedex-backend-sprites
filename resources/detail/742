@@ -1,0 +1,45 @@
+{
+    "id": 742,
+    "name": "cutiefly",
+    "height": 0.1,
+    "weight": 0.2,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/742Cutiefly.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 55,
+        "special-defense": 40,
+        "speed": 84
+    },
+    "abilities": {
+        "name": "sweet-veil",
+        "description": "Prevents friendly Pokémon from sleeping."
+    },
+    "types": [
+        "bug",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#eb90a4"
+    ],
+    "short_description": "An opponent’s aura can tell Cutiefly what that\nopponent’s next move will be. Then Cutiefly can\nglide around the attack and strike back.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "cutiefly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png"
+        },
+        {
+            "name": "ribombee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png"
+        }
+    ]
+}

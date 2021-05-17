@@ -1,0 +1,45 @@
+{
+    "id": 103,
+    "name": "exeggutor",
+    "height": 2.0,
+    "weight": 120.0,
+    "base_exp": 186,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/24/103Exeggutor.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 85,
+        "special-attack": 125,
+        "special-defense": 75,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "harvest",
+        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    },
+    "types": [
+        "grass",
+        "psychic"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#f6527e"
+    ],
+    "short_description": "When they work together, Exeggutor’s three\nheads can put out powerful psychic energy.\nCloudy days make this Pokémon sluggish.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "exeggcute",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png"
+        },
+        {
+            "name": "exeggutor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png"
+        }
+    ]
+}

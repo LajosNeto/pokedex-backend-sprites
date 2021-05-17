@@ -1,0 +1,43 @@
+{
+    "id": 569,
+    "name": "garbodor",
+    "height": 1.9,
+    "weight": 107.3,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c4/569Garbodor.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "special-attack": 60,
+        "special-defense": 82,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "aftermath",
+        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "The toxic liquid it launches from its right arm\nis so virulent that it can kill a weakened\ncreature instantly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "trubbish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/568.png"
+        },
+        {
+            "name": "garbodor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png"
+        }
+    ]
+}

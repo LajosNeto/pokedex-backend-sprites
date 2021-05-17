@@ -1,0 +1,45 @@
+{
+    "id": 695,
+    "name": "heliolisk",
+    "height": 1.0,
+    "weight": 21.0,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/695Heliolisk.png",
+    "base_stats": {
+        "hp": 62,
+        "attack": 55,
+        "defense": 52,
+        "special-attack": 109,
+        "special-defense": 94,
+        "speed": 109
+    },
+    "abilities": {
+        "name": "solar-power",
+        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    },
+    "types": [
+        "electric",
+        "normal"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#9e9e6f"
+    ],
+    "short_description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "helioptile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png"
+        },
+        {
+            "name": "heliolisk",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png"
+        }
+    ]
+}

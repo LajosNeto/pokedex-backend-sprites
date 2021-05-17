@@ -1,0 +1,41 @@
+{
+    "id": 214,
+    "name": "heracross",
+    "height": 1.5,
+    "weight": 54.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/47/214Heracross.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 75,
+        "special-attack": 40,
+        "special-defense": 95,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#b72f29"
+    ],
+    "short_description": "This Pokémon takes pride in its strength, which\nallows it to lift things 100 times heavier than\nitself with no trouble at all.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "heracross",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png"
+        }
+    ]
+}

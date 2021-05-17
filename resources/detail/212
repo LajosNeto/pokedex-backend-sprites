@@ -1,0 +1,45 @@
+{
+    "id": 212,
+    "name": "scizor",
+    "height": 1.8,
+    "weight": 118.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/55/212Scizor.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "light-metal",
+        "description": "Halves the Pokémon's weight."
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#afafc9"
+    ],
+    "short_description": "Though its body is slim, Scizor has tremendous\nattacking power. Even Scizor’s muscles are made\nof metal.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "scyther",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png"
+        },
+        {
+            "name": "scizor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png"
+        }
+    ]
+}

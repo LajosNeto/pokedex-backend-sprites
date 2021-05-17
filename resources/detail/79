@@ -1,0 +1,49 @@
+{
+    "id": 79,
+    "name": "slowpoke",
+    "height": 1.2,
+    "weight": 36.0,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/70/079Slowpoke.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6527e"
+    ],
+    "short_description": "When this Pokémon’s tail is soaked in water,\nsweetness seeps from it. Slowpoke uses this trait\nto lure in and fish up other Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "slowpoke",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png"
+        },
+        {
+            "name": "slowbro",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png"
+        },
+        {
+            "name": "slowking",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png"
+        }
+    ]
+}

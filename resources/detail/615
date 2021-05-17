@@ -1,0 +1,39 @@
+{
+    "id": 615,
+    "name": "cryogonal",
+    "height": 1.1,
+    "weight": 148.0,
+    "base_exp": 180,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/615.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/615Cryogonal.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "special-attack": 95,
+        "special-defense": 135,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ice"
+    ],
+    "types_colors": [
+        "#8ed2d2"
+    ],
+    "short_description": "They are composed of ice crystals. They capture\nprey with chains of ice, freezing the prey at\n-148 degrees Fahrenheit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cryogonal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/615.png"
+        }
+    ]
+}

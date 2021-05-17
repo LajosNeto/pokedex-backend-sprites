@@ -1,0 +1,43 @@
+{
+    "id": 554,
+    "name": "darumaka",
+    "height": 0.6,
+    "weight": 37.5,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/554.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/554Darumaka.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 45,
+        "special-attack": 15,
+        "special-defense": 45,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "inner-focus",
+        "description": "Prevents flinching."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "This popular symbol of good fortune will never\nfall over in its sleep, no matter how it’s pushed\nor pulled.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "darumaka",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/554.png"
+        },
+        {
+            "name": "darmanitan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/555.png"
+        }
+    ]
+}

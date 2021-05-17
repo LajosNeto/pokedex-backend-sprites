@@ -1,0 +1,41 @@
+{
+    "id": 701,
+    "name": "hawlucha",
+    "height": 0.8,
+    "weight": 21.5,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/701.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/44/701Hawlucha.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "special-attack": 74,
+        "special-defense": 63,
+        "speed": 118
+    },
+    "abilities": {
+        "name": "mold-breaker",
+        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+    },
+    "types": [
+        "fighting",
+        "flying"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#9e85eb"
+    ],
+    "short_description": "It always strikes a pose before going for its\nfinishing move. Sometimes opponents take\nadvantage of that time to counterattack.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "hawlucha",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/701.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 271,
+    "name": "lombre",
+    "height": 1.2,
+    "weight": 32.5,
+    "base_exp": 119,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/271Lombre.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 50,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "own-tempo",
+        "description": "Prevents confusion."
+    },
+    "types": [
+        "water",
+        "grass"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6dc04c"
+    ],
+    "short_description": "It lives at the water’s edge where it is sunny.\nIt sleeps on a bed of water grass by day and\nbecomes active at night.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "lotad",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png"
+        },
+        {
+            "name": "lombre",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png"
+        },
+        {
+            "name": "ludicolo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png"
+        }
+    ]
+}

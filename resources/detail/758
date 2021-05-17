@@ -1,0 +1,45 @@
+{
+    "id": 758,
+    "name": "salazzle",
+    "height": 1.2,
+    "weight": 22.2,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/72/758Salazzle.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 64,
+        "defense": 60,
+        "special-attack": 111,
+        "special-defense": 60,
+        "speed": 117
+    },
+    "abilities": {
+        "name": "oblivious",
+        "description": "Prevents infatuation and protects against captivate."
+    },
+    "types": [
+        "poison",
+        "fire"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#ed7835"
+    ],
+    "short_description": "The winner of competitions between Salazzle\nis decided by which one has the most male\nSalandit with it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "salandit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png"
+        },
+        {
+            "name": "salazzle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png"
+        }
+    ]
+}

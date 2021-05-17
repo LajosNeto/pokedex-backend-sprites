@@ -1,0 +1,262 @@
+[
+    {
+        "id": 841,
+        "name_en": "flapple",
+        "name_ja": "アップリュー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 842,
+        "name_en": "appletun",
+        "name_ja": "タルップル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 843,
+        "name_en": "silicobra",
+        "name_ja": "スナヘビ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/843.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 844,
+        "name_en": "sandaconda",
+        "name_ja": "サダイジャ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 845,
+        "name_en": "cramorant",
+        "name_ja": "ウッウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png",
+        "types": [
+            "flying",
+            "water"
+        ],
+        "types_colors": [
+            "#9e85eb",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 846,
+        "name_en": "arrokuda",
+        "name_ja": "サシカマス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/846.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 847,
+        "name_en": "barraskewda",
+        "name_ja": "カマスジョー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/847.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 848,
+        "name_en": "toxel",
+        "name_ja": "エレズン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png",
+        "types": [
+            "electric",
+            "poison"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 849,
+        "name_en": "toxtricity-amped",
+        "name_ja": "ストリンダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png",
+        "types": [
+            "electric",
+            "poison"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 850,
+        "name_en": "sizzlipede",
+        "name_ja": "ヤクデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png",
+        "types": [
+            "fire",
+            "bug"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 851,
+        "name_en": "centiskorch",
+        "name_ja": "マルヤクデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png",
+        "types": [
+            "fire",
+            "bug"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 852,
+        "name_en": "clobbopus",
+        "name_ja": "タタッコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/852.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 853,
+        "name_en": "grapploct",
+        "name_ja": "オトスパス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/853.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 854,
+        "name_en": "sinistea",
+        "name_ja": "ヤバチャ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 855,
+        "name_en": "polteageist",
+        "name_ja": "ポットデス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 856,
+        "name_en": "hatenna",
+        "name_ja": "ミブリム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/856.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 857,
+        "name_en": "hattrem",
+        "name_ja": "テブリム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 858,
+        "name_en": "hatterene",
+        "name_ja": "ブリムオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 859,
+        "name_en": "impidimp",
+        "name_ja": "ベロバー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png",
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 860,
+        "name_en": "morgrem",
+        "name_ja": "ギモー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/860.png",
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#eb90a4"
+        ]
+    }
+]

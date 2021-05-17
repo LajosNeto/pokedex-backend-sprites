@@ -1,0 +1,47 @@
+{
+    "id": 657,
+    "name": "frogadier",
+    "height": 0.6,
+    "weight": 10.9,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fc/657Frogadier.png",
+    "base_stats": {
+        "hp": 54,
+        "attack": 63,
+        "defense": 52,
+        "special-attack": 83,
+        "special-defense": 56,
+        "speed": 97
+    },
+    "abilities": {
+        "name": "protean",
+        "description": "Changes the bearer's type to match each move it uses."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Its swiftness is unparalleled.\nIt can scale a tower of more\nthan 2,000 feet in a minute’s time.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "froakie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png"
+        },
+        {
+            "name": "frogadier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png"
+        },
+        {
+            "name": "greninja",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png"
+        }
+    ]
+}

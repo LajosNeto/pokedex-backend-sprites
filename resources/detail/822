@@ -1,0 +1,47 @@
+{
+    "id": 822,
+    "name": "corvisquire",
+    "height": 0.8,
+    "weight": 16.0,
+    "base_exp": 128,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/822.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ec/822Corvisquire.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "special-attack": 43,
+        "special-defense": 55,
+        "speed": 77
+    },
+    "abilities": {
+        "name": "big-pecks",
+        "description": "Protects against Defense drops."
+    },
+    "types": [
+        "flying"
+    ],
+    "types_colors": [
+        "#9e85eb"
+    ],
+    "short_description": "The lessons of many harsh battles have taught it\nhow to accurately judge an opponent’s strength.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "rookidee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/821.png"
+        },
+        {
+            "name": "corvisquire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/822.png"
+        },
+        {
+            "name": "corviknight",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png"
+        }
+    ]
+}

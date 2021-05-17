@@ -1,0 +1,41 @@
+{
+    "id": 203,
+    "name": "girafarig",
+    "height": 1.5,
+    "weight": 41.5,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/203Girafarig.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 65,
+        "special-attack": 90,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "sap-sipper",
+        "description": "Absorbs grass moves, raising Attack one stage."
+    },
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#f6527e"
+    ],
+    "short_description": "Girafarig’s rear head contains a tiny brain that is too small for\nthinking. However, the rear head doesn’t need to sleep, so it\ncan keep watch over its surroundings 24 hours a day.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "girafarig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png"
+        }
+    ]
+}

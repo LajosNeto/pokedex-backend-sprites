@@ -1,0 +1,47 @@
+{
+    "id": 818,
+    "name": "inteleon",
+    "height": 1.9,
+    "weight": 45.2,
+    "base_exp": 265,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/818.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/818Inteleon.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "special-attack": 125,
+        "special-defense": 65,
+        "speed": 120
+    },
+    "abilities": {
+        "name": "sniper",
+        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Its nictitating membranes let it pick out foes’\nweak points so it can precisely blast them with\nwater that shoots from its fingertips at Mach 3.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "sobble",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/816.png"
+        },
+        {
+            "name": "drizzile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/817.png"
+        },
+        {
+            "name": "inteleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/818.png"
+        }
+    ]
+}

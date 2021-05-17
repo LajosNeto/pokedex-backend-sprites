@@ -1,0 +1,39 @@
+{
+    "id": 888,
+    "name": "zacian-hero",
+    "height": 2.8,
+    "weight": 110.0,
+    "base_exp": 335,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e3/888Zacian-Hero.png",
+    "base_stats": {
+        "hp": 92,
+        "attack": 130,
+        "defense": 115,
+        "special-attack": 80,
+        "special-defense": 115,
+        "speed": 138
+    },
+    "abilities": {
+        "name": "intrepid-sword",
+        "description": ""
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "This Pokémon has slumbered for many years.\nSome say it’s Zamazenta’s elder sister—others\nsay the two Pokémon are rivals.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "zacian",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 837,
+    "name": "rolycoly",
+    "height": 0.3,
+    "weight": 12.0,
+    "base_exp": 48,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/837.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/837Rolycoly.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "flash-fire",
+        "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "It can race around like a unicycle, even on rough,\nrocky terrain. Burning coal sustains it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "rolycoly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/837.png"
+        },
+        {
+            "name": "carkol",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png"
+        },
+        {
+            "name": "coalossal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png"
+        }
+    ]
+}

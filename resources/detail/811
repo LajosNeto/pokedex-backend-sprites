@@ -1,0 +1,47 @@
+{
+    "id": 811,
+    "name": "thwackey",
+    "height": 0.7,
+    "weight": 14.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/811.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8f/811Thwackey.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "grassy-surge",
+        "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "When it’s drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won’t even\nnotice that it’s already knocked out its opponent.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "grookey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/810.png"
+        },
+        {
+            "name": "thwackey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/811.png"
+        },
+        {
+            "name": "rillaboom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/812.png"
+        }
+    ]
+}

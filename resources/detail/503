@@ -1,0 +1,47 @@
+{
+    "id": 503,
+    "name": "samurott",
+    "height": 1.5,
+    "weight": 94.6,
+    "base_exp": 238,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b5/503Samurott.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "special-attack": 108,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "One swing of the sword incorporated in its armor\ncan fell an opponent. A simple glare from one of\nthem quiets everybody.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "oshawott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png"
+        },
+        {
+            "name": "dewott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png"
+        },
+        {
+            "name": "samurott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 732,
+    "name": "trumbeak",
+    "height": 0.6,
+    "weight": 14.8,
+    "base_exp": 124,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5c/732Trumbeak.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "pickup",
+        "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "From its mouth, it fires the seeds of berries\nit has eaten. The scattered seeds give rise\nto new plants.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "pikipek",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png"
+        },
+        {
+            "name": "trumbeak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png"
+        },
+        {
+            "name": "toucannon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png"
+        }
+    ]
+}

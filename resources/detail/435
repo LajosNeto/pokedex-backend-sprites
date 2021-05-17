@@ -1,0 +1,45 @@
+{
+    "id": 435,
+    "name": "skuntank",
+    "height": 1.0,
+    "weight": 38.0,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/435Skuntank.png",
+    "base_stats": {
+        "hp": 103,
+        "attack": 93,
+        "defense": 67,
+        "special-attack": 71,
+        "special-defense": 61,
+        "speed": 84
+    },
+    "abilities": {
+        "name": "keen-eye",
+        "description": "Prevents accuracy from being lowered."
+    },
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#644e40"
+    ],
+    "short_description": "It digs holes in the ground to make its nest.\nThe stench of the fluid it lets fly from the tip\nof its tail is extremely potent.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "stunky",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png"
+        },
+        {
+            "name": "skuntank",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png"
+        }
+    ]
+}

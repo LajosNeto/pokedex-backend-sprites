@@ -1,0 +1,47 @@
+{
+    "id": 603,
+    "name": "eelektrik",
+    "height": 1.2,
+    "weight": 22.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/603Eelektrik.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "These Pokémon have a big appetite. When they\nspot their prey, they attack it and paralyze it\nwith electricity.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tynamo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/602.png"
+        },
+        {
+            "name": "eelektrik",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png"
+        },
+        {
+            "name": "eelektross",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/604.png"
+        }
+    ]
+}

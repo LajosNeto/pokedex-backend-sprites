@@ -1,0 +1,43 @@
+{
+    "id": 100,
+    "name": "voltorb",
+    "height": 0.5,
+    "weight": 10.4,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/100.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/da/100Voltorb.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "aftermath",
+        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "It is said to camouflage itself as a Poké Ball.\nIt will self-destruct with very little stimulus.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "voltorb",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/100.png"
+        },
+        {
+            "name": "electrode",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png"
+        }
+    ]
+}

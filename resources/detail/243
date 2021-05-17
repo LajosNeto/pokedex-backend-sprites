@@ -1,0 +1,39 @@
+{
+    "id": 243,
+    "name": "raikou",
+    "height": 1.9,
+    "weight": 178.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/243Raikou.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 75,
+        "special-attack": 115,
+        "special-defense": 100,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "inner-focus",
+        "description": "Prevents flinching."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Raikou embodies the speed of lightning. The roars of\nthis Pokémon send shock waves shuddering through the\nair and shake the ground as if lightning bolts had come\ncrashing down.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "raikou",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png"
+        }
+    ]
+}

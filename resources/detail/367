@@ -1,0 +1,47 @@
+{
+    "id": 367,
+    "name": "huntail",
+    "height": 1.7,
+    "weight": 27.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/367.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/367Huntail.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 104,
+        "defense": 105,
+        "special-attack": 94,
+        "special-defense": 75,
+        "speed": 52
+    },
+    "abilities": {
+        "name": "water-veil",
+        "description": "Prevents burns."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Deep seas are their habitat. According to\ntradition, when Huntail wash up onshore,\nsomething unfortunate will happen.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "clamperl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png"
+        },
+        {
+            "name": "huntail",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/367.png"
+        },
+        {
+            "name": "gorebyss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png"
+        }
+    ]
+}

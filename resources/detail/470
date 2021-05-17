@@ -1,0 +1,71 @@
+{
+    "id": 470,
+    "name": "leafeon",
+    "height": 1.0,
+    "weight": 25.5,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f5/470Leafeon.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 110,
+        "defense": 130,
+        "special-attack": 60,
+        "special-defense": 65,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "chlorophyll",
+        "description": "Doubles Speed during strong sunlight."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "This Pokémon’s tail is blade sharp, with a\nfantastic cutting edge that can slice right\nthough large trees.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "eevee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png"
+        },
+        {
+            "name": "vaporeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png"
+        },
+        {
+            "name": "jolteon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png"
+        },
+        {
+            "name": "flareon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png"
+        },
+        {
+            "name": "espeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png"
+        },
+        {
+            "name": "umbreon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png"
+        },
+        {
+            "name": "leafeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png"
+        },
+        {
+            "name": "glaceon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png"
+        },
+        {
+            "name": "sylveon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/700.png"
+        }
+    ]
+}

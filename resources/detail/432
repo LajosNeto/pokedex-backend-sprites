@@ -1,0 +1,43 @@
+{
+    "id": 432,
+    "name": "purugly",
+    "height": 1.0,
+    "weight": 43.8,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/432.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/80/432Purugly.png",
+    "base_stats": {
+        "hp": 71,
+        "attack": 82,
+        "defense": 64,
+        "special-attack": 64,
+        "special-defense": 59,
+        "speed": 112
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "To make itself appear intimidatingly beefy, it tightly\ncinches its waist with its twin tails.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "glameow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/431.png"
+        },
+        {
+            "name": "purugly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/432.png"
+        }
+    ]
+}

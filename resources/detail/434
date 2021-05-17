@@ -1,0 +1,45 @@
+{
+    "id": 434,
+    "name": "stunky",
+    "height": 0.4,
+    "weight": 19.2,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/75/434Stunky.png",
+    "base_stats": {
+        "hp": 63,
+        "attack": 63,
+        "defense": 47,
+        "special-attack": 41,
+        "special-defense": 41,
+        "speed": 74
+    },
+    "abilities": {
+        "name": "keen-eye",
+        "description": "Prevents accuracy from being lowered."
+    },
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#644e40"
+    ],
+    "short_description": "If it lifts its tail and points its rear at you, beware.\nIt’s about to spray you with a fluid stinky enough\nto make you faint.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "stunky",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png"
+        },
+        {
+            "name": "skuntank",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png"
+        }
+    ]
+}

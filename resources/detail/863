@@ -1,0 +1,47 @@
+{
+    "id": 863,
+    "name": "perrserker",
+    "height": 0.8,
+    "weight": 28.0,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/863.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e0/863Perrserker.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 100,
+        "special-attack": 50,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "steely-spirit",
+        "description": ""
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "After many battles, it evolved dangerous\nclaws that come together to form daggers\nwhen extended.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "meowth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/52.png"
+        },
+        {
+            "name": "persian",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/53.png"
+        },
+        {
+            "name": "perrserker",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/863.png"
+        }
+    ]
+}

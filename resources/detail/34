@@ -1,0 +1,49 @@
+{
+    "id": 34,
+    "name": "nidoking",
+    "height": 1.4,
+    "weight": 62.0,
+    "base_exp": 227,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c6/034Nidoking.png",
+    "base_stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "poison",
+        "ground"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#dbb963"
+    ],
+    "short_description": "Its steel-like hide adds to its powerful tackle.\nIts horns are so hard, they can pierce a diamond.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "nidoran-m",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png"
+        },
+        {
+            "name": "nidorino",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png"
+        },
+        {
+            "name": "nidoking",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png"
+        }
+    ]
+}

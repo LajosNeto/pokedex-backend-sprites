@@ -1,0 +1,43 @@
+{
+    "id": 299,
+    "name": "nosepass",
+    "height": 1.0,
+    "weight": 97.0,
+    "base_exp": 75,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/89/299Nosepass.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 135,
+        "special-attack": 45,
+        "special-defense": 90,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "sand-force",
+        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "It hunts without twitching a muscle by pulling in\nits prey with powerful magnetism. But\nsometimes it pulls natural enemies in close.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "nosepass",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png"
+        },
+        {
+            "name": "probopass",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png"
+        }
+    ]
+}

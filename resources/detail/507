@@ -1,0 +1,47 @@
+{
+    "id": 507,
+    "name": "herdier",
+    "height": 0.9,
+    "weight": 14.7,
+    "base_exp": 130,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/507.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/96/507Herdier.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 65,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "The black fur that covers this Pokémon’s body\nis dense and springy. Even sharp fangs bounce\nright off.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "lillipup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/506.png"
+        },
+        {
+            "name": "herdier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/507.png"
+        },
+        {
+            "name": "stoutland",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/508.png"
+        }
+    ]
+}

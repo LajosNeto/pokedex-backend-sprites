@@ -1,0 +1,45 @@
+{
+    "id": 278,
+    "name": "wingull",
+    "height": 0.6,
+    "weight": 9.5,
+    "base_exp": 54,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/278.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/39/278Wingull.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 55,
+        "special-defense": 30,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "water",
+        "flying"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#9e85eb"
+    ],
+    "short_description": "It soars on updrafts without flapping its wings.\nIt makes a nest on sheer cliffs at the sea’s edge.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "wingull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/278.png"
+        },
+        {
+            "name": "pelipper",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/279.png"
+        }
+    ]
+}

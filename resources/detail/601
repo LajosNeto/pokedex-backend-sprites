@@ -1,0 +1,47 @@
+{
+    "id": 601,
+    "name": "klinklang",
+    "height": 0.6,
+    "weight": 81.0,
+    "base_exp": 234,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cf/601Klinklang.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 115,
+        "special-attack": 70,
+        "special-defense": 85,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "clear-body",
+        "description": "Prevents stats from being lowered by other Pokémon."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "The three gears that compose this Pokémon\nspin at high speed. Its new spiked gear isn’t\na living creature.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "klink",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png"
+        },
+        {
+            "name": "klang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png"
+        },
+        {
+            "name": "klinklang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png"
+        }
+    ]
+}

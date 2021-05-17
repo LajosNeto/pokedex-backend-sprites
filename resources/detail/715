@@ -1,0 +1,45 @@
+{
+    "id": 715,
+    "name": "noivern",
+    "height": 1.5,
+    "weight": 85.0,
+    "base_exp": 187,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/15/715Noivern.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 70,
+        "defense": 80,
+        "special-attack": 97,
+        "special-defense": 80,
+        "speed": 123
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "flying",
+        "dragon"
+    ],
+    "types_colors": [
+        "#9e85eb",
+        "#6630f3"
+    ],
+    "short_description": "Flying through the darkness, it weakens enemies\nwith ultrasonic waves that could crush stone.\nIts fangs finish the fight.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "noibat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png"
+        },
+        {
+            "name": "noivern",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png"
+        }
+    ]
+}

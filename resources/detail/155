@@ -1,0 +1,47 @@
+{
+    "id": 155,
+    "name": "cyndaquil",
+    "height": 0.5,
+    "weight": 7.9,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/155.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/155Cyndaquil.png",
+    "base_stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "flash-fire",
+        "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "Cyndaquil protects itself by flaring up the flames on its back.\nThe flames are vigorous if the Pokémon is angry. However, if it\nis tired, the flames splutter fitfully with incomplete combustion.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "cyndaquil",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/155.png"
+        },
+        {
+            "name": "quilava",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/156.png"
+        },
+        {
+            "name": "typhlosion",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/157.png"
+        }
+    ]
+}

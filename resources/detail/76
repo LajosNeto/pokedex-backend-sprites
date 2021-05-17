@@ -1,0 +1,49 @@
+{
+    "id": 76,
+    "name": "golem",
+    "height": 1.4,
+    "weight": 300.0,
+    "base_exp": 223,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f2/076Golem.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#dbb963"
+    ],
+    "short_description": "Once it sheds its skin, its body turns tender\nand whitish. Its hide hardens when it’s\nexposed to air.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "geodude",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png"
+        },
+        {
+            "name": "graveler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png"
+        },
+        {
+            "name": "golem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png"
+        }
+    ]
+}

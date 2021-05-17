@@ -1,0 +1,250 @@
+[
+    {
+        "id": 101,
+        "name_en": "electrode",
+        "name_ja": "マルマイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 102,
+        "name_en": "exeggcute",
+        "name_ja": "タマタマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 103,
+        "name_en": "exeggutor",
+        "name_ja": "ナッシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 104,
+        "name_en": "cubone",
+        "name_ja": "カラカラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 105,
+        "name_en": "marowak",
+        "name_ja": "ガラガラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/105.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 106,
+        "name_en": "hitmonlee",
+        "name_ja": "サワムラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 107,
+        "name_en": "hitmonchan",
+        "name_ja": "エビワラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 108,
+        "name_en": "lickitung",
+        "name_ja": "ベロリンガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/108.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 109,
+        "name_en": "koffing",
+        "name_ja": "ドガース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 110,
+        "name_en": "weezing",
+        "name_ja": "マタドガス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 111,
+        "name_en": "rhyhorn",
+        "name_ja": "サイホーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 112,
+        "name_en": "rhydon",
+        "name_ja": "サイドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 113,
+        "name_en": "chansey",
+        "name_ja": "ラッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 114,
+        "name_en": "tangela",
+        "name_ja": "モンジャラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/114.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 115,
+        "name_en": "kangaskhan",
+        "name_ja": "ガルーラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/115.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 116,
+        "name_en": "horsea",
+        "name_ja": "タッツー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/116.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 117,
+        "name_en": "seadra",
+        "name_ja": "シードラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/117.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 118,
+        "name_en": "goldeen",
+        "name_ja": "トサキント",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 119,
+        "name_en": "seaking",
+        "name_ja": "アズマオウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/119.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 120,
+        "name_en": "staryu",
+        "name_ja": "ヒトデマン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    }
+]

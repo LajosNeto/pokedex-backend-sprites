@@ -1,0 +1,39 @@
+{
+    "id": 128,
+    "name": "tauros",
+    "height": 1.4,
+    "weight": 88.4,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/128.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b8/128Tauros.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "The Tauros of the Galar region are volatile in\nnature, and they won’t allow people to ride on\ntheir backs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "tauros",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/128.png"
+        }
+    ]
+}

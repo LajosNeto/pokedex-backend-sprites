@@ -1,0 +1,41 @@
+{
+    "id": 337,
+    "name": "lunatone",
+    "height": 1.0,
+    "weight": 168.0,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/eb/337Lunatone.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 55,
+        "defense": 65,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "rock",
+        "psychic"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#f6527e"
+    ],
+    "short_description": "It was discovered at the site of a meteor strike\n40 years ago. Its stare can lull its foes to sleep.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "fast",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "lunatone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png"
+        }
+    ]
+}

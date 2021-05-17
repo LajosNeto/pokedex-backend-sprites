@@ -1,0 +1,47 @@
+{
+    "id": 36,
+    "name": "clefable",
+    "height": 1.3,
+    "weight": 40.0,
+    "base_exp": 217,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/036Clefable.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "unaware",
+        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "Their ears are sensitive enough to hear a pin\ndrop from over a mile away, so they’re usually\nfound in quiet places.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "cleffa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png"
+        },
+        {
+            "name": "clefairy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png"
+        },
+        {
+            "name": "clefable",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png"
+        }
+    ]
+}

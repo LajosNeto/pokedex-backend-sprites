@@ -1,0 +1,41 @@
+{
+    "id": 776,
+    "name": "turtonator",
+    "height": 2.0,
+    "weight": 212.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/15/776Turtonator.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 135,
+        "special-attack": 91,
+        "special-defense": 85,
+        "speed": 36
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "fire",
+        "dragon"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#6630f3"
+    ],
+    "short_description": "Eating sulfur in its volcanic habitat is what causes\nexplosive compounds to develop in its shell.\nIts droppings are also dangerously explosive.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "turtonator",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png"
+        }
+    ]
+}

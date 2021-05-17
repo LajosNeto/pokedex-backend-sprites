@@ -1,0 +1,41 @@
+{
+    "id": 877,
+    "name": "morpeko",
+    "height": 0.3,
+    "weight": 3.0,
+    "base_exp": 153,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/51/877Morpeko.png",
+    "base_stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "special-attack": 70,
+        "special-defense": 58,
+        "speed": 97
+    },
+    "abilities": {
+        "name": "hunger-switch",
+        "description": ""
+    },
+    "types": [
+        "electric",
+        "dark"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#644e40"
+    ],
+    "short_description": "It carries electrically roasted seeds with it as if\nthey’re precious treasures. No matter how much\nit eats, it always gets hungry again in short order.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "morpeko",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png"
+        }
+    ]
+}

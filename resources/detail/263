@@ -1,0 +1,47 @@
+{
+    "id": 263,
+    "name": "zigzagoon",
+    "height": 0.4,
+    "weight": 17.5,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/47/263Zigzagoon.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "special-attack": 30,
+        "special-defense": 41,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "quick-feet",
+        "description": "Increases Speed to 1.5× with a major status ailment."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Zigzagoon that adapted to regions outside\nGalar acquired this appearance. If you’ve lost\nsomething, this Pokémon can likely find it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "zigzagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png"
+        },
+        {
+            "name": "linoone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png"
+        },
+        {
+            "name": "obstagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png"
+        }
+    ]
+}

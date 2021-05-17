@@ -1,0 +1,45 @@
+{
+    "id": 168,
+    "name": "ariados",
+    "height": 1.1,
+    "weight": 33.5,
+    "base_exp": 140,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/76/168Ariados.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "sniper",
+        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "spinarak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png"
+        },
+        {
+            "name": "ariados",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png"
+        }
+    ]
+}

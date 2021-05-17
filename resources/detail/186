@@ -1,0 +1,47 @@
+{
+    "id": 186,
+    "name": "politoed",
+    "height": 1.1,
+    "weight": 33.9,
+    "base_exp": 225,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/186.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/186Politoed.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "drizzle",
+        "description": "Summons rain that lasts indefinitely upon entering battle."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "The cry of a male is louder than that of a female.\nMale Politoed with deep, menacing voices find\nmore popularity with the opposite gender.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "poliwag",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/60.png"
+        },
+        {
+            "name": "poliwhirl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/61.png"
+        },
+        {
+            "name": "poliwrath",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png"
+        }
+    ]
+}

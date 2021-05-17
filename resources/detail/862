@@ -1,0 +1,49 @@
+{
+    "id": 862,
+    "name": "obstagoon",
+    "height": 1.6,
+    "weight": 46.0,
+    "base_exp": 260,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/08/862Obstagoon.png",
+    "base_stats": {
+        "hp": 93,
+        "attack": 90,
+        "defense": 101,
+        "special-attack": 60,
+        "special-defense": 81,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "dark",
+        "normal"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#9e9e6f"
+    ],
+    "short_description": "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "zigzagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png"
+        },
+        {
+            "name": "linoone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png"
+        },
+        {
+            "name": "obstagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png"
+        }
+    ]
+}

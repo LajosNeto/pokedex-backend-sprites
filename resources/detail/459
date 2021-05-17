@@ -1,0 +1,45 @@
+{
+    "id": 459,
+    "name": "snover",
+    "height": 1.0,
+    "weight": 50.5,
+    "base_exp": 67,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/459Snover.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 50,
+        "special-attack": 62,
+        "special-defense": 60,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "soundproof",
+        "description": "Protects against sound-based moves."
+    },
+    "types": [
+        "grass",
+        "ice"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#8ed2d2"
+    ],
+    "short_description": "The berries that grow around its belly are like\nice pops. Galarian Darumaka absolutely love\nthese berries.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "snover",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png"
+        },
+        {
+            "name": "abomasnow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 865,
+    "name": "sirfetchd",
+    "height": 0.8,
+    "weight": 117.0,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/865.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/38/865Sirfetch%27d.png",
+    "base_stats": {
+        "hp": 62,
+        "attack": 135,
+        "defense": 95,
+        "special-attack": 68,
+        "special-defense": 82,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "After deflecting attacks with its hard leaf shield,\nit strikes back with its sharp leek stalk. The leek\nstalk is both weapon and food.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "farfetchd",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/83.png"
+        },
+        {
+            "name": "sirfetchd",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/865.png"
+        }
+    ]
+}

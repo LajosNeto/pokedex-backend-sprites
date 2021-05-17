@@ -1,0 +1,45 @@
+{
+    "id": 668,
+    "name": "pyroar",
+    "height": 1.5,
+    "weight": 81.5,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/70/668Pyroar.png",
+    "base_stats": {
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "special-attack": 109,
+        "special-defense": 66,
+        "speed": 106
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "fire",
+        "normal"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9e9e6f"
+    ],
+    "short_description": "The temperature of its breath is over 10,000\ndegrees Fahrenheit, but Pyroar doesn’t use it on\nits prey. This Pokémon prefers to eat raw meat.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "litleo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png"
+        },
+        {
+            "name": "pyroar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 496,
+    "name": "servine",
+    "height": 0.8,
+    "weight": 16.0,
+    "base_exp": 145,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/496.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/73/496Servine.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 83
+    },
+    "abilities": {
+        "name": "contrary",
+        "description": "Inverts stat changes."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "When it gets dirty, its leaves can’t be used in\nphotosynthesis, so it always keeps itself clean.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "snivy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/495.png"
+        },
+        {
+            "name": "servine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/496.png"
+        },
+        {
+            "name": "serperior",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/497.png"
+        }
+    ]
+}

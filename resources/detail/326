@@ -1,0 +1,43 @@
+{
+    "id": 326,
+    "name": "grumpig",
+    "height": 0.9,
+    "weight": 71.5,
+    "base_exp": 165,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/326.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/54/326Grumpig.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 45,
+        "defense": 65,
+        "special-attack": 90,
+        "special-defense": 110,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "gluttony",
+        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Grumpig uses the black pearls on its body to wield\nits fantastic powers. When it is doing so, it dances bizarrely.\nThis Pokémon’s black pearls are valuable as works of art.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "spoink",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/325.png"
+        },
+        {
+            "name": "grumpig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/326.png"
+        }
+    ]
+}

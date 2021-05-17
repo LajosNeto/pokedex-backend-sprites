@@ -1,0 +1,47 @@
+{
+    "id": 506,
+    "name": "lillipup",
+    "height": 0.4,
+    "weight": 4.1,
+    "base_exp": 55,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/506.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/506Lillipup.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 45,
+        "special-attack": 25,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "run-away",
+        "description": "Ensures success fleeing from wild battles."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This Pokémon is far brighter than the average\nchild, and Lillipup won’t forget the love it\nreceives or any abuse it suffers.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "lillipup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/506.png"
+        },
+        {
+            "name": "herdier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/507.png"
+        },
+        {
+            "name": "stoutland",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/508.png"
+        }
+    ]
+}

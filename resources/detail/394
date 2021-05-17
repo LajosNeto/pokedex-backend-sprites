@@ -1,0 +1,47 @@
+{
+    "id": 394,
+    "name": "prinplup",
+    "height": 0.8,
+    "weight": 23.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/394.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/df/394Prinplup.png",
+    "base_stats": {
+        "hp": 64,
+        "attack": 66,
+        "defense": 68,
+        "special-attack": 81,
+        "special-defense": 76,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It lives a solitary life. Its wings deliver wicked blows\nthat can snap even the thickest of trees.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "piplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/393.png"
+        },
+        {
+            "name": "prinplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/394.png"
+        },
+        {
+            "name": "empoleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png"
+        }
+    ]
+}

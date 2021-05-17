@@ -1,0 +1,41 @@
+{
+    "id": 802,
+    "name": "marshadow",
+    "height": 0.7,
+    "weight": 22.2,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/802.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/89/802Marshadow.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 90,
+        "speed": 125
+    },
+    "abilities": {
+        "name": "technician",
+        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    "types": [
+        "fighting",
+        "ghost"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#654e8c"
+    ],
+    "short_description": "This Pokémon can conceal itself in any shadow,\nso it went undiscovered for a long time.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "marshadow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/802.png"
+        }
+    ]
+}

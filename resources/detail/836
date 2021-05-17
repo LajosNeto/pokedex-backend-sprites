@@ -1,0 +1,43 @@
+{
+    "id": 836,
+    "name": "boltund",
+    "height": 1.0,
+    "weight": 34.0,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/836.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/836Boltund.png",
+    "base_stats": {
+        "hp": 69,
+        "attack": 90,
+        "defense": 60,
+        "special-attack": 90,
+        "special-defense": 60,
+        "speed": 121
+    },
+    "abilities": {
+        "name": "competitive",
+        "description": "Raises Special Attack by two stages upon having any stat lowered."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "It sends electricity through its legs to boost their\nstrength. Running at top speed, it easily breaks\n50 mph.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "yamper",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/835.png"
+        },
+        {
+            "name": "boltund",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/836.png"
+        }
+    ]
+}

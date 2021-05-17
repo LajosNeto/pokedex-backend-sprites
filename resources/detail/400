@@ -1,0 +1,45 @@
+{
+    "id": 400,
+    "name": "bibarel",
+    "height": 1.0,
+    "weight": 31.5,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/91/400Bibarel.png",
+    "base_stats": {
+        "hp": 79,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 71
+    },
+    "abilities": {
+        "name": "moody",
+        "description": "Raises a random stat two stages and lowers another one stage after each turn."
+    },
+    "types": [
+        "normal",
+        "water"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#5f84ea"
+    ],
+    "short_description": "It makes its nest by damming streams with bark and\nmud. It is known as an industrious worker.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "bidoof",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png"
+        },
+        {
+            "name": "bibarel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png"
+        }
+    ]
+}

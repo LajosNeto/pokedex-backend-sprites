@@ -1,0 +1,39 @@
+{
+    "id": 486,
+    "name": "regigigas",
+    "height": 3.7,
+    "weight": 420.0,
+    "base_exp": 302,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/486.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/486Regigigas.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 160,
+        "defense": 110,
+        "special-attack": 80,
+        "special-defense": 110,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "slow-start",
+        "description": "Halves Attack and Speed for five turns upon entering battle."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "There is an enduring legend that states this\nPokémon towed continents with ropes.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "regigigas",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/486.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 249,
+    "name": "lugia",
+    "height": 5.2,
+    "weight": 216.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/249.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/44/249Lugia.png",
+    "base_stats": {
+        "hp": 106,
+        "attack": 90,
+        "defense": 130,
+        "special-attack": 90,
+        "special-defense": 154,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "multiscale",
+        "description": "Halves damage taken from full HP."
+    },
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#9e85eb"
+    ],
+    "short_description": "Lugia’s wings pack devastating power—a light fluttering of its\nwings can blow apart regular houses. As a result, this\nPokémon chooses to live out of sight deep under the sea.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "rare",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "lugia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/249.png"
+        }
+    ]
+}

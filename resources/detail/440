@@ -1,0 +1,47 @@
+{
+    "id": 440,
+    "name": "happiny",
+    "height": 0.6,
+    "weight": 24.4,
+    "base_exp": 110,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/27/440Happiny.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 5,
+        "defense": 5,
+        "special-attack": 15,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Happiny’s willing to lend its precious round stone\nto those it’s friendly with, but if the stone isn’t\nreturned, Happiny will cry and throw a tantrum.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "happiny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png"
+        },
+        {
+            "name": "chansey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png"
+        },
+        {
+            "name": "blissey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/242.png"
+        }
+    ]
+}

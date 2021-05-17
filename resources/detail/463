@@ -1,0 +1,43 @@
+{
+    "id": 463,
+    "name": "lickilicky",
+    "height": 1.7,
+    "weight": 140.0,
+    "base_exp": 180,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/463.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/463Lickilicky.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 85,
+        "defense": 95,
+        "special-attack": 80,
+        "special-defense": 95,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "cloud-nine",
+        "description": "Negates all effects of weather, but does not prevent the weather itself."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Lickilicky can do just about anything with its\ntongue, which is as dexterous as the human hand.\nIn contrast, Lickilicky’s use of its fingers is clumsy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "lickitung",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/108.png"
+        },
+        {
+            "name": "lickilicky",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/463.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 112,
+    "name": "rhydon",
+    "height": 1.9,
+    "weight": 120.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/47/112Rhydon.png",
+    "base_stats": {
+        "hp": 105,
+        "attack": 130,
+        "defense": 120,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "ground",
+        "rock"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#af9539"
+    ],
+    "short_description": "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "rhyhorn",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png"
+        },
+        {
+            "name": "rhydon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png"
+        },
+        {
+            "name": "rhyperior",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png"
+        }
+    ]
+}

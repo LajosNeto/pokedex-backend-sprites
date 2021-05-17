@@ -1,0 +1,49 @@
+{
+    "id": 521,
+    "name": "unfezant",
+    "height": 1.2,
+    "weight": 29.0,
+    "base_exp": 220,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/521Unfezant.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 115,
+        "defense": 80,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 93
+    },
+    "abilities": {
+        "name": "rivalry",
+        "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "This Pokémon is intelligent and intensely proud.\nPeople will sit up and take notice if you become\nthe Trainer of one.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "pidove",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png"
+        },
+        {
+            "name": "tranquill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png"
+        },
+        {
+            "name": "unfezant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png"
+        }
+    ]
+}

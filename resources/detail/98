@@ -1,0 +1,43 @@
+{
+    "id": 98,
+    "name": "krabby",
+    "height": 0.4,
+    "weight": 6.5,
+    "base_exp": 65,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/98.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/098Krabby.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "If it senses danger approaching, it cloaks itself\nwith bubbles from its mouth so it will look bigger.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "krabby",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/98.png"
+        },
+        {
+            "name": "kingler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/99.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 255,
+    "name": "torchic",
+    "height": 0.4,
+    "weight": 2.5,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/255.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/91/255Torchic.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 40,
+        "special-attack": 70,
+        "special-defense": 50,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "speed-boost",
+        "description": "Raises Speed one stage after each turn."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "Torchic has a place inside its body where it keeps its flame.\nGive it a hug—it will be glowing with warmth. This Pokémon is\ncovered all over by a fluffy coat of down.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "torchic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/255.png"
+        },
+        {
+            "name": "combusken",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png"
+        },
+        {
+            "name": "blaziken",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/257.png"
+        }
+    ]
+}

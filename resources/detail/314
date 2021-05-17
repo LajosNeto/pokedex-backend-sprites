@@ -1,0 +1,39 @@
+{
+    "id": 314,
+    "name": "illumise",
+    "height": 0.6,
+    "weight": 17.7,
+    "base_exp": 151,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/314.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/55/314Illumise.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 47,
+        "defense": 75,
+        "special-attack": 73,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Illumise leads a flight of illuminated Volbeat to draw signs in\nthe night sky. This Pokémon is said to earn greater respect\nfrom its peers by composing more complex designs in the sky.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "illumise",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/314.png"
+        }
+    ]
+}

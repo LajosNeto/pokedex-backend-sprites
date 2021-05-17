@@ -1,0 +1,45 @@
+{
+    "id": 460,
+    "name": "abomasnow",
+    "height": 2.2,
+    "weight": 135.5,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/460Abomasnow.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 75,
+        "special-attack": 92,
+        "special-defense": 85,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "soundproof",
+        "description": "Protects against sound-based moves."
+    },
+    "types": [
+        "grass",
+        "ice"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#8ed2d2"
+    ],
+    "short_description": "This Pokémon is known to bring blizzards.\nA shake of its massive body is enough to\ncause whiteout conditions.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "snover",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png"
+        },
+        {
+            "name": "abomasnow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 699,
+    "name": "aurorus",
+    "height": 2.7,
+    "weight": 225.0,
+    "base_exp": 104,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/699.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9e/699Aurorus.png",
+    "base_stats": {
+        "hp": 123,
+        "attack": 77,
+        "defense": 72,
+        "special-attack": 99,
+        "special-defense": 92,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "snow-warning",
+        "description": "Summons hail that lasts indefinitely upon entering battle."
+    },
+    "types": [
+        "rock",
+        "ice"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#8ed2d2"
+    ],
+    "short_description": "This usually quiet and kindly Pokémon has a\nsurface temperature of around\n–240 degrees Fahrenheit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "amaura",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/698.png"
+        },
+        {
+            "name": "aurorus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/699.png"
+        }
+    ]
+}

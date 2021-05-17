@@ -1,0 +1,49 @@
+{
+    "id": 330,
+    "name": "flygon",
+    "height": 2.0,
+    "weight": 82.0,
+    "base_exp": 234,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/330Flygon.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 80,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ground",
+        "dragon"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#6630f3"
+    ],
+    "short_description": "It is nicknamed the Desert Spirit because the\nflapping of its wings sounds like a woman singing.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "trapinch",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png"
+        },
+        {
+            "name": "vibrava",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/329.png"
+        },
+        {
+            "name": "flygon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png"
+        }
+    ]
+}

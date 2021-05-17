@@ -1,0 +1,45 @@
+{
+    "id": 425,
+    "name": "drifloon",
+    "height": 0.4,
+    "weight": 1.2,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/eb/425Drifloon.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 50,
+        "defense": 34,
+        "special-attack": 60,
+        "special-defense": 44,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "flare-boost",
+        "description": "Increases Special Attack to 1.5× when burned."
+    },
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#9e85eb"
+    ],
+    "short_description": "The gathering of many souls gave rise to this\nPokémon. During humid seasons, they seem to\nappear in abundance.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "drifloon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png"
+        },
+        {
+            "name": "drifblim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png"
+        }
+    ]
+}

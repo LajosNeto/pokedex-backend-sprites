@@ -1,0 +1,41 @@
+{
+    "id": 795,
+    "name": "pheromosa",
+    "height": 1.8,
+    "weight": 25.0,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/795.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/795Pheromosa.png",
+    "base_stats": {
+        "hp": 71,
+        "attack": 137,
+        "defense": 37,
+        "special-attack": 137,
+        "special-defense": 37,
+        "speed": 151
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#b72f29"
+    ],
+    "short_description": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "pheromosa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/795.png"
+        }
+    ]
+}

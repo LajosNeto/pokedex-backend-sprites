@@ -1,0 +1,47 @@
+{
+    "id": 670,
+    "name": "floette",
+    "height": 0.2,
+    "weight": 0.9,
+    "base_exp": 130,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/17/670Floette.png",
+    "base_stats": {
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "special-attack": 75,
+        "special-defense": 98,
+        "speed": 52
+    },
+    "abilities": {
+        "name": "symbiosis",
+        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "It gives its own power to flowers, pouring its\nheart into caring for them. Floette never forgives\nanyone who messes up a flower bed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "flabebe",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png"
+        },
+        {
+            "name": "floette",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png"
+        },
+        {
+            "name": "florges",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png"
+        }
+    ]
+}

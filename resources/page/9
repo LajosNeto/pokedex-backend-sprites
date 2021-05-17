@@ -1,0 +1,262 @@
+[
+    {
+        "id": 181,
+        "name_en": "ampharos",
+        "name_ja": "デンリュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 182,
+        "name_en": "bellossom",
+        "name_ja": "キレイハナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/182.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 183,
+        "name_en": "marill",
+        "name_ja": "マリル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 184,
+        "name_en": "azumarill",
+        "name_ja": "マリルリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 185,
+        "name_en": "sudowoodo",
+        "name_ja": "ウソッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 186,
+        "name_en": "politoed",
+        "name_ja": "ニョロトノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/186.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 187,
+        "name_en": "hoppip",
+        "name_ja": "ハネッコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 188,
+        "name_en": "skiploom",
+        "name_ja": "ポポッコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png",
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 189,
+        "name_en": "jumpluff",
+        "name_ja": "ワタッコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png",
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 190,
+        "name_en": "aipom",
+        "name_ja": "エイパム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/190.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 191,
+        "name_en": "sunkern",
+        "name_ja": "ヒマナッツ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 192,
+        "name_en": "sunflora",
+        "name_ja": "キマワリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/192.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 193,
+        "name_en": "yanma",
+        "name_ja": "ヤンヤンマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/193.png",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 194,
+        "name_en": "wooper",
+        "name_ja": "ウパー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 195,
+        "name_en": "quagsire",
+        "name_ja": "ヌオー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 196,
+        "name_en": "espeon",
+        "name_ja": "エーフィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 197,
+        "name_en": "umbreon",
+        "name_ja": "ブラッキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png",
+        "types": [
+            "dark"
+        ],
+        "types_colors": [
+            "#644e40"
+        ]
+    },
+    {
+        "id": 198,
+        "name_en": "murkrow",
+        "name_ja": "ヤミカラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png",
+        "types": [
+            "dark",
+            "flying"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 199,
+        "name_en": "slowking",
+        "name_ja": "ヤドキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 200,
+        "name_en": "misdreavus",
+        "name_ja": "ムウマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    }
+]

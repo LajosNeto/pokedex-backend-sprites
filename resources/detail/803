@@ -1,0 +1,43 @@
+{
+    "id": 803,
+    "name": "poipole",
+    "height": 0.6,
+    "weight": 1.8,
+    "base_exp": 189,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/803Poipole.png",
+    "base_stats": {
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "special-attack": 73,
+        "special-defense": 67,
+        "speed": 73
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "An Ultra Beast that lives in a different world, it\ncackles wildly as it sprays its opponents with\npoison from the needles on its head.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "poipole",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png"
+        },
+        {
+            "name": "naganadel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png"
+        }
+    ]
+}

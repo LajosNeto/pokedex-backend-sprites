@@ -1,0 +1,45 @@
+{
+    "id": 623,
+    "name": "golurk",
+    "height": 2.8,
+    "weight": 330.0,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/68/623Golurk.png",
+    "base_stats": {
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "no-guard",
+        "description": "Ensures all moves used by and against the Pokémon hit."
+    },
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#654e8c"
+    ],
+    "short_description": "There’s a theory that inside Golurk is a perpetual\nmotion machine that produces limitless energy,\nbut this belief hasn’t been proven.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "golett",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png"
+        },
+        {
+            "name": "golurk",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png"
+        }
+    ]
+}

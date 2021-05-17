@@ -1,0 +1,43 @@
+{
+    "id": 408,
+    "name": "cranidos",
+    "height": 0.9,
+    "weight": 31.5,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/408Cranidos.png",
+    "base_stats": {
+        "hp": 67,
+        "attack": 125,
+        "defense": 40,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "Its hard skull is its distinguishing feature. It\nsnapped trees by headbutting them, and then\nit fed on their ripe berries.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cranidos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png"
+        },
+        {
+            "name": "rampardos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png"
+        }
+    ]
+}

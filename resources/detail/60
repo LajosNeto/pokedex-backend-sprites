@@ -1,0 +1,47 @@
+{
+    "id": 60,
+    "name": "poliwag",
+    "height": 0.6,
+    "weight": 12.4,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/60.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/49/060Poliwag.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "In rivers with fast-flowing water, this Pokémon will\ncling to a rock by using its thick lips, which act\nlike a suction cup.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "poliwag",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/60.png"
+        },
+        {
+            "name": "poliwhirl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/61.png"
+        },
+        {
+            "name": "poliwrath",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 235,
+    "name": "smeargle",
+    "height": 1.2,
+    "weight": 58.0,
+    "base_exp": 88,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/235.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/92/235Smeargle.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 45,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "moody",
+        "description": "Raises a random stat two stages and lowers another one stage after each turn."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "It draws symbols with the fluid that oozes from\nthe tip of its tail. Depending on the symbol,\nSmeargle fanatics will pay big money for them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "smeargle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/235.png"
+        }
+    ]
+}

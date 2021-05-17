@@ -1,0 +1,49 @@
+{
+    "id": 69,
+    "name": "bellsprout",
+    "height": 0.7,
+    "weight": 4.0,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/69.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a2/069Bellsprout.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 35,
+        "special-attack": 70,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "gluttony",
+        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "Prefers hot and humid places. It ensnares\ntiny bugs with its vines and devours them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "bellsprout",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/69.png"
+        },
+        {
+            "name": "weepinbell",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/70.png"
+        },
+        {
+            "name": "victreebel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/71.png"
+        }
+    ]
+}

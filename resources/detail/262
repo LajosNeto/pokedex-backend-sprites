@@ -1,0 +1,43 @@
+{
+    "id": 262,
+    "name": "mightyena",
+    "height": 1.0,
+    "weight": 37.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/262.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/262Mightyena.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Mightyena travel and act as a pack in the wild. The memory\nof its life in the wild compels the Pokémon to obey only\nthose Trainers that it recognizes to possess superior skill.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "poochyena",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/261.png"
+        },
+        {
+            "name": "mightyena",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/262.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 95,
+    "name": "onix",
+    "height": 8.8,
+    "weight": 210.0,
+    "base_exp": 77,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9a/095Onix.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "special-attack": 30,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#dbb963"
+    ],
+    "short_description": "It rapidly bores through the ground at 50 mph by\nsquirming and twisting its massive, rugged body.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "onix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png"
+        },
+        {
+            "name": "steelix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png"
+        }
+    ]
+}

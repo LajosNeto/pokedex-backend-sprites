@@ -1,0 +1,43 @@
+{
+    "id": 449,
+    "name": "hippopotas",
+    "height": 0.8,
+    "weight": 49.5,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ab/449Hippopotas.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "special-attack": 38,
+        "special-defense": 42,
+        "speed": 32
+    },
+    "abilities": {
+        "name": "sand-force",
+        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "This Pokémon is active during the day and passes\nthe cold desert nights burrowed snugly into\nthe sand.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "hippopotas",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png"
+        },
+        {
+            "name": "hippowdon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png"
+        }
+    ]
+}

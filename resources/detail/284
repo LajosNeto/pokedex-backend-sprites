@@ -1,0 +1,45 @@
+{
+    "id": 284,
+    "name": "masquerain",
+    "height": 0.8,
+    "weight": 3.6,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/284Masquerain.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 62,
+        "special-attack": 100,
+        "special-defense": 82,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "Its thin, winglike antennae are highly absorbent.\nIt waits out rainy days in tree hollows.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "surskit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png"
+        },
+        {
+            "name": "masquerain",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 491,
+    "name": "darkrai",
+    "height": 1.5,
+    "weight": 50.5,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/491.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6d/491Darkrai.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 90,
+        "special-attack": 135,
+        "special-defense": 90,
+        "speed": 125
+    },
+    "abilities": {
+        "name": "bad-dreams",
+        "description": "Damages sleeping opponents for 1/8 their max HP after each turn."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "It can lull people to sleep and make them dream.\nIt is active during nights of the new moon.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "darkrai",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/491.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 10,
+    "name": "caterpie",
+    "height": 0.3,
+    "weight": 2.9,
+    "base_exp": 39,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5d/010Caterpie.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 20,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "run-away",
+        "description": "Ensures success fleeing from wild battles."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Its short feet are tipped with suction pads that\nenable it to tirelessly climb slopes and walls.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "caterpie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png"
+        },
+        {
+            "name": "metapod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png"
+        },
+        {
+            "name": "butterfree",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png"
+        }
+    ]
+}

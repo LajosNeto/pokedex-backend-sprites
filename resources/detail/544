@@ -1,0 +1,49 @@
+{
+    "id": 544,
+    "name": "whirlipede",
+    "height": 1.2,
+    "weight": 58.5,
+    "base_exp": 126,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/544Whirlipede.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 99,
+        "special-attack": 40,
+        "special-defense": 79,
+        "speed": 47
+    },
+    "abilities": {
+        "name": "speed-boost",
+        "description": "Raises Speed one stage after each turn."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "Whirlipede protects itself with a sturdy shell and\npoisonous spikes while it stores up the energy it’ll\nneed for evolution.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "venipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png"
+        },
+        {
+            "name": "whirlipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png"
+        },
+        {
+            "name": "scolipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png"
+        }
+    ]
+}

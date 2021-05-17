@@ -1,0 +1,47 @@
+{
+    "id": 7,
+    "name": "squirtle",
+    "height": 0.5,
+    "weight": 9.0,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/39/007Squirtle.png",
+    "base_stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 64,
+        "speed": 43
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "When it feels threatened, it draws its limbs inside\nits shell and sprays water from its mouth.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "squirtle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png"
+        },
+        {
+            "name": "wartortle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/8.png"
+        },
+        {
+            "name": "blastoise",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/9.png"
+        }
+    ]
+}

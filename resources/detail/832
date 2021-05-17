@@ -1,0 +1,43 @@
+{
+    "id": 832,
+    "name": "dubwool",
+    "height": 1.3,
+    "weight": 43.0,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/832.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9a/832Dubwool.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 80,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 90,
+        "speed": 88
+    },
+    "abilities": {
+        "name": "bulletproof",
+        "description": "Protects against bullet, ball, and bomb-based moves."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Its majestic horns are meant only to impress the\nopposite gender. They never see use in battle.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "wooloo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/831.png"
+        },
+        {
+            "name": "dubwool",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/832.png"
+        }
+    ]
+}

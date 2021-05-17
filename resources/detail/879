@@ -1,0 +1,43 @@
+{
+    "id": 879,
+    "name": "copperajah",
+    "height": 3.0,
+    "weight": 650.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/879.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/76/879Copperajah.png",
+    "base_stats": {
+        "hp": 122,
+        "attack": 130,
+        "defense": 69,
+        "special-attack": 80,
+        "special-defense": 69,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "heavy-metal",
+        "description": "Doubles the Pokémon's weight."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "These Pokémon live in herds. Their trunks have\nincredible grip strength, strong enough to crush\ngiant rocks into powder.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "cufant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/878.png"
+        },
+        {
+            "name": "copperajah",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/879.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 290,
+    "name": "nincada",
+    "height": 0.5,
+    "weight": 5.5,
+    "base_exp": 53,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/90/290Nincada.png",
+    "base_stats": {
+        "hp": 31,
+        "attack": 45,
+        "defense": 90,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "run-away",
+        "description": "Ensures success fleeing from wild battles."
+    },
+    "types": [
+        "bug",
+        "ground"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#dbb963"
+    ],
+    "short_description": "It can sometimes live underground for more than\n10 years. It absorbs nutrients from the roots\nof trees.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "nincada",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png"
+        },
+        {
+            "name": "ninjask",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png"
+        },
+        {
+            "name": "shedinja",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png"
+        }
+    ]
+}

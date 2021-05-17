@@ -1,0 +1,43 @@
+{
+    "id": 120,
+    "name": "staryu",
+    "height": 0.8,
+    "weight": 34.5,
+    "base_exp": 68,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/120Staryu.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 55,
+        "special-attack": 70,
+        "special-defense": 55,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Fish Pokémon nibble at it, but Staryu isn’t\nbothered. Its body regenerates quickly, even\nif part of it is completely torn off.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "staryu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png"
+        },
+        {
+            "name": "starmie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png"
+        }
+    ]
+}

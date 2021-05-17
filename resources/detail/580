@@ -1,0 +1,45 @@
+{
+    "id": 580,
+    "name": "ducklett",
+    "height": 0.5,
+    "weight": 5.5,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/580Ducklett.png",
+    "base_stats": {
+        "hp": 62,
+        "attack": 44,
+        "defense": 50,
+        "special-attack": 44,
+        "special-defense": 50,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water",
+        "flying"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#9e85eb"
+    ],
+    "short_description": "They are better at swimming than flying, and they\nhappily eat their favorite food, peat moss, as they\ndive underwater.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "ducklett",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png"
+        },
+        {
+            "name": "swanna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png"
+        }
+    ]
+}

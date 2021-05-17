@@ -1,0 +1,43 @@
+{
+    "id": 457,
+    "name": "lumineon",
+    "height": 1.2,
+    "weight": 24.0,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/457.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/457Lumineon.png",
+    "base_stats": {
+        "hp": 69,
+        "attack": 69,
+        "defense": 76,
+        "special-attack": 69,
+        "special-defense": 86,
+        "speed": 91
+    },
+    "abilities": {
+        "name": "water-veil",
+        "description": "Prevents burns."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "They traverse the deep waters as if crawling\nover the seafloor. The fantastic lights of its\nfins shine like stars in the night sky.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "finneon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/456.png"
+        },
+        {
+            "name": "lumineon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/457.png"
+        }
+    ]
+}

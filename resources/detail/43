@@ -1,0 +1,49 @@
+{
+    "id": 43,
+    "name": "oddish",
+    "height": 0.5,
+    "weight": 5.4,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/43/043Oddish.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 55,
+        "special-attack": 75,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "run-away",
+        "description": "Ensures success fleeing from wild battles."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "oddish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png"
+        },
+        {
+            "name": "gloom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png"
+        },
+        {
+            "name": "vileplume",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png"
+        }
+    ]
+}

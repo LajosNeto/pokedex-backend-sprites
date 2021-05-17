@@ -88,7 +88,7 @@ def build_detail_data():
         pokemon_detail['short_description'] = extract_flavor_description(species_data)
         pokemon_detail['is_legendary'] = species_data['is_legendary']
         pokemon_detail['is_mythical'] = species_data['is_mythical']
-        pokemon_detail['habitat'] = species_data['habitat']['name']
+        pokemon_detail['habitat'] = extract_habitat(species_data)
         pokemon_detail['growth_rate'] = species_data['growth_rate']['name']
         pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
         pokemon_detail['evolution_chain'] = process_evolution_chain(species_data['evolution_chain']['url'])
@@ -166,6 +166,8 @@ def extract_abilities(pokemon_data):
         abilities.append(ability_detail)
     return ability_detail
 
+def extract_habitat(species_data):
+    return species_data['habitat']['name'] if species_data['habitat'] is not None else ""
 
 if __name__ == '__main__':
     filter_argparse = argparse.ArgumentParser()

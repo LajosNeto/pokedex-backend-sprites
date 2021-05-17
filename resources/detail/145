@@ -1,0 +1,41 @@
+{
+    "id": 145,
+    "name": "zapdos",
+    "height": 1.6,
+    "weight": 52.6,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/145.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e3/145Zapdos.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 85,
+        "special-attack": 125,
+        "special-defense": 90,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "static",
+        "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#9e85eb"
+    ],
+    "short_description": "This legendary bird Pokémon is said to\nappear when the sky turns dark and lightning\nshowers down.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "rare",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "zapdos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/145.png"
+        }
+    ]
+}

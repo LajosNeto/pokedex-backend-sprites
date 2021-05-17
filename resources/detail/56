@@ -1,0 +1,43 @@
+{
+    "id": 56,
+    "name": "mankey",
+    "height": 0.5,
+    "weight": 28.0,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/56.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/41/056Mankey.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "An agile Pokémon that lives in trees. It angers\neasily and will not hesitate to attack anything.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "mankey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/56.png"
+        },
+        {
+            "name": "primeape",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/57.png"
+        }
+    ]
+}

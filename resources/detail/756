@@ -1,0 +1,45 @@
+{
+    "id": 756,
+    "name": "shiinotic",
+    "height": 1.0,
+    "weight": 11.5,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/36/756Shiinotic.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#eb90a4"
+    ],
+    "short_description": "If you see a light deep in a forest at night,\ndon’t go near. Shiinotic will make you fall\nfast asleep.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "morelull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png"
+        },
+        {
+            "name": "shiinotic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png"
+        }
+    ]
+}

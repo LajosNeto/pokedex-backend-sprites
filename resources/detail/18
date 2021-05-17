@@ -1,0 +1,49 @@
+{
+    "id": 18,
+    "name": "pidgeot",
+    "height": 1.5,
+    "weight": 39.5,
+    "base_exp": 216,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/18.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/57/018Pidgeot.png",
+    "base_stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 101
+    },
+    "abilities": {
+        "name": "big-pecks",
+        "description": "Protects against Defense drops."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "With its muscular strength now greatly\nincreased, it can fly continuously for two weeks\nwithout resting.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "pidgey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/16.png"
+        },
+        {
+            "name": "pidgeotto",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/17.png"
+        },
+        {
+            "name": "pidgeot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/18.png"
+        }
+    ]
+}

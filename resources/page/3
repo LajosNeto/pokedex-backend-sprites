@@ -1,0 +1,264 @@
+[
+    {
+        "id": 61,
+        "name_en": "poliwhirl",
+        "name_ja": "ニョロゾ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/61.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 62,
+        "name_en": "poliwrath",
+        "name_ja": "ニョロボン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png",
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 63,
+        "name_en": "abra",
+        "name_ja": "ケーシィ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 64,
+        "name_en": "kadabra",
+        "name_ja": "ユンゲラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/64.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 65,
+        "name_en": "alakazam",
+        "name_ja": "フーディン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 66,
+        "name_en": "machop",
+        "name_ja": "ワンリキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/66.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 67,
+        "name_en": "machoke",
+        "name_ja": "ゴーリキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/67.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 68,
+        "name_en": "machamp",
+        "name_ja": "カイリキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/68.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 69,
+        "name_en": "bellsprout",
+        "name_ja": "マダツボミ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/69.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 70,
+        "name_en": "weepinbell",
+        "name_ja": "ウツドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/70.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 71,
+        "name_en": "victreebel",
+        "name_ja": "ウツボット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/71.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 72,
+        "name_en": "tentacool",
+        "name_ja": "メノクラゲ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png",
+        "types": [
+            "water",
+            "poison"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 73,
+        "name_en": "tentacruel",
+        "name_ja": "ドククラゲ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
+        "types": [
+            "water",
+            "poison"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 74,
+        "name_en": "geodude",
+        "name_ja": "イシツブテ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 75,
+        "name_en": "graveler",
+        "name_ja": "ゴローン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 76,
+        "name_en": "golem",
+        "name_ja": "ゴローニャ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 77,
+        "name_en": "ponyta",
+        "name_ja": "ポニータ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 78,
+        "name_en": "rapidash",
+        "name_ja": "ギャロップ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/78.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 79,
+        "name_en": "slowpoke",
+        "name_ja": "ヤドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 80,
+        "name_en": "slowbro",
+        "name_ja": "ヤドラン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#f6527e"
+        ]
+    }
+]

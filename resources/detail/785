@@ -1,0 +1,41 @@
+{
+    "id": 785,
+    "name": "tapu-koko",
+    "height": 1.8,
+    "weight": 20.5,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/785Tapu_Koko.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 85,
+        "special-attack": 95,
+        "special-defense": 75,
+        "speed": 130
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "electric",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#eb90a4"
+    ],
+    "short_description": "The lightning-wielding guardian deity of\nMelemele, Tapu Koko is brimming with curiosity\nand appears before people from time to time.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "tapu-koko",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png"
+        }
+    ]
+}

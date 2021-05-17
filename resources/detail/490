@@ -1,0 +1,43 @@
+{
+    "id": 490,
+    "name": "manaphy",
+    "height": 0.3,
+    "weight": 1.4,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/490.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2e/490Manaphy.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It starts its life with a wondrous power that permits\nit to bond with any kind of Pokémon.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "phione",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/489.png"
+        },
+        {
+            "name": "manaphy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/490.png"
+        }
+    ]
+}

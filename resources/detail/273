@@ -1,0 +1,47 @@
+{
+    "id": 273,
+    "name": "seedot",
+    "height": 0.5,
+    "weight": 4.0,
+    "base_exp": 44,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/84/273Seedot.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "It attaches itself to a tree branch using the top of\nits head. Strong winds can sometimes make it fall.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "seedot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png"
+        },
+        {
+            "name": "nuzleaf",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png"
+        },
+        {
+            "name": "shiftry",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png"
+        }
+    ]
+}

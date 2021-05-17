@@ -1,0 +1,49 @@
+{
+    "id": 731,
+    "name": "pikipek",
+    "height": 0.3,
+    "weight": 1.2,
+    "base_exp": 53,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/15/731Pikipek.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 75,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "pickup",
+        "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "It may look spindly, but its neck muscles are\nheavy-duty. It can peck at a tree 16 times\nper second!",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "pikipek",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png"
+        },
+        {
+            "name": "trumbeak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png"
+        },
+        {
+            "name": "toucannon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png"
+        }
+    ]
+}

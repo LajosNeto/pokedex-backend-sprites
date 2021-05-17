@@ -1,0 +1,47 @@
+{
+    "id": 763,
+    "name": "tsareena",
+    "height": 1.2,
+    "weight": 21.4,
+    "base_exp": 230,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/23/763Tsareena.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 120,
+        "defense": 98,
+        "special-attack": 50,
+        "special-defense": 98,
+        "speed": 72
+    },
+    "abilities": {
+        "name": "sweet-veil",
+        "description": "Prevents friendly Pokémon from sleeping."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "A kick from the hardened tips of this Pokémon’s\nlegs leaves a wound in the opponent’s body and\nsoul that will never heal.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "bounsweet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png"
+        },
+        {
+            "name": "steenee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png"
+        },
+        {
+            "name": "tsareena",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png"
+        }
+    ]
+}

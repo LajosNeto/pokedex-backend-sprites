@@ -1,0 +1,260 @@
+[
+    {
+        "id": 361,
+        "name_en": "snorunt",
+        "name_ja": "ユキワラシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 362,
+        "name_en": "glalie",
+        "name_ja": "オニゴーリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 363,
+        "name_en": "spheal",
+        "name_ja": "タマザラシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
+        "types": [
+            "ice",
+            "water"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 364,
+        "name_en": "sealeo",
+        "name_ja": "トドグラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
+        "types": [
+            "ice",
+            "water"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 365,
+        "name_en": "walrein",
+        "name_ja": "トドゼルガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
+        "types": [
+            "ice",
+            "water"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 366,
+        "name_en": "clamperl",
+        "name_ja": "パールル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 367,
+        "name_en": "huntail",
+        "name_ja": "ハンテール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/367.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 368,
+        "name_en": "gorebyss",
+        "name_ja": "サクラビス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 369,
+        "name_en": "relicanth",
+        "name_ja": "ジーランス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png",
+        "types": [
+            "water",
+            "rock"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 370,
+        "name_en": "luvdisc",
+        "name_ja": "ラブカス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/370.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 371,
+        "name_en": "bagon",
+        "name_ja": "タツベイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 372,
+        "name_en": "shelgon",
+        "name_ja": "コモルー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 373,
+        "name_en": "salamence",
+        "name_ja": "ボーマンダ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 374,
+        "name_en": "beldum",
+        "name_ja": "ダンバル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 375,
+        "name_en": "metang",
+        "name_ja": "メタング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 376,
+        "name_en": "metagross",
+        "name_ja": "メタグロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 377,
+        "name_en": "regirock",
+        "name_ja": "レジロック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/377.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 378,
+        "name_en": "regice",
+        "name_ja": "レジアイス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/378.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 379,
+        "name_en": "registeel",
+        "name_ja": "レジスチル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 380,
+        "name_en": "latias",
+        "name_ja": "ラティアス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png",
+        "types": [
+            "dragon",
+            "psychic"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#f6527e"
+        ]
+    }
+]

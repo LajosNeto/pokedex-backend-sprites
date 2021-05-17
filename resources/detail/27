@@ -1,0 +1,43 @@
+{
+    "id": 27,
+    "name": "sandshrew",
+    "height": 0.6,
+    "weight": 12.0,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/27.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9e/027Sandshrew.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "sand-rush",
+        "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "It lives in snowy mountains on southern islands.\nWhen a blizzard rolls in, this Pokémon hunkers\ndown in the snow to avoid getting blown away.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "sandshrew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/27.png"
+        },
+        {
+            "name": "sandslash",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/28.png"
+        }
+    ]
+}

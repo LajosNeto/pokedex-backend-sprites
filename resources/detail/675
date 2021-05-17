@@ -1,0 +1,45 @@
+{
+    "id": 675,
+    "name": "pangoro",
+    "height": 2.1,
+    "weight": 136.0,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/08/675Pangoro.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 124,
+        "defense": 78,
+        "special-attack": 69,
+        "special-defense": 71,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "scrappy",
+        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+    },
+    "types": [
+        "fighting",
+        "dark"
+    ],
+    "types_colors": [
+        "#b72f29",
+        "#644e40"
+    ],
+    "short_description": "Using its leaf, Pangoro can predict the moves of\nits opponents. It strikes with punches that can\nturn a dump truck into scrap with just one hit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "pancham",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png"
+        },
+        {
+            "name": "pangoro",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png"
+        }
+    ]
+}

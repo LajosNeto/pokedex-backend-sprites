@@ -1,0 +1,39 @@
+{
+    "id": 641,
+    "name": "tornadus-incarnate",
+    "height": 1.5,
+    "weight": 63.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/08/641Tornadus.png",
+    "base_stats": {
+        "hp": 79,
+        "attack": 115,
+        "defense": 70,
+        "special-attack": 125,
+        "special-defense": 80,
+        "speed": 111
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "flying"
+    ],
+    "types_colors": [
+        "#9e85eb"
+    ],
+    "short_description": "Tornadus expels massive energy from its tail,\ncausing severe storms. Its power is great enough\nto blow houses away.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "tornadus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png"
+        }
+    ]
+}

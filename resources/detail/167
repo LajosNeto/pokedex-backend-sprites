@@ -1,0 +1,45 @@
+{
+    "id": 167,
+    "name": "spinarak",
+    "height": 0.5,
+    "weight": 8.5,
+    "base_exp": 50,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/75/167Spinarak.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "sniper",
+        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "Although the poison from its fangs isn’t that\nstrong, it’s potent enough to weaken prey that\ngets caught in its web.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "spinarak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png"
+        },
+        {
+            "name": "ariados",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png"
+        }
+    ]
+}

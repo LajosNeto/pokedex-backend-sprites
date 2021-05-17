@@ -1,0 +1,47 @@
+{
+    "id": 388,
+    "name": "grotle",
+    "height": 1.1,
+    "weight": 97.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/388.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/53/388Grotle.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 89,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 36
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "It knows where pure water wells up. It carries fellow\nPokémon there on its back.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "turtwig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/387.png"
+        },
+        {
+            "name": "grotle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/388.png"
+        },
+        {
+            "name": "torterra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/389.png"
+        }
+    ]
+}

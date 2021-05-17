@@ -1,0 +1,43 @@
+{
+    "id": 402,
+    "name": "kricketune",
+    "height": 1.0,
+    "weight": 25.5,
+    "base_exp": 134,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/402.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/402Kricketune.png",
+    "base_stats": {
+        "hp": 77,
+        "attack": 85,
+        "defense": 51,
+        "special-attack": 55,
+        "special-defense": 51,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "technician",
+        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "It signals its emotions with its melodies. Scientists\nare studying these melodic patterns.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "kricketot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/401.png"
+        },
+        {
+            "name": "kricketune",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/402.png"
+        }
+    ]
+}

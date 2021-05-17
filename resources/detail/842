@@ -1,0 +1,49 @@
+{
+    "id": 842,
+    "name": "appletun",
+    "height": 0.4,
+    "weight": 13.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/36/842Appletun.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 85,
+        "defense": 80,
+        "special-attack": 100,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#6630f3"
+    ],
+    "short_description": "Its body is covered in sweet nectar, and the\nskin on its back is especially yummy. Children\nused to have it as a snack.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "applin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png"
+        },
+        {
+            "name": "flapple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png"
+        },
+        {
+            "name": "appletun",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png"
+        }
+    ]
+}

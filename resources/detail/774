@@ -1,0 +1,41 @@
+{
+    "id": 774,
+    "name": "minior-red-meteor",
+    "height": 0.3,
+    "weight": 40.0,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/90/774Minior.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 100,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "shields-down",
+        "description": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form."
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#9e85eb"
+    ],
+    "short_description": "Although its outer shell is uncommonly durable,\nthe shock of falling to the ground smashes the\nshell to smithereens.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "minior",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png"
+        }
+    ]
+}

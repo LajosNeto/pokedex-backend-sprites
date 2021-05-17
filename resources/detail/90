@@ -1,0 +1,43 @@
+{
+    "id": 90,
+    "name": "shellder",
+    "height": 0.3,
+    "weight": 4.0,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/40/090Shellder.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "special-attack": 45,
+        "special-defense": 25,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Its hard shell repels any kind of attack. It is\nvulnerable only when its shell is open.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "shellder",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png"
+        },
+        {
+            "name": "cloyster",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png"
+        }
+    ]
+}

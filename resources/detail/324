@@ -1,0 +1,39 @@
+{
+    "id": 324,
+    "name": "torkoal",
+    "height": 0.5,
+    "weight": 80.4,
+    "base_exp": 165,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/324.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/324Torkoal.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 140,
+        "special-attack": 85,
+        "special-defense": 70,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "You find abandoned coal mines full of them.\nThey dig tirelessly in search of coal.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "torkoal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/324.png"
+        }
+    ]
+}

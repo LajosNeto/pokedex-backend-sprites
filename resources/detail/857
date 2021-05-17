@@ -1,0 +1,47 @@
+{
+    "id": 857,
+    "name": "hattrem",
+    "height": 0.6,
+    "weight": 4.8,
+    "base_exp": 130,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/19/857Hattrem.png",
+    "base_stats": {
+        "hp": 57,
+        "attack": 40,
+        "defense": 65,
+        "special-attack": 86,
+        "special-defense": 73,
+        "speed": 49
+    },
+    "abilities": {
+        "name": "magic-bounce",
+        "description": "Reflects most non-damaging moves back at their user."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Using the braids on its head, it pummels foes to\nget them to quiet down. One blow from those\nbraids would knock out a professional boxer.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "hatenna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/856.png"
+        },
+        {
+            "name": "hattrem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png"
+        },
+        {
+            "name": "hatterene",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png"
+        }
+    ]
+}

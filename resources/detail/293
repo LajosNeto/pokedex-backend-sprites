@@ -1,0 +1,47 @@
+{
+    "id": 293,
+    "name": "whismur",
+    "height": 0.6,
+    "weight": 16.3,
+    "base_exp": 48,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/293Whismur.png",
+    "base_stats": {
+        "hp": 64,
+        "attack": 51,
+        "defense": 23,
+        "special-attack": 51,
+        "special-defense": 23,
+        "speed": 28
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "When Whismur cries, the sound of its own voice\nstartles it, making the Pokémon cry even louder.\nIt cries until it’s exhausted, then it falls asleep.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "whismur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png"
+        },
+        {
+            "name": "loudred",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png"
+        },
+        {
+            "name": "exploud",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png"
+        }
+    ]
+}

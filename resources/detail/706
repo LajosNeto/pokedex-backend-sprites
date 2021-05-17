@@ -1,0 +1,47 @@
+{
+    "id": 706,
+    "name": "goodra",
+    "height": 2.0,
+    "weight": 150.5,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/df/706Goodra.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 110,
+        "special-defense": 150,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "gooey",
+        "description": "Lowers attacking Pokémon's Speed by one stage on contact."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Its form of offense is forcefully stretching out its\nhorns. The strikes land 100 times harder than any\nblow from a heavyweight boxer.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "goomy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png"
+        },
+        {
+            "name": "sliggoo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png"
+        },
+        {
+            "name": "goodra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png"
+        }
+    ]
+}

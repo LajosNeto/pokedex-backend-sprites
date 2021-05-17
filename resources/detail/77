@@ -1,0 +1,43 @@
+{
+    "id": 77,
+    "name": "ponyta",
+    "height": 1.0,
+    "weight": 30.0,
+    "base_exp": 82,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/077Ponyta.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "flame-body",
+        "description": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "This Pokémon will look into your eyes and read\nthe contents of your heart. If it finds evil there,\nit promptly hides away.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "ponyta",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png"
+        },
+        {
+            "name": "rapidash",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/78.png"
+        }
+    ]
+}

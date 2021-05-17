@@ -1,0 +1,49 @@
+{
+    "id": 81,
+    "name": "magnemite",
+    "height": 0.3,
+    "weight": 6.0,
+    "base_exp": 65,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/081Magnemite.png",
+    "base_stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 70,
+        "special-attack": 95,
+        "special-defense": 55,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#afafc9"
+    ],
+    "short_description": "It subsists on electricity. As Magnemite flies, it\nemits electromagnetic waves from the units on\neach side of its body.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "magnemite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png"
+        },
+        {
+            "name": "magneton",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png"
+        },
+        {
+            "name": "magnezone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png"
+        }
+    ]
+}

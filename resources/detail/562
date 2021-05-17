@@ -1,0 +1,47 @@
+{
+    "id": 562,
+    "name": "yamask",
+    "height": 0.5,
+    "weight": 1.5,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/562Yamask.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "mummy",
+        "description": "Changes attacking Pokémon's abilities to Mummy on contact."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "The spirit of a person from a bygone age became\nthis Pokémon. It rambles through ruins, searching\nfor someone who knows its face.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "yamask",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png"
+        },
+        {
+            "name": "cofagrigus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png"
+        },
+        {
+            "name": "runerigus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/867.png"
+        }
+    ]
+}

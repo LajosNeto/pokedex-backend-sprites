@@ -1,0 +1,49 @@
+{
+    "id": 221,
+    "name": "piloswine",
+    "height": 1.1,
+    "weight": 55.8,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/49/221Piloswine.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#dbb963"
+    ],
+    "short_description": "Although its legs are short, its rugged hooves\nprevent it from slipping, even on icy ground.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "swinub",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png"
+        },
+        {
+            "name": "piloswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png"
+        },
+        {
+            "name": "mamoswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png"
+        }
+    ]
+}

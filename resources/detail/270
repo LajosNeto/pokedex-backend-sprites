@@ -1,0 +1,49 @@
+{
+    "id": 270,
+    "name": "lotad",
+    "height": 0.5,
+    "weight": 2.6,
+    "base_exp": 44,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ee/270Lotad.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "own-tempo",
+        "description": "Prevents confusion."
+    },
+    "types": [
+        "water",
+        "grass"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6dc04c"
+    ],
+    "short_description": "Its leaf grew too large for it to live on land.\nThat is how it began to live floating in the water.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "lotad",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png"
+        },
+        {
+            "name": "lombre",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png"
+        },
+        {
+            "name": "ludicolo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png"
+        }
+    ]
+}

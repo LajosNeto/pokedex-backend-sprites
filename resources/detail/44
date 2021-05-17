@@ -1,0 +1,49 @@
+{
+    "id": 44,
+    "name": "gloom",
+    "height": 0.8,
+    "weight": 8.6,
+    "base_exp": 138,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2a/044Gloom.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "stench",
+        "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "What appears to be drool is actually sweet honey.\nIt is very sticky and clings stubbornly if touched.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "oddish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png"
+        },
+        {
+            "name": "gloom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png"
+        },
+        {
+            "name": "vileplume",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png"
+        }
+    ]
+}

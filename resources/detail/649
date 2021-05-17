@@ -1,0 +1,41 @@
+{
+    "id": 649,
+    "name": "genesect",
+    "height": 1.5,
+    "weight": 82.5,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/46/649Genesect.png",
+    "base_stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special-attack": 120,
+        "special-defense": 95,
+        "speed": 99
+    },
+    "abilities": {
+        "name": "download",
+        "description": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#afafc9"
+    ],
+    "short_description": "This Pokémon existed 300 million years ago. Team\nPlasma altered it and attached a cannon to its back.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "genesect",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 109,
+    "name": "koffing",
+    "height": 0.6,
+    "weight": 1.0,
+    "base_exp": 68,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/17/109Koffing.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 95,
+        "special-attack": 60,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "It adores polluted air. Some claim that Koffing\nused to be more plentiful in the Galar region\nthan they are now.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "koffing",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png"
+        },
+        {
+            "name": "weezing",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png"
+        }
+    ]
+}

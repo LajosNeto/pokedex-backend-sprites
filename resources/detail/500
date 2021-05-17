@@ -1,0 +1,49 @@
+{
+    "id": 500,
+    "name": "emboar",
+    "height": 1.6,
+    "weight": 150.0,
+    "base_exp": 238,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/18/500Emboar.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "special-attack": 100,
+        "special-defense": 65,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#b72f29"
+    ],
+    "short_description": "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "tepig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png"
+        },
+        {
+            "name": "pignite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png"
+        },
+        {
+            "name": "emboar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png"
+        }
+    ]
+}

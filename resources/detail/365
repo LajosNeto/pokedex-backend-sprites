@@ -1,0 +1,49 @@
+{
+    "id": 365,
+    "name": "walrein",
+    "height": 1.4,
+    "weight": 150.6,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/61/365Walrein.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "oblivious",
+        "description": "Prevents infatuation and protects against captivate."
+    },
+    "types": [
+        "ice",
+        "water"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#5f84ea"
+    ],
+    "short_description": "Walrein swims all over in frigid seawater while crushing\nicebergs with its grand, imposing tusks. Its thick layer of\nblubber makes enemy attacks bounce off harmlessly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "spheal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+        },
+        {
+            "name": "sealeo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+        },
+        {
+            "name": "walrein",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+        }
+    ]
+}

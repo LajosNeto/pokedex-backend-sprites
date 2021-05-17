@@ -1,0 +1,47 @@
+{
+    "id": 11,
+    "name": "metapod",
+    "height": 0.7,
+    "weight": 9.9,
+    "base_exp": 72,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/011Metapod.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "shed-skin",
+        "description": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Even though it is encased in a sturdy shell,\nthe body inside is tender. It can’t withstand a\nharsh attack.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "caterpie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png"
+        },
+        {
+            "name": "metapod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png"
+        },
+        {
+            "name": "butterfree",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 181,
+    "name": "ampharos",
+    "height": 1.4,
+    "weight": 61.5,
+    "base_exp": 230,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/47/181Ampharos.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 115,
+        "special-defense": 90,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "plus",
+        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Its tail shines bright and strong. It has been\nprized since long ago as a beacon for sailors.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "mareep",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png"
+        },
+        {
+            "name": "flaaffy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/180.png"
+        },
+        {
+            "name": "ampharos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 14,
+    "name": "kakuna",
+    "height": 0.6,
+    "weight": 10.0,
+    "base_exp": 72,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/14.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/014Kakuna.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "shed-skin",
+        "description": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "Able to move only slightly. When endangered, it\nmay stick out its stinger and poison its enemy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "weedle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/13.png"
+        },
+        {
+            "name": "kakuna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/14.png"
+        },
+        {
+            "name": "beedrill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/15.png"
+        }
+    ]
+}

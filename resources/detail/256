@@ -1,0 +1,49 @@
+{
+    "id": 256,
+    "name": "combusken",
+    "height": 0.9,
+    "weight": 19.5,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/29/256Combusken.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 85,
+        "special-defense": 60,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "speed-boost",
+        "description": "Raises Speed one stage after each turn."
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#b72f29"
+    ],
+    "short_description": "Combusken battles with the intensely hot flames it spews from\nits beak and with outstandingly destructive kicks. This\nPokémon’s cry is very loud and distracting.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "torchic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/255.png"
+        },
+        {
+            "name": "combusken",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png"
+        },
+        {
+            "name": "blaziken",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/257.png"
+        }
+    ]
+}

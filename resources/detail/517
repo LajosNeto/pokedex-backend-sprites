@@ -1,0 +1,43 @@
+{
+    "id": 517,
+    "name": "munna",
+    "height": 0.6,
+    "weight": 23.3,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/517.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/61/517Munna.png",
+    "base_stats": {
+        "hp": 76,
+        "attack": 25,
+        "defense": 45,
+        "special-attack": 67,
+        "special-defense": 55,
+        "speed": 24
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It eats dreams and releases mist. The mist is pink\nwhen it’s eating a good dream, and black when\nit’s eating a nightmare.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "munna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/517.png"
+        },
+        {
+            "name": "musharna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png"
+        }
+    ]
+}

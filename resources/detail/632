@@ -1,0 +1,41 @@
+{
+    "id": 632,
+    "name": "durant",
+    "height": 0.3,
+    "weight": 33.0,
+    "base_exp": 169,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1a/632Durant.png",
+    "base_stats": {
+        "hp": 58,
+        "attack": 109,
+        "defense": 112,
+        "special-attack": 48,
+        "special-defense": 48,
+        "speed": 109
+    },
+    "abilities": {
+        "name": "truant",
+        "description": "Skips every second turn."
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#afafc9"
+    ],
+    "short_description": "With their large mandibles, these Pokémon can\ncrunch their way through rock. They work\ntogether to protect their eggs from Sandaconda.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "durant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png"
+        }
+    ]
+}

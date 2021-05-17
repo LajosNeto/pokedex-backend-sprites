@@ -1,0 +1,41 @@
+{
+    "id": 718,
+    "name": "zygarde",
+    "height": 5.0,
+    "weight": 305.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3a/718Zygarde.png",
+    "base_stats": {
+        "hp": 108,
+        "attack": 100,
+        "defense": 121,
+        "special-attack": 81,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "aura-break",
+        "description": "Makes dark aura and fairy aura weaken moves of their respective types."
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#dbb963"
+    ],
+    "short_description": "Some say it can change to an even more\npowerful form when battling those who threaten\nthe ecosystem.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "zygarde",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png"
+        }
+    ]
+}

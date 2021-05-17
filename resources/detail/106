@@ -1,0 +1,51 @@
+{
+    "id": 106,
+    "name": "hitmonlee",
+    "height": 1.5,
+    "weight": 49.8,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/32/106Hitmonlee.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "special-attack": 35,
+        "special-defense": 110,
+        "speed": 87
+    },
+    "abilities": {
+        "name": "unburden",
+        "description": "Doubles Speed upon using or losing a held item."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "The legs freely contract and stretch. The stretchy\nlegs allow it to hit a distant foe with a rising kick.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "tyrogue",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png"
+        },
+        {
+            "name": "hitmonlee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png"
+        },
+        {
+            "name": "hitmonchan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png"
+        },
+        {
+            "name": "hitmontop",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png"
+        }
+    ]
+}

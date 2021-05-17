@@ -1,0 +1,250 @@
+[
+    {
+        "id": 601,
+        "name_en": "klinklang",
+        "name_ja": "ギギギアル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 602,
+        "name_en": "tynamo",
+        "name_ja": "シビシラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/602.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 603,
+        "name_en": "eelektrik",
+        "name_ja": "シビビール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 604,
+        "name_en": "eelektross",
+        "name_ja": "シビルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/604.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 605,
+        "name_en": "elgyem",
+        "name_ja": "リグレー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/605.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 606,
+        "name_en": "beheeyem",
+        "name_ja": "オーベム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/606.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 607,
+        "name_en": "litwick",
+        "name_ja": "ヒトモシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "types_colors": [
+            "#654e8c",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 608,
+        "name_en": "lampent",
+        "name_ja": "ランプラー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "types_colors": [
+            "#654e8c",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 609,
+        "name_en": "chandelure",
+        "name_ja": "シャンデラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "types_colors": [
+            "#654e8c",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 610,
+        "name_en": "axew",
+        "name_ja": "キバゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/610.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 611,
+        "name_en": "fraxure",
+        "name_ja": "オノンド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/611.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 612,
+        "name_en": "haxorus",
+        "name_ja": "オノノクス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/612.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 613,
+        "name_en": "cubchoo",
+        "name_ja": "クマシュン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/613.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 614,
+        "name_en": "beartic",
+        "name_ja": "ツンベアー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/614.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 615,
+        "name_en": "cryogonal",
+        "name_ja": "フリージオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/615.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 616,
+        "name_en": "shelmet",
+        "name_ja": "チョボマキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/616.png",
+        "types": [
+            "bug"
+        ],
+        "types_colors": [
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 617,
+        "name_en": "accelgor",
+        "name_ja": "アギルダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/617.png",
+        "types": [
+            "bug"
+        ],
+        "types_colors": [
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 618,
+        "name_en": "stunfisk",
+        "name_ja": "マッギョ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png",
+        "types": [
+            "ground",
+            "electric"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 619,
+        "name_en": "mienfoo",
+        "name_ja": "コジョフー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 620,
+        "name_en": "mienshao",
+        "name_ja": "コジョンド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/620.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    }
+]

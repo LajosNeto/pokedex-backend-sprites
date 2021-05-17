@@ -1,0 +1,49 @@
+{
+    "id": 92,
+    "name": "gastly",
+    "height": 1.3,
+    "weight": 0.1,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/092Gastly.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 100,
+        "special-defense": 35,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#953a93"
+    ],
+    "short_description": "With its gas-like body, it can sneak into any place\nit desires. However, it can be blown away by wind.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gastly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png"
+        },
+        {
+            "name": "haunter",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png"
+        },
+        {
+            "name": "gengar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png"
+        }
+    ]
+}

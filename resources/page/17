@@ -1,0 +1,258 @@
+[
+    {
+        "id": 341,
+        "name_en": "corphish",
+        "name_ja": "ヘイガニ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 342,
+        "name_en": "crawdaunt",
+        "name_ja": "シザリガー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#644e40"
+        ]
+    },
+    {
+        "id": 343,
+        "name_en": "baltoy",
+        "name_ja": "ヤジロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png",
+        "types": [
+            "ground",
+            "psychic"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 344,
+        "name_en": "claydol",
+        "name_ja": "ネンドール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png",
+        "types": [
+            "ground",
+            "psychic"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 345,
+        "name_en": "lileep",
+        "name_ja": "リリーラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png",
+        "types": [
+            "rock",
+            "grass"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 346,
+        "name_en": "cradily",
+        "name_ja": "ユレイドル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png",
+        "types": [
+            "rock",
+            "grass"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 347,
+        "name_en": "anorith",
+        "name_ja": "アノプス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
+        "types": [
+            "rock",
+            "bug"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 348,
+        "name_en": "armaldo",
+        "name_ja": "アーマルド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png",
+        "types": [
+            "rock",
+            "bug"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 349,
+        "name_en": "feebas",
+        "name_ja": "ヒンバス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/349.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 350,
+        "name_en": "milotic",
+        "name_ja": "ミロカロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/350.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 351,
+        "name_en": "castform",
+        "name_ja": "ポワルン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/351.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 352,
+        "name_en": "kecleon",
+        "name_ja": "カクレオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/352.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 353,
+        "name_en": "shuppet",
+        "name_ja": "カゲボウズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 354,
+        "name_en": "banette",
+        "name_ja": "ジュペッタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 355,
+        "name_en": "duskull",
+        "name_ja": "ヨマワル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 356,
+        "name_en": "dusclops",
+        "name_ja": "サマヨール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 357,
+        "name_en": "tropius",
+        "name_ja": "トロピウス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 358,
+        "name_en": "chimecho",
+        "name_ja": "チリーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/358.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 359,
+        "name_en": "absol",
+        "name_ja": "アブソル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png",
+        "types": [
+            "dark"
+        ],
+        "types_colors": [
+            "#644e40"
+        ]
+    },
+    {
+        "id": 360,
+        "name_en": "wynaut",
+        "name_ja": "ソーナノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/360.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    }
+]

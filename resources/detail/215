@@ -1,0 +1,45 @@
+{
+    "id": 215,
+    "name": "sneasel",
+    "height": 0.9,
+    "weight": 28.0,
+    "base_exp": 86,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/71/215Sneasel.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 95,
+        "defense": 55,
+        "special-attack": 35,
+        "special-defense": 75,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "dark",
+        "ice"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#8ed2d2"
+    ],
+    "short_description": "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "sneasel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png"
+        },
+        {
+            "name": "weavile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 436,
+    "name": "bronzor",
+    "height": 0.5,
+    "weight": 60.5,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/436Bronzor.png",
+    "base_stats": {
+        "hp": 57,
+        "attack": 24,
+        "defense": 86,
+        "special-attack": 24,
+        "special-defense": 86,
+        "speed": 23
+    },
+    "abilities": {
+        "name": "heavy-metal",
+        "description": "Doubles the Pokémon's weight."
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#f6527e"
+    ],
+    "short_description": "Polishing Bronzor to a shine makes its surface\nreflect the truth, according to common lore.\nBe that as it may, Bronzor hates being polished.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "bronzor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png"
+        },
+        {
+            "name": "bronzong",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/437.png"
+        }
+    ]
+}

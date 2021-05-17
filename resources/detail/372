@@ -1,0 +1,47 @@
+{
+    "id": 372,
+    "name": "shelgon",
+    "height": 1.1,
+    "weight": 110.5,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/372Shelgon.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Shelgon lives deep within caves. It stays shut\nup in its hard shell, dreaming of the day it will\nbe able to fly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "bagon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png"
+        },
+        {
+            "name": "shelgon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png"
+        },
+        {
+            "name": "salamence",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png"
+        }
+    ]
+}

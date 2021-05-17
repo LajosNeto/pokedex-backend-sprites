@@ -1,0 +1,49 @@
+{
+    "id": 520,
+    "name": "tranquill",
+    "height": 0.6,
+    "weight": 15.0,
+    "base_exp": 125,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/520Tranquill.png",
+    "base_stats": {
+        "hp": 62,
+        "attack": 77,
+        "defense": 62,
+        "special-attack": 50,
+        "special-defense": 42,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "rivalry",
+        "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "These bright Pokémon have acute memories.\nApparently delivery workers often choose them\nas their partners.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "pidove",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png"
+        },
+        {
+            "name": "tranquill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png"
+        },
+        {
+            "name": "unfezant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png"
+        }
+    ]
+}

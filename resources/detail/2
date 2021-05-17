@@ -1,0 +1,49 @@
+{
+    "id": 2,
+    "name": "ivysaur",
+    "height": 1.0,
+    "weight": 13.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/73/002Ivysaur.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "chlorophyll",
+        "description": "Doubles Speed during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "Exposure to sunlight adds to its strength.\nSunlight also makes the bud on its back\ngrow larger.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "bulbasaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png"
+        },
+        {
+            "name": "ivysaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png"
+        },
+        {
+            "name": "venusaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/3.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 51,
+    "name": "dugtrio",
+    "height": 0.7,
+    "weight": 33.3,
+    "base_exp": 149,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/51.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/051Dugtrio.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 70,
+        "speed": 120
+    },
+    "abilities": {
+        "name": "sand-force",
+        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "These Diglett triplets dig over 60 miles below sea\nlevel. No one knows what it’s like underground.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "diglett",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png"
+        },
+        {
+            "name": "dugtrio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/51.png"
+        }
+    ]
+}

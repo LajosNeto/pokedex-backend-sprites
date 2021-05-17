@@ -1,0 +1,49 @@
+{
+    "id": 551,
+    "name": "sandile",
+    "height": 0.7,
+    "weight": 15.2,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/26/551Sandile.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 72,
+        "defense": 35,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "anger-point",
+        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#644e40"
+    ],
+    "short_description": "Sandile is small, but its legs and lower body are\npowerful. Pushing sand aside as it goes, Sandile\nmoves through the desert as if it’s swimming.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "sandile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png"
+        },
+        {
+            "name": "krokorok",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png"
+        },
+        {
+            "name": "krookodile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 648,
+    "name": "meloetta-aria",
+    "height": 0.6,
+    "weight": 6.5,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/648.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/648Meloetta.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 77,
+        "defense": 77,
+        "special-attack": 128,
+        "special-defense": 128,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "serene-grace",
+        "description": "Doubles the chance of moves' extra effects occurring."
+    },
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#f6527e"
+    ],
+    "short_description": "Its melodies are sung with a special vocalization\nmethod that can control the feelings of those who\nhear it.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "meloetta",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/648.png"
+        }
+    ]
+}

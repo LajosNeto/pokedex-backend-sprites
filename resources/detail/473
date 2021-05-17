@@ -1,0 +1,49 @@
+{
+    "id": 473,
+    "name": "mamoswine",
+    "height": 2.5,
+    "weight": 291.0,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/473Mamoswine.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 130,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#dbb963"
+    ],
+    "short_description": "It looks strong, and that’s exactly what it is.\nAs the weather grows colder, its ice tusks\ngrow longer, thicker, and more impressive.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "swinub",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png"
+        },
+        {
+            "name": "piloswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png"
+        },
+        {
+            "name": "mamoswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png"
+        }
+    ]
+}

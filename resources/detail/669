@@ -1,0 +1,47 @@
+{
+    "id": 669,
+    "name": "flabebe",
+    "height": 0.1,
+    "weight": 0.1,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/52/669Flab%C3%A9b%C3%A9.png",
+    "base_stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "special-attack": 61,
+        "special-defense": 79,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "symbiosis",
+        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "Flabébé wears a crown made from pollen it’s\ncollected from its flower. The crown has hidden\nhealing properties.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "flabebe",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png"
+        },
+        {
+            "name": "floette",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png"
+        },
+        {
+            "name": "florges",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png"
+        }
+    ]
+}

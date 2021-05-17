@@ -1,0 +1,49 @@
+{
+    "id": 445,
+    "name": "garchomp",
+    "height": 1.9,
+    "weight": 95.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/445Garchomp.png",
+    "base_stats": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 95,
+        "special-attack": 80,
+        "special-defense": 85,
+        "speed": 102
+    },
+    "abilities": {
+        "name": "rough-skin",
+        "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#dbb963"
+    ],
+    "short_description": "Its fine scales don’t just reduce wind\nresistance—their sharp edges also cause injury\nto any opponent who attacks it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "gible",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png"
+        },
+        {
+            "name": "gabite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png"
+        },
+        {
+            "name": "garchomp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png"
+        }
+    ]
+}

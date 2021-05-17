@@ -1,0 +1,49 @@
+{
+    "id": 12,
+    "name": "butterfree",
+    "height": 1.1,
+    "weight": 32.0,
+    "base_exp": 178,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d1/012Butterfree.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "special-attack": 90,
+        "special-defense": 80,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "tinted-lens",
+        "description": "Doubles damage inflicted with not-very-effective moves."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "Once it has opponents trapped in a tornado that\ncould blow away a 10-ton truck, it finishes them\noff with its poisonous scales.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "caterpie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png"
+        },
+        {
+            "name": "metapod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png"
+        },
+        {
+            "name": "butterfree",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png"
+        }
+    ]
+}

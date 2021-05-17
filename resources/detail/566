@@ -1,0 +1,45 @@
+{
+    "id": 566,
+    "name": "archen",
+    "height": 0.5,
+    "weight": 9.5,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/566Archen.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 112,
+        "defense": 45,
+        "special-attack": 74,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "defeatist",
+        "description": "Halves Attack and Special Attack at 50% max HP or less."
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#9e85eb"
+    ],
+    "short_description": "Restored from a fossil, this ancient bird\nPokémon has wings but can’t yet fly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "archen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png"
+        },
+        {
+            "name": "archeops",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png"
+        }
+    ]
+}

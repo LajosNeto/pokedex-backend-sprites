@@ -1,0 +1,47 @@
+{
+    "id": 729,
+    "name": "brionne",
+    "height": 0.6,
+    "weight": 17.5,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/729.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/729Brionne.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 69,
+        "defense": 69,
+        "special-attack": 91,
+        "special-defense": 81,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "liquid-voice",
+        "description": "Sound-based moves become Water-type."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "On nights when the sea is calm, Brionne dance\nwith one another to the singing of the Primarina\nthat’s leading them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "popplio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/728.png"
+        },
+        {
+            "name": "brionne",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/729.png"
+        },
+        {
+            "name": "primarina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/730.png"
+        }
+    ]
+}

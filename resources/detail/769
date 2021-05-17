@@ -1,0 +1,45 @@
+{
+    "id": 769,
+    "name": "sandygast",
+    "height": 0.5,
+    "weight": 70.0,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/769Sandygast.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 45,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ghost",
+        "ground"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#dbb963"
+    ],
+    "short_description": "Sandygast mainly inhabits beaches. It takes\ncontrol of anyone who puts their hand into its\nmouth, forcing them to make its body bigger.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "sandygast",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png"
+        },
+        {
+            "name": "palossand",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/770.png"
+        }
+    ]
+}

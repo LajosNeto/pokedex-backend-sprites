@@ -1,0 +1,45 @@
+{
+    "id": 710,
+    "name": "pumpkaboo-average",
+    "height": 0.4,
+    "weight": 5.0,
+    "base_exp": 67,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/df/710Pumpkaboo.png",
+    "base_stats": {
+        "hp": 49,
+        "attack": 66,
+        "defense": 70,
+        "special-attack": 44,
+        "special-defense": 55,
+        "speed": 51
+    },
+    "abilities": {
+        "name": "insomnia",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#6dc04c"
+    ],
+    "short_description": "The light that streams out from the holes in the\npumpkin can hypnotize and control the people\nand Pokémon that see it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "pumpkaboo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png"
+        },
+        {
+            "name": "gourgeist",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png"
+        }
+    ]
+}

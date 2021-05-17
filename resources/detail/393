@@ -1,0 +1,47 @@
+{
+    "id": 393,
+    "name": "piplup",
+    "height": 0.4,
+    "weight": 5.2,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/393.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/393Piplup.png",
+    "base_stats": {
+        "hp": 53,
+        "attack": 51,
+        "defense": 53,
+        "special-attack": 61,
+        "special-defense": 56,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Because it is very proud, it hates accepting food\nfrom people. Its thick down guards it from cold.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "piplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/393.png"
+        },
+        {
+            "name": "prinplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/394.png"
+        },
+        {
+            "name": "empoleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png"
+        }
+    ]
+}

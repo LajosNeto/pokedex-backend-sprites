@@ -1,0 +1,45 @@
+{
+    "id": 625,
+    "name": "bisharp",
+    "height": 1.6,
+    "weight": 70.0,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/625.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/74/625Bisharp.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "pressure",
+        "description": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#afafc9"
+    ],
+    "short_description": "Violent conflicts erupt between Bisharp and\nFraxure over places where sharpening stones\ncan be found.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "pawniard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png"
+        },
+        {
+            "name": "bisharp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/625.png"
+        }
+    ]
+}

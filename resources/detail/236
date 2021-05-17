@@ -1,0 +1,51 @@
+{
+    "id": 236,
+    "name": "tyrogue",
+    "height": 0.7,
+    "weight": 21.0,
+    "base_exp": 42,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/236Tyrogue.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 35,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "vital-spirit",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Even though it is small, it can’t be ignored because\nit will slug any handy target without warning.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "tyrogue",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png"
+        },
+        {
+            "name": "hitmonlee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png"
+        },
+        {
+            "name": "hitmonchan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png"
+        },
+        {
+            "name": "hitmontop",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png"
+        }
+    ]
+}

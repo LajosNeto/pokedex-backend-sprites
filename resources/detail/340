@@ -1,0 +1,45 @@
+{
+    "id": 340,
+    "name": "whiscash",
+    "height": 0.9,
+    "weight": 23.6,
+    "base_exp": 164,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/60/340Whiscash.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 78,
+        "defense": 73,
+        "special-attack": 76,
+        "special-defense": 71,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#dbb963"
+    ],
+    "short_description": "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "barboach",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png"
+        },
+        {
+            "name": "whiscash",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png"
+        }
+    ]
+}

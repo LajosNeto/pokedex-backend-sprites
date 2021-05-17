@@ -1,0 +1,49 @@
+{
+    "id": 75,
+    "name": "graveler",
+    "height": 1.0,
+    "weight": 105.0,
+    "base_exp": 137,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/75/075Graveler.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#dbb963"
+    ],
+    "short_description": "When it comes rolling down a mountain path,\nanything in its way gets zapped by electricity\nand sent flying.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "geodude",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png"
+        },
+        {
+            "name": "graveler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png"
+        },
+        {
+            "name": "golem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 876,
+    "name": "indeedee-male",
+    "height": 0.9,
+    "weight": 28.0,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/79/876Indeedee.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 55,
+        "special-attack": 105,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "psychic-surge",
+        "description": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+    },
+    "types": [
+        "psychic",
+        "normal"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#9e9e6f"
+    ],
+    "short_description": "Through its horns, it can pick up on the emotions\nof creatures around it. Positive emotions are the\nsource of its strength.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "indeedee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png"
+        }
+    ]
+}

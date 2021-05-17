@@ -1,0 +1,49 @@
+{
+    "id": 859,
+    "name": "impidimp",
+    "height": 0.4,
+    "weight": 5.5,
+    "base_exp": 53,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/859Impidimp.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 30,
+        "special-attack": 55,
+        "special-defense": 40,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#eb90a4"
+    ],
+    "short_description": "It sneaks into people’s homes, stealing things\nand feasting on the negative energy of the\nfrustrated occupants.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "impidimp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png"
+        },
+        {
+            "name": "morgrem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/860.png"
+        },
+        {
+            "name": "grimmsnarl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/861.png"
+        }
+    ]
+}

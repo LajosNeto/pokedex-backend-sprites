@@ -1,0 +1,45 @@
+{
+    "id": 163,
+    "name": "hoothoot",
+    "height": 0.7,
+    "weight": 21.2,
+    "base_exp": 52,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/53/163Hoothoot.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 36,
+        "special-defense": 56,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "tinted-lens",
+        "description": "Doubles damage inflicted with not-very-effective moves."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "It begins to hoot at the same time every day.\nSome Trainers use them in place of clocks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "hoothoot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png"
+        },
+        {
+            "name": "noctowl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/164.png"
+        }
+    ]
+}

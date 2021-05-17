@@ -1,0 +1,43 @@
+{
+    "id": 321,
+    "name": "wailord",
+    "height": 14.5,
+    "weight": 398.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/321.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b9/321Wailord.png",
+    "base_stats": {
+        "hp": 170,
+        "attack": 90,
+        "defense": 45,
+        "special-attack": 90,
+        "special-defense": 45,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "pressure",
+        "description": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Its immense size is the reason for its popularity.\nWailord watching is a favorite sightseeing\nactivity in various parts of the world.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "wailmer",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/320.png"
+        },
+        {
+            "name": "wailord",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/321.png"
+        }
+    ]
+}

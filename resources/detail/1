@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "name": "bulbasaur",
+    "height": 0.7,
+    "weight": 6.9,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/21/001Bulbasaur.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "chlorophyll",
+        "description": "Doubles Speed during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "While it is young, it uses the nutrients that are\nstored in the seed on its back in order to grow.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "bulbasaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png"
+        },
+        {
+            "name": "ivysaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png"
+        },
+        {
+            "name": "venusaur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/3.png"
+        }
+    ]
+}

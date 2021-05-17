@@ -1,0 +1,49 @@
+{
+    "id": 413,
+    "name": "wormadam-plant",
+    "height": 0.5,
+    "weight": 6.5,
+    "base_exp": 148,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/db/413Wormadam-Plant.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 59,
+        "defense": 85,
+        "special-attack": 79,
+        "special-defense": 105,
+        "speed": 36
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "burmy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png"
+        },
+        {
+            "name": "wormadam",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png"
+        },
+        {
+            "name": "mothim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png"
+        }
+    ]
+}

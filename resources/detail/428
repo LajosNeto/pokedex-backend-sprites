@@ -1,0 +1,43 @@
+{
+    "id": 428,
+    "name": "lopunny",
+    "height": 1.2,
+    "weight": 33.3,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/428.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/428Lopunny.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "special-attack": 54,
+        "special-defense": 96,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "limber",
+        "description": "Prevents paralysis."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Once hot seasons are over, Lopunny’s coat will\nbe replaced with fur that holds a lot of insulating\nair in preparation for colder weather.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "buneary",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/427.png"
+        },
+        {
+            "name": "lopunny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/428.png"
+        }
+    ]
+}

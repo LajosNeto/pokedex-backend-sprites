@@ -1,0 +1,47 @@
+{
+    "id": 53,
+    "name": "persian",
+    "height": 1.0,
+    "weight": 32.0,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/53.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/13/053Persian.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 115
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This Pokémon is one tough opponent. Not only\ndoes it have formidable physical abilities, but it’s\nalso not above fighting dirty.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "meowth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/52.png"
+        },
+        {
+            "name": "persian",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/53.png"
+        },
+        {
+            "name": "perrserker",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/863.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 395,
+    "name": "empoleon",
+    "height": 1.7,
+    "weight": 84.5,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7f/395Empoleon.png",
+    "base_stats": {
+        "hp": 84,
+        "attack": 86,
+        "defense": 88,
+        "special-attack": 111,
+        "special-defense": 101,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "defiant",
+        "description": "Raises Attack two stages upon having any stat lowered."
+    },
+    "types": [
+        "water",
+        "steel"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#afafc9"
+    ],
+    "short_description": "The three horns that extend from its beak attest to\nits power. The leader has the biggest horns.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "piplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/393.png"
+        },
+        {
+            "name": "prinplup",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/394.png"
+        },
+        {
+            "name": "empoleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png"
+        }
+    ]
+}

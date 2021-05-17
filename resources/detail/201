@@ -1,0 +1,39 @@
+{
+    "id": 201,
+    "name": "unown",
+    "height": 0.5,
+    "weight": 5.0,
+    "base_exp": 118,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/201.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/77/201Unown.png",
+    "base_stats": {
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special-attack": 72,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "This Pokémon is shaped like ancient writing. It is a mystery as\nto which came first, the ancient writings or the various Unown.\nResearch into this topic is ongoing but nothing is known.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rare",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "unown",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/201.png"
+        }
+    ]
+}

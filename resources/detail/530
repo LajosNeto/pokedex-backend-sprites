@@ -1,0 +1,45 @@
+{
+    "id": 530,
+    "name": "excadrill",
+    "height": 0.7,
+    "weight": 40.4,
+    "base_exp": 178,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/63/530Excadrill.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "special-attack": 50,
+        "special-defense": 65,
+        "speed": 88
+    },
+    "abilities": {
+        "name": "mold-breaker",
+        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+    },
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#afafc9"
+    ],
+    "short_description": "Known as the Drill King, this Pokémon can\ntunnel through the terrain at speeds of over\n90 mph.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "drilbur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png"
+        },
+        {
+            "name": "excadrill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png"
+        }
+    ]
+}

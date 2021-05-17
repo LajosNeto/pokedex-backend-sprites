@@ -1,0 +1,47 @@
+{
+    "id": 366,
+    "name": "clamperl",
+    "height": 0.4,
+    "weight": 52.5,
+    "base_exp": 69,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/366Clamperl.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "special-attack": 74,
+        "special-defense": 55,
+        "speed": 32
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Clamperl’s pearls are exceedingly precious.\nThey can be more than 10 times as costly\nas Shellder’s pearls.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "clamperl",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png"
+        },
+        {
+            "name": "huntail",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/367.png"
+        },
+        {
+            "name": "gorebyss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png"
+        }
+    ]
+}

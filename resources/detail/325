@@ -1,0 +1,43 @@
+{
+    "id": 325,
+    "name": "spoink",
+    "height": 0.7,
+    "weight": 30.6,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/325.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9e/325Spoink.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 25,
+        "defense": 35,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "gluttony",
+        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Spoink keeps a pearl on top of its head. The pearl functions to\namplify this Pokémon’s psychokinetic powers. It is therefore on\na constant search for a bigger pearl.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "spoink",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/325.png"
+        },
+        {
+            "name": "grumpig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/326.png"
+        }
+    ]
+}

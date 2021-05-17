@@ -1,0 +1,45 @@
+{
+    "id": 709,
+    "name": "trevenant",
+    "height": 1.5,
+    "weight": 71.0,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/709.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/709Trevenant.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 76,
+        "special-attack": 65,
+        "special-defense": 82,
+        "speed": 56
+    },
+    "abilities": {
+        "name": "harvest",
+        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#6dc04c"
+    ],
+    "short_description": "Small roots that extend from the tips of this\nPokémon’s feet can tie into the trees of the\nforest and give Trevenant control over them.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "phantump",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/708.png"
+        },
+        {
+            "name": "trevenant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/709.png"
+        }
+    ]
+}

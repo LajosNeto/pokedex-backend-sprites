@@ -1,0 +1,49 @@
+{
+    "id": 16,
+    "name": "pidgey",
+    "height": 0.3,
+    "weight": 1.8,
+    "base_exp": 50,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/16.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/55/016Pidgey.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 56
+    },
+    "abilities": {
+        "name": "big-pecks",
+        "description": "Protects against Defense drops."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "Very docile. If attacked, it will often kick up\nsand to protect itself rather than fight back.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "pidgey",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/16.png"
+        },
+        {
+            "name": "pidgeotto",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/17.png"
+        },
+        {
+            "name": "pidgeot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/18.png"
+        }
+    ]
+}

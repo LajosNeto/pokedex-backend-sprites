@@ -1,0 +1,49 @@
+{
+    "id": 552,
+    "name": "krokorok",
+    "height": 1.0,
+    "weight": 33.4,
+    "base_exp": 123,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/552Krokorok.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 82,
+        "defense": 45,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 74
+    },
+    "abilities": {
+        "name": "anger-point",
+        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#644e40"
+    ],
+    "short_description": "Although this Pokémon has specialized eyes that\nallow it to see in the dark, Krokorok won’t move\nmuch at night—the desert gets cold after sunset.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "sandile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png"
+        },
+        {
+            "name": "krokorok",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png"
+        },
+        {
+            "name": "krookodile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png"
+        }
+    ]
+}

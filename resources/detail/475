@@ -1,0 +1,49 @@
+{
+    "id": 475,
+    "name": "gallade",
+    "height": 1.6,
+    "weight": 52.0,
+    "base_exp": 233,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/475.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/58/475Gallade.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 115,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "psychic",
+        "fighting"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#b72f29"
+    ],
+    "short_description": "Sharply attuned to others’ wishes for help, this\nPokémon seeks out those in need and aids them\nin battle.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "ralts",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+        },
+        {
+            "name": "kirlia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+        },
+        {
+            "name": "gardevoir",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 373,
+    "name": "salamence",
+    "height": 1.5,
+    "weight": 102.6,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/41/373Salamence.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 135,
+        "defense": 80,
+        "special-attack": 110,
+        "special-defense": 80,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#9e85eb"
+    ],
+    "short_description": "Thanks to its fervent wishes, the cells in its\nbody finally mutated, and at last it has its\nheart’s desire—wings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "bagon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png"
+        },
+        {
+            "name": "shelgon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png"
+        },
+        {
+            "name": "salamence",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png"
+        }
+    ]
+}

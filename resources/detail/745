@@ -1,0 +1,43 @@
+{
+    "id": 745,
+    "name": "lycanroc-midday",
+    "height": 0.8,
+    "weight": 25.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/14/745Lycanroc.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 112
+    },
+    "abilities": {
+        "name": "steadfast",
+        "description": "Raises Speed one stage upon flinching."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "With swift movements, this Pokémon gradually\nbacks its prey into a corner. Lycanroc’s fangs are\nalways aimed toward opponents’ weak spots.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "rockruff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png"
+        },
+        {
+            "name": "lycanroc",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png"
+        }
+    ]
+}

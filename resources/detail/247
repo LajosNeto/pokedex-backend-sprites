@@ -1,0 +1,49 @@
+{
+    "id": 247,
+    "name": "pupitar",
+    "height": 1.2,
+    "weight": 152.0,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/247Pupitar.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 84,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 51
+    },
+    "abilities": {
+        "name": "shed-skin",
+        "description": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#dbb963"
+    ],
+    "short_description": "It will not stay still, even while it’s a pupa.\nIt already has arms and legs under its solid shell.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "larvitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png"
+        },
+        {
+            "name": "pupitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png"
+        },
+        {
+            "name": "tyranitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png"
+        }
+    ]
+}

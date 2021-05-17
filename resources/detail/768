@@ -1,0 +1,45 @@
+{
+    "id": 768,
+    "name": "golisopod",
+    "height": 2.0,
+    "weight": 108.0,
+    "base_exp": 186,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/768.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b6/768Golisopod.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 140,
+        "special-attack": 60,
+        "special-defense": 90,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "emergency-exit",
+        "description": "This Pokémon automatically switches out when its HP drops below half."
+    },
+    "types": [
+        "bug",
+        "water"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#5f84ea"
+    ],
+    "short_description": "They live in sunken ships or in holes in the\nseabed. When Golisopod and Grapploct\nbattle, the loser becomes the winner’s meal.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "wimpod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/767.png"
+        },
+        {
+            "name": "golisopod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/768.png"
+        }
+    ]
+}

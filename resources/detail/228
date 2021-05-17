@@ -1,0 +1,45 @@
+{
+    "id": 228,
+    "name": "houndour",
+    "height": 0.6,
+    "weight": 10.8,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/228.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/53/228Houndour.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 80,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "dark",
+        "fire"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#ed7835"
+    ],
+    "short_description": "They make repeated eerie howls before dawn\nto call attention to their pack.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "houndour",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/228.png"
+        },
+        {
+            "name": "houndoom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/229.png"
+        }
+    ]
+}

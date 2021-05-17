@@ -1,0 +1,49 @@
+{
+    "id": 176,
+    "name": "togetic",
+    "height": 0.6,
+    "weight": 3.2,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/176Togetic.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 85,
+        "special-attack": 80,
+        "special-defense": 105,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "super-luck",
+        "description": "Raises moves' critical hit rates one stage."
+    },
+    "types": [
+        "fairy",
+        "flying"
+    ],
+    "types_colors": [
+        "#eb90a4",
+        "#9e85eb"
+    ],
+    "short_description": "It grows dispirited if it is not with kind people.\nIt can float in midair without moving its wings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "togepi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png"
+        },
+        {
+            "name": "togetic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png"
+        },
+        {
+            "name": "togekiss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png"
+        }
+    ]
+}

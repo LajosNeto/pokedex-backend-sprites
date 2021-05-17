@@ -1,0 +1,45 @@
+{
+    "id": 767,
+    "name": "wimpod",
+    "height": 0.5,
+    "weight": 12.0,
+    "base_exp": 46,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/767.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/767Wimpod.png",
+    "base_stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "wimp-out",
+        "description": "This Pokémon automatically switches out when its HP drops below half."
+    },
+    "types": [
+        "bug",
+        "water"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#5f84ea"
+    ],
+    "short_description": "Wimpod gather in swarms, constantly on the\nlookout for danger. They scatter the moment\nthey detect an enemy’s presence.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "wimpod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/767.png"
+        },
+        {
+            "name": "golisopod",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/768.png"
+        }
+    ]
+}

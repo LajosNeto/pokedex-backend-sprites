@@ -1,0 +1,39 @@
+{
+    "id": 621,
+    "name": "druddigon",
+    "height": 1.6,
+    "weight": 139.0,
+    "base_exp": 170,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/621Druddigon.png",
+    "base_stats": {
+        "hp": 77,
+        "attack": 120,
+        "defense": 90,
+        "special-attack": 60,
+        "special-defense": 90,
+        "speed": 48
+    },
+    "abilities": {
+        "name": "mold-breaker",
+        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Druddigon are vicious and cunning. They take up\nresidence in nests dug out by other Pokémon,\ntreating the stolen nests as their own lairs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "druddigon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png"
+        }
+    ]
+}

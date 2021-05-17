@@ -1,0 +1,45 @@
+{
+    "id": 222,
+    "name": "corsola",
+    "height": 0.6,
+    "weight": 5.0,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fc/222Corsola.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 55,
+        "defense": 95,
+        "special-attack": 65,
+        "special-defense": 95,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#af9539"
+    ],
+    "short_description": "These Pokémon live in warm seas.\nIn prehistoric times, many lived in the\noceans around the Galar region as well.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "corsola",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png"
+        },
+        {
+            "name": "cursola",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 137,
+    "name": "porygon",
+    "height": 0.8,
+    "weight": 36.5,
+    "base_exp": 79,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/137.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/137Porygon.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "analytic",
+        "description": "Strengthens moves to 1.3× their power when moving last."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "In recent years, this species has been very helpful\nin cyberspace. These Pokémon will go around\nchecking to make sure no suspicious data exists.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "porygon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/137.png"
+        },
+        {
+            "name": "porygon2",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/233.png"
+        },
+        {
+            "name": "porygon-z",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/474.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 805,
+    "name": "stakataka",
+    "height": 5.5,
+    "weight": 820.0,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/27/805Stakataka.png",
+    "base_stats": {
+        "hp": 61,
+        "attack": 131,
+        "defense": 211,
+        "special-attack": 53,
+        "special-defense": 101,
+        "speed": 13
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#afafc9"
+    ],
+    "short_description": "When stone walls started moving and attacking,\nthe brute’s true identity was this mysterious\nlife-form, which brings to mind an Ultra Beast.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "stakataka",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png"
+        }
+    ]
+}

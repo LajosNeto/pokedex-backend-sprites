@@ -1,0 +1,43 @@
+{
+    "id": 360,
+    "name": "wynaut",
+    "height": 0.6,
+    "weight": 14.0,
+    "base_exp": 52,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/360.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/360Wynaut.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special-attack": 23,
+        "special-defense": 48,
+        "speed": 23
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It tends to move in a pack with others.\nThey cluster in a tight group to sleep in a cave.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "wynaut",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/360.png"
+        },
+        {
+            "name": "wobbuffet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/202.png"
+        }
+    ]
+}

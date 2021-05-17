@@ -1,0 +1,47 @@
+{
+    "id": 288,
+    "name": "vigoroth",
+    "height": 1.4,
+    "weight": 46.5,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/288.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/61/288Vigoroth.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "vital-spirit",
+        "description": "Prevents sleep."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Vigoroth is simply incapable of remaining still. Even when it\ntries to sleep, the blood in its veins grows agitated, compelling\nthis Pokémon to run wild throughout the jungle before it can\nsettle down.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "slakoth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/287.png"
+        },
+        {
+            "name": "vigoroth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/288.png"
+        },
+        {
+            "name": "slaking",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/289.png"
+        }
+    ]
+}

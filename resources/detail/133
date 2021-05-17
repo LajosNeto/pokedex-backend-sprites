@@ -1,0 +1,71 @@
+{
+    "id": 133,
+    "name": "eevee",
+    "height": 0.3,
+    "weight": 6.5,
+    "base_exp": 65,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/133Eevee.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "anticipation",
+        "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many different\npossible evolutions.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "eevee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png"
+        },
+        {
+            "name": "vaporeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png"
+        },
+        {
+            "name": "jolteon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png"
+        },
+        {
+            "name": "flareon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png"
+        },
+        {
+            "name": "espeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png"
+        },
+        {
+            "name": "umbreon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png"
+        },
+        {
+            "name": "leafeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png"
+        },
+        {
+            "name": "glaceon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png"
+        },
+        {
+            "name": "sylveon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/700.png"
+        }
+    ]
+}

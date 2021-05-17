@@ -1,0 +1,43 @@
+{
+    "id": 216,
+    "name": "teddiursa",
+    "height": 0.6,
+    "weight": 8.8,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/216.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e9/216Teddiursa.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "honey-gather",
+        "description": "The Pokémon may pick up honey after battle."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This Pokémon likes to lick its palms that are sweetened by\nbeing soaked in honey. Teddiursa concocts its own honey\nby blending fruits and pollen collected by Beedrill.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "teddiursa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/216.png"
+        },
+        {
+            "name": "ursaring",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/217.png"
+        }
+    ]
+}

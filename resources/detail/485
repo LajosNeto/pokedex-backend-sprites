@@ -1,0 +1,41 @@
+{
+    "id": 485,
+    "name": "heatran",
+    "height": 1.7,
+    "weight": 430.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/485.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b7/485Heatran.png",
+    "base_stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 106,
+        "special-attack": 130,
+        "special-defense": 106,
+        "speed": 77
+    },
+    "abilities": {
+        "name": "flame-body",
+        "description": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    "types": [
+        "fire",
+        "steel"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#afafc9"
+    ],
+    "short_description": "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "heatran",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/485.png"
+        }
+    ]
+}

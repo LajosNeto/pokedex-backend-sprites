@@ -1,0 +1,45 @@
+{
+    "id": 437,
+    "name": "bronzong",
+    "height": 1.3,
+    "weight": 187.0,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/437.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/aa/437Bronzong.png",
+    "base_stats": {
+        "hp": 67,
+        "attack": 89,
+        "defense": 116,
+        "special-attack": 79,
+        "special-defense": 116,
+        "speed": 33
+    },
+    "abilities": {
+        "name": "heavy-metal",
+        "description": "Doubles the Pokémon's weight."
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#f6527e"
+    ],
+    "short_description": "Many scientists suspect that this Pokémon\noriginated outside the Galar region, based on\nthe patterns on its body.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "bronzor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png"
+        },
+        {
+            "name": "bronzong",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/437.png"
+        }
+    ]
+}

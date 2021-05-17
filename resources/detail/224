@@ -1,0 +1,43 @@
+{
+    "id": 224,
+    "name": "octillery",
+    "height": 0.9,
+    "weight": 28.5,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/224.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cb/224Octillery.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 105,
+        "defense": 75,
+        "special-attack": 105,
+        "special-defense": 75,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "moody",
+        "description": "Raises a random stat two stages and lowers another one stage after each turn."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It traps enemies with its suction-cupped\ntentacles, then smashes them with its\nrock-hard head.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "remoraid",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/223.png"
+        },
+        {
+            "name": "octillery",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/224.png"
+        }
+    ]
+}

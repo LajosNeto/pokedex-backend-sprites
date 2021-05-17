@@ -1,0 +1,39 @@
+{
+    "id": 312,
+    "name": "minun",
+    "height": 0.4,
+    "weight": 4.2,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/312.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/312Minun.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "volt-absorb",
+        "description": "Absorbs electric moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Minun loves to cheer on its partner in battle. It gives off sparks\nfrom its body while it is doing so. If its partner is in trouble,\nthis Pokémon gives off increasing amounts of sparks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "minun",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/312.png"
+        }
+    ]
+}

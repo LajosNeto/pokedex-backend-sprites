@@ -1,0 +1,43 @@
+{
+    "id": 739,
+    "name": "crabrawler",
+    "height": 0.6,
+    "weight": 7.0,
+    "base_exp": 68,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/739.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/98/739Crabrawler.png",
+    "base_stats": {
+        "hp": 47,
+        "attack": 82,
+        "defense": 57,
+        "special-attack": 42,
+        "special-defense": 47,
+        "speed": 63
+    },
+    "abilities": {
+        "name": "anger-point",
+        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Crabrawler has been known to mistake\nExeggutor for a coconut tree and climb it. The\nenraged Exeggutor shakes it off and stomps it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "crabrawler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/739.png"
+        },
+        {
+            "name": "crabominable",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/740.png"
+        }
+    ]
+}

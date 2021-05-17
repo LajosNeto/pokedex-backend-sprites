@@ -1,0 +1,49 @@
+{
+    "id": 658,
+    "name": "greninja",
+    "height": 1.5,
+    "weight": 40.0,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/67/658Greninja.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "special-attack": 103,
+        "special-defense": 71,
+        "speed": 122
+    },
+    "abilities": {
+        "name": "protean",
+        "description": "Changes the bearer's type to match each move it uses."
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#644e40"
+    ],
+    "short_description": "It appears and vanishes with a ninja’s grace.\nIt toys with its enemies using swift movements, while\nslicing them with throwing stars of sharpest water.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "froakie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png"
+        },
+        {
+            "name": "frogadier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png"
+        },
+        {
+            "name": "greninja",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 91,
+    "name": "cloyster",
+    "height": 1.5,
+    "weight": 132.5,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/091Cloyster.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 180,
+        "special-attack": 85,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "water",
+        "ice"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#8ed2d2"
+    ],
+    "short_description": "Once it slams its shell shut, it is impossible to\nopen, even by those with superior strength.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "shellder",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png"
+        },
+        {
+            "name": "cloyster",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png"
+        }
+    ]
+}

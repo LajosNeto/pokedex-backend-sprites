@@ -1,0 +1,49 @@
+{
+    "id": 174,
+    "name": "igglybuff",
+    "height": 0.3,
+    "weight": 1.0,
+    "base_exp": 42,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4d/174Igglybuff.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 30,
+        "defense": 15,
+        "special-attack": 40,
+        "special-defense": 20,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#eb90a4"
+    ],
+    "short_description": "Taking advantage of the softness of its body,\nIgglybuff moves as if bouncing. Its body turns a\ndeep pink when its temperature rises.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "igglybuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png"
+        },
+        {
+            "name": "jigglypuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png"
+        },
+        {
+            "name": "wigglytuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 607,
+    "name": "litwick",
+    "height": 0.3,
+    "weight": 3.1,
+    "base_exp": 55,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/607Litwick.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 30,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#ed7835"
+    ],
+    "short_description": "The younger the life this Pokémon absorbs,\nthe brighter and eerier the flame on its\nhead burns.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "litwick",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png"
+        },
+        {
+            "name": "lampent",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png"
+        },
+        {
+            "name": "chandelure",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 514,
+    "name": "simisear",
+    "height": 1.0,
+    "weight": 28.0,
+    "base_exp": 174,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7c/514Simisear.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 98,
+        "special-defense": 63,
+        "speed": 101
+    },
+    "abilities": {
+        "name": "blaze",
+        "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "When it gets excited, embers rise from its head\nand tail and it gets hot. For some reason, it\nloves sweets.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "pansear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/513.png"
+        },
+        {
+            "name": "simisear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png"
+        }
+    ]
+}

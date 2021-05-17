@@ -1,0 +1,47 @@
+{
+    "id": 782,
+    "name": "jangmo-o",
+    "height": 0.6,
+    "weight": 29.7,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a0/782Jangmo-o.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 65,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Jangmo-o strikes its scales to communicate with\nothers of its kind. Its scales are actually fur that’s\nbecome as hard as metal.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "jangmo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png"
+        },
+        {
+            "name": "hakamo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png"
+        },
+        {
+            "name": "kommo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png"
+        }
+    ]
+}

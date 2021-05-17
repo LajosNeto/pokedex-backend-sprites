@@ -1,0 +1,45 @@
+{
+    "id": 850,
+    "name": "sizzlipede",
+    "height": 0.7,
+    "weight": 1.0,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f2/850Sizzlipede.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "flame-body",
+        "description": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    "types": [
+        "fire",
+        "bug"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9daf2b"
+    ],
+    "short_description": "It wraps prey up with its heated body, cooking\nthem in its coils. Once they’re well-done, it will\nvoraciously nibble them down to the last morsel.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "sizzlipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png"
+        },
+        {
+            "name": "centiskorch",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png"
+        }
+    ]
+}

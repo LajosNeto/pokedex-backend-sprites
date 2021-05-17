@@ -1,0 +1,49 @@
+{
+    "id": 635,
+    "name": "hydreigon",
+    "height": 1.8,
+    "weight": 160.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/635Hydreigon.png",
+    "base_stats": {
+        "hp": 92,
+        "attack": 105,
+        "defense": 90,
+        "special-attack": 125,
+        "special-defense": 90,
+        "speed": 98
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#6630f3"
+    ],
+    "short_description": "The three heads take turns sinking their teeth into\nthe opponent. Their attacks won’t slow until their\ntarget goes down.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "deino",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png"
+        },
+        {
+            "name": "zweilous",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png"
+        },
+        {
+            "name": "hydreigon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png"
+        }
+    ]
+}

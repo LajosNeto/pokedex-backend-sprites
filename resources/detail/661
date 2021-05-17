@@ -1,0 +1,49 @@
+{
+    "id": 661,
+    "name": "fletchling",
+    "height": 0.3,
+    "weight": 1.7,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/661.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/661Fletchling.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 43,
+        "special-attack": 40,
+        "special-defense": 38,
+        "speed": 62
+    },
+    "abilities": {
+        "name": "gale-wings",
+        "description": "Raises flying moves' priority by one stage."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "When this Pokémon gets excited, its body\ntemperature increases sharply. If you touch a\nFletchling with bare hands, you might get burned.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "fletchling",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/661.png"
+        },
+        {
+            "name": "fletchinder",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/662.png"
+        },
+        {
+            "name": "talonflame",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/663.png"
+        }
+    ]
+}

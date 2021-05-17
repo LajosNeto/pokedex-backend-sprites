@@ -1,0 +1,41 @@
+{
+    "id": 146,
+    "name": "moltres",
+    "height": 2.0,
+    "weight": 60.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1b/146Moltres.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special-attack": 125,
+        "special-defense": 85,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "flame-body",
+        "description": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9e85eb"
+    ],
+    "short_description": "A legendary bird Pokémon. As it flaps its\nflaming wings, even the night sky will turn red.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "rare",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "moltres",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 138,
+    "name": "omanyte",
+    "height": 0.4,
+    "weight": 7.5,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/79/138Omanyte.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 40,
+        "defense": 100,
+        "special-attack": 90,
+        "special-defense": 55,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "rock",
+        "water"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#5f84ea"
+    ],
+    "short_description": "An ancient Pokémon that was recovered from\na fossil. It swam by cleverly twisting its\n10 tentacles about.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "omanyte",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png"
+        },
+        {
+            "name": "omastar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png"
+        }
+    ]
+}

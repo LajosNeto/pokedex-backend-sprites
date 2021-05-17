@@ -1,0 +1,49 @@
+{
+    "id": 839,
+    "name": "coalossal",
+    "height": 2.8,
+    "weight": 310.5,
+    "base_exp": 255,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0c/839Coalossal.png",
+    "base_stats": {
+        "hp": 110,
+        "attack": 80,
+        "defense": 120,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "flash-fire",
+        "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    "types": [
+        "rock",
+        "fire"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#ed7835"
+    ],
+    "short_description": "While it’s engaged in battle, its mountain of coal\nwill burn bright red, sending off sparks that\nscorch the surrounding area.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "rolycoly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/837.png"
+        },
+        {
+            "name": "carkol",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png"
+        },
+        {
+            "name": "coalossal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png"
+        }
+    ]
+}

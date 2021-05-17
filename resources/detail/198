@@ -1,0 +1,45 @@
+{
+    "id": 198,
+    "name": "murkrow",
+    "height": 0.5,
+    "weight": 2.1,
+    "base_exp": 81,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/33/198Murkrow.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 42,
+        "special-attack": 85,
+        "special-defense": 42,
+        "speed": 91
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#9e85eb"
+    ],
+    "short_description": "It searches for shiny things for its boss.\nMurkrow’s presence is said to be unlucky, so\nmany people detest it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "murkrow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png"
+        },
+        {
+            "name": "honchkrow",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png"
+        }
+    ]
+}

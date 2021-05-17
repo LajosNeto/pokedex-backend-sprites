@@ -1,0 +1,39 @@
+{
+    "id": 370,
+    "name": "luvdisc",
+    "height": 0.6,
+    "weight": 8.7,
+    "base_exp": 116,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/370.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/370Luvdisc.png",
+    "base_stats": {
+        "hp": 43,
+        "attack": 30,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 65,
+        "speed": 97
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Luvdisc makes its home in coral reefs in warm\nseas. It especially likes sleeping in the space\nbetween Corsola’s branches.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "luvdisc",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/370.png"
+        }
+    ]
+}

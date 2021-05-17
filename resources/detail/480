@@ -1,0 +1,39 @@
+{
+    "id": 480,
+    "name": "uxie",
+    "height": 0.3,
+    "weight": 0.3,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/480Uxie.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 130,
+        "special-attack": 75,
+        "special-defense": 130,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It is said that its emergence gave humans the\nintelligence to improve their quality of life.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "uxie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png"
+        }
+    ]
+}

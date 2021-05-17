@@ -1,0 +1,43 @@
+{
+    "id": 864,
+    "name": "cursola",
+    "height": 1.0,
+    "weight": 0.4,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/db/864Cursola.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 50,
+        "special-attack": 145,
+        "special-defense": 130,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "perish-body",
+        "description": ""
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "Be cautious of the ectoplasmic body\nsurrounding its soul. You’ll become\nstiff as stone if you touch it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "corsola",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png"
+        },
+        {
+            "name": "cursola",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png"
+        }
+    ]
+}

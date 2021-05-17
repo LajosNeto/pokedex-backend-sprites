@@ -1,0 +1,41 @@
+{
+    "id": 381,
+    "name": "latios",
+    "height": 2.0,
+    "weight": 60.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/381.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/52/381Latios.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 90,
+        "defense": 80,
+        "special-attack": 130,
+        "special-defense": 110,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#f6527e"
+    ],
+    "short_description": "Latios will only open its heart to a Trainer with a\ncompassionate spirit. This Pokémon can fly faster than a\njet plane by folding its forelegs to minimize air resistance.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "latios",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/381.png"
+        }
+    ]
+}

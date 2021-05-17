@@ -1,0 +1,47 @@
+{
+    "id": 5,
+    "name": "charmeleon",
+    "height": 1.1,
+    "weight": 19.0,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4a/005Charmeleon.png",
+    "base_stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "special-attack": 80,
+        "special-defense": 65,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "solar-power",
+        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "If it becomes agitated during battle, it spouts\nintense flames, incinerating its surroundings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "charmander",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png"
+        },
+        {
+            "name": "charmeleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png"
+        },
+        {
+            "name": "charizard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png"
+        }
+    ]
+}

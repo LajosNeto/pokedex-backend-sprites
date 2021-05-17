@@ -1,0 +1,49 @@
+{
+    "id": 783,
+    "name": "hakamo-o",
+    "height": 1.2,
+    "weight": 47.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0d/783Hakamo-o.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 90,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#b72f29"
+    ],
+    "short_description": "Before attacking its enemies, it clashes its\nscales together and roars. Its sharp claws\nshred the opposition.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "jangmo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png"
+        },
+        {
+            "name": "hakamo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png"
+        },
+        {
+            "name": "kommo-o",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png"
+        }
+    ]
+}

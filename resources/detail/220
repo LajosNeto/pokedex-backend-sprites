@@ -1,0 +1,49 @@
+{
+    "id": 220,
+    "name": "swinub",
+    "height": 0.4,
+    "weight": 6.5,
+    "base_exp": 50,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b5/220Swinub.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#dbb963"
+    ],
+    "short_description": "If it smells something enticing, it dashes off\nheadlong to find the source of the aroma.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "swinub",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png"
+        },
+        {
+            "name": "piloswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png"
+        },
+        {
+            "name": "mamoswine",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png"
+        }
+    ]
+}

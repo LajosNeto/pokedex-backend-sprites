@@ -1,0 +1,47 @@
+{
+    "id": 575,
+    "name": "gothorita",
+    "height": 0.7,
+    "weight": 18.0,
+    "base_exp": 137,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/575.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/67/575Gothorita.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "shadow-tag",
+        "description": "Prevents opponents from fleeing or switching out."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "On nights when the stars shine, this Pokémon’s\npsychic power is at its strongest. It’s unknown just\nwhat link Gothorita has to the greater universe.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gothita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/574.png"
+        },
+        {
+            "name": "gothorita",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/575.png"
+        },
+        {
+            "name": "gothitelle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/576.png"
+        }
+    ]
+}

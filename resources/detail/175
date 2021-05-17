@@ -1,0 +1,47 @@
+{
+    "id": 175,
+    "name": "togepi",
+    "height": 0.3,
+    "weight": 1.5,
+    "base_exp": 49,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/175Togepi.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 20,
+        "defense": 65,
+        "special-attack": 40,
+        "special-defense": 65,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "super-luck",
+        "description": "Raises moves' critical hit rates one stage."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "It is considered to be a symbol of good luck.\nIts shell is said to be filled with happiness.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "togepi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png"
+        },
+        {
+            "name": "togetic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png"
+        },
+        {
+            "name": "togekiss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png"
+        }
+    ]
+}

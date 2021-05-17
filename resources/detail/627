@@ -1,0 +1,45 @@
+{
+    "id": 627,
+    "name": "rufflet",
+    "height": 0.5,
+    "weight": 10.5,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/627Rufflet.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 83,
+        "defense": 50,
+        "special-attack": 37,
+        "special-defense": 50,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "A combative Pokémon, it’s ready to pick a fight\nwith anyone. It has talons that can crush\nhard berries.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "rufflet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png"
+        },
+        {
+            "name": "braviary",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/628.png"
+        }
+    ]
+}

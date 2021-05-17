@@ -1,0 +1,45 @@
+{
+    "id": 667,
+    "name": "litleo",
+    "height": 0.6,
+    "weight": 13.5,
+    "base_exp": 74,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1f/667Litleo.png",
+    "base_stats": {
+        "hp": 62,
+        "attack": 50,
+        "defense": 58,
+        "special-attack": 73,
+        "special-defense": 54,
+        "speed": 72
+    },
+    "abilities": {
+        "name": "moxie",
+        "description": "Raises Attack one stage upon KOing a Pokémon."
+    },
+    "types": [
+        "fire",
+        "normal"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9e9e6f"
+    ],
+    "short_description": "This hot-blooded Pokémon is filled with\ncuriosity. When it gets angry or starts\nfighting, its short mane gets hot.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "litleo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png"
+        },
+        {
+            "name": "pyroar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png"
+        }
+    ]
+}

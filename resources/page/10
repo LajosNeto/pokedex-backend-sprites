@@ -1,0 +1,264 @@
+[
+    {
+        "id": 201,
+        "name_en": "unown",
+        "name_ja": "アンノーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/201.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 202,
+        "name_en": "wobbuffet",
+        "name_ja": "ソーナンス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/202.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 203,
+        "name_en": "girafarig",
+        "name_ja": "キリンリキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 204,
+        "name_en": "pineco",
+        "name_ja": "クヌギダマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/204.png",
+        "types": [
+            "bug"
+        ],
+        "types_colors": [
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 205,
+        "name_en": "forretress",
+        "name_ja": "フォレトス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/205.png",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 206,
+        "name_en": "dunsparce",
+        "name_ja": "ノコッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/206.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 207,
+        "name_en": "gligar",
+        "name_ja": "グライガー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png",
+        "types": [
+            "ground",
+            "flying"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 208,
+        "name_en": "steelix",
+        "name_ja": "ハガネール",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
+        "types": [
+            "steel",
+            "ground"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 209,
+        "name_en": "snubbull",
+        "name_ja": "ブルー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/209.png",
+        "types": [
+            "fairy"
+        ],
+        "types_colors": [
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 210,
+        "name_en": "granbull",
+        "name_ja": "グランブル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/210.png",
+        "types": [
+            "fairy"
+        ],
+        "types_colors": [
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 211,
+        "name_en": "qwilfish",
+        "name_ja": "ハリーセン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/211.png",
+        "types": [
+            "water",
+            "poison"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 212,
+        "name_en": "scizor",
+        "name_ja": "ハッサム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 213,
+        "name_en": "shuckle",
+        "name_ja": "ツボツボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
+        "types": [
+            "bug",
+            "rock"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 214,
+        "name_en": "heracross",
+        "name_ja": "ヘラクロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 215,
+        "name_en": "sneasel",
+        "name_ja": "ニューラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
+        "types": [
+            "dark",
+            "ice"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 216,
+        "name_en": "teddiursa",
+        "name_ja": "ヒメグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/216.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 217,
+        "name_en": "ursaring",
+        "name_ja": "リングマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/217.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 218,
+        "name_en": "slugma",
+        "name_ja": "マグマッグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/218.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 219,
+        "name_en": "magcargo",
+        "name_ja": "マグカルゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/219.png",
+        "types": [
+            "fire",
+            "rock"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#af9539"
+        ]
+    },
+    {
+        "id": 220,
+        "name_en": "swinub",
+        "name_ja": "ウリムー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png",
+        "types": [
+            "ice",
+            "ground"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#dbb963"
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "id": 853,
+    "name": "grapploct",
+    "height": 1.6,
+    "weight": 39.0,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/853.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c4/853Grapploct.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 118,
+        "defense": 90,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "technician",
+        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Searching for an opponent to test its skills\nagainst, it emerges onto land. Once the battle\nis over, it returns to the sea.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "clobbopus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/852.png"
+        },
+        {
+            "name": "grapploct",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/853.png"
+        }
+    ]
+}

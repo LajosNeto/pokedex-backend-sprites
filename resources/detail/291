@@ -1,0 +1,49 @@
+{
+    "id": 291,
+    "name": "ninjask",
+    "height": 0.8,
+    "weight": 12.0,
+    "base_exp": 160,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/76/291Ninjask.png",
+    "base_stats": {
+        "hp": 61,
+        "attack": 90,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 160
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "This Pokémon is so quick, it is said to be able to\navoid any attack. It loves to feed on tree sap.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "nincada",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png"
+        },
+        {
+            "name": "ninjask",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png"
+        },
+        {
+            "name": "shedinja",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+[
+    {
+        "id": 281,
+        "name_en": "kirlia",
+        "name_ja": "キルリア",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 282,
+        "name_en": "gardevoir",
+        "name_ja": "サーナイト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 283,
+        "name_en": "surskit",
+        "name_ja": "アメタマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png",
+        "types": [
+            "bug",
+            "water"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 284,
+        "name_en": "masquerain",
+        "name_ja": "アメモース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 285,
+        "name_en": "shroomish",
+        "name_ja": "キノココ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 286,
+        "name_en": "breloom",
+        "name_ja": "キノガッサ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 287,
+        "name_en": "slakoth",
+        "name_ja": "ナマケロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/287.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 288,
+        "name_en": "vigoroth",
+        "name_ja": "ヤルキモノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/288.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 289,
+        "name_en": "slaking",
+        "name_ja": "ケッキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/289.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 290,
+        "name_en": "nincada",
+        "name_ja": "ツチニン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png",
+        "types": [
+            "bug",
+            "ground"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 291,
+        "name_en": "ninjask",
+        "name_ja": "テッカニン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 292,
+        "name_en": "shedinja",
+        "name_ja": "ヌケニン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png",
+        "types": [
+            "bug",
+            "ghost"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 293,
+        "name_en": "whismur",
+        "name_ja": "ゴニョニョ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 294,
+        "name_en": "loudred",
+        "name_ja": "ドゴーム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 295,
+        "name_en": "exploud",
+        "name_ja": "バクオング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 296,
+        "name_en": "makuhita",
+        "name_ja": "マクノシタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/296.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 297,
+        "name_en": "hariyama",
+        "name_ja": "ハリテヤマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/297.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 298,
+        "name_en": "azurill",
+        "name_ja": "ルリリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 299,
+        "name_en": "nosepass",
+        "name_ja": "ノズパス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 300,
+        "name_en": "skitty",
+        "name_ja": "エネコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    }
+]

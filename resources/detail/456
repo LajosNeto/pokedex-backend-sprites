@@ -1,0 +1,43 @@
+{
+    "id": 456,
+    "name": "finneon",
+    "height": 0.4,
+    "weight": 7.0,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/456.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/45/456Finneon.png",
+    "base_stats": {
+        "hp": 49,
+        "attack": 49,
+        "defense": 56,
+        "special-attack": 49,
+        "special-defense": 61,
+        "speed": 66
+    },
+    "abilities": {
+        "name": "water-veil",
+        "description": "Prevents burns."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It lures in prey with its shining tail fins. It stays\nnear the surface during the day and moves to\nthe depths when night falls.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "finneon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/456.png"
+        },
+        {
+            "name": "lumineon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/457.png"
+        }
+    ]
+}

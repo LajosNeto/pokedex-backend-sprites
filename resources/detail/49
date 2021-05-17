@@ -1,0 +1,45 @@
+{
+    "id": 49,
+    "name": "venomoth",
+    "height": 1.5,
+    "weight": 12.5,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/049Venomoth.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 90,
+        "special-defense": 75,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "wonder-skin",
+        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "The powdery scales on its wings are hard to\nremove from skin. They also contain poison\nthat leaks out on contact.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "venonat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png"
+        },
+        {
+            "name": "venomoth",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png"
+        }
+    ]
+}

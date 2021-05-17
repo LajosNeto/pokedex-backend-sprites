@@ -1,0 +1,43 @@
+{
+    "id": 854,
+    "name": "sinistea",
+    "height": 0.1,
+    "weight": 0.2,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/854Sinistea.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 74,
+        "special-defense": 54,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "cursed-body",
+        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "The teacup in which this Pokémon makes its\nhome is a famous piece of antique tableware.\nMany forgeries are in circulation.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "sinistea",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png"
+        },
+        {
+            "name": "polteageist",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png"
+        }
+    ]
+}

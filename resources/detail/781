@@ -1,0 +1,41 @@
+{
+    "id": 781,
+    "name": "dhelmise",
+    "height": 3.9,
+    "weight": 210.0,
+    "base_exp": 181,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2f/781Dhelmise.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 131,
+        "defense": 100,
+        "special-attack": 86,
+        "special-defense": 90,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "steelworker",
+        "description": "This Pokémon's Steel moves have 1.5× power."
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#6dc04c"
+    ],
+    "short_description": "After lowering its anchor, it waits for its prey. It\ncatches large Wailord and drains their life-force.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "dhelmise",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png"
+        }
+    ]
+}

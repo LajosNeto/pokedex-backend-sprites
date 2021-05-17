@@ -1,0 +1,43 @@
+{
+    "id": 118,
+    "name": "goldeen",
+    "height": 0.6,
+    "weight": 15.0,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/7b/118Goldeen.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 67,
+        "defense": 60,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 63
+    },
+    "abilities": {
+        "name": "lightning-rod",
+        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "Its dorsal and pectoral fins are strongly developed\nlike muscles. It can swim at a speed of five knots.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "goldeen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png"
+        },
+        {
+            "name": "seaking",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/119.png"
+        }
+    ]
+}

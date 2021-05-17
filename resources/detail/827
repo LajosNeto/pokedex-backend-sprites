@@ -1,0 +1,43 @@
+{
+    "id": 827,
+    "name": "nickit",
+    "height": 0.6,
+    "weight": 8.9,
+    "base_exp": 49,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/22/827Nickit.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "special-attack": 47,
+        "special-defense": 52,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "stakeout",
+        "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Cunning and cautious, this Pokémon survives by\nstealing food from others. It erases its tracks with\nswipes of its tail as it makes off with its plunder.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "nickit",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png"
+        },
+        {
+            "name": "thievul",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png"
+        }
+    ]
+}

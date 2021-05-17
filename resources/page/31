@@ -1,0 +1,276 @@
+[
+    {
+        "id": 621,
+        "name_en": "druddigon",
+        "name_ja": "クリムガン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 622,
+        "name_en": "golett",
+        "name_ja": "ゴビット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png",
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 623,
+        "name_en": "golurk",
+        "name_ja": "ゴルーグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 624,
+        "name_en": "pawniard",
+        "name_ja": "コマタナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png",
+        "types": [
+            "dark",
+            "steel"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 625,
+        "name_en": "bisharp",
+        "name_ja": "キリキザン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/625.png",
+        "types": [
+            "dark",
+            "steel"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 626,
+        "name_en": "bouffalant",
+        "name_ja": "バッフロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/626.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 627,
+        "name_en": "rufflet",
+        "name_ja": "ワシボン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 628,
+        "name_en": "braviary",
+        "name_ja": "ウォーグル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/628.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 629,
+        "name_en": "vullaby",
+        "name_ja": "バルチャイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/629.png",
+        "types": [
+            "dark",
+            "flying"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 630,
+        "name_en": "mandibuzz",
+        "name_ja": "バルジーナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/630.png",
+        "types": [
+            "dark",
+            "flying"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 631,
+        "name_en": "heatmor",
+        "name_ja": "クイタラン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 632,
+        "name_en": "durant",
+        "name_ja": "アイアント",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 633,
+        "name_en": "deino",
+        "name_ja": "モノズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png",
+        "types": [
+            "dark",
+            "dragon"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 634,
+        "name_en": "zweilous",
+        "name_ja": "ジヘッド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
+        "types": [
+            "dark",
+            "dragon"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 635,
+        "name_en": "hydreigon",
+        "name_ja": "サザンドラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png",
+        "types": [
+            "dark",
+            "dragon"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 636,
+        "name_en": "larvesta",
+        "name_ja": "メラルバ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png",
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 637,
+        "name_en": "volcarona",
+        "name_ja": "ウルガモス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/637.png",
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 638,
+        "name_en": "cobalion",
+        "name_ja": "コバルオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/638.png",
+        "types": [
+            "steel",
+            "fighting"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 639,
+        "name_en": "terrakion",
+        "name_ja": "テラキオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
+        "types": [
+            "rock",
+            "fighting"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 640,
+        "name_en": "virizion",
+        "name_ja": "ビリジオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#b72f29"
+        ]
+    }
+]

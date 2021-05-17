@@ -1,0 +1,39 @@
+{
+    "id": 379,
+    "name": "registeel",
+    "height": 1.9,
+    "weight": 205.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/22/379Registeel.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 75,
+        "defense": 150,
+        "special-attack": 75,
+        "special-defense": 150,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "light-metal",
+        "description": "Halves the Pokémon's weight."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "Registeel was imprisoned by people in ancient times.\nThe metal composing its body is thought to be a curious\nsubstance that is not of this earth.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "registeel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png"
+        }
+    ]
+}

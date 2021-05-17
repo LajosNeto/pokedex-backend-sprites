@@ -1,0 +1,47 @@
+{
+    "id": 179,
+    "name": "mareep",
+    "height": 0.6,
+    "weight": 7.8,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/179Mareep.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 65,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "plus",
+        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "Rubbing its fleece generates electricity.\nYou’ll want to pet it because it’s cute, but if you\nuse your bare hand, you’ll get a painful shock.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "mareep",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png"
+        },
+        {
+            "name": "flaaffy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/180.png"
+        },
+        {
+            "name": "ampharos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 19,
+    "name": "rattata",
+    "height": 0.3,
+    "weight": 3.5,
+    "base_exp": 51,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/19.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/46/019Rattata.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "special-attack": 25,
+        "special-defense": 35,
+        "speed": 72
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Will chew on anything with its fangs. If you\nsee one, you can be certain that 40 more\nlive in the area.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "rattata",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/19.png"
+        },
+        {
+            "name": "raticate",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png"
+        }
+    ]
+}

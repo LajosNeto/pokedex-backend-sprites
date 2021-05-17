@@ -1,0 +1,45 @@
+{
+    "id": 567,
+    "name": "archeops",
+    "height": 1.4,
+    "weight": 32.0,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/14/567Archeops.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 140,
+        "defense": 65,
+        "special-attack": 112,
+        "special-defense": 65,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "defeatist",
+        "description": "Halves Attack and Special Attack at 50% max HP or less."
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#9e85eb"
+    ],
+    "short_description": "Said to be an ancestor of bird Pokémon, the\nmuscles it uses to flap its wings are still weak,\nso it needs a long runway in order to take off.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "archen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png"
+        },
+        {
+            "name": "archeops",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 301,
+    "name": "delcatty",
+    "height": 1.1,
+    "weight": 32.6,
+    "base_exp": 140,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/301Delcatty.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "wonder-skin",
+        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Delcatty sleeps anywhere it wants without keeping a permanent\nnest. If other Pokémon approach it as it sleeps, this Pokémon\nwill never fight—it will just move away somewhere else.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "skitty",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png"
+        },
+        {
+            "name": "delcatty",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png"
+        }
+    ]
+}

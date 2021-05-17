@@ -1,0 +1,45 @@
+{
+    "id": 208,
+    "name": "steelix",
+    "height": 9.2,
+    "weight": 400.0,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/208Steelix.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 85,
+        "defense": 200,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "steel",
+        "ground"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#dbb963"
+    ],
+    "short_description": "It is thought its body transformed as a result of\niron accumulating internally from swallowing soil.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "onix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png"
+        },
+        {
+            "name": "steelix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png"
+        }
+    ]
+}

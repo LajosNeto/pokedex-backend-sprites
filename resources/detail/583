@@ -1,0 +1,47 @@
+{
+    "id": 583,
+    "name": "vanillish",
+    "height": 1.1,
+    "weight": 41.0,
+    "base_exp": 138,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/583.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2f/583Vanillish.png",
+    "base_stats": {
+        "hp": 51,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 75,
+        "speed": 59
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "ice"
+    ],
+    "types_colors": [
+        "#8ed2d2"
+    ],
+    "short_description": "It blasts enemies with cold air reaching −148\ndegrees Fahrenheit, freezing them solid. But it\nspares their lives afterward—it’s a kind Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "vanillite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png"
+        },
+        {
+            "name": "vanillish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/583.png"
+        },
+        {
+            "name": "vanilluxe",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/584.png"
+        }
+    ]
+}

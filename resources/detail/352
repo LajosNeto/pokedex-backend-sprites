@@ -1,0 +1,39 @@
+{
+    "id": 352,
+    "name": "kecleon",
+    "height": 1.0,
+    "weight": 22.0,
+    "base_exp": 154,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/352.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/50/352Kecleon.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 120,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "protean",
+        "description": "Changes the bearer's type to match each move it uses."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Its color changes for concealment and also\nwhen its mood or health changes. The darker\nthe color, the healthier it is.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "kecleon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/352.png"
+        }
+    ]
+}

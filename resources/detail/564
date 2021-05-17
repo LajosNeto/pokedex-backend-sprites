@@ -1,0 +1,45 @@
+{
+    "id": 564,
+    "name": "tirtouga",
+    "height": 0.7,
+    "weight": 16.5,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1a/564Tirtouga.png",
+    "base_stats": {
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "special-attack": 53,
+        "special-defense": 45,
+        "speed": 22
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#af9539"
+    ],
+    "short_description": "Its hunting grounds encompassed a broad area,\nfrom the land to more than half a mile deep in\nthe ocean.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tirtouga",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png"
+        },
+        {
+            "name": "carracosta",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png"
+        }
+    ]
+}

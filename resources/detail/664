@@ -1,0 +1,47 @@
+{
+    "id": 664,
+    "name": "scatterbug",
+    "height": 0.3,
+    "weight": 2.5,
+    "base_exp": 40,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/664.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/664Scatterbug.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 27,
+        "special-defense": 25,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "scatterbug",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/664.png"
+        },
+        {
+            "name": "spewpa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/665.png"
+        },
+        {
+            "name": "vivillon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/666.png"
+        }
+    ]
+}

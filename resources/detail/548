@@ -1,0 +1,43 @@
+{
+    "id": 548,
+    "name": "petilil",
+    "height": 0.5,
+    "weight": 6.6,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/548.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0b/548Petilil.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 50,
+        "special-attack": 70,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "leaf-guard",
+        "description": "Protects against major status ailments during strong sunlight."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "The deeper the color of a Petilil’s leaves, the\nhealthier the Pokémon is. Petilil sometimes makes\nits home in a well-tended field or flowerbed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "petilil",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/548.png"
+        },
+        {
+            "name": "lilligant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/549.png"
+        }
+    ]
+}

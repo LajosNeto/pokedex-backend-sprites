@@ -1,0 +1,43 @@
+{
+    "id": 38,
+    "name": "ninetales",
+    "height": 1.1,
+    "weight": 19.9,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/05/038Ninetales.png",
+    "base_stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "special-attack": 81,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "drought",
+        "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "While it will guide travelers who get lost on a\nsnowy mountain down to the mountain’s base,\nit won’t forgive anyone who harms nature.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "vulpix",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png"
+        },
+        {
+            "name": "ninetales",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png"
+        }
+    ]
+}

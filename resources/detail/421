@@ -1,0 +1,43 @@
+{
+    "id": 421,
+    "name": "cherrim",
+    "height": 0.5,
+    "weight": 9.3,
+    "base_exp": 158,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/421.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/25/421Cherrim-Overcast.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 87,
+        "special-defense": 78,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "flower-gift",
+        "description": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "The faint scent that emanates from its full\nblossom entices bug Pokémon to it.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "cherubi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/420.png"
+        },
+        {
+            "name": "cherrim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/421.png"
+        }
+    ]
+}

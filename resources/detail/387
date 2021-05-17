@@ -1,0 +1,47 @@
+{
+    "id": 387,
+    "name": "turtwig",
+    "height": 0.4,
+    "weight": 10.2,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/387.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5c/387Turtwig.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 68,
+        "defense": 64,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 31
+    },
+    "abilities": {
+        "name": "shell-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "It undertakes photosynthesis with its body, making\noxygen. The leaf on its head wilts if it is thirsty.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "turtwig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/387.png"
+        },
+        {
+            "name": "grotle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/388.png"
+        },
+        {
+            "name": "torterra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/389.png"
+        }
+    ]
+}

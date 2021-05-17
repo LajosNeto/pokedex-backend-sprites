@@ -1,0 +1,43 @@
+{
+    "id": 350,
+    "name": "milotic",
+    "height": 6.2,
+    "weight": 162.0,
+    "base_exp": 189,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/350.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/36/350Milotic.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 60,
+        "defense": 79,
+        "special-attack": 100,
+        "special-defense": 125,
+        "speed": 81
+    },
+    "abilities": {
+        "name": "cute-charm",
+        "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It’s said that a glimpse of a Milotic and its beauty\nwill calm any hostile emotions you’re feeling.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "feebas",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/349.png"
+        },
+        {
+            "name": "milotic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/350.png"
+        }
+    ]
+}

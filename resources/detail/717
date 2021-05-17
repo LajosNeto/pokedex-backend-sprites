@@ -1,0 +1,41 @@
+{
+    "id": 717,
+    "name": "yveltal",
+    "height": 5.8,
+    "weight": 203.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/54/717Yveltal.png",
+    "base_stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "special-attack": 131,
+        "special-defense": 98,
+        "speed": 99
+    },
+    "abilities": {
+        "name": "dark-aura",
+        "description": "Strengthens dark moves to 1.33× their power for all friendly and opposing Pokémon."
+    },
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#9e85eb"
+    ],
+    "short_description": "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "yveltal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png"
+        }
+    ]
+}

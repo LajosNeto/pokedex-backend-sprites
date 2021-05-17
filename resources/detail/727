@@ -1,0 +1,49 @@
+{
+    "id": 727,
+    "name": "incineroar",
+    "height": 1.8,
+    "weight": 83.0,
+    "base_exp": 239,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/27/727Incineroar.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 115,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "intimidate",
+        "description": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    "types": [
+        "fire",
+        "dark"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#644e40"
+    ],
+    "short_description": "Incineroar’s rough and aggressive behavior is its\nmost notable trait, but the way it helps out small\nPokémon shows that it has a kind side as well.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "litten",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/725.png"
+        },
+        {
+            "name": "torracat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/726.png"
+        },
+        {
+            "name": "incineroar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png"
+        }
+    ]
+}

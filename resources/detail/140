@@ -1,0 +1,45 @@
+{
+    "id": 140,
+    "name": "kabuto",
+    "height": 0.5,
+    "weight": 11.5,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/140Kabuto.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 55,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "rock",
+        "water"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#5f84ea"
+    ],
+    "short_description": "A Pokémon that was recovered from a fossil.\nIt used the eyes on its back while hiding\non the seafloor.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "kabuto",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png"
+        },
+        {
+            "name": "kabutops",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png"
+        }
+    ]
+}

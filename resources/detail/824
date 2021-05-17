@@ -1,0 +1,47 @@
+{
+    "id": 824,
+    "name": "blipbug",
+    "height": 0.4,
+    "weight": 8.0,
+    "base_exp": 36,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/824Blipbug.png",
+    "base_stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "special-attack": 25,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "Often found in gardens, this Pokémon has hairs\non its body that it uses to assess its surroundings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "blipbug",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png"
+        },
+        {
+            "name": "dottler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png"
+        },
+        {
+            "name": "orbeetle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png"
+        }
+    ]
+}

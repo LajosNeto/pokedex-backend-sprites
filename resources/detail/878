@@ -1,0 +1,43 @@
+{
+    "id": 878,
+    "name": "cufant",
+    "height": 1.2,
+    "weight": 100.0,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/878.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/56/878Cufant.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 80,
+        "defense": 49,
+        "special-attack": 40,
+        "special-defense": 49,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "heavy-metal",
+        "description": "Doubles the Pokémon's weight."
+    },
+    "types": [
+        "steel"
+    ],
+    "types_colors": [
+        "#afafc9"
+    ],
+    "short_description": "If a job requires serious strength, this Pokémon\nwill excel at it. Its copper body tarnishes in the\nrain, turning a vibrant green color.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "cufant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/878.png"
+        },
+        {
+            "name": "copperajah",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/879.png"
+        }
+    ]
+}

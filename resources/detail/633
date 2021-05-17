@@ -1,0 +1,49 @@
+{
+    "id": 633,
+    "name": "deino",
+    "height": 0.8,
+    "weight": 17.3,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/633Deino.png",
+    "base_stats": {
+        "hp": 52,
+        "attack": 65,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 38
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#6630f3"
+    ],
+    "short_description": "Because it can’t see, this Pokémon is constantly\nbiting at everything it touches, trying to keep\ntrack of its surroundings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "deino",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png"
+        },
+        {
+            "name": "zweilous",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png"
+        },
+        {
+            "name": "hydreigon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png"
+        }
+    ]
+}

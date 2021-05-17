@@ -1,0 +1,43 @@
+{
+    "id": 300,
+    "name": "skitty",
+    "height": 0.6,
+    "weight": 11.0,
+    "base_exp": 52,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/300Skitty.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "wonder-skin",
+        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Skitty is known to chase around playfully after its own tail.\nIn the wild, this Pokémon lives in holes in the trees of forests.\nIt is very popular as a pet because of its adorable looks.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "skitty",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png"
+        },
+        {
+            "name": "delcatty",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png"
+        }
+    ]
+}

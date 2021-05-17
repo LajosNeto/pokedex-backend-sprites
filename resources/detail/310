@@ -1,0 +1,43 @@
+{
+    "id": 310,
+    "name": "manectric",
+    "height": 1.5,
+    "weight": 40.2,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/310Manectric.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 105,
+        "special-defense": 60,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "minus",
+        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "It rarely appears before people. It is said to nest\nwhere lightning has fallen.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "electrike",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png"
+        },
+        {
+            "name": "manectric",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png"
+        }
+    ]
+}

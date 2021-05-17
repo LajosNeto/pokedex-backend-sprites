@@ -1,0 +1,43 @@
+{
+    "id": 772,
+    "name": "type-null",
+    "height": 1.9,
+    "weight": 120.5,
+    "base_exp": 107,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/772.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fd/772Type_Null.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 95,
+        "speed": 59
+    },
+    "abilities": {
+        "name": "battle-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "It was modeled after a mighty Pokémon of myth.\nThe mask placed upon it limits its power in order\nto keep it under control.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "type-null",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/772.png"
+        },
+        {
+            "name": "silvally",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/773.png"
+        }
+    ]
+}

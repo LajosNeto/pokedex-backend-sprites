@@ -1,0 +1,45 @@
+{
+    "id": 557,
+    "name": "dwebble",
+    "height": 0.3,
+    "weight": 14.5,
+    "base_exp": 65,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/557Dwebble.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 85,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#af9539"
+    ],
+    "short_description": "It first tries to find a rock to live in, but if there\nare no suitable rocks to be found, Dwebble may\nmove in to the ports of a Hippowdon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "dwebble",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png"
+        },
+        {
+            "name": "crustle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/558.png"
+        }
+    ]
+}

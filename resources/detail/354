@@ -1,0 +1,43 @@
+{
+    "id": 354,
+    "name": "banette",
+    "height": 1.1,
+    "weight": 12.5,
+    "base_exp": 159,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/354Banette.png",
+    "base_stats": {
+        "hp": 64,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 83,
+        "special-defense": 63,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "cursed-body",
+        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "Resentment at being cast off made it spring into\nbeing. Some say that treating it well will satisfy\nit, and it will once more become a stuffed toy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "shuppet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png"
+        },
+        {
+            "name": "banette",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 654,
+    "name": "braixen",
+    "height": 1.0,
+    "weight": 14.5,
+    "base_exp": 143,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/654.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/09/654Braixen.png",
+    "base_stats": {
+        "hp": 59,
+        "attack": 59,
+        "defense": 58,
+        "special-attack": 90,
+        "special-defense": 70,
+        "speed": 73
+    },
+    "abilities": {
+        "name": "magician",
+        "description": "Steals the target's held item when the bearer uses a damaging move."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "When the twig is plucked from its tail,\nfriction sets the twig alight. The flame\nis used to send signals to its allies.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "fennekin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png"
+        },
+        {
+            "name": "braixen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/654.png"
+        },
+        {
+            "name": "delphox",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/655.png"
+        }
+    ]
+}

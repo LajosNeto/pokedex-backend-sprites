@@ -1,0 +1,41 @@
+{
+    "id": 707,
+    "name": "klefki",
+    "height": 0.2,
+    "weight": 3.0,
+    "base_exp": 165,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/04/707Klefki.png",
+    "base_stats": {
+        "hp": 57,
+        "attack": 80,
+        "defense": 91,
+        "special-attack": 80,
+        "special-defense": 87,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "magician",
+        "description": "Steals the target's held item when the bearer uses a damaging move."
+    },
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#eb90a4"
+    ],
+    "short_description": "Klefki sucks in metal ions with the horn topping\nits head. It seems this Pokémon loves keys so\nmuch that its head needed to look like one, too.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "klefki",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 598,
+    "name": "ferrothorn",
+    "height": 1.0,
+    "weight": 110.0,
+    "base_exp": 171,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/598Ferrothorn.png",
+    "base_stats": {
+        "hp": 74,
+        "attack": 94,
+        "defense": 131,
+        "special-attack": 54,
+        "special-defense": 116,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "anticipation",
+        "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+    },
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#afafc9"
+    ],
+    "short_description": "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "ferroseed",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/597.png"
+        },
+        {
+            "name": "ferrothorn",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png"
+        }
+    ]
+}

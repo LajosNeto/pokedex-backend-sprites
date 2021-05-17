@@ -1,0 +1,47 @@
+{
+    "id": 412,
+    "name": "burmy",
+    "height": 0.2,
+    "weight": 3.4,
+    "base_exp": 45,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/412Burmy.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "special-attack": 29,
+        "special-defense": 45,
+        "speed": 36
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "burmy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png"
+        },
+        {
+            "name": "wormadam",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png"
+        },
+        {
+            "name": "mothim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png"
+        }
+    ]
+}

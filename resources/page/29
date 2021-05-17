@@ -1,0 +1,268 @@
+[
+    {
+        "id": 581,
+        "name_en": "swanna",
+        "name_ja": "スワンナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
+        "types": [
+            "water",
+            "flying"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 582,
+        "name_en": "vanillite",
+        "name_ja": "バニプッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 583,
+        "name_en": "vanillish",
+        "name_ja": "バニリッチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/583.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 584,
+        "name_en": "vanilluxe",
+        "name_ja": "バイバニラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/584.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 585,
+        "name_en": "deerling",
+        "name_ja": "シキジカ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/585.png",
+        "types": [
+            "normal",
+            "grass"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 586,
+        "name_en": "sawsbuck",
+        "name_ja": "メブキジカ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/586.png",
+        "types": [
+            "normal",
+            "grass"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 587,
+        "name_en": "emolga",
+        "name_ja": "エモンガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/587.png",
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 588,
+        "name_en": "karrablast",
+        "name_ja": "カブルモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/588.png",
+        "types": [
+            "bug"
+        ],
+        "types_colors": [
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 589,
+        "name_en": "escavalier",
+        "name_ja": "シュバルゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 590,
+        "name_en": "foongus",
+        "name_ja": "タマゲタケ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/590.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 591,
+        "name_en": "amoonguss",
+        "name_ja": "モロバレル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/591.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#953a93"
+        ]
+    },
+    {
+        "id": 592,
+        "name_en": "frillish",
+        "name_ja": "プルリル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png",
+        "types": [
+            "water",
+            "ghost"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 593,
+        "name_en": "jellicent",
+        "name_ja": "ブルンゲル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png",
+        "types": [
+            "water",
+            "ghost"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 594,
+        "name_en": "alomomola",
+        "name_ja": "ママンボウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/594.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 595,
+        "name_en": "joltik",
+        "name_ja": "バチュル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/595.png",
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 596,
+        "name_en": "galvantula",
+        "name_ja": "デンチュラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/596.png",
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 597,
+        "name_en": "ferroseed",
+        "name_ja": "テッシード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/597.png",
+        "types": [
+            "grass",
+            "steel"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 598,
+        "name_en": "ferrothorn",
+        "name_ja": "ナットレイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png",
+        "types": [
+            "grass",
+            "steel"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 599,
+        "name_en": "klink",
+        "name_ja": "ギアル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 600,
+        "name_en": "klang",
+        "name_ja": "ギギアル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    }
+]

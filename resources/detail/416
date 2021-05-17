@@ -1,0 +1,45 @@
+{
+    "id": 416,
+    "name": "vespiquen",
+    "height": 1.2,
+    "weight": 38.5,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/416Vespiquen.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 102,
+        "special-attack": 80,
+        "special-defense": 102,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "Vespiquen that give off more pheromones\nhave larger swarms of Combee attendants.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "combee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png"
+        },
+        {
+            "name": "vespiquen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png"
+        }
+    ]
+}

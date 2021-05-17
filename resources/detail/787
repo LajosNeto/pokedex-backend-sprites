@@ -1,0 +1,41 @@
+{
+    "id": 787,
+    "name": "tapu-bulu",
+    "height": 1.9,
+    "weight": 45.5,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/67/787Tapu_Bulu.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 115,
+        "special-attack": 85,
+        "special-defense": 95,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#eb90a4"
+    ],
+    "short_description": "It makes ringing sounds with its tail to let others\nknow where it is, avoiding unneeded conflicts.\nThis guardian deity of Ula’ula controls plants.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "tapu-bulu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png"
+        }
+    ]
+}

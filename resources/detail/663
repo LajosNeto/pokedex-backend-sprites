@@ -1,0 +1,49 @@
+{
+    "id": 663,
+    "name": "talonflame",
+    "height": 1.2,
+    "weight": 24.5,
+    "base_exp": 175,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/663.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ae/663Talonflame.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 81,
+        "defense": 71,
+        "special-attack": 74,
+        "special-defense": 69,
+        "speed": 126
+    },
+    "abilities": {
+        "name": "gale-wings",
+        "description": "Raises flying moves' priority by one stage."
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "types_colors": [
+        "#ed7835",
+        "#9e85eb"
+    ],
+    "short_description": "Talonflame dives toward prey at speeds of up to\n310 mph and assaults them with powerful kicks,\ngiving the prey no chance to escape.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "fletchling",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/661.png"
+        },
+        {
+            "name": "fletchinder",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/662.png"
+        },
+        {
+            "name": "talonflame",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/663.png"
+        }
+    ]
+}

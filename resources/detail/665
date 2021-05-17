@@ -1,0 +1,47 @@
+{
+    "id": 665,
+    "name": "spewpa",
+    "height": 0.3,
+    "weight": 8.4,
+    "base_exp": 75,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/665.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b7/665Spewpa.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 22,
+        "defense": 60,
+        "special-attack": 27,
+        "special-defense": 30,
+        "speed": 29
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "bug"
+    ],
+    "types_colors": [
+        "#9daf2b"
+    ],
+    "short_description": "The beaks of bird Pokémon can’t begin\nto scratch its stalwart body.\nTo defend itself, it spews powder.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "scatterbug",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/664.png"
+        },
+        {
+            "name": "spewpa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/665.png"
+        },
+        {
+            "name": "vivillon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/666.png"
+        }
+    ]
+}

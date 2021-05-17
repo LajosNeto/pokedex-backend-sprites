@@ -1,0 +1,39 @@
+{
+    "id": 771,
+    "name": "pyukumuku",
+    "height": 0.3,
+    "weight": 1.2,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/771Pyukumuku.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 60,
+        "defense": 130,
+        "special-attack": 30,
+        "special-defense": 130,
+        "speed": 5
+    },
+    "abilities": {
+        "name": "unaware",
+        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It’s covered in a slime that keeps its skin moist,\nallowing it to stay on land for days without\ndrying up.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "pyukumuku",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png"
+        }
+    ]
+}

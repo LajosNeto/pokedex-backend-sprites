@@ -1,0 +1,47 @@
+{
+    "id": 728,
+    "name": "popplio",
+    "height": 0.4,
+    "weight": 7.5,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/728.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d8/728Popplio.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 54,
+        "defense": 54,
+        "special-attack": 66,
+        "special-defense": 56,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "liquid-voice",
+        "description": "Sound-based moves become Water-type."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "If Popplio want to create big, powerful balloons,\nthey must be persistent. It takes daily practice for\nthese Pokémon to develop their skills.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "popplio",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/728.png"
+        },
+        {
+            "name": "brionne",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/729.png"
+        },
+        {
+            "name": "primarina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/730.png"
+        }
+    ]
+}

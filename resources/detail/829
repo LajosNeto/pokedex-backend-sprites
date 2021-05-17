@@ -1,0 +1,43 @@
+{
+    "id": 829,
+    "name": "gossifleur",
+    "height": 0.4,
+    "weight": 2.2,
+    "base_exp": 50,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/829.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/829Gossifleur.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 10
+    },
+    "abilities": {
+        "name": "effect-spore",
+        "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "It whirls around in the wind while singing a joyous\nsong. This delightful display has charmed many\ninto raising this Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "gossifleur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/829.png"
+        },
+        {
+            "name": "eldegoss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/830.png"
+        }
+    ]
+}

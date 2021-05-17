@@ -1,0 +1,45 @@
+{
+    "id": 342,
+    "name": "crawdaunt",
+    "height": 1.1,
+    "weight": 32.8,
+    "base_exp": 164,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/342Crawdaunt.png",
+    "base_stats": {
+        "hp": 63,
+        "attack": 120,
+        "defense": 85,
+        "special-attack": 90,
+        "special-defense": 55,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "adaptability",
+        "description": "Increases the same-type attack bonus from 1.5× to 2×."
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#644e40"
+    ],
+    "short_description": "A brutish Pokémon that loves to battle. It will\ncrash itself into any foe that approaches its nest.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "corphish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png"
+        },
+        {
+            "name": "crawdaunt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png"
+        }
+    ]
+}

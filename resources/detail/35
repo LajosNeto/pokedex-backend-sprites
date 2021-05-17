@@ -1,0 +1,47 @@
+{
+    "id": 35,
+    "name": "clefairy",
+    "height": 0.6,
+    "weight": 7.5,
+    "base_exp": 113,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/035Clefairy.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "special-attack": 60,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "fairy"
+    ],
+    "types_colors": [
+        "#eb90a4"
+    ],
+    "short_description": "Its adorable behavior and cry make it highly popular.\nHowever, this cute Pokémon is rarely found.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "cleffa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png"
+        },
+        {
+            "name": "clefairy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png"
+        },
+        {
+            "name": "clefable",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png"
+        }
+    ]
+}

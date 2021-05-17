@@ -1,0 +1,49 @@
+{
+    "id": 541,
+    "name": "swadloon",
+    "height": 0.5,
+    "weight": 7.3,
+    "base_exp": 133,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2b/541Swadloon.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 63,
+        "defense": 90,
+        "special-attack": 50,
+        "special-defense": 80,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "It protects itself from the cold by wrapping up in\nleaves. It stays on the move, eating leaves\nin forests.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "sewaddle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png"
+        },
+        {
+            "name": "swadloon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png"
+        },
+        {
+            "name": "leavanny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png"
+        }
+    ]
+}

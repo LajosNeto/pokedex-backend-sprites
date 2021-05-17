@@ -1,0 +1,47 @@
+{
+    "id": 477,
+    "name": "dusknoir",
+    "height": 2.2,
+    "weight": 106.6,
+    "base_exp": 236,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/477Dusknoir.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 100,
+        "defense": 135,
+        "special-attack": 65,
+        "special-defense": 135,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "With the mouth on its belly, Dusknoir swallows its\ntarget whole. The soul is the only thing eaten—\nDusknoir disgorges the body before departing.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "duskull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png"
+        },
+        {
+            "name": "dusclops",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png"
+        },
+        {
+            "name": "dusknoir",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png"
+        }
+    ]
+}

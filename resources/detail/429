@@ -1,0 +1,43 @@
+{
+    "id": 429,
+    "name": "mismagius",
+    "height": 0.9,
+    "weight": 4.4,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/429.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b4/429Mismagius.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 105,
+        "special-defense": 105,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "Its muttered curses can cause awful headaches\nor terrifying visions that torment others.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "misdreavus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png"
+        },
+        {
+            "name": "mismagius",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/429.png"
+        }
+    ]
+}

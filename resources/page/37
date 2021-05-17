@@ -1,0 +1,268 @@
+[
+    {
+        "id": 741,
+        "name_en": "oricorio-baile",
+        "name_ja": "オドリドリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 742,
+        "name_en": "cutiefly",
+        "name_ja": "アブリー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png",
+        "types": [
+            "bug",
+            "fairy"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 743,
+        "name_en": "ribombee",
+        "name_ja": "アブリボン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png",
+        "types": [
+            "bug",
+            "fairy"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 744,
+        "name_en": "rockruff",
+        "name_ja": "イワンコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 745,
+        "name_en": "lycanroc-midday",
+        "name_ja": "ルガルガン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png",
+        "types": [
+            "rock"
+        ],
+        "types_colors": [
+            "#af9539"
+        ]
+    },
+    {
+        "id": 746,
+        "name_en": "wishiwashi-solo",
+        "name_ja": "ヨワシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/746.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 747,
+        "name_en": "mareanie",
+        "name_ja": "ヒドイデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png",
+        "types": [
+            "poison",
+            "water"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 748,
+        "name_en": "toxapex",
+        "name_ja": "ドヒドイデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png",
+        "types": [
+            "poison",
+            "water"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 749,
+        "name_en": "mudbray",
+        "name_ja": "ドロバンコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/749.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 750,
+        "name_en": "mudsdale",
+        "name_ja": "バンバドロ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/750.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 751,
+        "name_en": "dewpider",
+        "name_ja": "シズクモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/751.png",
+        "types": [
+            "water",
+            "bug"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 752,
+        "name_en": "araquanid",
+        "name_ja": "オニシズクモ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png",
+        "types": [
+            "water",
+            "bug"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 753,
+        "name_en": "fomantis",
+        "name_ja": "カリキリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/753.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 754,
+        "name_en": "lurantis",
+        "name_ja": "ラランテス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/754.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 755,
+        "name_en": "morelull",
+        "name_ja": "ネマシュ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 756,
+        "name_en": "shiinotic",
+        "name_ja": "マシェード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 757,
+        "name_en": "salandit",
+        "name_ja": "ヤトウモリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png",
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 758,
+        "name_en": "salazzle",
+        "name_ja": "エンニュート",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 759,
+        "name_en": "stufful",
+        "name_ja": "ヌイコグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 760,
+        "name_en": "bewear",
+        "name_ja": "キテルグマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png",
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#b72f29"
+        ]
+    }
+]

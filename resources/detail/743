@@ -1,0 +1,45 @@
+{
+    "id": 743,
+    "name": "ribombee",
+    "height": 0.2,
+    "weight": 0.5,
+    "base_exp": 162,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/743Ribombee.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 70,
+        "speed": 124
+    },
+    "abilities": {
+        "name": "sweet-veil",
+        "description": "Prevents friendly Pokémon from sleeping."
+    },
+    "types": [
+        "bug",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#eb90a4"
+    ],
+    "short_description": "Ribombee absolutely hate getting wet or\nrained on. In the cloudy Galar region,\nthey are very seldom seen.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "cutiefly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png"
+        },
+        {
+            "name": "ribombee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png"
+        }
+    ]
+}

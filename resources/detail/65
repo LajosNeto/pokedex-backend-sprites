@@ -1,0 +1,47 @@
+{
+    "id": 65,
+    "name": "alakazam",
+    "height": 1.5,
+    "weight": 48.0,
+    "base_exp": 225,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/065Alakazam.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 135,
+        "special-defense": 95,
+        "speed": 120
+    },
+    "abilities": {
+        "name": "magic-guard",
+        "description": "Protects against damage not directly caused by a move."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "Alakazam wields potent psychic powers. It’s said\nthat this Pokémon used these powers to create\nthe spoons it holds.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "abra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png"
+        },
+        {
+            "name": "kadabra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/64.png"
+        },
+        {
+            "name": "alakazam",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png"
+        }
+    ]
+}

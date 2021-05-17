@@ -1,0 +1,45 @@
+{
+    "id": 410,
+    "name": "shieldon",
+    "height": 0.5,
+    "weight": 57.0,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/410Shieldon.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 42,
+        "defense": 118,
+        "special-attack": 42,
+        "special-defense": 88,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "soundproof",
+        "description": "Protects against sound-based moves."
+    },
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#afafc9"
+    ],
+    "short_description": "Although its fossils can be found in layers of\nprimeval rock, nothing but its face has ever\nbeen discovered.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "shieldon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png"
+        },
+        {
+            "name": "bastiodon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/411.png"
+        }
+    ]
+}

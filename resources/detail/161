@@ -1,0 +1,43 @@
+{
+    "id": 161,
+    "name": "sentret",
+    "height": 0.8,
+    "weight": 6.0,
+    "base_exp": 43,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/161.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c5/161Sentret.png",
+    "base_stats": {
+        "hp": 35,
+        "attack": 46,
+        "defense": 34,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger. When\nthis Pokémon becomes separated from its pack, it becomes\nincapable of sleep due to fear.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "sentret",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/161.png"
+        },
+        {
+            "name": "furret",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/162.png"
+        }
+    ]
+}

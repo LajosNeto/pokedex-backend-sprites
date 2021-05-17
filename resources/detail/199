@@ -1,0 +1,49 @@
+{
+    "id": 199,
+    "name": "slowking",
+    "height": 2.0,
+    "weight": 79.5,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/199Slowking.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 80,
+        "special-attack": 100,
+        "special-defense": 110,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6527e"
+    ],
+    "short_description": "Slowking can solve any problem presented to it,\nbut no one can understand a thing Slowking says.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "slowpoke",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png"
+        },
+        {
+            "name": "slowbro",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png"
+        },
+        {
+            "name": "slowking",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png"
+        }
+    ]
+}

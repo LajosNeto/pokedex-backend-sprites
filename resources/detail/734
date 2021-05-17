@@ -1,0 +1,43 @@
+{
+    "id": 734,
+    "name": "yungoos",
+    "height": 0.4,
+    "weight": 6.0,
+    "base_exp": 51,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/734.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/08/734Yungoos.png",
+    "base_stats": {
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "adaptability",
+        "description": "Increases the same-type attack bonus from 1.5× to 2×."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Although it will eat anything, it prefers fresh\nliving things, so it marches down streets\nin search of prey.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "yungoos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/734.png"
+        },
+        {
+            "name": "gumshoos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/735.png"
+        }
+    ]
+}

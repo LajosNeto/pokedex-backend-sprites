@@ -1,0 +1,254 @@
+[
+    {
+        "id": 141,
+        "name_en": "kabutops",
+        "name_ja": "カブトプス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
+        "types": [
+            "rock",
+            "water"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 142,
+        "name_en": "aerodactyl",
+        "name_ja": "プテラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/142.png",
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 143,
+        "name_en": "snorlax",
+        "name_ja": "カビゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/143.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 144,
+        "name_en": "articuno",
+        "name_ja": "フリーザー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png",
+        "types": [
+            "ice",
+            "flying"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 145,
+        "name_en": "zapdos",
+        "name_ja": "サンダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/145.png",
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 146,
+        "name_en": "moltres",
+        "name_ja": "ファイヤー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 147,
+        "name_en": "dratini",
+        "name_ja": "ミニリュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 148,
+        "name_en": "dragonair",
+        "name_ja": "ハクリュー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 149,
+        "name_en": "dragonite",
+        "name_ja": "カイリュー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 150,
+        "name_en": "mewtwo",
+        "name_ja": "ミュウツー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/150.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 151,
+        "name_en": "mew",
+        "name_ja": "ミュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/151.png",
+        "types": [
+            "psychic"
+        ],
+        "types_colors": [
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 152,
+        "name_en": "chikorita",
+        "name_ja": "チコリータ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/152.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 153,
+        "name_en": "bayleef",
+        "name_ja": "ベイリーフ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/153.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 154,
+        "name_en": "meganium",
+        "name_ja": "メガニウム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/154.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 155,
+        "name_en": "cyndaquil",
+        "name_ja": "ヒノアラシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/155.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 156,
+        "name_en": "quilava",
+        "name_ja": "マグマラシ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/156.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 157,
+        "name_en": "typhlosion",
+        "name_ja": "バクフーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/157.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 158,
+        "name_en": "totodile",
+        "name_ja": "ワニノコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/158.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 159,
+        "name_en": "croconaw",
+        "name_ja": "アリゲイツ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/159.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 160,
+        "name_en": "feraligatr",
+        "name_ja": "オーダイル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/160.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    }
+]

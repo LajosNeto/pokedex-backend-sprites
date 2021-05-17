@@ -1,0 +1,47 @@
+{
+    "id": 612,
+    "name": "haxorus",
+    "height": 1.8,
+    "weight": 105.5,
+    "base_exp": 243,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/612.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8f/612Haxorus.png",
+    "base_stats": {
+        "hp": 76,
+        "attack": 147,
+        "defense": 90,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 97
+    },
+    "abilities": {
+        "name": "unnerve",
+        "description": "Prevents opposing Pokémon from eating held Berries."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "While usually kindhearted, it can be terrifying if\nangered. Tusks that can slice through steel beams\nare how Haxorus deals with its adversaries.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "axew",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/610.png"
+        },
+        {
+            "name": "fraxure",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/611.png"
+        },
+        {
+            "name": "haxorus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/612.png"
+        }
+    ]
+}

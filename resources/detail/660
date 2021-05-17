@@ -1,0 +1,45 @@
+{
+    "id": 660,
+    "name": "diggersby",
+    "height": 1.0,
+    "weight": 42.4,
+    "base_exp": 148,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/34/660Diggersby.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "special-attack": 50,
+        "special-defense": 77,
+        "speed": 78
+    },
+    "abilities": {
+        "name": "huge-power",
+        "description": "Doubles Attack in battle."
+    },
+    "types": [
+        "normal",
+        "ground"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#dbb963"
+    ],
+    "short_description": "The fur on its belly retains heat exceptionally\nwell. People used to make heavy winter clothing\nfrom fur shed by this Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "bunnelby",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png"
+        },
+        {
+            "name": "diggersby",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png"
+        }
+    ]
+}

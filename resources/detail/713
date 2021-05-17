@@ -1,0 +1,43 @@
+{
+    "id": 713,
+    "name": "avalugg",
+    "height": 2.0,
+    "weight": 505.0,
+    "base_exp": 180,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/04/713Avalugg.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 184,
+        "special-attack": 44,
+        "special-defense": 46,
+        "speed": 28
+    },
+    "abilities": {
+        "name": "sturdy",
+        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    "types": [
+        "ice"
+    ],
+    "types_colors": [
+        "#8ed2d2"
+    ],
+    "short_description": "As Avalugg moves about during the day,\nthe cracks in its body deepen. The Pokémon’s\nbody returns to a pristine state overnight.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "bergmite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/712.png"
+        },
+        {
+            "name": "avalugg",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png"
+        }
+    ]
+}

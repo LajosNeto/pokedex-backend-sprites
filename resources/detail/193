@@ -1,0 +1,45 @@
+{
+    "id": 193,
+    "name": "yanma",
+    "height": 1.2,
+    "weight": 38.0,
+    "base_exp": 78,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/193.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/dd/193Yanma.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 75,
+        "special-defense": 45,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "frisk",
+        "description": "Reveals an opponent's held item upon entering battle."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "Yanma is capable of seeing 360 degrees without having to\nmove its eyes. It is a great flier that is adept at making sudden\nstops and turning midair. This Pokémon uses its flying ability\nto quickly chase down targeted prey.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "yanma",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/193.png"
+        },
+        {
+            "name": "yanmega",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png"
+        }
+    ]
+}

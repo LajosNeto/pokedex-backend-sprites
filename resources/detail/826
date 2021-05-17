@@ -1,0 +1,49 @@
+{
+    "id": 826,
+    "name": "orbeetle",
+    "height": 0.4,
+    "weight": 40.8,
+    "base_exp": 253,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/79/826Orbeetle.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 110,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#f6527e"
+    ],
+    "short_description": "It emits psychic energy to observe and study\nwhat’s around it—and what’s around it can\ninclude things over six miles away.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "blipbug",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png"
+        },
+        {
+            "name": "dottler",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png"
+        },
+        {
+            "name": "orbeetle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png"
+        }
+    ]
+}

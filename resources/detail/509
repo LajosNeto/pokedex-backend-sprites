@@ -1,0 +1,43 @@
+{
+    "id": 509,
+    "name": "purrloin",
+    "height": 0.4,
+    "weight": 10.1,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/509.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/46/509Purrloin.png",
+    "base_stats": {
+        "hp": 41,
+        "attack": 50,
+        "defense": 37,
+        "special-attack": 50,
+        "special-defense": 37,
+        "speed": 66
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "purrloin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/509.png"
+        },
+        {
+            "name": "liepard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png"
+        }
+    ]
+}

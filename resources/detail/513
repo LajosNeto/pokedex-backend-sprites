@@ -1,0 +1,43 @@
+{
+    "id": 513,
+    "name": "pansear",
+    "height": 0.6,
+    "weight": 11.0,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/513.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/513Pansear.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special-attack": 53,
+        "special-defense": 48,
+        "speed": 64
+    },
+    "abilities": {
+        "name": "blaze",
+        "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "This Pokémon lives in caves in volcanoes.\nThe fire within the tuft on its head can reach\n600 degrees Fahrenheit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "pansear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/513.png"
+        },
+        {
+            "name": "simisear",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png"
+        }
+    ]
+}

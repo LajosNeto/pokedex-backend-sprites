@@ -1,0 +1,41 @@
+{
+    "id": 893,
+    "name": "zarude",
+    "height": 1.8,
+    "weight": 70.0,
+    "base_exp": 300,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/893Zarude.png",
+    "base_stats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "special-attack": 70,
+        "special-defense": 95,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "leaf-guard",
+        "description": "Protects against major status ailments during strong sunlight."
+    },
+    "types": [
+        "dark",
+        "grass"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#6dc04c"
+    ],
+    "short_description": "This Zarude’s special strength stems from its love\nand care for an orphaned human child that the\nPokémon has raised since the child’s infancy.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "zarude",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png"
+        }
+    ]
+}

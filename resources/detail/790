@@ -1,0 +1,47 @@
+{
+    "id": 790,
+    "name": "cosmoem",
+    "height": 0.1,
+    "weight": 999.9,
+    "base_exp": 140,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1b/790Cosmoem.png",
+    "base_stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special-attack": 29,
+        "special-defense": 131,
+        "speed": 37
+    },
+    "abilities": {
+        "name": "sturdy",
+        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It sucks in dust from the air at an astounding rate,\nfrantically building up energy within its core as\npreparation for evolution.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cosmog",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png"
+        },
+        {
+            "name": "cosmoem",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png"
+        },
+        {
+            "name": "solgaleo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png"
+        }
+    ]
+}

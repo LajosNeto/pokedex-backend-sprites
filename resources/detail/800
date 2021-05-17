@@ -1,0 +1,39 @@
+{
+    "id": 800,
+    "name": "necrozma",
+    "height": 2.4,
+    "weight": 230.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/800.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/44/800Necrozma.png",
+    "base_stats": {
+        "hp": 97,
+        "attack": 107,
+        "defense": 101,
+        "special-attack": 127,
+        "special-defense": 89,
+        "speed": 79
+    },
+    "abilities": {
+        "name": "prism-armor",
+        "description": "Reduces super-effective damage to 0.75×."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "When Necrozma latches on to Lunala, it becomes\nvicious, seeing enemies everywhere it looks.\nIt will burn the world with lasers.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "necrozma",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/800.png"
+        }
+    ]
+}

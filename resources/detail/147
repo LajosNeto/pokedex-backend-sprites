@@ -1,0 +1,47 @@
+{
+    "id": 147,
+    "name": "dratini",
+    "height": 1.8,
+    "weight": 3.3,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/147Dratini.png",
+    "base_stats": {
+        "hp": 41,
+        "attack": 64,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "marvel-scale",
+        "description": "Increases Defense to 1.5× with a major status ailment."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Long thought to be a myth, this Pokémon’s\nexistence was only recently confirmed by a\nfisherman who caught one.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "dratini",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png"
+        },
+        {
+            "name": "dragonair",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png"
+        },
+        {
+            "name": "dragonite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png"
+        }
+    ]
+}

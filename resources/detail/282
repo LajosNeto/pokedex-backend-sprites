@@ -1,0 +1,49 @@
+{
+    "id": 282,
+    "name": "gardevoir",
+    "height": 1.6,
+    "weight": 48.4,
+    "base_exp": 233,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/99/282Gardevoir.png",
+    "base_stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 125,
+        "special-defense": 115,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#eb90a4"
+    ],
+    "short_description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "ralts",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+        },
+        {
+            "name": "kirlia",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+        },
+        {
+            "name": "gardevoir",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+        }
+    ]
+}

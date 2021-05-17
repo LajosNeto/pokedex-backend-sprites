@@ -1,0 +1,45 @@
+{
+    "id": 589,
+    "name": "escavalier",
+    "height": 1.0,
+    "weight": 33.0,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/63/589Escavalier.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 105,
+        "special-attack": 60,
+        "special-defense": 105,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#afafc9"
+    ],
+    "short_description": "It charges its enemies, lances at the ready.\nAn image of one of its duels is captured in a famous\npainting of Escavalier clashing with Sirfetch’d.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "karrablast",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/588.png"
+        },
+        {
+            "name": "escavalier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png"
+        }
+    ]
+}

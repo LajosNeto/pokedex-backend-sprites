@@ -1,0 +1,41 @@
+{
+    "id": 441,
+    "name": "chatot",
+    "height": 0.5,
+    "weight": 1.9,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/441.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/441Chatot.png",
+    "base_stats": {
+        "hp": 76,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 92,
+        "special-defense": 42,
+        "speed": 91
+    },
+    "abilities": {
+        "name": "big-pecks",
+        "description": "Protects against Defense drops."
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#9e85eb"
+    ],
+    "short_description": "It can learn and speak human words. If they gather,\nthey all learn the same saying.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "chatot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/441.png"
+        }
+    ]
+}

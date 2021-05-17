@@ -1,0 +1,41 @@
+{
+    "id": 881,
+    "name": "arctozolt",
+    "height": 2.3,
+    "weight": 150.0,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/40/881Arctozolt.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special-attack": 90,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "slush-rush",
+        "description": "During Hail, this Pokémon has double Speed."
+    },
+    "types": [
+        "electric",
+        "ice"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#8ed2d2"
+    ],
+    "short_description": "This Pokémon lived on prehistoric seashores and\nwas able to preserve food with the ice on its\nbody. It went extinct because it moved so slowly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "arctozolt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png"
+        }
+    ]
+}

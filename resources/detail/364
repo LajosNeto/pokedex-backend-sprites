@@ -1,0 +1,49 @@
+{
+    "id": 364,
+    "name": "sealeo",
+    "height": 1.1,
+    "weight": 87.6,
+    "base_exp": 144,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/364Sealeo.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "oblivious",
+        "description": "Prevents infatuation and protects against captivate."
+    },
+    "types": [
+        "ice",
+        "water"
+    ],
+    "types_colors": [
+        "#8ed2d2",
+        "#5f84ea"
+    ],
+    "short_description": "Sealeo often balances and rolls things on the tip of its\nnose. While the Pokémon is rolling something, it checks\nthe object’s aroma and texture to determine whether it likes\nthe object or not.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "spheal",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+        },
+        {
+            "name": "sealeo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+        },
+        {
+            "name": "walrein",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 545,
+    "name": "scolipede",
+    "height": 2.5,
+    "weight": 200.5,
+    "base_exp": 218,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cb/545Scolipede.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "special-attack": 55,
+        "special-defense": 69,
+        "speed": 112
+    },
+    "abilities": {
+        "name": "speed-boost",
+        "description": "Raises Speed one stage after each turn."
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#953a93"
+    ],
+    "short_description": "Scolipede engage in fierce territorial battles with\nCentiskorch. At the end of one of these battles,\nthe victor makes a meal of the loser.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "venipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png"
+        },
+        {
+            "name": "whirlipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png"
+        },
+        {
+            "name": "scolipede",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png"
+        }
+    ]
+}

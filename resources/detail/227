@@ -1,0 +1,41 @@
+{
+    "id": 227,
+    "name": "skarmory",
+    "height": 1.7,
+    "weight": 50.5,
+    "base_exp": 163,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/35/227Skarmory.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 140,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "weak-armor",
+        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    },
+    "types": [
+        "steel",
+        "flying"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#9e85eb"
+    ],
+    "short_description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "skarmory",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png"
+        }
+    ]
+}

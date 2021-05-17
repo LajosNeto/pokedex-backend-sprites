@@ -1,0 +1,45 @@
+{
+    "id": 343,
+    "name": "baltoy",
+    "height": 0.5,
+    "weight": 21.5,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/343Baltoy.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ground",
+        "psychic"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#f6527e"
+    ],
+    "short_description": "It was discovered in ancient ruins. While moving,\nit constantly spins. It stands on one foot even\nwhen asleep.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "baltoy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png"
+        },
+        {
+            "name": "claydol",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png"
+        }
+    ]
+}

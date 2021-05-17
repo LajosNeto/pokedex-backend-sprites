@@ -1,0 +1,45 @@
+{
+    "id": 319,
+    "name": "sharpedo",
+    "height": 1.8,
+    "weight": 88.8,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a8/319Sharpedo.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "special-attack": 95,
+        "special-defense": 40,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "speed-boost",
+        "description": "Raises Speed one stage after each turn."
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#644e40"
+    ],
+    "short_description": "This Pokémon is known as the Bully of the Sea.\nAny ship entering the waters Sharpedo calls\nhome will be attacked—no exceptions.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "carvanha",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png"
+        },
+        {
+            "name": "sharpedo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png"
+        }
+    ]
+}

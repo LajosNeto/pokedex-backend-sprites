@@ -1,0 +1,45 @@
+{
+    "id": 166,
+    "name": "ledian",
+    "height": 1.4,
+    "weight": 35.6,
+    "base_exp": 137,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/166.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5b/166Ledian.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 35,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 110,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "iron-fist",
+        "description": "Strengthens punch-based moves to 1.2× their power."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "It flies through the night sky, sprinkling sparkly\ndust. According to some, if that dust sticks to\nyou, good things will happen to you.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "ledyba",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/165.png"
+        },
+        {
+            "name": "ledian",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/166.png"
+        }
+    ]
+}

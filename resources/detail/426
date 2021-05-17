@@ -1,0 +1,45 @@
+{
+    "id": 426,
+    "name": "drifblim",
+    "height": 1.2,
+    "weight": 15.0,
+    "base_exp": 174,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/71/426Drifblim.png",
+    "base_stats": {
+        "hp": 150,
+        "attack": 80,
+        "defense": 44,
+        "special-attack": 90,
+        "special-defense": 54,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "flare-boost",
+        "description": "Increases Special Attack to 1.5× when burned."
+    },
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#9e85eb"
+    ],
+    "short_description": "It grabs people and Pokémon and carries them\noff somewhere. Where do they go?\nNobody knows.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast-then-very-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "drifloon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png"
+        },
+        {
+            "name": "drifblim",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png"
+        }
+    ]
+}

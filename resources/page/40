@@ -1,0 +1,252 @@
+[
+    {
+        "id": 801,
+        "name_en": "magearna",
+        "name_ja": "マギアナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/801.png",
+        "types": [
+            "steel",
+            "fairy"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 802,
+        "name_en": "marshadow",
+        "name_ja": "マーシャドー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/802.png",
+        "types": [
+            "fighting",
+            "ghost"
+        ],
+        "types_colors": [
+            "#b72f29",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 803,
+        "name_en": "poipole",
+        "name_ja": "ベベノム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 804,
+        "name_en": "naganadel",
+        "name_ja": "アーゴヨン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png",
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 805,
+        "name_en": "stakataka",
+        "name_ja": "ツンデツンデ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png",
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 806,
+        "name_en": "blacephalon",
+        "name_ja": "ズガドーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png",
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 807,
+        "name_en": "zeraora",
+        "name_ja": "ゼラオラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/807.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 808,
+        "name_en": "meltan",
+        "name_ja": "メルタン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/808.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 809,
+        "name_en": "melmetal",
+        "name_ja": "メルメタル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png",
+        "types": [
+            "steel"
+        ],
+        "types_colors": [
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 810,
+        "name_en": "grookey",
+        "name_ja": "サルノリ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/810.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 811,
+        "name_en": "thwackey",
+        "name_ja": "バチンキー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/811.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 812,
+        "name_en": "rillaboom",
+        "name_ja": "ゴリランダー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/812.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 813,
+        "name_en": "scorbunny",
+        "name_ja": "ヒバニー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/813.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 814,
+        "name_en": "raboot",
+        "name_ja": "ラビフット",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/814.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 815,
+        "name_en": "cinderace",
+        "name_ja": "エースバーン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/815.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 816,
+        "name_en": "sobble",
+        "name_ja": "メッソン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/816.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 817,
+        "name_en": "drizzile",
+        "name_ja": "ジメレオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/817.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 818,
+        "name_en": "inteleon",
+        "name_ja": "インテレオン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/818.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 819,
+        "name_en": "skwovet",
+        "name_ja": "ホシガリス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/819.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 820,
+        "name_en": "greedent",
+        "name_ja": "ヨクバリス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/820.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    }
+]

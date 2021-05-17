@@ -1,0 +1,45 @@
+{
+    "id": 348,
+    "name": "armaldo",
+    "height": 1.5,
+    "weight": 68.2,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/348Armaldo.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "rock",
+        "bug"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#9daf2b"
+    ],
+    "short_description": "Armaldo adapted from living in water to living on\nland. It has been determined that it is the\nancestor of some bug Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "anorith",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png"
+        },
+        {
+            "name": "armaldo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png"
+        }
+    ]
+}

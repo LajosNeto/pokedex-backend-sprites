@@ -1,0 +1,45 @@
+{
+    "id": 346,
+    "name": "cradily",
+    "height": 1.5,
+    "weight": 60.4,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/38/346Cradily.png",
+    "base_stats": {
+        "hp": 86,
+        "attack": 81,
+        "defense": 97,
+        "special-attack": 81,
+        "special-defense": 107,
+        "speed": 43
+    },
+    "abilities": {
+        "name": "storm-drain",
+        "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    },
+    "types": [
+        "rock",
+        "grass"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#6dc04c"
+    ],
+    "short_description": "This carnivorous Pokémon lived in primordial\nseas. It catches prey in its eight tentacles and\ndissolves them with digestive fluid as it eats.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "lileep",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png"
+        },
+        {
+            "name": "cradily",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png"
+        }
+    ]
+}

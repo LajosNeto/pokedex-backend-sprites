@@ -1,0 +1,254 @@
+[
+    {
+        "id": 21,
+        "name_en": "spearow",
+        "name_ja": "オニスズメ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/21.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 22,
+        "name_en": "fearow",
+        "name_ja": "オニドリル",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/22.png",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 23,
+        "name_en": "ekans",
+        "name_ja": "アーボ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/23.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 24,
+        "name_en": "arbok",
+        "name_ja": "アーボック",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/24.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 25,
+        "name_en": "pikachu",
+        "name_ja": "ピカチュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/25.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 26,
+        "name_en": "raichu",
+        "name_ja": "ライチュウ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/26.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 27,
+        "name_en": "sandshrew",
+        "name_ja": "サンド",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/27.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 28,
+        "name_en": "sandslash",
+        "name_ja": "サンドパン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/28.png",
+        "types": [
+            "ground"
+        ],
+        "types_colors": [
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 29,
+        "name_en": "nidoran-f",
+        "name_ja": "ニドラン♀",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 30,
+        "name_en": "nidorina",
+        "name_ja": "ニドリーナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 31,
+        "name_en": "nidoqueen",
+        "name_ja": "ニドクイン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 32,
+        "name_en": "nidoran-m",
+        "name_ja": "ニドラン♂",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 33,
+        "name_en": "nidorino",
+        "name_ja": "ニドリーノ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
+        "types": [
+            "poison"
+        ],
+        "types_colors": [
+            "#953a93"
+        ]
+    },
+    {
+        "id": 34,
+        "name_en": "nidoking",
+        "name_ja": "ニドキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#dbb963"
+        ]
+    },
+    {
+        "id": 35,
+        "name_en": "clefairy",
+        "name_ja": "ピッピ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
+        "types": [
+            "fairy"
+        ],
+        "types_colors": [
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 36,
+        "name_en": "clefable",
+        "name_ja": "ピクシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png",
+        "types": [
+            "fairy"
+        ],
+        "types_colors": [
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 37,
+        "name_en": "vulpix",
+        "name_ja": "ロコン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 38,
+        "name_en": "ninetales",
+        "name_ja": "キュウコン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 39,
+        "name_en": "jigglypuff",
+        "name_ja": "プリン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 40,
+        "name_en": "wigglytuff",
+        "name_ja": "プクリン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#eb90a4"
+        ]
+    }
+]

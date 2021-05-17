@@ -1,0 +1,49 @@
+{
+    "id": 93,
+    "name": "haunter",
+    "height": 1.6,
+    "weight": 0.1,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/62/093Haunter.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 115,
+        "special-defense": 55,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#953a93"
+    ],
+    "short_description": "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gastly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png"
+        },
+        {
+            "name": "haunter",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png"
+        },
+        {
+            "name": "gengar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 644,
+    "name": "zekrom",
+    "height": 2.9,
+    "weight": 345.0,
+    "base_exp": 306,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/644.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/81/644Zekrom.png",
+    "base_stats": {
+        "hp": 100,
+        "attack": 150,
+        "defense": 120,
+        "special-attack": 120,
+        "special-defense": 100,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "teravolt",
+        "description": "Bypasses targets' abilities if they could hinder or prevent moves."
+    },
+    "types": [
+        "dragon",
+        "electric"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#f6cb3b"
+    ],
+    "short_description": "Mythology tells us that if people lose the\nrighteousness in their hearts, their kingdoms\nwill be razed by Zekrom’s lightning.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "zekrom",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/644.png"
+        }
+    ]
+}

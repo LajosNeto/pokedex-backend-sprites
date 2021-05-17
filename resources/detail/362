@@ -1,0 +1,47 @@
+{
+    "id": 362,
+    "name": "glalie",
+    "height": 1.5,
+    "weight": 256.5,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/62/362Glalie.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "moody",
+        "description": "Raises a random stat two stages and lowers another one stage after each turn."
+    },
+    "types": [
+        "ice"
+    ],
+    "types_colors": [
+        "#8ed2d2"
+    ],
+    "short_description": "It can instantly freeze moisture in the\natmosphere. It uses this power to freeze its foes.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "snorunt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png"
+        },
+        {
+            "name": "glalie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png"
+        },
+        {
+            "name": "froslass",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png"
+        }
+    ]
+}

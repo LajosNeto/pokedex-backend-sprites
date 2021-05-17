@@ -1,0 +1,41 @@
+{
+    "id": 357,
+    "name": "tropius",
+    "height": 2.0,
+    "weight": 100.0,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/dd/357Tropius.png",
+    "base_stats": {
+        "hp": 99,
+        "attack": 68,
+        "defense": 83,
+        "special-attack": 72,
+        "special-defense": 87,
+        "speed": 51
+    },
+    "abilities": {
+        "name": "harvest",
+        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#9e85eb"
+    ],
+    "short_description": "Bunches of delicious fruit grow around its neck.\nIn warm areas, many ranches raise Tropius.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "tropius",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png"
+        }
+    ]
+}

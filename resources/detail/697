@@ -1,0 +1,45 @@
+{
+    "id": 697,
+    "name": "tyrantrum",
+    "height": 2.5,
+    "weight": 270.0,
+    "base_exp": 182,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/697Tyrantrum.png",
+    "base_stats": {
+        "hp": 82,
+        "attack": 121,
+        "defense": 119,
+        "special-attack": 69,
+        "special-defense": 59,
+        "speed": 71
+    },
+    "abilities": {
+        "name": "rock-head",
+        "description": "Protects against recoil damage."
+    },
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#6630f3"
+    ],
+    "short_description": "Complete restoration is impossible, allowing\nroom for theories that its entire body was\nonce covered in a feather-like coat.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "tyrunt",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png"
+        },
+        {
+            "name": "tyrantrum",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png"
+        }
+    ]
+}

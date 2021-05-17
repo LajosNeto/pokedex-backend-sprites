@@ -1,0 +1,39 @@
+{
+    "id": 746,
+    "name": "wishiwashi-solo",
+    "height": 0.2,
+    "weight": 0.3,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/746.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/18/746Wishiwashi-Solo.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 20,
+        "defense": 20,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "schooling",
+        "description": "Wishiwashi becomes Schooling Form when its HP is 25% or higher."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "When it senses danger, its eyes tear up.\nThe sparkle of its tears signals other\nWishiwashi to gather.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "wishiwashi",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/746.png"
+        }
+    ]
+}

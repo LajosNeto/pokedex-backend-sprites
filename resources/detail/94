@@ -1,0 +1,49 @@
+{
+    "id": 94,
+    "name": "gengar",
+    "height": 1.5,
+    "weight": 40.5,
+    "base_exp": 225,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c6/094Gengar.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 130,
+        "special-defense": 75,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "cursed-body",
+        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    },
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#953a93"
+    ],
+    "short_description": "It lays traps, hoping to steal the lives of those it\ncatches. If you stand in front of its mouth, you’ll\nhear your loved ones’ voices calling out to you.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gastly",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png"
+        },
+        {
+            "name": "haunter",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png"
+        },
+        {
+            "name": "gengar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png"
+        }
+    ]
+}

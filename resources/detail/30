@@ -1,0 +1,47 @@
+{
+    "id": 30,
+    "name": "nidorina",
+    "height": 0.8,
+    "weight": 20.0,
+    "base_exp": 128,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/030Nidorina.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 62,
+        "defense": 67,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 56
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "When resting deep in its burrow, its barbs always\nretract. This is proof that it is relaxed.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "nidoran-f",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png"
+        },
+        {
+            "name": "nidorina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png"
+        },
+        {
+            "name": "nidoqueen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png"
+        }
+    ]
+}

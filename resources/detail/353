@@ -1,0 +1,43 @@
+{
+    "id": 353,
+    "name": "shuppet",
+    "height": 0.6,
+    "weight": 2.3,
+    "base_exp": 59,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/353Shuppet.png",
+    "base_stats": {
+        "hp": 44,
+        "attack": 75,
+        "defense": 35,
+        "special-attack": 63,
+        "special-defense": 33,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "cursed-body",
+        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "There’s a proverb that says, “Shun the house\nwhere Shuppet gather in the growing dusk.”",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "fast",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "shuppet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png"
+        },
+        {
+            "name": "banette",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 311,
+    "name": "plusle",
+    "height": 0.4,
+    "weight": 4.2,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/311.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/311Plusle.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "lightning-rod",
+        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "When Plusle is cheering on its partner, it flashes with electric\nsparks from all over its body. If its partner loses, this Pokémon\ncries loudly.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "plusle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/311.png"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 726,
+    "name": "torracat",
+    "height": 0.7,
+    "weight": 25.0,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/726.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/dc/726Torracat.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 80,
+        "special-defense": 50,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "intimidate",
+        "description": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "When facing a powerful enemy, Torracat’s\nfighting spirit gets pumped up, and its fire bell\nblazes hotter.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "litten",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/725.png"
+        },
+        {
+            "name": "torracat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/726.png"
+        },
+        {
+            "name": "incineroar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png"
+        }
+    ]
+}

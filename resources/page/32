@@ -1,0 +1,266 @@
+[
+    {
+        "id": 641,
+        "name_en": "tornadus-incarnate",
+        "name_ja": "トルネロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
+        "types": [
+            "flying"
+        ],
+        "types_colors": [
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 642,
+        "name_en": "thundurus-incarnate",
+        "name_ja": "ボルトロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png",
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 643,
+        "name_en": "reshiram",
+        "name_ja": "レシラム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png",
+        "types": [
+            "dragon",
+            "fire"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 644,
+        "name_en": "zekrom",
+        "name_ja": "ゼクロム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/644.png",
+        "types": [
+            "dragon",
+            "electric"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 645,
+        "name_en": "landorus-incarnate",
+        "name_ja": "ランドロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png",
+        "types": [
+            "ground",
+            "flying"
+        ],
+        "types_colors": [
+            "#dbb963",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 646,
+        "name_en": "kyurem",
+        "name_ja": "キュレム",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/646.png",
+        "types": [
+            "dragon",
+            "ice"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 647,
+        "name_en": "keldeo-ordinary",
+        "name_ja": "ケルディオ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/647.png",
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 648,
+        "name_en": "meloetta-aria",
+        "name_ja": "メロエッタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/648.png",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 649,
+        "name_en": "genesect",
+        "name_ja": "ゲノセクト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#afafc9"
+        ]
+    },
+    {
+        "id": 650,
+        "name_en": "chespin",
+        "name_ja": "ハリマロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 651,
+        "name_en": "quilladin",
+        "name_ja": "ハリボーグ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png",
+        "types": [
+            "grass"
+        ],
+        "types_colors": [
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 652,
+        "name_en": "chesnaught",
+        "name_ja": "ブリガロン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/652.png",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "types_colors": [
+            "#6dc04c",
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 653,
+        "name_en": "fennekin",
+        "name_ja": "フォッコ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 654,
+        "name_en": "braixen",
+        "name_ja": "テールナー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/654.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 655,
+        "name_en": "delphox",
+        "name_ja": "マフォクシー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/655.png",
+        "types": [
+            "fire",
+            "psychic"
+        ],
+        "types_colors": [
+            "#ed7835",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 656,
+        "name_en": "froakie",
+        "name_ja": "ケロマツ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 657,
+        "name_en": "frogadier",
+        "name_ja": "ゲコガシラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 658,
+        "name_en": "greninja",
+        "name_ja": "ゲッコウガ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#644e40"
+        ]
+    },
+    {
+        "id": 659,
+        "name_en": "bunnelby",
+        "name_ja": "ホルビー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 660,
+        "name_en": "diggersby",
+        "name_ja": "ホルード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png",
+        "types": [
+            "normal",
+            "ground"
+        ],
+        "types_colors": [
+            "#9e9e6f",
+            "#dbb963"
+        ]
+    }
+]

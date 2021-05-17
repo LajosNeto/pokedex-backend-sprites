@@ -1,0 +1,47 @@
+{
+    "id": 762,
+    "name": "steenee",
+    "height": 0.7,
+    "weight": 8.2,
+    "base_exp": 102,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/78/762Steenee.png",
+    "base_stats": {
+        "hp": 52,
+        "attack": 40,
+        "defense": 48,
+        "special-attack": 40,
+        "special-defense": 48,
+        "speed": 62
+    },
+    "abilities": {
+        "name": "sweet-veil",
+        "description": "Prevents friendly Pokémon from sleeping."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Any Corvisquire that pecks at this\nPokémon will be greeted with a smack from\nits sepals followed by a sharp kick.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "bounsweet",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png"
+        },
+        {
+            "name": "steenee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png"
+        },
+        {
+            "name": "tsareena",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png"
+        }
+    ]
+}

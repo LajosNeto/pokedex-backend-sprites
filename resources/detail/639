@@ -1,0 +1,41 @@
+{
+    "id": 639,
+    "name": "terrakion",
+    "height": 1.9,
+    "weight": 260.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/639Terrakion.png",
+    "base_stats": {
+        "hp": 91,
+        "attack": 129,
+        "defense": 90,
+        "special-attack": 72,
+        "special-defense": 90,
+        "speed": 108
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "rock",
+        "fighting"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#b72f29"
+    ],
+    "short_description": "Spoken of in legend, this Pokémon used its\nphenomenal power to destroy a castle in its effort\nto protect Pokémon.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "terrakion",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png"
+        }
+    ]
+}

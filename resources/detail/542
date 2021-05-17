@@ -1,0 +1,49 @@
+{
+    "id": 542,
+    "name": "leavanny",
+    "height": 1.2,
+    "weight": 20.5,
+    "base_exp": 225,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/542Leavanny.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 103,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 92
+    },
+    "abilities": {
+        "name": "overcoat",
+        "description": "Protects against damage from weather."
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#6dc04c"
+    ],
+    "short_description": "It keeps its eggs warm with heat from fermenting\nleaves. It also uses leaves to make warm wrappings\nfor Sewaddle.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "sewaddle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png"
+        },
+        {
+            "name": "swadloon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png"
+        },
+        {
+            "name": "leavanny",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 309,
+    "name": "electrike",
+    "height": 0.6,
+    "weight": 15.2,
+    "base_exp": 59,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/47/309Electrike.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 65,
+        "special-defense": 40,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "minus",
+        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "It stores electricity in its fur. It gives off sparks\nfrom all over its body in seasons when the air is dry.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "electrike",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png"
+        },
+        {
+            "name": "manectric",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png"
+        }
+    ]
+}

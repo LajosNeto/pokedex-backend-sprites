@@ -1,0 +1,43 @@
+{
+    "id": 620,
+    "name": "mienshao",
+    "height": 1.4,
+    "weight": 35.5,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/620.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/20/620Mienshao.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 60,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "reckless",
+        "description": "Strengthens recoil moves to 1.2× their power."
+    },
+    "types": [
+        "fighting"
+    ],
+    "types_colors": [
+        "#b72f29"
+    ],
+    "short_description": "Delivered at blinding speeds, kicks from this\nPokémon can shatter massive boulders into\ntiny pieces.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "mienfoo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png"
+        },
+        {
+            "name": "mienshao",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/620.png"
+        }
+    ]
+}

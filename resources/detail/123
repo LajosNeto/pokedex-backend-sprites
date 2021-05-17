@@ -1,0 +1,45 @@
+{
+    "id": 123,
+    "name": "scyther",
+    "height": 1.5,
+    "weight": 56.0,
+    "base_exp": 100,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/123Scyther.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 105
+    },
+    "abilities": {
+        "name": "steadfast",
+        "description": "Raises Speed one stage upon flinching."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "If you come across an area in a forest where a lot\nof the trees have been cut down, what you’ve\nfound is a Scyther’s territory.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "scyther",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png"
+        },
+        {
+            "name": "scizor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png"
+        }
+    ]
+}

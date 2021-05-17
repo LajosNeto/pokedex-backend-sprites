@@ -1,0 +1,41 @@
+{
+    "id": 777,
+    "name": "togedemaru",
+    "height": 0.3,
+    "weight": 3.3,
+    "base_exp": 152,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/777.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5a/777Togedemaru.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 40,
+        "special-defense": 73,
+        "speed": 96
+    },
+    "abilities": {
+        "name": "sturdy",
+        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#afafc9"
+    ],
+    "short_description": "When it’s in trouble, it curls up into a ball, makes\nits fur spikes stand on end, and then discharges\nelectricity indiscriminately.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "togedemaru",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/777.png"
+        }
+    ]
+}

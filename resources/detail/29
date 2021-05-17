@@ -1,0 +1,47 @@
+{
+    "id": 29,
+    "name": "nidoran-f",
+    "height": 0.4,
+    "weight": 7.0,
+    "base_exp": 55,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/81/029Nidoran.png",
+    "base_stats": {
+        "hp": 55,
+        "attack": 47,
+        "defense": 52,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 41
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "poison"
+    ],
+    "types_colors": [
+        "#953a93"
+    ],
+    "short_description": "A mild-mannered Pokémon that does not like\nto fight. Beware—its small horn secretes venom.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "nidoran-f",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png"
+        },
+        {
+            "name": "nidorina",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png"
+        },
+        {
+            "name": "nidoqueen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png"
+        }
+    ]
+}

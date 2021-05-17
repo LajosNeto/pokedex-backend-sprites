@@ -1,0 +1,45 @@
+{
+    "id": 622,
+    "name": "golett",
+    "height": 1.0,
+    "weight": 92.0,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/622Golett.png",
+    "base_stats": {
+        "hp": 59,
+        "attack": 74,
+        "defense": 50,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "no-guard",
+        "description": "Ensures all moves used by and against the Pokémon hit."
+    },
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#654e8c"
+    ],
+    "short_description": "This Pokémon was created from clay. It received\norders from its master many thousands of years\nago, and it still follows those orders to this day.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "golett",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png"
+        },
+        {
+            "name": "golurk",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png"
+        }
+    ]
+}

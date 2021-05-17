@@ -1,0 +1,47 @@
+{
+    "id": 498,
+    "name": "tepig",
+    "height": 0.5,
+    "weight": 9.9,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5b/498Tepig.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 63,
+        "defense": 45,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "thick-fat",
+        "description": "Halves damage from fire and ice moves."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "It loves to eat roasted berries, but sometimes it\ngets too excited and burns them to a crisp.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "tepig",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png"
+        },
+        {
+            "name": "pignite",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png"
+        },
+        {
+            "name": "emboar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png"
+        }
+    ]
+}

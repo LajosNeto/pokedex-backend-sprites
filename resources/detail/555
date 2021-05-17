@@ -1,0 +1,43 @@
+{
+    "id": 555,
+    "name": "darmanitan-standard",
+    "height": 1.3,
+    "weight": 92.9,
+    "base_exp": 168,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/555.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/40/555Darmanitan.png",
+    "base_stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 55,
+        "special-attack": 30,
+        "special-defense": 55,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "zen-mode",
+        "description": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "When wounded, it stops moving. It goes as\nstill as stone to meditate, sharpening its mind\nand spirit.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "darumaka",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/554.png"
+        },
+        {
+            "name": "darmanitan",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/555.png"
+        }
+    ]
+}

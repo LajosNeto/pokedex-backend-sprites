@@ -1,0 +1,45 @@
+{
+    "id": 591,
+    "name": "amoonguss",
+    "height": 0.6,
+    "weight": 10.5,
+    "base_exp": 162,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/591.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/13/591Amoonguss.png",
+    "base_stats": {
+        "hp": 114,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "regenerator",
+        "description": "Heals for 1/3 max HP upon switching out."
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#953a93"
+    ],
+    "short_description": "Amoonguss generally doesn’t move much. It\ntends to stand still near Poké Balls that have\nbeen dropped on the ground.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "foongus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/590.png"
+        },
+        {
+            "name": "amoonguss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/591.png"
+        }
+    ]
+}

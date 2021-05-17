@@ -1,0 +1,47 @@
+{
+    "id": 704,
+    "name": "goomy",
+    "height": 0.3,
+    "weight": 2.8,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/28/704Goomy.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "special-attack": 55,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "gooey",
+        "description": "Lowers attacking Pokémon's Speed by one stage on contact."
+    },
+    "types": [
+        "dragon"
+    ],
+    "types_colors": [
+        "#6630f3"
+    ],
+    "short_description": "Their horns are powerful sensors. As soon as\nGoomy pick up any sign of enemies, they go into\nhiding. This is how they’ve survived.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "goomy",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png"
+        },
+        {
+            "name": "sliggoo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png"
+        },
+        {
+            "name": "goodra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png"
+        }
+    ]
+}

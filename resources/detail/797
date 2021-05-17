@@ -1,0 +1,41 @@
+{
+    "id": 797,
+    "name": "celesteela",
+    "height": 9.2,
+    "weight": 999.9,
+    "base_exp": 257,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/89/797Celesteela.png",
+    "base_stats": {
+        "hp": 97,
+        "attack": 101,
+        "defense": 103,
+        "special-attack": 107,
+        "special-defense": 101,
+        "speed": 61
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "steel",
+        "flying"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#9e85eb"
+    ],
+    "short_description": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "celesteela",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png"
+        }
+    ]
+}

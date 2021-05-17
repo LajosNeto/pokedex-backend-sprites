@@ -1,0 +1,43 @@
+{
+    "id": 735,
+    "name": "gumshoos",
+    "height": 0.7,
+    "weight": 14.2,
+    "base_exp": 146,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/735.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/735Gumshoos.png",
+    "base_stats": {
+        "hp": 88,
+        "attack": 110,
+        "defense": 60,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 45
+    },
+    "abilities": {
+        "name": "adaptability",
+        "description": "Increases the same-type attack bonus from 1.5× to 2×."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Patient by nature, this Pokémon loses control of\nitself and pounces when it spots its favorite\nmeal—Rattata!",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "yungoos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/734.png"
+        },
+        {
+            "name": "gumshoos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/735.png"
+        }
+    ]
+}

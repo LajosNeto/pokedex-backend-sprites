@@ -1,0 +1,41 @@
+{
+    "id": 845,
+    "name": "cramorant",
+    "height": 0.8,
+    "weight": 18.0,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f3/845Cramorant.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 55,
+        "special-attack": 85,
+        "special-defense": 95,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "gulp-missile",
+        "description": ""
+    },
+    "types": [
+        "flying",
+        "water"
+    ],
+    "types_colors": [
+        "#9e85eb",
+        "#5f84ea"
+    ],
+    "short_description": "This hungry Pokémon swallows Arrokuda whole.\nOccasionally, it makes a mistake and tries to\nswallow a Pokémon other than its preferred prey.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cramorant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png"
+        }
+    ]
+}

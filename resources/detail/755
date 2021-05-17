@@ -1,0 +1,45 @@
+{
+    "id": 755,
+    "name": "morelull",
+    "height": 0.2,
+    "weight": 1.5,
+    "base_exp": 57,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/755Morelull.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 15
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#eb90a4"
+    ],
+    "short_description": "Morelull live in forests that stay dark even\nduring the day. They scatter flickering spores\nthat put enemies to sleep.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "morelull",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png"
+        },
+        {
+            "name": "shiinotic",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png"
+        }
+    ]
+}

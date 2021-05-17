@@ -1,0 +1,39 @@
+{
+    "id": 359,
+    "name": "absol",
+    "height": 1.2,
+    "weight": 47.0,
+    "base_exp": 163,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/00/359Absol.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 60,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "justified",
+        "description": "Raises Attack one stage upon taking damage from a dark move."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "The elderly call it the disaster Pokémon and\ndetest it, but interest in its power to predict\ndisasters is on the rise.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "absol",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png"
+        }
+    ]
+}

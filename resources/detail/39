@@ -1,0 +1,49 @@
+{
+    "id": 39,
+    "name": "jigglypuff",
+    "height": 0.5,
+    "weight": 5.5,
+    "base_exp": 95,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/039Jigglypuff.png",
+    "base_stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "special-attack": 45,
+        "special-defense": 25,
+        "speed": 20
+    },
+    "abilities": {
+        "name": "friend-guard",
+        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    },
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "types_colors": [
+        "#9e9e6f",
+        "#eb90a4"
+    ],
+    "short_description": "By freely changing the wavelength of its voice,\nJigglypuff sings a mysterious melody sure to\nmake any listener sleepy.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "fast",
+    "color": "#eb96c6",
+    "evolution_chain": [
+        {
+            "name": "igglybuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png"
+        },
+        {
+            "name": "jigglypuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png"
+        },
+        {
+            "name": "wigglytuff",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png"
+        }
+    ]
+}

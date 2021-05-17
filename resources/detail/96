@@ -1,0 +1,43 @@
+{
+    "id": 96,
+    "name": "drowzee",
+    "height": 1.0,
+    "weight": 32.4,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/96.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/096Drowzee.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "special-attack": 43,
+        "special-defense": 90,
+        "speed": 42
+    },
+    "abilities": {
+        "name": "inner-focus",
+        "description": "Prevents flinching."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "If you sleep by it all the time, it will sometimes\nshow you dreams it had eaten in the past.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "drowzee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/96.png"
+        },
+        {
+            "name": "hypno",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/97.png"
+        }
+    ]
+}

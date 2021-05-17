@@ -1,0 +1,47 @@
+{
+    "id": 252,
+    "name": "treecko",
+    "height": 0.5,
+    "weight": 5.0,
+    "base_exp": 62,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/252.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/252Treecko.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "unburden",
+        "description": "Doubles Speed upon using or losing a held item."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "Treecko is cool, calm, and collected—it never panics under\nany situation. If a bigger foe were to glare at this Pokémon,\nit would glare right back without conceding an inch of ground.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "treecko",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/252.png"
+        },
+        {
+            "name": "grovyle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/253.png"
+        },
+        {
+            "name": "sceptile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/254.png"
+        }
+    ]
+}

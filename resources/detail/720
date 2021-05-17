@@ -1,0 +1,41 @@
+{
+    "id": 720,
+    "name": "hoopa",
+    "height": 0.5,
+    "weight": 9.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/720.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/720Hoopa.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 60,
+        "special-attack": 150,
+        "special-defense": 130,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "magician",
+        "description": "Steals the target's held item when the bearer uses a damaging move."
+    },
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "types_colors": [
+        "#f6527e",
+        "#654e8c"
+    ],
+    "short_description": "It is said to be able to seize anything it desires\nwith its six rings and six huge arms. With its power\nsealed, it is transformed into a much smaller form.",
+    "is_legendary": false,
+    "is_mythical": true,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "hoopa",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/720.png"
+        }
+    ]
+}

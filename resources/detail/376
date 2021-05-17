@@ -1,0 +1,49 @@
+{
+    "id": 376,
+    "name": "metagross",
+    "height": 1.6,
+    "weight": 550.0,
+    "base_exp": 270,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/05/376Metagross.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 130,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "light-metal",
+        "description": "Halves the Pokémon's weight."
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#f6527e"
+    ],
+    "short_description": "It analyzes its opponents with more accuracy\nthan a supercomputer, which enables it to\ncalmly back them into a corner.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "rough-terrain",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "beldum",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png"
+        },
+        {
+            "name": "metang",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png"
+        },
+        {
+            "name": "metagross",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 334,
+    "name": "altaria",
+    "height": 1.1,
+    "weight": 20.6,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/334.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/da/334Altaria.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 90,
+        "special-attack": 70,
+        "special-defense": 105,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "cloud-nine",
+        "description": "Negates all effects of weather, but does not prevent the weather itself."
+    },
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "types_colors": [
+        "#6630f3",
+        "#9e85eb"
+    ],
+    "short_description": "Altaria sings in a gorgeous soprano. Its wings are like cotton\nclouds. This Pokémon catches updrafts with its buoyant wings\nand soars way up into the wild blue yonder.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "swablu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/333.png"
+        },
+        {
+            "name": "altaria",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/334.png"
+        }
+    ]
+}

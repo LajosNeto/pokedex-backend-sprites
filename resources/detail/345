@@ -1,0 +1,45 @@
+{
+    "id": 345,
+    "name": "lileep",
+    "height": 1.0,
+    "weight": 23.8,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/34/345Lileep.png",
+    "base_stats": {
+        "hp": 66,
+        "attack": 41,
+        "defense": 77,
+        "special-attack": 61,
+        "special-defense": 87,
+        "speed": 23
+    },
+    "abilities": {
+        "name": "storm-drain",
+        "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    },
+    "types": [
+        "rock",
+        "grass"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#6dc04c"
+    ],
+    "short_description": "It sticks to rocks with its powerful suckers and\ncan’t be washed away no matter how rough the\nsurf gets.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "lileep",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png"
+        },
+        {
+            "name": "cradily",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 626,
+    "name": "bouffalant",
+    "height": 1.6,
+    "weight": 94.6,
+    "base_exp": 172,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/626.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/626Bouffalant.png",
+    "base_stats": {
+        "hp": 95,
+        "attack": 110,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 95,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "soundproof",
+        "description": "Protects against sound-based moves."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "These Pokémon live in herds of about 20\nindividuals. Bouffalant that betray the herd will\nlose the hair on their heads for some reason.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "bouffalant",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/626.png"
+        }
+    ]
+}

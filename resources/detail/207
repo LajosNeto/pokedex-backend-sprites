@@ -1,0 +1,45 @@
+{
+    "id": 207,
+    "name": "gligar",
+    "height": 1.1,
+    "weight": 64.8,
+    "base_exp": 86,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/04/207Gligar.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 105,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "immunity",
+        "description": "Prevents poison."
+    },
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "types_colors": [
+        "#dbb963",
+        "#9e85eb"
+    ],
+    "short_description": "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "gligar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png"
+        },
+        {
+            "name": "gliscor",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png"
+        }
+    ]
+}

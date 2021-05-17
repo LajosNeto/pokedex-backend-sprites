@@ -1,0 +1,45 @@
+{
+    "id": 171,
+    "name": "lanturn",
+    "height": 1.2,
+    "weight": 22.5,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/171.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/171Lanturn.png",
+    "base_stats": {
+        "hp": 125,
+        "attack": 58,
+        "defense": 58,
+        "special-attack": 76,
+        "special-defense": 76,
+        "speed": 67
+    },
+    "abilities": {
+        "name": "water-absorb",
+        "description": "Absorbs water moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "water",
+        "electric"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#f6cb3b"
+    ],
+    "short_description": "This Pokémon flashes a bright light that blinds\nits prey. This creates an opening for it to deliver\nan electrical attack.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "chinchou",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/170.png"
+        },
+        {
+            "name": "lanturn",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/171.png"
+        }
+    ]
+}

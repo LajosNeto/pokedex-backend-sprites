@@ -1,0 +1,45 @@
+{
+    "id": 347,
+    "name": "anorith",
+    "height": 0.7,
+    "weight": 12.5,
+    "base_exp": 71,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/45/347Anorith.png",
+    "base_stats": {
+        "hp": 45,
+        "attack": 95,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "rock",
+        "bug"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#9daf2b"
+    ],
+    "short_description": "This is one kind of primeval bug Pokémon.\nWith eight wings, it could apparently swim\na lot faster than you’d expect.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "anorith",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png"
+        },
+        {
+            "name": "armaldo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 844,
+    "name": "sandaconda",
+    "height": 3.8,
+    "weight": 65.5,
+    "base_exp": 179,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/11/844Sandaconda.png",
+    "base_stats": {
+        "hp": 72,
+        "attack": 107,
+        "defense": 125,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 71
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "Sand swirls around its body with such speed and\npower that it could pulverize a skyscraper.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "silicobra",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/843.png"
+        },
+        {
+            "name": "sandaconda",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png"
+        }
+    ]
+}

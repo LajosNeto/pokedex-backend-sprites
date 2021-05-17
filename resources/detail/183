@@ -1,0 +1,49 @@
+{
+    "id": 183,
+    "name": "marill",
+    "height": 0.4,
+    "weight": 8.5,
+    "base_exp": 88,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/42/183Marill.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 20,
+        "defense": 50,
+        "special-attack": 20,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "abilities": {
+        "name": "sap-sipper",
+        "description": "Absorbs grass moves, raising Attack one stage."
+    },
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#eb90a4"
+    ],
+    "short_description": "Even after Marill swims in a cold sea, its water-\nrepellent fur dries almost as soon as Marill leaves\nthe water. That’s why this Pokémon is never cold.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "azurill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png"
+        },
+        {
+            "name": "marill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png"
+        },
+        {
+            "name": "azumarill",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png"
+        }
+    ]
+}

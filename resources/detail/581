@@ -1,0 +1,45 @@
+{
+    "id": 581,
+    "name": "swanna",
+    "height": 1.3,
+    "weight": 24.2,
+    "base_exp": 166,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/76/581Swanna.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 87,
+        "defense": 63,
+        "special-attack": 87,
+        "special-defense": 63,
+        "speed": 98
+    },
+    "abilities": {
+        "name": "hydration",
+        "description": "Cures any major status ailment after each turn during rain."
+    },
+    "types": [
+        "water",
+        "flying"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#9e85eb"
+    ],
+    "short_description": "Swanna start to dance at dusk. The one dancing in\nthe middle is the leader of the flock.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "ducklett",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png"
+        },
+        {
+            "name": "swanna",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png"
+        }
+    ]
+}

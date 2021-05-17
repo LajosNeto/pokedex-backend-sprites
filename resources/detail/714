@@ -1,0 +1,45 @@
+{
+    "id": 714,
+    "name": "noibat",
+    "height": 0.5,
+    "weight": 8.0,
+    "base_exp": 49,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/07/714Noibat.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "special-attack": 45,
+        "special-defense": 40,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "telepathy",
+        "description": "Protects against friendly Pokémon's damaging moves."
+    },
+    "types": [
+        "flying",
+        "dragon"
+    ],
+    "types_colors": [
+        "#9e85eb",
+        "#6630f3"
+    ],
+    "short_description": "No wavelength of sound is beyond Noibat’s\nability to produce. The ultrasonic waves it\ngenerates can overcome much larger Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "noibat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png"
+        },
+        {
+            "name": "noivern",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png"
+        }
+    ]
+}

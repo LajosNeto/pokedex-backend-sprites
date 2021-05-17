@@ -1,0 +1,41 @@
+{
+    "id": 302,
+    "name": "sableye",
+    "height": 0.5,
+    "weight": 11.0,
+    "base_exp": 133,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/302Sableye.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "dark",
+        "ghost"
+    ],
+    "types_colors": [
+        "#644e40",
+        "#654e8c"
+    ],
+    "short_description": "It feeds on gemstone crystals. In darkness, its\neyes sparkle with the glitter of jewels.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "medium-slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "sableye",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png"
+        }
+    ]
+}

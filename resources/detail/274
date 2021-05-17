@@ -1,0 +1,49 @@
+{
+    "id": 274,
+    "name": "nuzleaf",
+    "height": 1.0,
+    "weight": 28.0,
+    "base_exp": 119,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/07/274Nuzleaf.png",
+    "base_stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 40,
+        "special-attack": 60,
+        "special-defense": 40,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "pickpocket",
+        "description": "Steals attacking Pokémon's held items on contact."
+    },
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#644e40"
+    ],
+    "short_description": "They live in holes bored in large trees. The sound\nof Nuzleaf’s grass flute fills listeners with dread.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium-slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "seedot",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png"
+        },
+        {
+            "name": "nuzleaf",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png"
+        },
+        {
+            "name": "shiftry",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png"
+        }
+    ]
+}

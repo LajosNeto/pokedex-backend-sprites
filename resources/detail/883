@@ -1,0 +1,41 @@
+{
+    "id": 883,
+    "name": "arctovish",
+    "height": 2.0,
+    "weight": 175.0,
+    "base_exp": 177,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/03/883Arctovish.png",
+    "base_stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "slush-rush",
+        "description": "During Hail, this Pokémon has double Speed."
+    },
+    "types": [
+        "water",
+        "ice"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#8ed2d2"
+    ],
+    "short_description": "The skin on its face is impervious to attack, but\nbreathing difficulties made this Pokémon go\nextinct anyway.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "arctovish",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png"
+        }
+    ]
+}

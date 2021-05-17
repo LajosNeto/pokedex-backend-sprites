@@ -1,0 +1,45 @@
+{
+    "id": 73,
+    "name": "tentacruel",
+    "height": 1.6,
+    "weight": 55.0,
+    "base_exp": 180,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/073Tentacruel.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "rain-dish",
+        "description": "Heals for 1/16 max HP after each turn during rain."
+    },
+    "types": [
+        "water",
+        "poison"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#953a93"
+    ],
+    "short_description": "Its 80 tentacles can stretch and shrink freely.\nTentacruel ensnares prey in a net of spread-out\ntentacles, delivering venomous stings to its catch.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "sea",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tentacool",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png"
+        },
+        {
+            "name": "tentacruel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png"
+        }
+    ]
+}

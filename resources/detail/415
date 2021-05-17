@@ -1,0 +1,45 @@
+{
+    "id": 415,
+    "name": "combee",
+    "height": 0.3,
+    "weight": 5.5,
+    "base_exp": 49,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/b6/415Combee.png",
+    "base_stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 42,
+        "special-attack": 30,
+        "special-defense": 42,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "hustle",
+        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "It ceaselessly gathers nectar from sunrise to\nsundown, all for the sake of Vespiquen and\nthe swarm.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "combee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png"
+        },
+        {
+            "name": "vespiquen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png"
+        }
+    ]
+}

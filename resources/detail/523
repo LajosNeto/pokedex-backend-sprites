@@ -1,0 +1,43 @@
+{
+    "id": 523,
+    "name": "zebstrika",
+    "height": 1.6,
+    "weight": 79.5,
+    "base_exp": 174,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/523.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/523Zebstrika.png",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 63,
+        "special-attack": 80,
+        "special-defense": 63,
+        "speed": 116
+    },
+    "abilities": {
+        "name": "sap-sipper",
+        "description": "Absorbs grass moves, raising Attack one stage."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "blitzle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/522.png"
+        },
+        {
+            "name": "zebstrika",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/523.png"
+        }
+    ]
+}

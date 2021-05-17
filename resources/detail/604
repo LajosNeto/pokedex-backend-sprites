@@ -1,0 +1,47 @@
+{
+    "id": 604,
+    "name": "eelektross",
+    "height": 2.1,
+    "weight": 80.5,
+    "base_exp": 232,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/604.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/604Eelektross.png",
+    "base_stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 80,
+        "special-attack": 105,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "tynamo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/602.png"
+        },
+        {
+            "name": "eelektrik",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png"
+        },
+        {
+            "name": "eelektross",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/604.png"
+        }
+    ]
+}

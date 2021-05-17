@@ -1,0 +1,49 @@
+{
+    "id": 246,
+    "name": "larvitar",
+    "height": 0.6,
+    "weight": 72.0,
+    "base_exp": 60,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/70/246Larvitar.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 41
+    },
+    "abilities": {
+        "name": "sand-veil",
+        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "types_colors": [
+        "#af9539",
+        "#dbb963"
+    ],
+    "short_description": "It feeds on soil. After it has eaten a large\nmountain, it will fall asleep so it can grow.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "larvitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png"
+        },
+        {
+            "name": "pupitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png"
+        },
+        {
+            "name": "tyranitar",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png"
+        }
+    ]
+}

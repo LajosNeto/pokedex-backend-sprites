@@ -1,0 +1,49 @@
+{
+    "id": 267,
+    "name": "beautifly",
+    "height": 1.0,
+    "weight": 28.4,
+    "base_exp": 178,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/267.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/267Beautifly.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "rivalry",
+        "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "Beautifly has a long mouth like a coiled needle, which is very\nconvenient for collecting pollen from flowers. This Pokémon\nrides the spring winds as it flits around gathering pollen.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "wurmple",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png"
+        },
+        {
+            "name": "silcoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png"
+        },
+        {
+            "name": "cascoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png"
+        }
+    ]
+}

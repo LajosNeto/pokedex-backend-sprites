@@ -1,0 +1,43 @@
+{
+    "id": 104,
+    "name": "cubone",
+    "height": 0.4,
+    "weight": 6.5,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2a/104Cubone.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 35
+    },
+    "abilities": {
+        "name": "battle-armor",
+        "description": "Protects against critical hits."
+    },
+    "types": [
+        "ground"
+    ],
+    "types_colors": [
+        "#dbb963"
+    ],
+    "short_description": "This Pokémon wears the skull of its deceased\nmother. Sometimes Cubone’s dreams make it cry,\nbut each tear Cubone sheds makes it stronger.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "cubone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png"
+        },
+        {
+            "name": "marowak",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/105.png"
+        }
+    ]
+}

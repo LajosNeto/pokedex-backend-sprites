@@ -1,0 +1,47 @@
+{
+    "id": 653,
+    "name": "fennekin",
+    "height": 0.4,
+    "weight": 9.4,
+    "base_exp": 61,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/653Fennekin.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 62,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "magician",
+        "description": "Steals the target's held item when the bearer uses a damaging move."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "As it walks, it munches on a twig in place\nof a snack. It intimidates opponents\nby puffing hot air out of its ears.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "fennekin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png"
+        },
+        {
+            "name": "braixen",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/654.png"
+        },
+        {
+            "name": "delphox",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/655.png"
+        }
+    ]
+}

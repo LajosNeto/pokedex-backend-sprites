@@ -1,0 +1,49 @@
+{
+    "id": 272,
+    "name": "ludicolo",
+    "height": 1.5,
+    "weight": 55.0,
+    "base_exp": 216,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/ff/272Ludicolo.png",
+    "base_stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 70,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "own-tempo",
+        "description": "Prevents confusion."
+    },
+    "types": [
+        "water",
+        "grass"
+    ],
+    "types_colors": [
+        "#5f84ea",
+        "#6dc04c"
+    ],
+    "short_description": "If it hears festive music, it begins moving in\nrhythm in order to amplify its power.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "waters-edge",
+    "growth_rate": "medium-slow",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "lotad",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png"
+        },
+        {
+            "name": "lombre",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png"
+        },
+        {
+            "name": "ludicolo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png"
+        }
+    ]
+}

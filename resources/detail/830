@@ -1,0 +1,43 @@
+{
+    "id": 830,
+    "name": "eldegoss",
+    "height": 0.5,
+    "weight": 2.5,
+    "base_exp": 161,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/830.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/3/34/830Eldegoss.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 60
+    },
+    "abilities": {
+        "name": "effect-spore",
+        "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "The cotton on the head of this Pokémon can be\nspun into a glossy, gorgeous yarn—a Galar\nregional specialty.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "gossifleur",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/829.png"
+        },
+        {
+            "name": "eldegoss",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/830.png"
+        }
+    ]
+}

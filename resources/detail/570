@@ -1,0 +1,43 @@
+{
+    "id": 570,
+    "name": "zorua",
+    "height": 0.7,
+    "weight": 12.5,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/2b/570Zorua.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 40,
+        "special-attack": 80,
+        "special-defense": 40,
+        "speed": 65
+    },
+    "abilities": {
+        "name": "illusion",
+        "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Zorua sometimes transforms into a person and\ngoes into cities to search for food. When Zorua\ndoes this, it usually takes on the form of a child.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "zorua",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png"
+        },
+        {
+            "name": "zoroark",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png"
+        }
+    ]
+}

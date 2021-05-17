@@ -1,0 +1,71 @@
+{
+    "id": 196,
+    "name": "espeon",
+    "height": 0.9,
+    "weight": 26.5,
+    "base_exp": 184,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/196Espeon.png",
+    "base_stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 130,
+        "special-defense": 95,
+        "speed": 110
+    },
+    "abilities": {
+        "name": "magic-bounce",
+        "description": "Reflects most non-damaging moves back at their user."
+    },
+    "types": [
+        "psychic"
+    ],
+    "types_colors": [
+        "#f6527e"
+    ],
+    "short_description": "It unleashes psychic power from the orb on its\nforehead. When its power is exhausted, the orb\ngrows dull and dark.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "urban",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "eevee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png"
+        },
+        {
+            "name": "vaporeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png"
+        },
+        {
+            "name": "jolteon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png"
+        },
+        {
+            "name": "flareon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png"
+        },
+        {
+            "name": "espeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png"
+        },
+        {
+            "name": "umbreon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png"
+        },
+        {
+            "name": "leafeon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png"
+        },
+        {
+            "name": "glaceon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png"
+        },
+        {
+            "name": "sylveon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/700.png"
+        }
+    ]
+}

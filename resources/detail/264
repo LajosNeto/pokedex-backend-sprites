@@ -1,0 +1,47 @@
+{
+    "id": 264,
+    "name": "linoone",
+    "height": 0.5,
+    "weight": 32.5,
+    "base_exp": 147,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/264Linoone.png",
+    "base_stats": {
+        "hp": 78,
+        "attack": 70,
+        "defense": 61,
+        "special-attack": 50,
+        "special-defense": 61,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "quick-feet",
+        "description": "Increases Speed to 1.5× with a major status ailment."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "zigzagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png"
+        },
+        {
+            "name": "linoone",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png"
+        },
+        {
+            "name": "obstagoon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 165,
+    "name": "ledyba",
+    "height": 1.0,
+    "weight": 10.8,
+    "base_exp": 53,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/165.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/165Ledyba.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 20,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "abilities": {
+        "name": "rattled",
+        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "types_colors": [
+        "#9daf2b",
+        "#9e85eb"
+    ],
+    "short_description": "These very cowardly Pokémon join together and\nuse Reflect to protect their nest.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "forest",
+    "growth_rate": "fast",
+    "color": "#e0626a",
+    "evolution_chain": [
+        {
+            "name": "ledyba",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/165.png"
+        },
+        {
+            "name": "ledian",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/166.png"
+        }
+    ]
+}

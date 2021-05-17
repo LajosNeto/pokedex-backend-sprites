@@ -1,0 +1,43 @@
+{
+    "id": 510,
+    "name": "liepard",
+    "height": 1.1,
+    "weight": 37.5,
+    "base_exp": 156,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/0/09/510Liepard.png",
+    "base_stats": {
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "special-attack": 88,
+        "special-defense": 50,
+        "speed": 106
+    },
+    "abilities": {
+        "name": "prankster",
+        "description": "Raises non-damaging moves' priority by one stage."
+    },
+    "types": [
+        "dark"
+    ],
+    "types_colors": [
+        "#644e40"
+    ],
+    "short_description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "purrloin",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/509.png"
+        },
+        {
+            "name": "liepard",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png"
+        }
+    ]
+}

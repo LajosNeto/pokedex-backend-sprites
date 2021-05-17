@@ -1,0 +1,43 @@
+{
+    "id": 672,
+    "name": "skiddo",
+    "height": 0.9,
+    "weight": 31.0,
+    "base_exp": 70,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/672.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/5d/672Skiddo.png",
+    "base_stats": {
+        "hp": 66,
+        "attack": 65,
+        "defense": 48,
+        "special-attack": 62,
+        "special-defense": 57,
+        "speed": 52
+    },
+    "abilities": {
+        "name": "grass-pelt",
+        "description": "Boosts Defense while grassy terrain is in effect."
+    },
+    "types": [
+        "grass"
+    ],
+    "types_colors": [
+        "#6dc04c"
+    ],
+    "short_description": "If it has sunshine and water, it doesn’t\nneed to eat, because it can generate\nenergy from the leaves on its back.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "skiddo",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/672.png"
+        },
+        {
+            "name": "gogoat",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/673.png"
+        }
+    ]
+}

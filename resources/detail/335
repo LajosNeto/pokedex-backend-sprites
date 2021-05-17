@@ -1,0 +1,39 @@
+{
+    "id": 335,
+    "name": "zangoose",
+    "height": 1.3,
+    "weight": 40.3,
+    "base_exp": 160,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/335.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/335Zangoose.png",
+    "base_stats": {
+        "hp": 73,
+        "attack": 115,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 90
+    },
+    "abilities": {
+        "name": "toxic-boost",
+        "description": "Increases Attack to 1.5× when poisoned."
+    },
+    "types": [
+        "normal"
+    ],
+    "types_colors": [
+        "#9e9e6f"
+    ],
+    "short_description": "Zangoose usually stays on all fours, but when angered, it gets\nup on its hind legs and extends its claws. This Pokémon shares\na bitter rivalry with Seviper that dates back over generations.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "zangoose",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/335.png"
+        }
+    ]
+}

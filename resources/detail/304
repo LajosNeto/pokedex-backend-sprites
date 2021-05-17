@@ -1,0 +1,49 @@
+{
+    "id": 304,
+    "name": "aron",
+    "height": 0.4,
+    "weight": 60.0,
+    "base_exp": 66,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/304Aron.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 100,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "heavy-metal",
+        "description": "Doubles the Pokémon's weight."
+    },
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "types_colors": [
+        "#afafc9",
+        "#af9539"
+    ],
+    "short_description": "Aron has a body of steel. With one all-out charge, this\nPokémon can demolish even a heavy dump truck.\nThe destroyed dump truck then becomes a handy meal\nfor the Pokémon.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "mountain",
+    "growth_rate": "slow",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "aron",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png"
+        },
+        {
+            "name": "lairon",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png"
+        },
+        {
+            "name": "aggron",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png"
+        }
+    ]
+}

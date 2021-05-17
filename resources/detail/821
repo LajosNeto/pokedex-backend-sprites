@@ -1,0 +1,47 @@
+{
+    "id": 821,
+    "name": "rookidee",
+    "height": 0.2,
+    "weight": 1.8,
+    "base_exp": 49,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/821.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/7/79/821Rookidee.png",
+    "base_stats": {
+        "hp": 38,
+        "attack": 47,
+        "defense": 35,
+        "special-attack": 33,
+        "special-defense": 35,
+        "speed": 57
+    },
+    "abilities": {
+        "name": "big-pecks",
+        "description": "Protects against Defense drops."
+    },
+    "types": [
+        "flying"
+    ],
+    "types_colors": [
+        "#9e85eb"
+    ],
+    "short_description": "Jumping nimbly about, this small-bodied\nPokémon takes advantage of even the slightest\nopportunity to disorient larger opponents.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "rookidee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/821.png"
+        },
+        {
+            "name": "corvisquire",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/822.png"
+        },
+        {
+            "name": "corviknight",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png"
+        }
+    ]
+}

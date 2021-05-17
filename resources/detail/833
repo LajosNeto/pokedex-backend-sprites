@@ -1,0 +1,43 @@
+{
+    "id": 833,
+    "name": "chewtle",
+    "height": 0.3,
+    "weight": 8.5,
+    "base_exp": 57,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/2/22/833Chewtle.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 38,
+        "special-defense": 38,
+        "speed": 44
+    },
+    "abilities": {
+        "name": "swift-swim",
+        "description": "Doubles Speed during rain."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It starts off battles by attacking with its rock-hard\nhorn, but as soon as the opponent flinches, this\nPokémon bites down and never lets go.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "chewtle",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png"
+        },
+        {
+            "name": "drednaw",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png"
+        }
+    ]
+}

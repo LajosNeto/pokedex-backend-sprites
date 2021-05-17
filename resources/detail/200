@@ -1,0 +1,43 @@
+{
+    "id": 200,
+    "name": "misdreavus",
+    "height": 0.7,
+    "weight": 1.0,
+    "base_exp": 87,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/b/be/200Misdreavus.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 85,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "abilities": {
+        "name": "levitate",
+        "description": "Evades ground moves."
+    },
+    "types": [
+        "ghost"
+    ],
+    "types_colors": [
+        "#654e8c"
+    ],
+    "short_description": "What makes it happy is imitating the voices of\nweeping people and scaring everyone. It doesn’t\ndeal well with folks who aren’t easily frightened.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "cave",
+    "growth_rate": "fast",
+    "color": "#a0a0a0",
+    "evolution_chain": [
+        {
+            "name": "misdreavus",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png"
+        },
+        {
+            "name": "mismagius",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/429.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 409,
+    "name": "rampardos",
+    "height": 1.6,
+    "weight": 102.5,
+    "base_exp": 173,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/409Rampardos.png",
+    "base_stats": {
+        "hp": 97,
+        "attack": 165,
+        "defense": 60,
+        "special-attack": 65,
+        "special-defense": 50,
+        "speed": 58
+    },
+    "abilities": {
+        "name": "sheer-force",
+        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    },
+    "types": [
+        "rock"
+    ],
+    "types_colors": [
+        "#af9539"
+    ],
+    "short_description": "This ancient Pokémon used headbutts skillfully.\nIts brain was really small, so some theories\nsuggest that its stupidity led to its extinction.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow-then-very-fast",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "cranidos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png"
+        },
+        {
+            "name": "rampardos",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png"
+        }
+    ]
+}

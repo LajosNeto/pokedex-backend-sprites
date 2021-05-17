@@ -1,0 +1,39 @@
+{
+    "id": 244,
+    "name": "entei",
+    "height": 2.1,
+    "weight": 198.0,
+    "base_exp": 261,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/244.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/244Entei.png",
+    "base_stats": {
+        "hp": 115,
+        "attack": 115,
+        "defense": 85,
+        "special-attack": 90,
+        "special-defense": 75,
+        "speed": 100
+    },
+    "abilities": {
+        "name": "inner-focus",
+        "description": "Prevents flinching."
+    },
+    "types": [
+        "fire"
+    ],
+    "types_colors": [
+        "#ed7835"
+    ],
+    "short_description": "Entei embodies the passion of magma. This Pokémon is\nthought to have been born in the eruption of a volcano.\nIt sends up massive bursts of fire that utterly consume all\nthat they touch.",
+    "is_legendary": true,
+    "is_mythical": false,
+    "habitat": "grassland",
+    "growth_rate": "slow",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "entei",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/244.png"
+        }
+    ]
+}

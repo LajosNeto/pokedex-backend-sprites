@@ -1,0 +1,45 @@
+{
+    "id": 546,
+    "name": "cottonee",
+    "height": 0.3,
+    "weight": 0.6,
+    "base_exp": 56,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/44/546Cottonee.png",
+    "base_stats": {
+        "hp": 40,
+        "attack": 27,
+        "defense": 60,
+        "special-attack": 37,
+        "special-defense": 50,
+        "speed": 66
+    },
+    "abilities": {
+        "name": "chlorophyll",
+        "description": "Doubles Speed during strong sunlight."
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "types_colors": [
+        "#6dc04c",
+        "#eb90a4"
+    ],
+    "short_description": "Weaving together the cotton of both Cottonee\nand Eldegoss produces exquisite cloth that’s\nhighly prized by many luxury brands.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#62b570",
+    "evolution_chain": [
+        {
+            "name": "cottonee",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png"
+        },
+        {
+            "name": "whimsicott",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png"
+        }
+    ]
+}

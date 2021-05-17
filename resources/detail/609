@@ -1,0 +1,49 @@
+{
+    "id": 609,
+    "name": "chandelure",
+    "height": 1.0,
+    "weight": 34.3,
+    "base_exp": 234,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/6/65/609Chandelure.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 90,
+        "special-attack": 145,
+        "special-defense": 90,
+        "speed": 80
+    },
+    "abilities": {
+        "name": "infiltrator",
+        "description": "Bypasses light screen, reflect, and safeguard."
+    },
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "types_colors": [
+        "#654e8c",
+        "#ed7835"
+    ],
+    "short_description": "In homes illuminated by Chandelure instead of\nlights, funerals were a constant occurrence—\nor so it’s said.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#585858",
+    "evolution_chain": [
+        {
+            "name": "litwick",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png"
+        },
+        {
+            "name": "lampent",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png"
+        },
+        {
+            "name": "chandelure",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png"
+        }
+    ]
+}

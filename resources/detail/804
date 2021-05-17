@@ -1,0 +1,45 @@
+{
+    "id": 804,
+    "name": "naganadel",
+    "height": 3.6,
+    "weight": 150.0,
+    "base_exp": 243,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/d/de/804Naganadel.png",
+    "base_stats": {
+        "hp": 73,
+        "attack": 73,
+        "defense": 73,
+        "special-attack": 127,
+        "special-defense": 73,
+        "speed": 121
+    },
+    "abilities": {
+        "name": "beast-boost",
+        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    },
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#6630f3"
+    ],
+    "short_description": "One kind of Ultra Beast, it fires a glowing,\nvenomous liquid from its needles. This liquid\nis also immensely adhesive.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "slow",
+    "color": "#9e6dbb",
+    "evolution_chain": [
+        {
+            "name": "poipole",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png"
+        },
+        {
+            "name": "naganadel",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png"
+        }
+    ]
+}

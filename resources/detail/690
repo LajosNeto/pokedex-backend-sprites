@@ -1,0 +1,45 @@
+{
+    "id": 690,
+    "name": "skrelp",
+    "height": 0.5,
+    "weight": 7.3,
+    "base_exp": 64,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/690.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/690Skrelp.png",
+    "base_stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "abilities": {
+        "name": "adaptability",
+        "description": "Increases the same-type attack bonus from 1.5× to 2×."
+    },
+    "types": [
+        "poison",
+        "water"
+    ],
+    "types_colors": [
+        "#953a93",
+        "#5f84ea"
+    ],
+    "short_description": "Skrelp looks like a piece of rotten seaweed, so it\ncan blend in with seaweed drifting on the ocean\nand avoid being detected by enemies.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#a8733d",
+    "evolution_chain": [
+        {
+            "name": "skrelp",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/690.png"
+        },
+        {
+            "name": "dragalge",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/691.png"
+        }
+    ]
+}

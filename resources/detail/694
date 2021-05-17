@@ -1,0 +1,45 @@
+{
+    "id": 694,
+    "name": "helioptile",
+    "height": 0.5,
+    "weight": 6.0,
+    "base_exp": 58,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/5/51/694Helioptile.png",
+    "base_stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 33,
+        "special-attack": 61,
+        "special-defense": 43,
+        "speed": 70
+    },
+    "abilities": {
+        "name": "solar-power",
+        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    },
+    "types": [
+        "electric",
+        "normal"
+    ],
+    "types_colors": [
+        "#f6cb3b",
+        "#9e9e6f"
+    ],
+    "short_description": "The sun powers this Pokémon’s electricity\ngeneration. Interruption of that process\nstresses Helioptile to the point of weakness.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#ecd061",
+    "evolution_chain": [
+        {
+            "name": "helioptile",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png"
+        },
+        {
+            "name": "heliolisk",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png"
+        }
+    ]
+}

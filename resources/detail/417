@@ -1,0 +1,39 @@
+{
+    "id": 417,
+    "name": "pachirisu",
+    "height": 0.4,
+    "weight": 3.9,
+    "base_exp": 142,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/417.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/417Pachirisu.png",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "special-attack": 45,
+        "special-defense": 90,
+        "speed": 95
+    },
+    "abilities": {
+        "name": "volt-absorb",
+        "description": "Absorbs electric moves, healing for 1/4 max HP."
+    },
+    "types": [
+        "electric"
+    ],
+    "types_colors": [
+        "#f6cb3b"
+    ],
+    "short_description": "A pair may be seen rubbing their cheek pouches\ntogether in an effort to share stored electricity.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium",
+    "color": "#f0f0f0",
+    "evolution_chain": [
+        {
+            "name": "pachirisu",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/417.png"
+        }
+    ]
+}

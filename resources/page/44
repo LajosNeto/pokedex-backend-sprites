@@ -1,0 +1,226 @@
+[
+    {
+        "id": 881,
+        "name_en": "arctozolt",
+        "name_ja": "パッチルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
+        "types": [
+            "electric",
+            "ice"
+        ],
+        "types_colors": [
+            "#f6cb3b",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 882,
+        "name_en": "dracovish",
+        "name_ja": "ウオノラゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 883,
+        "name_en": "arctovish",
+        "name_ja": "ウオチルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
+        "types": [
+            "water",
+            "ice"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 884,
+        "name_en": "duraludon",
+        "name_ja": "ジュラルドン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/884.png",
+        "types": [
+            "steel",
+            "dragon"
+        ],
+        "types_colors": [
+            "#afafc9",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 885,
+        "name_en": "dreepy",
+        "name_ja": "ドラメシヤ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 886,
+        "name_en": "drakloak",
+        "name_ja": "ドロンチ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 887,
+        "name_en": "dragapult",
+        "name_ja": "ドラパルト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png",
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "types_colors": [
+            "#6630f3",
+            "#654e8c"
+        ]
+    },
+    {
+        "id": 888,
+        "name_en": "zacian-hero",
+        "name_ja": "ザシアン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png",
+        "types": [
+            "fairy"
+        ],
+        "types_colors": [
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 889,
+        "name_en": "zamazenta-hero",
+        "name_ja": "ザマゼンタ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 890,
+        "name_en": "eternatus",
+        "name_ja": "ムゲンダイナ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "types_colors": [
+            "#953a93",
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 891,
+        "name_en": "kubfu",
+        "name_ja": "ダクマ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
+        "types": [
+            "fighting"
+        ],
+        "types_colors": [
+            "#b72f29"
+        ]
+    },
+    {
+        "id": 892,
+        "name_en": "urshifu-single-strike",
+        "name_ja": "ウーラオス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
+        "types": [
+            "fighting",
+            "dark"
+        ],
+        "types_colors": [
+            "#b72f29",
+            "#644e40"
+        ]
+    },
+    {
+        "id": 893,
+        "name_en": "zarude",
+        "name_ja": "ザルード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
+        "types": [
+            "dark",
+            "grass"
+        ],
+        "types_colors": [
+            "#644e40",
+            "#6dc04c"
+        ]
+    },
+    {
+        "id": 894,
+        "name_en": "regieleki",
+        "name_ja": "レジエレキ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/894.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 895,
+        "name_en": "regidrago",
+        "name_ja": "レジドラゴ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
+        "types": [
+            "dragon"
+        ],
+        "types_colors": [
+            "#6630f3"
+        ]
+    },
+    {
+        "id": 896,
+        "name_en": "glastrier",
+        "name_ja": "ブリザポス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/896.png",
+        "types": [
+            "ice"
+        ],
+        "types_colors": [
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 897,
+        "name_en": "spectrier",
+        "name_ja": "レイスポス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
+        "types": [
+            "ghost"
+        ],
+        "types_colors": [
+            "#654e8c"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "id": 656,
+    "name": "froakie",
+    "height": 0.3,
+    "weight": 7.0,
+    "base_exp": 63,
+    "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png",
+    "art_url": "https://cdn2.bulbagarden.net/upload/1/18/656Froakie.png",
+    "base_stats": {
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "special-attack": 62,
+        "special-defense": 44,
+        "speed": 71
+    },
+    "abilities": {
+        "name": "protean",
+        "description": "Changes the bearer's type to match each move it uses."
+    },
+    "types": [
+        "water"
+    ],
+    "types_colors": [
+        "#5f84ea"
+    ],
+    "short_description": "It protects its skin by covering its body in\ndelicate bubbles. Beneath its happy-go-lucky air,\nit keeps a watchful eye on its surroundings.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "habitat": "",
+    "growth_rate": "medium-slow",
+    "color": "#4589e9",
+    "evolution_chain": [
+        {
+            "name": "froakie",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png"
+        },
+        {
+            "name": "frogadier",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png"
+        },
+        {
+            "name": "greninja",
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png"
+        }
+    ]
+}

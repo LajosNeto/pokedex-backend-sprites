@@ -1,0 +1,260 @@
+[
+    {
+        "id": 121,
+        "name_en": "starmie",
+        "name_ja": "スターミー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 122,
+        "name_en": "mr-mime",
+        "name_ja": "バリヤード",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "types_colors": [
+            "#f6527e",
+            "#eb90a4"
+        ]
+    },
+    {
+        "id": 123,
+        "name_en": "scyther",
+        "name_ja": "ストライク",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "types_colors": [
+            "#9daf2b",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 124,
+        "name_en": "jynx",
+        "name_ja": "ルージュラ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png",
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "types_colors": [
+            "#8ed2d2",
+            "#f6527e"
+        ]
+    },
+    {
+        "id": 125,
+        "name_en": "electabuzz",
+        "name_ja": "エレブー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/125.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 126,
+        "name_en": "magmar",
+        "name_ja": "ブーバー",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/126.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 127,
+        "name_en": "pinsir",
+        "name_ja": "カイロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/127.png",
+        "types": [
+            "bug"
+        ],
+        "types_colors": [
+            "#9daf2b"
+        ]
+    },
+    {
+        "id": 128,
+        "name_en": "tauros",
+        "name_ja": "ケンタロス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/128.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 129,
+        "name_en": "magikarp",
+        "name_ja": "コイキング",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 130,
+        "name_en": "gyarados",
+        "name_ja": "ギャラドス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png",
+        "types": [
+            "water",
+            "flying"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#9e85eb"
+        ]
+    },
+    {
+        "id": 131,
+        "name_en": "lapras",
+        "name_ja": "ラプラス",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/131.png",
+        "types": [
+            "water",
+            "ice"
+        ],
+        "types_colors": [
+            "#5f84ea",
+            "#8ed2d2"
+        ]
+    },
+    {
+        "id": 132,
+        "name_en": "ditto",
+        "name_ja": "メタモン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/132.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 133,
+        "name_en": "eevee",
+        "name_ja": "イーブイ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 134,
+        "name_en": "vaporeon",
+        "name_ja": "シャワーズ",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png",
+        "types": [
+            "water"
+        ],
+        "types_colors": [
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 135,
+        "name_en": "jolteon",
+        "name_ja": "サンダース",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png",
+        "types": [
+            "electric"
+        ],
+        "types_colors": [
+            "#f6cb3b"
+        ]
+    },
+    {
+        "id": 136,
+        "name_en": "flareon",
+        "name_ja": "ブースター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png",
+        "types": [
+            "fire"
+        ],
+        "types_colors": [
+            "#ed7835"
+        ]
+    },
+    {
+        "id": 137,
+        "name_en": "porygon",
+        "name_ja": "ポリゴン",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/137.png",
+        "types": [
+            "normal"
+        ],
+        "types_colors": [
+            "#9e9e6f"
+        ]
+    },
+    {
+        "id": 138,
+        "name_en": "omanyte",
+        "name_ja": "オムナイト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
+        "types": [
+            "rock",
+            "water"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 139,
+        "name_en": "omastar",
+        "name_ja": "オムスター",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
+        "types": [
+            "rock",
+            "water"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#5f84ea"
+        ]
+    },
+    {
+        "id": 140,
+        "name_en": "kabuto",
+        "name_ja": "カブト",
+        "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
+        "types": [
+            "rock",
+            "water"
+        ],
+        "types_colors": [
+            "#af9539",
+            "#5f84ea"
+        ]
+    }
+]
