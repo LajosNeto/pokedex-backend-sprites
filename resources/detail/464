@@ -1,6 +1,7 @@
 {
     "id": 464,
-    "name": "rhyperior",
+    "name_en": "rhyperior",
+    "name_ja": "ドサイドン",
     "height": 2.4,
     "weight": 282.8,
     "base_exp": 241,

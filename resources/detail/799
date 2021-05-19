@@ -1,6 +1,7 @@
 {
     "id": 799,
-    "name": "guzzlord",
+    "name_en": "guzzlord",
+    "name_ja": "アクジキング",
     "height": 5.5,
     "weight": 888.0,
     "base_exp": 257,

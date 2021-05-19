@@ -1,6 +1,7 @@
 {
     "id": 854,
-    "name": "sinistea",
+    "name_en": "sinistea",
+    "name_ja": "ヤバチャ",
     "height": 0.1,
     "weight": 0.2,
     "base_exp": 62,

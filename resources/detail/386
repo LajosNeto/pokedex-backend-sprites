@@ -1,6 +1,7 @@
 {
     "id": 386,
-    "name": "deoxys-normal",
+    "name_en": "deoxys-normal",
+    "name_ja": "デオキシス",
     "height": 1.7,
     "weight": 60.8,
     "base_exp": 270,

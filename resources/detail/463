@@ -1,6 +1,7 @@
 {
     "id": 463,
-    "name": "lickilicky",
+    "name_en": "lickilicky",
+    "name_ja": "ベロベルト",
     "height": 1.7,
     "weight": 140.0,
     "base_exp": 180,

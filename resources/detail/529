@@ -1,6 +1,7 @@
 {
     "id": 529,
-    "name": "drilbur",
+    "name_en": "drilbur",
+    "name_ja": "モグリュー",
     "height": 0.3,
     "weight": 8.5,
     "base_exp": 66,

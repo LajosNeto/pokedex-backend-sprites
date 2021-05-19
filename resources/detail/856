@@ -1,6 +1,7 @@
 {
     "id": 856,
-    "name": "hatenna",
+    "name_en": "hatenna",
+    "name_ja": "ミブリム",
     "height": 0.4,
     "weight": 3.4,
     "base_exp": 53,

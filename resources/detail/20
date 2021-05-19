@@ -1,6 +1,7 @@
 {
     "id": 20,
-    "name": "raticate",
+    "name_en": "raticate",
+    "name_ja": "ラッタ",
     "height": 0.7,
     "weight": 18.5,
     "base_exp": 145,

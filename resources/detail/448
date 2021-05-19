@@ -1,6 +1,7 @@
 {
     "id": 448,
-    "name": "lucario",
+    "name_en": "lucario",
+    "name_ja": "ルカリオ",
     "height": 1.2,
     "weight": 54.0,
     "base_exp": 184,

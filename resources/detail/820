@@ -1,6 +1,7 @@
 {
     "id": 820,
-    "name": "greedent",
+    "name_en": "greedent",
+    "name_ja": "ヨクバリス",
     "height": 0.6,
     "weight": 6.0,
     "base_exp": 161,

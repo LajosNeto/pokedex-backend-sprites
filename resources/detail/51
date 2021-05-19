@@ -1,6 +1,7 @@
 {
     "id": 51,
-    "name": "dugtrio",
+    "name_en": "dugtrio",
+    "name_ja": "ダグトリオ",
     "height": 0.7,
     "weight": 33.3,
     "base_exp": 149,

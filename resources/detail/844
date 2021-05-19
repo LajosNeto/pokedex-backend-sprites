@@ -1,6 +1,7 @@
 {
     "id": 844,
-    "name": "sandaconda",
+    "name_en": "sandaconda",
+    "name_ja": "サダイジャ",
     "height": 3.8,
     "weight": 65.5,
     "base_exp": 179,

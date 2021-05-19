@@ -1,6 +1,7 @@
 {
     "id": 222,
-    "name": "corsola",
+    "name_en": "corsola",
+    "name_ja": "サニーゴ",
     "height": 0.6,
     "weight": 5.0,
     "base_exp": 144,

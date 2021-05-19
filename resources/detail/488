@@ -1,6 +1,7 @@
 {
     "id": 488,
-    "name": "cresselia",
+    "name_en": "cresselia",
+    "name_ja": "クレセリア",
     "height": 1.5,
     "weight": 85.6,
     "base_exp": 270,

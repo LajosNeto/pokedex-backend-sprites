@@ -1,6 +1,7 @@
 {
     "id": 542,
-    "name": "leavanny",
+    "name_en": "leavanny",
+    "name_ja": "ハハコモリ",
     "height": 1.2,
     "weight": 20.5,
     "base_exp": 225,

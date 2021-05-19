@@ -1,6 +1,7 @@
 {
     "id": 291,
-    "name": "ninjask",
+    "name_en": "ninjask",
+    "name_ja": "テッカニン",
     "height": 0.8,
     "weight": 12.0,
     "base_exp": 160,

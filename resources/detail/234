@@ -1,6 +1,7 @@
 {
     "id": 234,
-    "name": "stantler",
+    "name_en": "stantler",
+    "name_ja": "オドシシ",
     "height": 1.4,
     "weight": 71.2,
     "base_exp": 163,

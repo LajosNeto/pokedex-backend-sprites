@@ -1,6 +1,7 @@
 {
     "id": 869,
-    "name": "alcremie",
+    "name_en": "alcremie",
+    "name_ja": "マホイップ",
     "height": 0.3,
     "weight": 0.5,
     "base_exp": 173,

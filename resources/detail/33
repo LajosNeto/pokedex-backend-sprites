@@ -1,6 +1,7 @@
 {
     "id": 33,
-    "name": "nidorino",
+    "name_en": "nidorino",
+    "name_ja": "ニドリーノ",
     "height": 0.9,
     "weight": 19.5,
     "base_exp": 128,

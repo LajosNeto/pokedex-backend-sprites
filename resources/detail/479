@@ -1,6 +1,7 @@
 {
     "id": 479,
-    "name": "rotom",
+    "name_en": "rotom",
+    "name_ja": "ロトム",
     "height": 0.3,
     "weight": 0.3,
     "base_exp": 154,

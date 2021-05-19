@@ -1,6 +1,7 @@
 {
     "id": 426,
-    "name": "drifblim",
+    "name_en": "drifblim",
+    "name_ja": "フワライド",
     "height": 1.2,
     "weight": 15.0,
     "base_exp": 174,

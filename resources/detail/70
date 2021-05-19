@@ -1,6 +1,7 @@
 {
     "id": 70,
-    "name": "weepinbell",
+    "name_en": "weepinbell",
+    "name_ja": "ウツドン",
     "height": 1.0,
     "weight": 6.4,
     "base_exp": 137,

@@ -1,6 +1,7 @@
 {
     "id": 510,
-    "name": "liepard",
+    "name_en": "liepard",
+    "name_ja": "レパルダス",
     "height": 1.1,
     "weight": 37.5,
     "base_exp": 156,

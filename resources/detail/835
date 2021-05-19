@@ -1,6 +1,7 @@
 {
     "id": 835,
-    "name": "yamper",
+    "name_en": "yamper",
+    "name_ja": "ワンパチ",
     "height": 0.3,
     "weight": 13.5,
     "base_exp": 54,

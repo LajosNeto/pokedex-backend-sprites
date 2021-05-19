@@ -1,6 +1,7 @@
 {
     "id": 232,
-    "name": "donphan",
+    "name_en": "donphan",
+    "name_ja": "ドンファン",
     "height": 1.1,
     "weight": 120.0,
     "base_exp": 175,

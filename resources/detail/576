@@ -1,6 +1,7 @@
 {
     "id": 576,
-    "name": "gothitelle",
+    "name_en": "gothitelle",
+    "name_ja": "ゴチルゼル",
     "height": 1.5,
     "weight": 44.0,
     "base_exp": 221,

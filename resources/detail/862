@@ -1,6 +1,7 @@
 {
     "id": 862,
-    "name": "obstagoon",
+    "name_en": "obstagoon",
+    "name_ja": "タチフサグマ",
     "height": 1.6,
     "weight": 46.0,
     "base_exp": 260,

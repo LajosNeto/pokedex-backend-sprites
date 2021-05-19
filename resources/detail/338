@@ -1,6 +1,7 @@
 {
     "id": 338,
-    "name": "solrock",
+    "name_en": "solrock",
+    "name_ja": "ソルロック",
     "height": 1.2,
     "weight": 154.0,
     "base_exp": 161,

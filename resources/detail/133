@@ -1,6 +1,7 @@
 {
     "id": 133,
-    "name": "eevee",
+    "name_en": "eevee",
+    "name_ja": "イーブイ",
     "height": 0.3,
     "weight": 6.5,
     "base_exp": 65,

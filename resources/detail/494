@@ -1,6 +1,7 @@
 {
     "id": 494,
-    "name": "victini",
+    "name_en": "victini",
+    "name_ja": "ビクティニ",
     "height": 0.4,
     "weight": 4.0,
     "base_exp": 270,

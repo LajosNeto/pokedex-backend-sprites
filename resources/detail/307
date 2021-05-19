@@ -1,6 +1,7 @@
 {
     "id": 307,
-    "name": "meditite",
+    "name_en": "meditite",
+    "name_ja": "アサナン",
     "height": 0.6,
     "weight": 11.2,
     "base_exp": 56,

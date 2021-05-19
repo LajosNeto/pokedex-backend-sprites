@@ -1,6 +1,7 @@
 {
     "id": 523,
-    "name": "zebstrika",
+    "name_en": "zebstrika",
+    "name_ja": "ゼブライカ",
     "height": 1.6,
     "weight": 79.5,
     "base_exp": 174,

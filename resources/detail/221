@@ -1,6 +1,7 @@
 {
     "id": 221,
-    "name": "piloswine",
+    "name_en": "piloswine",
+    "name_ja": "イノムー",
     "height": 1.1,
     "weight": 55.8,
     "base_exp": 158,

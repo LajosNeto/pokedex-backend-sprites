@@ -1,6 +1,7 @@
 {
     "id": 361,
-    "name": "snorunt",
+    "name_en": "snorunt",
+    "name_ja": "ユキワラシ",
     "height": 0.7,
     "weight": 16.8,
     "base_exp": 60,

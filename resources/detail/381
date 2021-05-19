@@ -1,6 +1,7 @@
 {
     "id": 381,
-    "name": "latios",
+    "name_en": "latios",
+    "name_ja": "ラティオス",
     "height": 2.0,
     "weight": 60.0,
     "base_exp": 270,

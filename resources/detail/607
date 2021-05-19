@@ -1,6 +1,7 @@
 {
     "id": 607,
-    "name": "litwick",
+    "name_en": "litwick",
+    "name_ja": "ヒトモシ",
     "height": 0.3,
     "weight": 3.1,
     "base_exp": 55,

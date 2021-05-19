@@ -1,6 +1,7 @@
 {
     "id": 812,
-    "name": "rillaboom",
+    "name_en": "rillaboom",
+    "name_ja": "ゴリランダー",
     "height": 2.1,
     "weight": 90.0,
     "base_exp": 265,

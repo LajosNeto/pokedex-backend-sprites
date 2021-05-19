@@ -1,6 +1,7 @@
 {
     "id": 467,
-    "name": "magmortar",
+    "name_en": "magmortar",
+    "name_ja": "ブーバーン",
     "height": 1.6,
     "weight": 68.0,
     "base_exp": 243,

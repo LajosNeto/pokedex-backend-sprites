@@ -1,6 +1,7 @@
 {
     "id": 713,
-    "name": "avalugg",
+    "name_en": "avalugg",
+    "name_ja": "クレベース",
     "height": 2.0,
     "weight": 505.0,
     "base_exp": 180,

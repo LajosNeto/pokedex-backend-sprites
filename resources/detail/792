@@ -1,6 +1,7 @@
 {
     "id": 792,
-    "name": "lunala",
+    "name_en": "lunala",
+    "name_ja": "ルナアーラ",
     "height": 4.0,
     "weight": 120.0,
     "base_exp": 306,

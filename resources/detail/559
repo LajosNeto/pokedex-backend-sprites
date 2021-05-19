@@ -1,6 +1,7 @@
 {
     "id": 559,
-    "name": "scraggy",
+    "name_en": "scraggy",
+    "name_ja": "ズルッグ",
     "height": 0.6,
     "weight": 11.8,
     "base_exp": 70,

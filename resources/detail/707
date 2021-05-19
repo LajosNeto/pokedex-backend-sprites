@@ -1,6 +1,7 @@
 {
     "id": 707,
-    "name": "klefki",
+    "name_en": "klefki",
+    "name_ja": "クレッフィ",
     "height": 0.2,
     "weight": 3.0,
     "base_exp": 165,

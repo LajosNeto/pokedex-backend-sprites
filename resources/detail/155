@@ -1,6 +1,7 @@
 {
     "id": 155,
-    "name": "cyndaquil",
+    "name_en": "cyndaquil",
+    "name_ja": "ヒノアラシ",
     "height": 0.5,
     "weight": 7.9,
     "base_exp": 62,

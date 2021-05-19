@@ -1,6 +1,7 @@
 {
     "id": 744,
-    "name": "rockruff",
+    "name_en": "rockruff",
+    "name_ja": "イワンコ",
     "height": 0.5,
     "weight": 9.2,
     "base_exp": 56,

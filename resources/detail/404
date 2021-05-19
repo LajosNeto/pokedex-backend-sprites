@@ -1,6 +1,7 @@
 {
     "id": 404,
-    "name": "luxio",
+    "name_en": "luxio",
+    "name_ja": "ルクシオ",
     "height": 0.9,
     "weight": 30.5,
     "base_exp": 127,

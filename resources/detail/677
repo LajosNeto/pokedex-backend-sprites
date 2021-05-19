@@ -1,6 +1,7 @@
 {
     "id": 677,
-    "name": "espurr",
+    "name_en": "espurr",
+    "name_ja": "ニャスパー",
     "height": 0.3,
     "weight": 3.5,
     "base_exp": 71,

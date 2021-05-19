@@ -1,6 +1,7 @@
 {
     "id": 841,
-    "name": "flapple",
+    "name_en": "flapple",
+    "name_ja": "アップリュー",
     "height": 0.3,
     "weight": 1.0,
     "base_exp": 170,

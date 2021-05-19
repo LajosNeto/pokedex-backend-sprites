@@ -1,6 +1,7 @@
 {
     "id": 455,
-    "name": "carnivine",
+    "name_en": "carnivine",
+    "name_ja": "マスキッパ",
     "height": 1.4,
     "weight": 27.0,
     "base_exp": 159,

@@ -1,6 +1,7 @@
 {
     "id": 395,
-    "name": "empoleon",
+    "name_en": "empoleon",
+    "name_ja": "エンペルト",
     "height": 1.7,
     "weight": 84.5,
     "base_exp": 239,

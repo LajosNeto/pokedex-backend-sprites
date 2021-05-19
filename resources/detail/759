@@ -1,6 +1,7 @@
 {
     "id": 759,
-    "name": "stufful",
+    "name_en": "stufful",
+    "name_ja": "ヌイコグマ",
     "height": 0.5,
     "weight": 6.8,
     "base_exp": 68,

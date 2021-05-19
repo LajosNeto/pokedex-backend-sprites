@@ -1,6 +1,7 @@
 {
     "id": 169,
-    "name": "crobat",
+    "name_en": "crobat",
+    "name_ja": "クロバット",
     "height": 1.8,
     "weight": 75.0,
     "base_exp": 241,

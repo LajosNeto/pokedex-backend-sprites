@@ -1,6 +1,7 @@
 {
     "id": 667,
-    "name": "litleo",
+    "name_en": "litleo",
+    "name_ja": "シシコ",
     "height": 0.6,
     "weight": 13.5,
     "base_exp": 74,

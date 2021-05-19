@@ -1,6 +1,7 @@
 {
     "id": 84,
-    "name": "doduo",
+    "name_en": "doduo",
+    "name_ja": "ドードー",
     "height": 1.4,
     "weight": 39.2,
     "base_exp": 62,

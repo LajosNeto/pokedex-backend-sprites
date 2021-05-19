@@ -1,6 +1,7 @@
 {
     "id": 706,
-    "name": "goodra",
+    "name_en": "goodra",
+    "name_ja": "ヌメルゴン",
     "height": 2.0,
     "weight": 150.5,
     "base_exp": 270,

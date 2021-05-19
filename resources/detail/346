@@ -1,6 +1,7 @@
 {
     "id": 346,
-    "name": "cradily",
+    "name_en": "cradily",
+    "name_ja": "ユレイドル",
     "height": 1.5,
     "weight": 60.4,
     "base_exp": 173,

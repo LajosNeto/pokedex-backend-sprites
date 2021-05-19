@@ -1,6 +1,7 @@
 {
     "id": 591,
-    "name": "amoonguss",
+    "name_en": "amoonguss",
+    "name_ja": "モロバレル",
     "height": 0.6,
     "weight": 10.5,
     "base_exp": 162,

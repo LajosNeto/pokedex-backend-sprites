@@ -1,6 +1,7 @@
 {
     "id": 894,
-    "name": "regieleki",
+    "name_en": "regieleki",
+    "name_ja": "レジエレキ",
     "height": 1.2,
     "weight": 145.0,
     "base_exp": 290,

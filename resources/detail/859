@@ -1,6 +1,7 @@
 {
     "id": 859,
-    "name": "impidimp",
+    "name_en": "impidimp",
+    "name_ja": "ベロバー",
     "height": 0.4,
     "weight": 5.5,
     "base_exp": 53,

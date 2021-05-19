@@ -1,6 +1,7 @@
 {
     "id": 352,
-    "name": "kecleon",
+    "name_en": "kecleon",
+    "name_ja": "カクレオン",
     "height": 1.0,
     "weight": 22.0,
     "base_exp": 154,

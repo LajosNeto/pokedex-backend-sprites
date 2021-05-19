@@ -1,6 +1,7 @@
 {
     "id": 201,
-    "name": "unown",
+    "name_en": "unown",
+    "name_ja": "アンノーン",
     "height": 0.5,
     "weight": 5.0,
     "base_exp": 118,

@@ -1,6 +1,7 @@
 {
     "id": 699,
-    "name": "aurorus",
+    "name_en": "aurorus",
+    "name_ja": "アマルルガ",
     "height": 2.7,
     "weight": 225.0,
     "base_exp": 104,

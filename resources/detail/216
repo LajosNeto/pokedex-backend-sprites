@@ -1,6 +1,7 @@
 {
     "id": 216,
-    "name": "teddiursa",
+    "name_en": "teddiursa",
+    "name_ja": "ヒメグマ",
     "height": 0.6,
     "weight": 8.8,
     "base_exp": 66,

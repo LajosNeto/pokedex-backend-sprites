@@ -1,6 +1,7 @@
 {
     "id": 805,
-    "name": "stakataka",
+    "name_en": "stakataka",
+    "name_ja": "ツンデツンデ",
     "height": 5.5,
     "weight": 820.0,
     "base_exp": 257,

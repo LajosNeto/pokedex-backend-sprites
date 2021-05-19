@@ -1,6 +1,7 @@
 {
     "id": 369,
-    "name": "relicanth",
+    "name_en": "relicanth",
+    "name_ja": "ジーランス",
     "height": 1.0,
     "weight": 23.4,
     "base_exp": 170,

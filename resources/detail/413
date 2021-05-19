@@ -1,6 +1,7 @@
 {
     "id": 413,
-    "name": "wormadam-plant",
+    "name_en": "wormadam-plant",
+    "name_ja": "ミノマダム",
     "height": 0.5,
     "weight": 6.5,
     "base_exp": 148,

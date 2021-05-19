@@ -1,6 +1,7 @@
 {
     "id": 4,
-    "name": "charmander",
+    "name_en": "charmander",
+    "name_ja": "ヒトカゲ",
     "height": 0.6,
     "weight": 8.5,
     "base_exp": 62,

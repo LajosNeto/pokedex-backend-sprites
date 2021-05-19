@@ -1,6 +1,7 @@
 {
     "id": 226,
-    "name": "mantine",
+    "name_en": "mantine",
+    "name_ja": "マンタイン",
     "height": 2.1,
     "weight": 220.0,
     "base_exp": 170,

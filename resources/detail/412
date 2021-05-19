@@ -1,6 +1,7 @@
 {
     "id": 412,
-    "name": "burmy",
+    "name_en": "burmy",
+    "name_ja": "ミノムッチ",
     "height": 0.2,
     "weight": 3.4,
     "base_exp": 45,

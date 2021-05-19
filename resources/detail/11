@@ -1,6 +1,7 @@
 {
     "id": 11,
-    "name": "metapod",
+    "name_en": "metapod",
+    "name_ja": "トランセル",
     "height": 0.7,
     "weight": 9.9,
     "base_exp": 72,

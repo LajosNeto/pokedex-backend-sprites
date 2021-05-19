@@ -1,6 +1,7 @@
 {
     "id": 507,
-    "name": "herdier",
+    "name_en": "herdier",
+    "name_ja": "ハーデリア",
     "height": 0.9,
     "weight": 14.7,
     "base_exp": 130,

@@ -1,6 +1,7 @@
 {
     "id": 830,
-    "name": "eldegoss",
+    "name_en": "eldegoss",
+    "name_ja": "ワタシラガ",
     "height": 0.5,
     "weight": 2.5,
     "base_exp": 161,

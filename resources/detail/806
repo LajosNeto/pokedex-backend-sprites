@@ -1,6 +1,7 @@
 {
     "id": 806,
-    "name": "blacephalon",
+    "name_en": "blacephalon",
+    "name_ja": "ズガドーン",
     "height": 1.8,
     "weight": 13.0,
     "base_exp": 257,

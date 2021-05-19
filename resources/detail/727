@@ -1,6 +1,7 @@
 {
     "id": 727,
-    "name": "incineroar",
+    "name_en": "incineroar",
+    "name_ja": "ガオガエン",
     "height": 1.8,
     "weight": 83.0,
     "base_exp": 239,

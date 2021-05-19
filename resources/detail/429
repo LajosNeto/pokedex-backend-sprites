@@ -1,6 +1,7 @@
 {
     "id": 429,
-    "name": "mismagius",
+    "name_en": "mismagius",
+    "name_ja": "ムウマージ",
     "height": 0.9,
     "weight": 4.4,
     "base_exp": 173,

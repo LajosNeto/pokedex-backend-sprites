@@ -1,6 +1,7 @@
 {
     "id": 665,
-    "name": "spewpa",
+    "name_en": "spewpa",
+    "name_ja": "コフーライ",
     "height": 0.3,
     "weight": 8.4,
     "base_exp": 75,

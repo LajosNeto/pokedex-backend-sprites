@@ -1,6 +1,7 @@
 {
     "id": 257,
-    "name": "blaziken",
+    "name_en": "blaziken",
+    "name_ja": "バシャーモ",
     "height": 1.9,
     "weight": 52.0,
     "base_exp": 239,

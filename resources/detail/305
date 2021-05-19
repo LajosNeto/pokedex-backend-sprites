@@ -1,6 +1,7 @@
 {
     "id": 305,
-    "name": "lairon",
+    "name_en": "lairon",
+    "name_ja": "コドラ",
     "height": 0.9,
     "weight": 120.0,
     "base_exp": 151,

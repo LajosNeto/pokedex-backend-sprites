@@ -1,6 +1,7 @@
 {
     "id": 62,
-    "name": "poliwrath",
+    "name_en": "poliwrath",
+    "name_ja": "ニョロボン",
     "height": 1.3,
     "weight": 54.0,
     "base_exp": 230,

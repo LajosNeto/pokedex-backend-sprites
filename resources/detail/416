@@ -1,6 +1,7 @@
 {
     "id": 416,
-    "name": "vespiquen",
+    "name_en": "vespiquen",
+    "name_ja": "ビークイン",
     "height": 1.2,
     "weight": 38.5,
     "base_exp": 166,

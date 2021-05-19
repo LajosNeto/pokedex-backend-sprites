@@ -1,6 +1,7 @@
 {
     "id": 239,
-    "name": "elekid",
+    "name_en": "elekid",
+    "name_ja": "エレキッド",
     "height": 0.6,
     "weight": 23.5,
     "base_exp": 72,

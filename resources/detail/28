@@ -1,6 +1,7 @@
 {
     "id": 28,
-    "name": "sandslash",
+    "name_en": "sandslash",
+    "name_ja": "サンドパン",
     "height": 1.0,
     "weight": 29.5,
     "base_exp": 158,

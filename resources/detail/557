@@ -1,6 +1,7 @@
 {
     "id": 557,
-    "name": "dwebble",
+    "name_en": "dwebble",
+    "name_ja": "イシズマイ",
     "height": 0.3,
     "weight": 14.5,
     "base_exp": 65,

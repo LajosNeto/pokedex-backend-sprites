@@ -1,6 +1,7 @@
 {
     "id": 166,
-    "name": "ledian",
+    "name_en": "ledian",
+    "name_ja": "レディアン",
     "height": 1.4,
     "weight": 35.6,
     "base_exp": 137,

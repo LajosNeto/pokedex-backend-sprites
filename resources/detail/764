@@ -1,6 +1,7 @@
 {
     "id": 764,
-    "name": "comfey",
+    "name_en": "comfey",
+    "name_ja": "キュワワー",
     "height": 0.1,
     "weight": 0.3,
     "base_exp": 170,

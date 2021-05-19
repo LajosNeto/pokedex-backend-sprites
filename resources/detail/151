@@ -1,6 +1,7 @@
 {
     "id": 151,
-    "name": "mew",
+    "name_en": "mew",
+    "name_ja": "ミュウ",
     "height": 0.4,
     "weight": 4.0,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 819,
-    "name": "skwovet",
+    "name_en": "skwovet",
+    "name_ja": "ホシガリス",
     "height": 0.3,
     "weight": 2.5,
     "base_exp": 55,

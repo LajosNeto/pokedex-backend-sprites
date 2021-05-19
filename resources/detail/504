@@ -1,6 +1,7 @@
 {
     "id": 504,
-    "name": "patrat",
+    "name_en": "patrat",
+    "name_ja": "ミネズミ",
     "height": 0.5,
     "weight": 11.6,
     "base_exp": 51,

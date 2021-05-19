@@ -1,6 +1,7 @@
 {
     "id": 517,
-    "name": "munna",
+    "name_en": "munna",
+    "name_ja": "ムンナ",
     "height": 0.6,
     "weight": 23.3,
     "base_exp": 58,

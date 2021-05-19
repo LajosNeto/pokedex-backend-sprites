@@ -1,6 +1,7 @@
 {
     "id": 129,
-    "name": "magikarp",
+    "name_en": "magikarp",
+    "name_ja": "コイキング",
     "height": 0.9,
     "weight": 10.0,
     "base_exp": 40,

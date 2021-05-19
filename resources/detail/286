@@ -1,6 +1,7 @@
 {
     "id": 286,
-    "name": "breloom",
+    "name_en": "breloom",
+    "name_ja": "キノガッサ",
     "height": 1.2,
     "weight": 39.2,
     "base_exp": 161,

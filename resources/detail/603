@@ -1,6 +1,7 @@
 {
     "id": 603,
-    "name": "eelektrik",
+    "name_en": "eelektrik",
+    "name_ja": "シビビール",
     "height": 1.2,
     "weight": 22.0,
     "base_exp": 142,

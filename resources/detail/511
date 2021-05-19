@@ -1,6 +1,7 @@
 {
     "id": 511,
-    "name": "pansage",
+    "name_en": "pansage",
+    "name_ja": "ヤナップ",
     "height": 0.6,
     "weight": 10.5,
     "base_exp": 63,

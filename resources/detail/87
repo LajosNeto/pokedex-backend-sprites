@@ -1,6 +1,7 @@
 {
     "id": 87,
-    "name": "dewgong",
+    "name_en": "dewgong",
+    "name_ja": "ジュゴン",
     "height": 1.7,
     "weight": 120.0,
     "base_exp": 166,

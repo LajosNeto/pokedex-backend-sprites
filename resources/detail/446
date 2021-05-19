@@ -1,6 +1,7 @@
 {
     "id": 446,
-    "name": "munchlax",
+    "name_en": "munchlax",
+    "name_ja": "ゴンベ",
     "height": 0.6,
     "weight": 105.0,
     "base_exp": 78,

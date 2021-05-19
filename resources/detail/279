@@ -1,6 +1,7 @@
 {
     "id": 279,
-    "name": "pelipper",
+    "name_en": "pelipper",
+    "name_ja": "ペリッパー",
     "height": 1.2,
     "weight": 28.0,
     "base_exp": 154,

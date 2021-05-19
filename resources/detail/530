@@ -1,6 +1,7 @@
 {
     "id": 530,
-    "name": "excadrill",
+    "name_en": "excadrill",
+    "name_ja": "ドリュウズ",
     "height": 0.7,
     "weight": 40.4,
     "base_exp": 178,

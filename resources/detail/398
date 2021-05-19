@@ -1,6 +1,7 @@
 {
     "id": 398,
-    "name": "staraptor",
+    "name_en": "staraptor",
+    "name_ja": "ムクホーク",
     "height": 1.2,
     "weight": 24.9,
     "base_exp": 218,

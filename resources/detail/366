@@ -1,6 +1,7 @@
 {
     "id": 366,
-    "name": "clamperl",
+    "name_en": "clamperl",
+    "name_ja": "パールル",
     "height": 0.4,
     "weight": 52.5,
     "base_exp": 69,

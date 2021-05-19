@@ -1,6 +1,7 @@
 {
     "id": 356,
-    "name": "dusclops",
+    "name_en": "dusclops",
+    "name_ja": "サマヨール",
     "height": 1.6,
     "weight": 30.6,
     "base_exp": 159,

@@ -1,6 +1,7 @@
 {
     "id": 244,
-    "name": "entei",
+    "name_en": "entei",
+    "name_ja": "エンテイ",
     "height": 2.1,
     "weight": 198.0,
     "base_exp": 261,

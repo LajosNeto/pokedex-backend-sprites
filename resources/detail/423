@@ -1,6 +1,7 @@
 {
     "id": 423,
-    "name": "gastrodon",
+    "name_en": "gastrodon",
+    "name_ja": "トリトドン",
     "height": 0.9,
     "weight": 29.9,
     "base_exp": 166,

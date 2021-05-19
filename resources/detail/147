@@ -1,6 +1,7 @@
 {
     "id": 147,
-    "name": "dratini",
+    "name_en": "dratini",
+    "name_ja": "ミニリュウ",
     "height": 1.8,
     "weight": 3.3,
     "base_exp": 60,

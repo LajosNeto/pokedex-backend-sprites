@@ -1,6 +1,7 @@
 {
     "id": 205,
-    "name": "forretress",
+    "name_en": "forretress",
+    "name_ja": "フォレトス",
     "height": 1.2,
     "weight": 125.8,
     "base_exp": 163,

@@ -1,6 +1,7 @@
 {
     "id": 874,
-    "name": "stonjourner",
+    "name_en": "stonjourner",
+    "name_ja": "イシヘンジン",
     "height": 2.5,
     "weight": 520.0,
     "base_exp": 165,

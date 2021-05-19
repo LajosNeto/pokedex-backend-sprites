@@ -1,6 +1,7 @@
 {
     "id": 103,
-    "name": "exeggutor",
+    "name_en": "exeggutor",
+    "name_ja": "ナッシー",
     "height": 2.0,
     "weight": 120.0,
     "base_exp": 186,

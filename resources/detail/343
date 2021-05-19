@@ -1,6 +1,7 @@
 {
     "id": 343,
-    "name": "baltoy",
+    "name_en": "baltoy",
+    "name_ja": "ヤジロン",
     "height": 0.5,
     "weight": 21.5,
     "base_exp": 60,

@@ -1,6 +1,7 @@
 {
     "id": 534,
-    "name": "conkeldurr",
+    "name_en": "conkeldurr",
+    "name_ja": "ローブシン",
     "height": 1.4,
     "weight": 87.0,
     "base_exp": 227,

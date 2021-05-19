@@ -1,6 +1,7 @@
 {
     "id": 209,
-    "name": "snubbull",
+    "name_en": "snubbull",
+    "name_ja": "ブルー",
     "height": 0.6,
     "weight": 7.8,
     "base_exp": 60,

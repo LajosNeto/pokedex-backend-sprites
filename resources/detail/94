@@ -1,6 +1,7 @@
 {
     "id": 94,
-    "name": "gengar",
+    "name_en": "gengar",
+    "name_ja": "ゲンガー",
     "height": 1.5,
     "weight": 40.5,
     "base_exp": 225,

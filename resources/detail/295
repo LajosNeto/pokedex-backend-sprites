@@ -1,6 +1,7 @@
 {
     "id": 295,
-    "name": "exploud",
+    "name_en": "exploud",
+    "name_ja": "バクオング",
     "height": 1.5,
     "weight": 84.0,
     "base_exp": 221,

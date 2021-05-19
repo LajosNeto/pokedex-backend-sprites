@@ -1,6 +1,7 @@
 {
     "id": 679,
-    "name": "honedge",
+    "name_en": "honedge",
+    "name_ja": "ヒトツキ",
     "height": 0.8,
     "weight": 2.0,
     "base_exp": 65,

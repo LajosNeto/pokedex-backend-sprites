@@ -1,6 +1,7 @@
 {
     "id": 117,
-    "name": "seadra",
+    "name_en": "seadra",
+    "name_ja": "シードラ",
     "height": 1.2,
     "weight": 25.0,
     "base_exp": 154,

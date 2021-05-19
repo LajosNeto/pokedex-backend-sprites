@@ -1,6 +1,7 @@
 {
     "id": 362,
-    "name": "glalie",
+    "name_en": "glalie",
+    "name_ja": "オニゴーリ",
     "height": 1.5,
     "weight": 256.5,
     "base_exp": 168,

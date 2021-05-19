@@ -1,6 +1,7 @@
 {
     "id": 720,
-    "name": "hoopa",
+    "name_en": "hoopa",
+    "name_ja": "フーパ",
     "height": 0.5,
     "weight": 9.0,
     "base_exp": 270,

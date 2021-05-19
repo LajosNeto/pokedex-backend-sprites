@@ -1,6 +1,7 @@
 {
     "id": 881,
-    "name": "arctozolt",
+    "name_en": "arctozolt",
+    "name_ja": "パッチルドン",
     "height": 2.3,
     "weight": 150.0,
     "base_exp": 177,

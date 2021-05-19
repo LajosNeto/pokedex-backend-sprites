@@ -1,6 +1,7 @@
 {
     "id": 600,
-    "name": "klang",
+    "name_en": "klang",
+    "name_ja": "ギギアル",
     "height": 0.6,
     "weight": 51.0,
     "base_exp": 154,

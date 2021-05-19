@@ -1,6 +1,7 @@
 {
     "id": 569,
-    "name": "garbodor",
+    "name_en": "garbodor",
+    "name_ja": "ダストダス",
     "height": 1.9,
     "weight": 107.3,
     "base_exp": 166,

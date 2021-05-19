@@ -1,6 +1,7 @@
 {
     "id": 145,
-    "name": "zapdos",
+    "name_en": "zapdos",
+    "name_ja": "サンダー",
     "height": 1.6,
     "weight": 52.6,
     "base_exp": 261,

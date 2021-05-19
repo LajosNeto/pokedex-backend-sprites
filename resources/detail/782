@@ -1,6 +1,7 @@
 {
     "id": 782,
-    "name": "jangmo-o",
+    "name_en": "jangmo-o",
+    "name_ja": "ジャラコ",
     "height": 0.6,
     "weight": 29.7,
     "base_exp": 60,

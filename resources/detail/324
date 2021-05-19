@@ -1,6 +1,7 @@
 {
     "id": 324,
-    "name": "torkoal",
+    "name_en": "torkoal",
+    "name_ja": "コータス",
     "height": 0.5,
     "weight": 80.4,
     "base_exp": 165,

@@ -1,6 +1,7 @@
 {
     "id": 354,
-    "name": "banette",
+    "name_en": "banette",
+    "name_ja": "ジュペッタ",
     "height": 1.1,
     "weight": 12.5,
     "base_exp": 159,

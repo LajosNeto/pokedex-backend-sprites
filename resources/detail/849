@@ -1,6 +1,7 @@
 {
     "id": 849,
-    "name": "toxtricity-amped",
+    "name_en": "toxtricity-amped",
+    "name_ja": "ストリンダー",
     "height": 1.6,
     "weight": 40.0,
     "base_exp": 176,

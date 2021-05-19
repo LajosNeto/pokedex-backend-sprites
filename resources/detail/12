@@ -1,6 +1,7 @@
 {
     "id": 12,
-    "name": "butterfree",
+    "name_en": "butterfree",
+    "name_ja": "バタフリー",
     "height": 1.1,
     "weight": 32.0,
     "base_exp": 178,

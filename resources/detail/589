@@ -1,6 +1,7 @@
 {
     "id": 589,
-    "name": "escavalier",
+    "name_en": "escavalier",
+    "name_ja": "シュバルゴ",
     "height": 1.0,
     "weight": 33.0,
     "base_exp": 173,

@@ -1,6 +1,7 @@
 {
     "id": 763,
-    "name": "tsareena",
+    "name_en": "tsareena",
+    "name_ja": "アマージョ",
     "height": 1.2,
     "weight": 21.4,
     "base_exp": 230,

@@ -1,6 +1,7 @@
 {
     "id": 158,
-    "name": "totodile",
+    "name_en": "totodile",
+    "name_ja": "ワニノコ",
     "height": 0.6,
     "weight": 9.5,
     "base_exp": 63,

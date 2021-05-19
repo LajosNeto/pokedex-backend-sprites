@@ -1,6 +1,7 @@
 {
     "id": 570,
-    "name": "zorua",
+    "name_en": "zorua",
+    "name_ja": "ゾロア",
     "height": 0.7,
     "weight": 12.5,
     "base_exp": 66,

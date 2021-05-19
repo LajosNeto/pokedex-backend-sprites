@@ -1,6 +1,7 @@
 {
     "id": 658,
-    "name": "greninja",
+    "name_en": "greninja",
+    "name_ja": "ゲッコウガ",
     "height": 1.5,
     "weight": 40.0,
     "base_exp": 239,

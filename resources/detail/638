@@ -1,6 +1,7 @@
 {
     "id": 638,
-    "name": "cobalion",
+    "name_en": "cobalion",
+    "name_ja": "コバルオン",
     "height": 2.1,
     "weight": 250.0,
     "base_exp": 261,

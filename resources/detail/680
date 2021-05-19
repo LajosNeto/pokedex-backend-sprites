@@ -1,6 +1,7 @@
 {
     "id": 680,
-    "name": "doublade",
+    "name_en": "doublade",
+    "name_ja": "ニダンギル",
     "height": 0.8,
     "weight": 4.5,
     "base_exp": 157,

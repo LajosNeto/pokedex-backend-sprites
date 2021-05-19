@@ -1,6 +1,7 @@
 {
     "id": 329,
-    "name": "vibrava",
+    "name_en": "vibrava",
+    "name_ja": "ビブラーバ",
     "height": 1.1,
     "weight": 15.3,
     "base_exp": 119,

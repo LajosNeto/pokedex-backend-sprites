@@ -1,6 +1,7 @@
 {
     "id": 801,
-    "name": "magearna",
+    "name_en": "magearna",
+    "name_ja": "マギアナ",
     "height": 1.0,
     "weight": 80.5,
     "base_exp": 270,

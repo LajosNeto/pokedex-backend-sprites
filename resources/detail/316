@@ -1,6 +1,7 @@
 {
     "id": 316,
-    "name": "gulpin",
+    "name_en": "gulpin",
+    "name_ja": "ゴクリン",
     "height": 0.4,
     "weight": 10.3,
     "base_exp": 60,

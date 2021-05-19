@@ -1,6 +1,7 @@
 {
     "id": 663,
-    "name": "talonflame",
+    "name_en": "talonflame",
+    "name_ja": "ファイアロー",
     "height": 1.2,
     "weight": 24.5,
     "base_exp": 175,

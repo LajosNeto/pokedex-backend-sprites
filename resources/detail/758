@@ -1,6 +1,7 @@
 {
     "id": 758,
-    "name": "salazzle",
+    "name_en": "salazzle",
+    "name_ja": "エンニュート",
     "height": 1.2,
     "weight": 22.2,
     "base_exp": 168,

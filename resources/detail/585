@@ -1,6 +1,7 @@
 {
     "id": 585,
-    "name": "deerling",
+    "name_en": "deerling",
+    "name_ja": "シキジカ",
     "height": 0.6,
     "weight": 19.5,
     "base_exp": 67,

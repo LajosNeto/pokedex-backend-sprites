@@ -1,6 +1,7 @@
 {
     "id": 866,
-    "name": "mr-rime",
+    "name_en": "mr-rime",
+    "name_ja": "バリコオル",
     "height": 1.5,
     "weight": 58.2,
     "base_exp": 182,

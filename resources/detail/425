@@ -1,6 +1,7 @@
 {
     "id": 425,
-    "name": "drifloon",
+    "name_en": "drifloon",
+    "name_ja": "フワンテ",
     "height": 0.4,
     "weight": 1.2,
     "base_exp": 70,

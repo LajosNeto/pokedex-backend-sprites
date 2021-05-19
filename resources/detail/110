@@ -1,6 +1,7 @@
 {
     "id": 110,
-    "name": "weezing",
+    "name_en": "weezing",
+    "name_ja": "マタドガス",
     "height": 1.2,
     "weight": 9.5,
     "base_exp": 172,

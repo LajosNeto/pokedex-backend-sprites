@@ -1,6 +1,7 @@
 {
     "id": 829,
-    "name": "gossifleur",
+    "name_en": "gossifleur",
+    "name_ja": "ヒメンカ",
     "height": 0.4,
     "weight": 2.2,
     "base_exp": 50,

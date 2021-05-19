@@ -1,6 +1,7 @@
 {
     "id": 107,
-    "name": "hitmonchan",
+    "name_en": "hitmonchan",
+    "name_ja": "エビワラー",
     "height": 1.4,
     "weight": 50.2,
     "base_exp": 159,

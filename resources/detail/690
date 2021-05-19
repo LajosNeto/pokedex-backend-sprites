@@ -1,6 +1,7 @@
 {
     "id": 690,
-    "name": "skrelp",
+    "name_en": "skrelp",
+    "name_ja": "クズモー",
     "height": 0.5,
     "weight": 7.3,
     "base_exp": 64,

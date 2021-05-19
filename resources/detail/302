@@ -1,6 +1,7 @@
 {
     "id": 302,
-    "name": "sableye",
+    "name_en": "sableye",
+    "name_ja": "ヤミラミ",
     "height": 0.5,
     "weight": 11.0,
     "base_exp": 133,

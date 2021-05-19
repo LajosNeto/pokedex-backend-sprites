@@ -1,6 +1,7 @@
 {
     "id": 721,
-    "name": "volcanion",
+    "name_en": "volcanion",
+    "name_ja": "ボルケニオン",
     "height": 1.7,
     "weight": 195.0,
     "base_exp": 270,

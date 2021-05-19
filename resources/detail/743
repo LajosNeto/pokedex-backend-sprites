@@ -1,6 +1,7 @@
 {
     "id": 743,
-    "name": "ribombee",
+    "name_en": "ribombee",
+    "name_ja": "アブリボン",
     "height": 0.2,
     "weight": 0.5,
     "base_exp": 162,

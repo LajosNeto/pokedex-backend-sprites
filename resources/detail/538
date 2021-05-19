@@ -1,6 +1,7 @@
 {
     "id": 538,
-    "name": "throh",
+    "name_en": "throh",
+    "name_ja": "ナゲキ",
     "height": 1.3,
     "weight": 55.5,
     "base_exp": 163,

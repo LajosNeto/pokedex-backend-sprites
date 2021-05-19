@@ -1,6 +1,7 @@
 {
     "id": 6,
-    "name": "charizard",
+    "name_en": "charizard",
+    "name_ja": "リザードン",
     "height": 1.7,
     "weight": 90.5,
     "base_exp": 240,

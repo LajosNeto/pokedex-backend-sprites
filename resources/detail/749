@@ -1,6 +1,7 @@
 {
     "id": 749,
-    "name": "mudbray",
+    "name_en": "mudbray",
+    "name_ja": "ドロバンコ",
     "height": 1.0,
     "weight": 110.0,
     "base_exp": 77,

@@ -1,6 +1,7 @@
 {
     "id": 176,
-    "name": "togetic",
+    "name_en": "togetic",
+    "name_ja": "トゲチック",
     "height": 0.6,
     "weight": 3.2,
     "base_exp": 142,

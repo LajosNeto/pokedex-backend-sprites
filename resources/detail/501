@@ -1,6 +1,7 @@
 {
     "id": 501,
-    "name": "oshawott",
+    "name_en": "oshawott",
+    "name_ja": "ミジュマル",
     "height": 0.5,
     "weight": 5.9,
     "base_exp": 62,

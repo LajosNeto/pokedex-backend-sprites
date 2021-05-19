@@ -1,6 +1,7 @@
 {
     "id": 880,
-    "name": "dracozolt",
+    "name_en": "dracozolt",
+    "name_ja": "パッチラゴン",
     "height": 1.8,
     "weight": 190.0,
     "base_exp": 177,

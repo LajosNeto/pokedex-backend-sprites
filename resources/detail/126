@@ -1,6 +1,7 @@
 {
     "id": 126,
-    "name": "magmar",
+    "name_en": "magmar",
+    "name_ja": "ブーバー",
     "height": 1.3,
     "weight": 44.5,
     "base_exp": 173,

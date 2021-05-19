@@ -1,6 +1,7 @@
 {
     "id": 410,
-    "name": "shieldon",
+    "name_en": "shieldon",
+    "name_ja": "タテトプス",
     "height": 0.5,
     "weight": 57.0,
     "base_exp": 70,

@@ -1,6 +1,7 @@
 {
     "id": 828,
-    "name": "thievul",
+    "name_en": "thievul",
+    "name_ja": "フォクスライ",
     "height": 1.2,
     "weight": 19.9,
     "base_exp": 159,

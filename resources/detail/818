@@ -1,6 +1,7 @@
 {
     "id": 818,
-    "name": "inteleon",
+    "name_en": "inteleon",
+    "name_ja": "インテレオン",
     "height": 1.9,
     "weight": 45.2,
     "base_exp": 265,

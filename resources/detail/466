@@ -1,6 +1,7 @@
 {
     "id": 466,
-    "name": "electivire",
+    "name_en": "electivire",
+    "name_ja": "エレキブル",
     "height": 1.8,
     "weight": 138.6,
     "base_exp": 243,

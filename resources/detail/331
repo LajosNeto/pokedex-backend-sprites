@@ -1,6 +1,7 @@
 {
     "id": 331,
-    "name": "cacnea",
+    "name_en": "cacnea",
+    "name_ja": "サボネア",
     "height": 0.4,
     "weight": 51.3,
     "base_exp": 67,

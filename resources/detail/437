@@ -1,6 +1,7 @@
 {
     "id": 437,
-    "name": "bronzong",
+    "name_en": "bronzong",
+    "name_ja": "ドータクン",
     "height": 1.3,
     "weight": 187.0,
     "base_exp": 175,

@@ -1,6 +1,7 @@
 {
     "id": 198,
-    "name": "murkrow",
+    "name_en": "murkrow",
+    "name_ja": "ヤミカラス",
     "height": 0.5,
     "weight": 2.1,
     "base_exp": 81,

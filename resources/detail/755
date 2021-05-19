@@ -1,6 +1,7 @@
 {
     "id": 755,
-    "name": "morelull",
+    "name_en": "morelull",
+    "name_ja": "ネマシュ",
     "height": 0.2,
     "weight": 1.5,
     "base_exp": 57,

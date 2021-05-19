@@ -1,6 +1,7 @@
 {
     "id": 438,
-    "name": "bonsly",
+    "name_en": "bonsly",
+    "name_ja": "ウソハチ",
     "height": 0.5,
     "weight": 15.0,
     "base_exp": 58,

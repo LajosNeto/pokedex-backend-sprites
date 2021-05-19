@@ -1,6 +1,7 @@
 {
     "id": 695,
-    "name": "heliolisk",
+    "name_en": "heliolisk",
+    "name_ja": "エレザード",
     "height": 1.0,
     "weight": 21.0,
     "base_exp": 168,

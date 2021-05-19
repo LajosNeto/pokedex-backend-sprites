@@ -1,6 +1,7 @@
 {
     "id": 105,
-    "name": "marowak",
+    "name_en": "marowak",
+    "name_ja": "ガラガラ",
     "height": 1.0,
     "weight": 45.0,
     "base_exp": 149,

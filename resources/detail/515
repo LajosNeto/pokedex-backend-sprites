@@ -1,6 +1,7 @@
 {
     "id": 515,
-    "name": "panpour",
+    "name_en": "panpour",
+    "name_ja": "ヒヤップ",
     "height": 0.6,
     "weight": 13.5,
     "base_exp": 63,

@@ -1,6 +1,7 @@
 {
     "id": 514,
-    "name": "simisear",
+    "name_en": "simisear",
+    "name_ja": "バオッキー",
     "height": 1.0,
     "weight": 28.0,
     "base_exp": 174,

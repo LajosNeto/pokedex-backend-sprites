@@ -1,6 +1,7 @@
 {
     "id": 527,
-    "name": "woobat",
+    "name_en": "woobat",
+    "name_ja": "コロモリ",
     "height": 0.4,
     "weight": 2.1,
     "base_exp": 65,

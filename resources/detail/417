@@ -1,6 +1,7 @@
 {
     "id": 417,
-    "name": "pachirisu",
+    "name_en": "pachirisu",
+    "name_ja": "パチリス",
     "height": 0.4,
     "weight": 3.9,
     "base_exp": 142,

@@ -1,6 +1,7 @@
 {
     "id": 767,
-    "name": "wimpod",
+    "name_en": "wimpod",
+    "name_ja": "コソクムシ",
     "height": 0.5,
     "weight": 12.0,
     "base_exp": 46,

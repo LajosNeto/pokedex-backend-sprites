@@ -1,6 +1,7 @@
 {
     "id": 19,
-    "name": "rattata",
+    "name_en": "rattata",
+    "name_ja": "コラッタ",
     "height": 0.3,
     "weight": 3.5,
     "base_exp": 51,

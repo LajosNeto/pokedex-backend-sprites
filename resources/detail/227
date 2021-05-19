@@ -1,6 +1,7 @@
 {
     "id": 227,
-    "name": "skarmory",
+    "name_en": "skarmory",
+    "name_ja": "エアームド",
     "height": 1.7,
     "weight": 50.5,
     "base_exp": 163,

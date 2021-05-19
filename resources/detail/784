@@ -1,6 +1,7 @@
 {
     "id": 784,
-    "name": "kommo-o",
+    "name_en": "kommo-o",
+    "name_ja": "ジャラランガ",
     "height": 1.6,
     "weight": 78.2,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 686,
-    "name": "inkay",
+    "name_en": "inkay",
+    "name_ja": "マーイーカ",
     "height": 0.4,
     "weight": 3.5,
     "base_exp": 58,

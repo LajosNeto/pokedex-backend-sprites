@@ -1,6 +1,7 @@
 {
     "id": 44,
-    "name": "gloom",
+    "name_en": "gloom",
+    "name_ja": "クサイハナ",
     "height": 0.8,
     "weight": 8.6,
     "base_exp": 138,

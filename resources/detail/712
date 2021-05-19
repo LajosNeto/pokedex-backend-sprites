@@ -1,6 +1,7 @@
 {
     "id": 712,
-    "name": "bergmite",
+    "name_en": "bergmite",
+    "name_ja": "カチコール",
     "height": 1.0,
     "weight": 99.5,
     "base_exp": 61,

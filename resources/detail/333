@@ -1,6 +1,7 @@
 {
     "id": 333,
-    "name": "swablu",
+    "name_en": "swablu",
+    "name_ja": "チルット",
     "height": 0.4,
     "weight": 1.2,
     "base_exp": 62,

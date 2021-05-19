@@ -1,6 +1,7 @@
 {
     "id": 834,
-    "name": "drednaw",
+    "name_en": "drednaw",
+    "name_ja": "カジリガメ",
     "height": 1.0,
     "weight": 115.5,
     "base_exp": 170,

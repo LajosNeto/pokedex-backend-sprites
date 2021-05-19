@@ -1,6 +1,7 @@
 {
     "id": 63,
-    "name": "abra",
+    "name_en": "abra",
+    "name_ja": "ケーシィ",
     "height": 0.9,
     "weight": 19.5,
     "base_exp": 62,

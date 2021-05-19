@@ -1,6 +1,7 @@
 {
     "id": 803,
-    "name": "poipole",
+    "name_en": "poipole",
+    "name_ja": "ベベノム",
     "height": 0.6,
     "weight": 1.8,
     "base_exp": 189,

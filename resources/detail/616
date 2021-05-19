@@ -1,6 +1,7 @@
 {
     "id": 616,
-    "name": "shelmet",
+    "name_en": "shelmet",
+    "name_ja": "チョボマキ",
     "height": 0.4,
     "weight": 7.7,
     "base_exp": 61,

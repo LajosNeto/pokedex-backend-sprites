@@ -1,6 +1,7 @@
 {
     "id": 748,
-    "name": "toxapex",
+    "name_en": "toxapex",
+    "name_ja": "ドヒドイデ",
     "height": 0.7,
     "weight": 14.5,
     "base_exp": 173,

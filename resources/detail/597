@@ -1,6 +1,7 @@
 {
     "id": 597,
-    "name": "ferroseed",
+    "name_en": "ferroseed",
+    "name_ja": "テッシード",
     "height": 0.6,
     "weight": 18.8,
     "base_exp": 61,

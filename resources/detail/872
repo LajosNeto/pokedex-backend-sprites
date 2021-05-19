@@ -1,6 +1,7 @@
 {
     "id": 872,
-    "name": "snom",
+    "name_en": "snom",
+    "name_ja": "ユキハミ",
     "height": 0.3,
     "weight": 3.8,
     "base_exp": 37,

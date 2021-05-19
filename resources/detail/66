@@ -1,6 +1,7 @@
 {
     "id": 66,
-    "name": "machop",
+    "name_en": "machop",
+    "name_ja": "ワンリキー",
     "height": 0.8,
     "weight": 19.5,
     "base_exp": 61,

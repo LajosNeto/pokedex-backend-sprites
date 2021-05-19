@@ -1,6 +1,7 @@
 {
     "id": 777,
-    "name": "togedemaru",
+    "name_en": "togedemaru",
+    "name_ja": "トゲデマル",
     "height": 0.3,
     "weight": 3.3,
     "base_exp": 152,

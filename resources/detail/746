@@ -1,6 +1,7 @@
 {
     "id": 746,
-    "name": "wishiwashi-solo",
+    "name_en": "wishiwashi-solo",
+    "name_ja": "ヨワシ",
     "height": 0.2,
     "weight": 0.3,
     "base_exp": 61,

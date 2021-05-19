@@ -1,6 +1,7 @@
 {
     "id": 442,
-    "name": "spiritomb",
+    "name_en": "spiritomb",
+    "name_ja": "ミカルゲ",
     "height": 1.0,
     "weight": 108.0,
     "base_exp": 170,

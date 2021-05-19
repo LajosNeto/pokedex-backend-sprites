@@ -1,6 +1,7 @@
 {
     "id": 786,
-    "name": "tapu-lele",
+    "name_en": "tapu-lele",
+    "name_ja": "カプ・テテフ",
     "height": 1.2,
     "weight": 18.6,
     "base_exp": 257,

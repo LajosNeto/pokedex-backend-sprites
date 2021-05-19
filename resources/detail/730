@@ -1,6 +1,7 @@
 {
     "id": 730,
-    "name": "primarina",
+    "name_en": "primarina",
+    "name_ja": "アシレーヌ",
     "height": 1.8,
     "weight": 44.0,
     "base_exp": 239,

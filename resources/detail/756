@@ -1,6 +1,7 @@
 {
     "id": 756,
-    "name": "shiinotic",
+    "name_en": "shiinotic",
+    "name_ja": "マシェード",
     "height": 1.0,
     "weight": 11.5,
     "base_exp": 142,

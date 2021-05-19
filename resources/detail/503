@@ -1,6 +1,7 @@
 {
     "id": 503,
-    "name": "samurott",
+    "name_en": "samurott",
+    "name_ja": "ダイケンキ",
     "height": 1.5,
     "weight": 94.6,
     "base_exp": 238,

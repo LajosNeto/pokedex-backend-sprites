@@ -1,6 +1,7 @@
 {
     "id": 741,
-    "name": "oricorio-baile",
+    "name_en": "oricorio-baile",
+    "name_ja": "オドリドリ",
     "height": 0.6,
     "weight": 3.4,
     "base_exp": 167,

@@ -1,6 +1,7 @@
 {
     "id": 349,
-    "name": "feebas",
+    "name_en": "feebas",
+    "name_ja": "ヒンバス",
     "height": 0.6,
     "weight": 7.4,
     "base_exp": 40,

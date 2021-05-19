@@ -1,6 +1,7 @@
 {
     "id": 230,
-    "name": "kingdra",
+    "name_en": "kingdra",
+    "name_ja": "キングドラ",
     "height": 1.8,
     "weight": 152.0,
     "base_exp": 243,

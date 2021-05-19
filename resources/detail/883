@@ -1,6 +1,7 @@
 {
     "id": 883,
-    "name": "arctovish",
+    "name_en": "arctovish",
+    "name_ja": "ウオチルドン",
     "height": 2.0,
     "weight": 175.0,
     "base_exp": 177,

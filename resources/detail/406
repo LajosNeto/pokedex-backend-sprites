@@ -1,6 +1,7 @@
 {
     "id": 406,
-    "name": "budew",
+    "name_en": "budew",
+    "name_ja": "スボミー",
     "height": 0.2,
     "weight": 1.2,
     "base_exp": 56,

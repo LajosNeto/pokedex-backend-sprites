@@ -1,6 +1,7 @@
 {
     "id": 247,
-    "name": "pupitar",
+    "name_en": "pupitar",
+    "name_ja": "サナギラス",
     "height": 1.2,
     "weight": 152.0,
     "base_exp": 144,

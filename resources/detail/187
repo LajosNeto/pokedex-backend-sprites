@@ -1,6 +1,7 @@
 {
     "id": 187,
-    "name": "hoppip",
+    "name_en": "hoppip",
+    "name_ja": "ハネッコ",
     "height": 0.4,
     "weight": 0.5,
     "base_exp": 50,

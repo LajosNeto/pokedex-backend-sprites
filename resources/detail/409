@@ -1,6 +1,7 @@
 {
     "id": 409,
-    "name": "rampardos",
+    "name_en": "rampardos",
+    "name_ja": "ラムパルド",
     "height": 1.6,
     "weight": 102.5,
     "base_exp": 173,

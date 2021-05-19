@@ -1,6 +1,7 @@
 {
     "id": 739,
-    "name": "crabrawler",
+    "name_en": "crabrawler",
+    "name_ja": "マケンカニ",
     "height": 0.6,
     "weight": 7.0,
     "base_exp": 68,

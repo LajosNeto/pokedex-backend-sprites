@@ -1,6 +1,7 @@
 {
     "id": 445,
-    "name": "garchomp",
+    "name_en": "garchomp",
+    "name_ja": "ガブリアス",
     "height": 1.9,
     "weight": 95.0,
     "base_exp": 270,

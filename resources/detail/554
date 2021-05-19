@@ -1,6 +1,7 @@
 {
     "id": 554,
-    "name": "darumaka",
+    "name_en": "darumaka",
+    "name_ja": "ダルマッカ",
     "height": 0.6,
     "weight": 37.5,
     "base_exp": 63,

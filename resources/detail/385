@@ -1,6 +1,7 @@
 {
     "id": 385,
-    "name": "jirachi",
+    "name_en": "jirachi",
+    "name_ja": "ジラーチ",
     "height": 0.3,
     "weight": 1.1,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 628,
-    "name": "braviary",
+    "name_en": "braviary",
+    "name_ja": "ウォーグル",
     "height": 1.5,
     "weight": 41.0,
     "base_exp": 179,

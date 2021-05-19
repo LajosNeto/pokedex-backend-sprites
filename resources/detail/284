@@ -1,6 +1,7 @@
 {
     "id": 284,
-    "name": "masquerain",
+    "name_en": "masquerain",
+    "name_ja": "アメモース",
     "height": 0.8,
     "weight": 3.6,
     "base_exp": 159,

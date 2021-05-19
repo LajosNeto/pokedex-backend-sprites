@@ -1,6 +1,7 @@
 {
     "id": 578,
-    "name": "duosion",
+    "name_en": "duosion",
+    "name_ja": "ダブラン",
     "height": 0.6,
     "weight": 8.0,
     "base_exp": 130,

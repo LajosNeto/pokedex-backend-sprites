@@ -1,6 +1,7 @@
 {
     "id": 623,
-    "name": "golurk",
+    "name_en": "golurk",
+    "name_ja": "ゴルーグ",
     "height": 2.8,
     "weight": 330.0,
     "base_exp": 169,

@@ -1,6 +1,7 @@
 {
     "id": 789,
-    "name": "cosmog",
+    "name_en": "cosmog",
+    "name_ja": "コスモッグ",
     "height": 0.2,
     "weight": 0.1,
     "base_exp": 40,

@@ -1,6 +1,7 @@
 {
     "id": 563,
-    "name": "cofagrigus",
+    "name_en": "cofagrigus",
+    "name_ja": "デスカーン",
     "height": 1.7,
     "weight": 76.5,
     "base_exp": 169,

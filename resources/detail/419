@@ -1,6 +1,7 @@
 {
     "id": 419,
-    "name": "floatzel",
+    "name_en": "floatzel",
+    "name_ja": "フローゼル",
     "height": 1.1,
     "weight": 33.5,
     "base_exp": 173,

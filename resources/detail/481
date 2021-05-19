@@ -1,6 +1,7 @@
 {
     "id": 481,
-    "name": "mesprit",
+    "name_en": "mesprit",
+    "name_ja": "エムリット",
     "height": 0.3,
     "weight": 0.3,
     "base_exp": 261,

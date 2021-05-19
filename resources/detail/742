@@ -1,6 +1,7 @@
 {
     "id": 742,
-    "name": "cutiefly",
+    "name_en": "cutiefly",
+    "name_ja": "アブリー",
     "height": 0.1,
     "weight": 0.2,
     "base_exp": 61,

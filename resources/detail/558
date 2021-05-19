@@ -1,6 +1,7 @@
 {
     "id": 558,
-    "name": "crustle",
+    "name_en": "crustle",
+    "name_ja": "イワパレス",
     "height": 1.4,
     "weight": 200.0,
     "base_exp": 170,

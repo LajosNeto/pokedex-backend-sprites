@@ -1,6 +1,7 @@
 {
     "id": 309,
-    "name": "electrike",
+    "name_en": "electrike",
+    "name_ja": "ラクライ",
     "height": 0.6,
     "weight": 15.2,
     "base_exp": 59,

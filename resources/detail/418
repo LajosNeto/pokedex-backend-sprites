@@ -1,6 +1,7 @@
 {
     "id": 418,
-    "name": "buizel",
+    "name_en": "buizel",
+    "name_ja": "ブイゼル",
     "height": 0.7,
     "weight": 29.5,
     "base_exp": 66,

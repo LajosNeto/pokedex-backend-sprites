@@ -1,6 +1,7 @@
 {
     "id": 827,
-    "name": "nickit",
+    "name_en": "nickit",
+    "name_ja": "クスネ",
     "height": 0.6,
     "weight": 8.9,
     "base_exp": 49,

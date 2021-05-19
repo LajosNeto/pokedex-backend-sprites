@@ -1,6 +1,7 @@
 {
     "id": 547,
-    "name": "whimsicott",
+    "name_en": "whimsicott",
+    "name_ja": "エルフーン",
     "height": 0.7,
     "weight": 6.6,
     "base_exp": 168,

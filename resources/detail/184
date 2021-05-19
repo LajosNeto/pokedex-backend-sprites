@@ -1,6 +1,7 @@
 {
     "id": 184,
-    "name": "azumarill",
+    "name_en": "azumarill",
+    "name_ja": "マリルリ",
     "height": 0.8,
     "weight": 28.5,
     "base_exp": 189,

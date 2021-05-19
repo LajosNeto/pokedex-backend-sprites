@@ -1,6 +1,7 @@
 {
     "id": 296,
-    "name": "makuhita",
+    "name_en": "makuhita",
+    "name_ja": "マクノシタ",
     "height": 1.0,
     "weight": 86.4,
     "base_exp": 47,

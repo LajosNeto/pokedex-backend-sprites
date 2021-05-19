@@ -1,6 +1,7 @@
 {
     "id": 241,
-    "name": "miltank",
+    "name_en": "miltank",
+    "name_ja": "ミルタンク",
     "height": 1.2,
     "weight": 75.5,
     "base_exp": 172,

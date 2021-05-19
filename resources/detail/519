@@ -1,6 +1,7 @@
 {
     "id": 519,
-    "name": "pidove",
+    "name_en": "pidove",
+    "name_ja": "マメパト",
     "height": 0.3,
     "weight": 2.1,
     "base_exp": 53,

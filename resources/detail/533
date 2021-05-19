@@ -1,6 +1,7 @@
 {
     "id": 533,
-    "name": "gurdurr",
+    "name_en": "gurdurr",
+    "name_ja": "ドテッコツ",
     "height": 1.2,
     "weight": 40.0,
     "base_exp": 142,

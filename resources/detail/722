@@ -1,6 +1,7 @@
 {
     "id": 722,
-    "name": "rowlet",
+    "name_en": "rowlet",
+    "name_ja": "モクロー",
     "height": 0.3,
     "weight": 1.5,
     "base_exp": 64,

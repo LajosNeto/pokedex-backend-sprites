@@ -1,6 +1,7 @@
 {
     "id": 694,
-    "name": "helioptile",
+    "name_en": "helioptile",
+    "name_ja": "エリキテル",
     "height": 0.5,
     "weight": 6.0,
     "base_exp": 58,

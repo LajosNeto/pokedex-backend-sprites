@@ -1,6 +1,7 @@
 {
     "id": 71,
-    "name": "victreebel",
+    "name_en": "victreebel",
+    "name_ja": "ウツボット",
     "height": 1.7,
     "weight": 15.5,
     "base_exp": 221,

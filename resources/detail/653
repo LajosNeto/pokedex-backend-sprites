@@ -1,6 +1,7 @@
 {
     "id": 653,
-    "name": "fennekin",
+    "name_en": "fennekin",
+    "name_ja": "フォッコ",
     "height": 0.4,
     "weight": 9.4,
     "base_exp": 61,

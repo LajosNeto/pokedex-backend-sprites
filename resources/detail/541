@@ -1,6 +1,7 @@
 {
     "id": 541,
-    "name": "swadloon",
+    "name_en": "swadloon",
+    "name_ja": "クルマユ",
     "height": 0.5,
     "weight": 7.3,
     "base_exp": 133,

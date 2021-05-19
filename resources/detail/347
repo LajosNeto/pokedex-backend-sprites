@@ -1,6 +1,7 @@
 {
     "id": 347,
-    "name": "anorith",
+    "name_en": "anorith",
+    "name_ja": "アノプス",
     "height": 0.7,
     "weight": 12.5,
     "base_exp": 71,

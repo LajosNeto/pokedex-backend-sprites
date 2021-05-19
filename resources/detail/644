@@ -1,6 +1,7 @@
 {
     "id": 644,
-    "name": "zekrom",
+    "name_en": "zekrom",
+    "name_ja": "ゼクロム",
     "height": 2.9,
     "weight": 345.0,
     "base_exp": 306,

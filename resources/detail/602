@@ -1,6 +1,7 @@
 {
     "id": 602,
-    "name": "tynamo",
+    "name_en": "tynamo",
+    "name_ja": "シビシラス",
     "height": 0.2,
     "weight": 0.3,
     "base_exp": 55,

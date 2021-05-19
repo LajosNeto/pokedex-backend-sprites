@@ -1,6 +1,7 @@
 {
     "id": 421,
-    "name": "cherrim",
+    "name_en": "cherrim",
+    "name_ja": "チェリム",
     "height": 0.5,
     "weight": 9.3,
     "base_exp": 158,

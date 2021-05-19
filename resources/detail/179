@@ -1,6 +1,7 @@
 {
     "id": 179,
-    "name": "mareep",
+    "name_en": "mareep",
+    "name_ja": "メリープ",
     "height": 0.6,
     "weight": 7.8,
     "base_exp": 56,

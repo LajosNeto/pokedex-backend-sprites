@@ -1,6 +1,7 @@
 {
     "id": 431,
-    "name": "glameow",
+    "name_en": "glameow",
+    "name_ja": "ニャルマー",
     "height": 0.5,
     "weight": 3.9,
     "base_exp": 62,

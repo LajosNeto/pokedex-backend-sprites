@@ -1,6 +1,7 @@
 {
     "id": 115,
-    "name": "kangaskhan",
+    "name_en": "kangaskhan",
+    "name_ja": "ガルーラ",
     "height": 2.2,
     "weight": 80.0,
     "base_exp": 172,

@@ -1,6 +1,7 @@
 {
     "id": 885,
-    "name": "dreepy",
+    "name_en": "dreepy",
+    "name_ja": "ドラメシヤ",
     "height": 0.5,
     "weight": 2.0,
     "base_exp": 54,

@@ -1,6 +1,7 @@
 {
     "id": 553,
-    "name": "krookodile",
+    "name_en": "krookodile",
+    "name_ja": "ワルビアル",
     "height": 1.5,
     "weight": 96.3,
     "base_exp": 234,

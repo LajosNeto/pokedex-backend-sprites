@@ -1,6 +1,7 @@
 {
     "id": 367,
-    "name": "huntail",
+    "name_en": "huntail",
+    "name_ja": "ハンテール",
     "height": 1.7,
     "weight": 27.0,
     "base_exp": 170,

@@ -1,6 +1,7 @@
 {
     "id": 608,
-    "name": "lampent",
+    "name_en": "lampent",
+    "name_ja": "ランプラー",
     "height": 0.6,
     "weight": 13.0,
     "base_exp": 130,

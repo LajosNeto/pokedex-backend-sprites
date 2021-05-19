@@ -1,6 +1,7 @@
 {
     "id": 564,
-    "name": "tirtouga",
+    "name_en": "tirtouga",
+    "name_ja": "プロトーガ",
     "height": 0.7,
     "weight": 16.5,
     "base_exp": 71,

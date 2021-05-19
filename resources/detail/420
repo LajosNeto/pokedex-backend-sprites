@@ -1,6 +1,7 @@
 {
     "id": 420,
-    "name": "cherubi",
+    "name_en": "cherubi",
+    "name_ja": "チェリンボ",
     "height": 0.4,
     "weight": 3.3,
     "base_exp": 55,

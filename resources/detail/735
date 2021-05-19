@@ -1,6 +1,7 @@
 {
     "id": 735,
-    "name": "gumshoos",
+    "name_en": "gumshoos",
+    "name_ja": "デカグース",
     "height": 0.7,
     "weight": 14.2,
     "base_exp": 146,

@@ -1,6 +1,7 @@
 {
     "id": 817,
-    "name": "drizzile",
+    "name_en": "drizzile",
+    "name_ja": "ジメレオン",
     "height": 0.7,
     "weight": 11.5,
     "base_exp": 147,

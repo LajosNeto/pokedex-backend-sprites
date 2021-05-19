@@ -1,6 +1,7 @@
 {
     "id": 102,
-    "name": "exeggcute",
+    "name_en": "exeggcute",
+    "name_ja": "タマタマ",
     "height": 0.4,
     "weight": 2.5,
     "base_exp": 65,

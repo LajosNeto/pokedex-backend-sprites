@@ -1,6 +1,7 @@
 {
     "id": 526,
-    "name": "gigalith",
+    "name_en": "gigalith",
+    "name_ja": "ギガイアス",
     "height": 1.7,
     "weight": 260.0,
     "base_exp": 232,

@@ -1,6 +1,7 @@
 {
     "id": 643,
-    "name": "reshiram",
+    "name_en": "reshiram",
+    "name_ja": "レシラム",
     "height": 3.2,
     "weight": 330.0,
     "base_exp": 306,

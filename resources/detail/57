@@ -1,6 +1,7 @@
 {
     "id": 57,
-    "name": "primeape",
+    "name_en": "primeape",
+    "name_ja": "オコリザル",
     "height": 1.0,
     "weight": 32.0,
     "base_exp": 159,

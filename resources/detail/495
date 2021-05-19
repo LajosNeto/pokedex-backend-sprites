@@ -1,6 +1,7 @@
 {
     "id": 495,
-    "name": "snivy",
+    "name_en": "snivy",
+    "name_ja": "ツタージャ",
     "height": 0.6,
     "weight": 8.1,
     "base_exp": 62,

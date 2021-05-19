@@ -1,6 +1,7 @@
 {
     "id": 211,
-    "name": "qwilfish",
+    "name_en": "qwilfish",
+    "name_ja": "ハリーセン",
     "height": 0.5,
     "weight": 3.9,
     "base_exp": 88,

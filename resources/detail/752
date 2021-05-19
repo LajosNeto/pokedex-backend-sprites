@@ -1,6 +1,7 @@
 {
     "id": 752,
-    "name": "araquanid",
+    "name_en": "araquanid",
+    "name_ja": "オニシズクモ",
     "height": 1.8,
     "weight": 82.0,
     "base_exp": 159,

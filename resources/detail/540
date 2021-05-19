@@ -1,6 +1,7 @@
 {
     "id": 540,
-    "name": "sewaddle",
+    "name_en": "sewaddle",
+    "name_ja": "クルミル",
     "height": 0.3,
     "weight": 2.5,
     "base_exp": 62,

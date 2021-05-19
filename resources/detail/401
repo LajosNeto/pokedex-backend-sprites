@@ -1,6 +1,7 @@
 {
     "id": 401,
-    "name": "kricketot",
+    "name_en": "kricketot",
+    "name_ja": "コロボーシ",
     "height": 0.3,
     "weight": 2.2,
     "base_exp": 39,

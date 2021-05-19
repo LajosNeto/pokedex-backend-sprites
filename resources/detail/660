@@ -1,6 +1,7 @@
 {
     "id": 660,
-    "name": "diggersby",
+    "name_en": "diggersby",
+    "name_ja": "ホルード",
     "height": 1.0,
     "weight": 42.4,
     "base_exp": 148,

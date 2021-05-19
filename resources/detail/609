@@ -1,6 +1,7 @@
 {
     "id": 609,
-    "name": "chandelure",
+    "name_en": "chandelure",
+    "name_ja": "シャンデラ",
     "height": 1.0,
     "weight": 34.3,
     "base_exp": 234,

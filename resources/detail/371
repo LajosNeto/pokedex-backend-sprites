@@ -1,6 +1,7 @@
 {
     "id": 371,
-    "name": "bagon",
+    "name_en": "bagon",
+    "name_ja": "タツベイ",
     "height": 0.6,
     "weight": 42.1,
     "base_exp": 60,

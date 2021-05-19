@@ -1,6 +1,7 @@
 {
     "id": 72,
-    "name": "tentacool",
+    "name_en": "tentacool",
+    "name_ja": "メノクラゲ",
     "height": 0.9,
     "weight": 45.5,
     "base_exp": 67,

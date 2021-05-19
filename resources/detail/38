@@ -1,6 +1,7 @@
 {
     "id": 38,
-    "name": "ninetales",
+    "name_en": "ninetales",
+    "name_ja": "キュウコン",
     "height": 1.1,
     "weight": 19.9,
     "base_exp": 177,

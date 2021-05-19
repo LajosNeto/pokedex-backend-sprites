@@ -1,6 +1,7 @@
 {
     "id": 263,
-    "name": "zigzagoon",
+    "name_en": "zigzagoon",
+    "name_ja": "ジグザグマ",
     "height": 0.4,
     "weight": 17.5,
     "base_exp": 56,

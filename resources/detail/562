@@ -1,6 +1,7 @@
 {
     "id": 562,
-    "name": "yamask",
+    "name_en": "yamask",
+    "name_ja": "デスマス",
     "height": 0.5,
     "weight": 1.5,
     "base_exp": 61,

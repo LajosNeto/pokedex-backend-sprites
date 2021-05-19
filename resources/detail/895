@@ -1,6 +1,7 @@
 {
     "id": 895,
-    "name": "regidrago",
+    "name_en": "regidrago",
+    "name_ja": "レジドラゴ",
     "height": 2.1,
     "weight": 200.0,
     "base_exp": 290,

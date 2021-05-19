@@ -1,6 +1,7 @@
 {
     "id": 655,
-    "name": "delphox",
+    "name_en": "delphox",
+    "name_ja": "マフォクシー",
     "height": 1.5,
     "weight": 39.0,
     "base_exp": 240,

@@ -1,6 +1,7 @@
 {
     "id": 780,
-    "name": "drampa",
+    "name_en": "drampa",
+    "name_ja": "ジジーロン",
     "height": 3.0,
     "weight": 185.0,
     "base_exp": 170,

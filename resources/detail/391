@@ -1,6 +1,7 @@
 {
     "id": 391,
-    "name": "monferno",
+    "name_en": "monferno",
+    "name_ja": "モウカザル",
     "height": 0.9,
     "weight": 22.0,
     "base_exp": 142,

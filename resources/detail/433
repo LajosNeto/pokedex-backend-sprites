@@ -1,6 +1,7 @@
 {
     "id": 433,
-    "name": "chingling",
+    "name_en": "chingling",
+    "name_ja": "リーシャン",
     "height": 0.2,
     "weight": 0.6,
     "base_exp": 57,

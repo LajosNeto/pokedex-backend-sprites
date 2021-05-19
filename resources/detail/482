@@ -1,6 +1,7 @@
 {
     "id": 482,
-    "name": "azelf",
+    "name_en": "azelf",
+    "name_ja": "アグノム",
     "height": 0.3,
     "weight": 0.3,
     "base_exp": 261,

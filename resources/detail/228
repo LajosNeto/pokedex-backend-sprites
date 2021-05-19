@@ -1,6 +1,7 @@
 {
     "id": 228,
-    "name": "houndour",
+    "name_en": "houndour",
+    "name_ja": "デルビル",
     "height": 0.6,
     "weight": 10.8,
     "base_exp": 66,

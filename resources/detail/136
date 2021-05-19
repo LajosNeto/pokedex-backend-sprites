@@ -1,6 +1,7 @@
 {
     "id": 136,
-    "name": "flareon",
+    "name_en": "flareon",
+    "name_ja": "ブースター",
     "height": 0.9,
     "weight": 25.0,
     "base_exp": 184,

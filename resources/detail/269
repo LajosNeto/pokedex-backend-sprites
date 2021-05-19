@@ -1,6 +1,7 @@
 {
     "id": 269,
-    "name": "dustox",
+    "name_en": "dustox",
+    "name_ja": "ドクケイル",
     "height": 1.2,
     "weight": 31.6,
     "base_exp": 173,

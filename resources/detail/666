@@ -1,6 +1,7 @@
 {
     "id": 666,
-    "name": "vivillon",
+    "name_en": "vivillon",
+    "name_ja": "ビビヨン",
     "height": 1.2,
     "weight": 17.0,
     "base_exp": 185,

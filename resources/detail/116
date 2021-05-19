@@ -1,6 +1,7 @@
 {
     "id": 116,
-    "name": "horsea",
+    "name_en": "horsea",
+    "name_ja": "タッツー",
     "height": 0.4,
     "weight": 8.0,
     "base_exp": 59,

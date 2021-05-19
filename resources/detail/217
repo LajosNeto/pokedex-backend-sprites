@@ -1,6 +1,7 @@
 {
     "id": 217,
-    "name": "ursaring",
+    "name_en": "ursaring",
+    "name_ja": "リングマ",
     "height": 1.8,
     "weight": 125.8,
     "base_exp": 175,

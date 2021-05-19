@@ -1,6 +1,7 @@
 {
     "id": 681,
-    "name": "aegislash-shield",
+    "name_en": "aegislash-shield",
+    "name_ja": "ギルガルド",
     "height": 1.7,
     "weight": 53.0,
     "base_exp": 234,

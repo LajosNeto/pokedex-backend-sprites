@@ -1,6 +1,7 @@
 {
     "id": 497,
-    "name": "serperior",
+    "name_en": "serperior",
+    "name_ja": "ジャローダ",
     "height": 3.3,
     "weight": 63.0,
     "base_exp": 238,

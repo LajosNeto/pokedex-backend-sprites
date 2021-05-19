@@ -1,6 +1,7 @@
 {
     "id": 521,
-    "name": "unfezant",
+    "name_en": "unfezant",
+    "name_ja": "ケンホロウ",
     "height": 1.2,
     "weight": 29.0,
     "base_exp": 220,

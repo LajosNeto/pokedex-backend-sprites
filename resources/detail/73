@@ -1,6 +1,7 @@
 {
     "id": 73,
-    "name": "tentacruel",
+    "name_en": "tentacruel",
+    "name_ja": "ドククラゲ",
     "height": 1.6,
     "weight": 55.0,
     "base_exp": 180,

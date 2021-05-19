@@ -1,6 +1,7 @@
 {
     "id": 389,
-    "name": "torterra",
+    "name_en": "torterra",
+    "name_ja": "ドダイトス",
     "height": 2.2,
     "weight": 310.0,
     "base_exp": 236,

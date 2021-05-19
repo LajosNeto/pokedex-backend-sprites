@@ -1,6 +1,7 @@
 {
     "id": 804,
-    "name": "naganadel",
+    "name_en": "naganadel",
+    "name_ja": "アーゴヨン",
     "height": 3.6,
     "weight": 150.0,
     "base_exp": 243,

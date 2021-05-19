@@ -1,6 +1,7 @@
 {
     "id": 337,
-    "name": "lunatone",
+    "name_en": "lunatone",
+    "name_ja": "ルナトーン",
     "height": 1.0,
     "weight": 168.0,
     "base_exp": 161,

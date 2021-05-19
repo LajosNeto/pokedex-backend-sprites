@@ -1,6 +1,7 @@
 {
     "id": 199,
-    "name": "slowking",
+    "name_en": "slowking",
+    "name_ja": "ヤドキング",
     "height": 2.0,
     "weight": 79.5,
     "base_exp": 172,

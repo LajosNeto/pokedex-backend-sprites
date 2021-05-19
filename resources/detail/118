@@ -1,6 +1,7 @@
 {
     "id": 118,
-    "name": "goldeen",
+    "name_en": "goldeen",
+    "name_ja": "トサキント",
     "height": 0.6,
     "weight": 15.0,
     "base_exp": 64,

@@ -1,6 +1,7 @@
 {
     "id": 341,
-    "name": "corphish",
+    "name_en": "corphish",
+    "name_ja": "ヘイガニ",
     "height": 0.6,
     "weight": 11.5,
     "base_exp": 62,

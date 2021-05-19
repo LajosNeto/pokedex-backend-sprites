@@ -1,6 +1,7 @@
 {
     "id": 113,
-    "name": "chansey",
+    "name_en": "chansey",
+    "name_ja": "ラッキー",
     "height": 1.1,
     "weight": 34.6,
     "base_exp": 395,

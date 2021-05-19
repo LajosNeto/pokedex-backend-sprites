@@ -1,6 +1,7 @@
 {
     "id": 837,
-    "name": "rolycoly",
+    "name_en": "rolycoly",
+    "name_ja": "タンドン",
     "height": 0.3,
     "weight": 12.0,
     "base_exp": 48,

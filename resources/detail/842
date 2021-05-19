@@ -1,6 +1,7 @@
 {
     "id": 842,
-    "name": "appletun",
+    "name_en": "appletun",
+    "name_ja": "タルップル",
     "height": 0.4,
     "weight": 13.0,
     "base_exp": 170,

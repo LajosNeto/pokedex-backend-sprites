@@ -1,6 +1,7 @@
 {
     "id": 268,
-    "name": "cascoon",
+    "name_en": "cascoon",
+    "name_ja": "マユルド",
     "height": 0.7,
     "weight": 11.5,
     "base_exp": 72,

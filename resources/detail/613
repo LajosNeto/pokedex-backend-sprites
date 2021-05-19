@@ -1,6 +1,7 @@
 {
     "id": 613,
-    "name": "cubchoo",
+    "name_en": "cubchoo",
+    "name_ja": "クマシュン",
     "height": 0.5,
     "weight": 8.5,
     "base_exp": 61,

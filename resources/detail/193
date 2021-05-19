@@ -1,6 +1,7 @@
 {
     "id": 193,
-    "name": "yanma",
+    "name_en": "yanma",
+    "name_ja": "ヤンヤンマ",
     "height": 1.2,
     "weight": 38.0,
     "base_exp": 78,

@@ -1,6 +1,7 @@
 {
     "id": 48,
-    "name": "venonat",
+    "name_en": "venonat",
+    "name_ja": "コンパン",
     "height": 1.0,
     "weight": 30.0,
     "base_exp": 61,

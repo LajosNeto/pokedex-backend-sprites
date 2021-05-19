@@ -1,6 +1,7 @@
 {
     "id": 106,
-    "name": "hitmonlee",
+    "name_en": "hitmonlee",
+    "name_ja": "サワムラー",
     "height": 1.5,
     "weight": 49.8,
     "base_exp": 159,

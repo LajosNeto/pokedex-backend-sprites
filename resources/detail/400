@@ -1,6 +1,7 @@
 {
     "id": 400,
-    "name": "bibarel",
+    "name_en": "bibarel",
+    "name_ja": "ビーダル",
     "height": 1.0,
     "weight": 31.5,
     "base_exp": 144,

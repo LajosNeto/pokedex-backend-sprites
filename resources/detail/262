@@ -1,6 +1,7 @@
 {
     "id": 262,
-    "name": "mightyena",
+    "name_en": "mightyena",
+    "name_ja": "グラエナ",
     "height": 1.0,
     "weight": 37.0,
     "base_exp": 147,

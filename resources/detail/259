@@ -1,6 +1,7 @@
 {
     "id": 259,
-    "name": "marshtomp",
+    "name_en": "marshtomp",
+    "name_ja": "ヌマクロー",
     "height": 0.7,
     "weight": 28.0,
     "base_exp": 142,

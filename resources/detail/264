@@ -1,6 +1,7 @@
 {
     "id": 264,
-    "name": "linoone",
+    "name_en": "linoone",
+    "name_ja": "マッスグマ",
     "height": 0.5,
     "weight": 32.5,
     "base_exp": 147,

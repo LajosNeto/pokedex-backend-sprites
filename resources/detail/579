@@ -1,6 +1,7 @@
 {
     "id": 579,
-    "name": "reuniclus",
+    "name_en": "reuniclus",
+    "name_ja": "ランクルス",
     "height": 1.0,
     "weight": 20.1,
     "base_exp": 221,

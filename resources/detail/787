@@ -1,6 +1,7 @@
 {
     "id": 787,
-    "name": "tapu-bulu",
+    "name_en": "tapu-bulu",
+    "name_ja": "カプ・ブルル",
     "height": 1.9,
     "weight": 45.5,
     "base_exp": 257,

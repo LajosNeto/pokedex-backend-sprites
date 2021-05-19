@@ -1,6 +1,7 @@
 {
     "id": 469,
-    "name": "yanmega",
+    "name_en": "yanmega",
+    "name_ja": "メガヤンマ",
     "height": 1.9,
     "weight": 51.5,
     "base_exp": 180,

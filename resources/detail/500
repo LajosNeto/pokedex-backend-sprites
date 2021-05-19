@@ -1,6 +1,7 @@
 {
     "id": 500,
-    "name": "emboar",
+    "name_en": "emboar",
+    "name_ja": "エンブオー",
     "height": 1.6,
     "weight": 150.0,
     "base_exp": 238,

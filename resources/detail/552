@@ -1,6 +1,7 @@
 {
     "id": 552,
-    "name": "krokorok",
+    "name_en": "krokorok",
+    "name_ja": "ワルビル",
     "height": 1.0,
     "weight": 33.4,
     "base_exp": 123,

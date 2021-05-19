@@ -1,6 +1,7 @@
 {
     "id": 311,
-    "name": "plusle",
+    "name_en": "plusle",
+    "name_ja": "プラスル",
     "height": 0.4,
     "weight": 4.2,
     "base_exp": 142,

@@ -1,6 +1,7 @@
 {
     "id": 223,
-    "name": "remoraid",
+    "name_en": "remoraid",
+    "name_ja": "テッポウオ",
     "height": 0.6,
     "weight": 12.0,
     "base_exp": 60,

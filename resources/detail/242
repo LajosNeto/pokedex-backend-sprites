@@ -1,6 +1,7 @@
 {
     "id": 242,
-    "name": "blissey",
+    "name_en": "blissey",
+    "name_ja": "ハピナス",
     "height": 1.5,
     "weight": 46.8,
     "base_exp": 608,

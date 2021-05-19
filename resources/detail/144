@@ -1,6 +1,7 @@
 {
     "id": 144,
-    "name": "articuno",
+    "name_en": "articuno",
+    "name_ja": "フリーザー",
     "height": 1.7,
     "weight": 55.4,
     "base_exp": 261,

@@ -1,6 +1,7 @@
 {
     "id": 753,
-    "name": "fomantis",
+    "name_en": "fomantis",
+    "name_ja": "カリキリ",
     "height": 0.3,
     "weight": 1.5,
     "base_exp": 50,

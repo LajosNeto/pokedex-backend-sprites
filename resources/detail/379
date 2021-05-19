@@ -1,6 +1,7 @@
 {
     "id": 379,
-    "name": "registeel",
+    "name_en": "registeel",
+    "name_ja": "レジスチル",
     "height": 1.9,
     "weight": 205.0,
     "base_exp": 261,

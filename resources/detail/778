@@ -1,6 +1,7 @@
 {
     "id": 778,
-    "name": "mimikyu-disguised",
+    "name_en": "mimikyu-disguised",
+    "name_ja": "ミミッキュ",
     "height": 0.2,
     "weight": 0.7,
     "base_exp": 167,

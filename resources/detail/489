@@ -1,6 +1,7 @@
 {
     "id": 489,
-    "name": "phione",
+    "name_en": "phione",
+    "name_ja": "フィオネ",
     "height": 0.4,
     "weight": 3.1,
     "base_exp": 216,

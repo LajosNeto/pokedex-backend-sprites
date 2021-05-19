@@ -1,6 +1,7 @@
 {
     "id": 550,
-    "name": "basculin-red-striped",
+    "name_en": "basculin-red-striped",
+    "name_ja": "バスラオ",
     "height": 1.0,
     "weight": 18.0,
     "base_exp": 161,

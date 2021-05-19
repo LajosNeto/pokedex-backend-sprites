@@ -1,6 +1,7 @@
 {
     "id": 884,
-    "name": "duraludon",
+    "name_en": "duraludon",
+    "name_ja": "ジュラルドン",
     "height": 1.8,
     "weight": 40.0,
     "base_exp": 187,

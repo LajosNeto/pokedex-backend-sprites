@@ -1,6 +1,7 @@
 {
     "id": 255,
-    "name": "torchic",
+    "name_en": "torchic",
+    "name_ja": "アチャモ",
     "height": 0.4,
     "weight": 2.5,
     "base_exp": 62,

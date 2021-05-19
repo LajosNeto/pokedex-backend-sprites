@@ -1,6 +1,7 @@
 {
     "id": 435,
-    "name": "skuntank",
+    "name_en": "skuntank",
+    "name_ja": "スカタンク",
     "height": 1.0,
     "weight": 38.0,
     "base_exp": 168,

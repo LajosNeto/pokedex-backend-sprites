@@ -1,6 +1,7 @@
 {
     "id": 368,
-    "name": "gorebyss",
+    "name_en": "gorebyss",
+    "name_ja": "サクラビス",
     "height": 1.8,
     "weight": 22.6,
     "base_exp": 170,

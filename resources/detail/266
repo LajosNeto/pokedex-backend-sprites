@@ -1,6 +1,7 @@
 {
     "id": 266,
-    "name": "silcoon",
+    "name_en": "silcoon",
+    "name_ja": "カラサリス",
     "height": 0.6,
     "weight": 10.0,
     "base_exp": 72,

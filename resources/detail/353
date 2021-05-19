@@ -1,6 +1,7 @@
 {
     "id": 353,
-    "name": "shuppet",
+    "name_en": "shuppet",
+    "name_ja": "カゲボウズ",
     "height": 0.6,
     "weight": 2.3,
     "base_exp": 59,

@@ -1,6 +1,7 @@
 {
     "id": 212,
-    "name": "scizor",
+    "name_en": "scizor",
+    "name_ja": "ハッサム",
     "height": 1.8,
     "weight": 118.0,
     "base_exp": 175,

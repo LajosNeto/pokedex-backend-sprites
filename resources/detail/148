@@ -1,6 +1,7 @@
 {
     "id": 148,
-    "name": "dragonair",
+    "name_en": "dragonair",
+    "name_ja": "ハクリュー",
     "height": 4.0,
     "weight": 16.5,
     "base_exp": 147,

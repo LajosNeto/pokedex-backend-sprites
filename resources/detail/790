@@ -1,6 +1,7 @@
 {
     "id": 790,
-    "name": "cosmoem",
+    "name_en": "cosmoem",
+    "name_ja": "コスモウム",
     "height": 0.1,
     "weight": 999.9,
     "base_exp": 140,

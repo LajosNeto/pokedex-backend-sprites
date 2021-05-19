@@ -1,6 +1,7 @@
 {
     "id": 717,
-    "name": "yveltal",
+    "name_en": "yveltal",
+    "name_ja": "イベルタル",
     "height": 5.8,
     "weight": 203.0,
     "base_exp": 306,

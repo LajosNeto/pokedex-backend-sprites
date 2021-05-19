@@ -1,6 +1,7 @@
 {
     "id": 470,
-    "name": "leafeon",
+    "name_en": "leafeon",
+    "name_ja": "リーフィア",
     "height": 1.0,
     "weight": 25.5,
     "base_exp": 184,

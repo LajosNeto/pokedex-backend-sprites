@@ -1,6 +1,7 @@
 {
     "id": 474,
-    "name": "porygon-z",
+    "name_en": "porygon-z",
+    "name_ja": "ポリゴンＺ",
     "height": 0.9,
     "weight": 34.0,
     "base_exp": 241,

@@ -1,6 +1,7 @@
 {
     "id": 374,
-    "name": "beldum",
+    "name_en": "beldum",
+    "name_ja": "ダンバル",
     "height": 0.6,
     "weight": 95.2,
     "base_exp": 60,

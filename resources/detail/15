@@ -1,6 +1,7 @@
 {
     "id": 15,
-    "name": "beedrill",
+    "name_en": "beedrill",
+    "name_ja": "スピアー",
     "height": 1.0,
     "weight": 29.5,
     "base_exp": 178,

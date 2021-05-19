@@ -1,6 +1,7 @@
 {
     "id": 697,
-    "name": "tyrantrum",
+    "name_en": "tyrantrum",
+    "name_ja": "ガチゴラス",
     "height": 2.5,
     "weight": 270.0,
     "base_exp": 182,

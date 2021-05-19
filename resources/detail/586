@@ -1,6 +1,7 @@
 {
     "id": 586,
-    "name": "sawsbuck",
+    "name_en": "sawsbuck",
+    "name_ja": "メブキジカ",
     "height": 1.9,
     "weight": 92.5,
     "base_exp": 166,

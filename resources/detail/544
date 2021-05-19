@@ -1,6 +1,7 @@
 {
     "id": 544,
-    "name": "whirlipede",
+    "name_en": "whirlipede",
+    "name_ja": "ホイーガ",
     "height": 1.2,
     "weight": 58.5,
     "base_exp": 126,

@@ -1,6 +1,7 @@
 {
     "id": 246,
-    "name": "larvitar",
+    "name_en": "larvitar",
+    "name_ja": "ヨーギラス",
     "height": 0.6,
     "weight": 72.0,
     "base_exp": 60,

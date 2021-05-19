@@ -1,6 +1,7 @@
 {
     "id": 47,
-    "name": "parasect",
+    "name_en": "parasect",
+    "name_ja": "パラセクト",
     "height": 1.0,
     "weight": 29.5,
     "base_exp": 142,

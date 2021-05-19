@@ -1,6 +1,7 @@
 {
     "id": 196,
-    "name": "espeon",
+    "name_en": "espeon",
+    "name_ja": "エーフィ",
     "height": 0.9,
     "weight": 26.5,
     "base_exp": 184,

@@ -1,6 +1,7 @@
 {
     "id": 639,
-    "name": "terrakion",
+    "name_en": "terrakion",
+    "name_ja": "テラキオン",
     "height": 1.9,
     "weight": 260.0,
     "base_exp": 261,

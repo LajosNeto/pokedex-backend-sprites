@@ -1,6 +1,7 @@
 {
     "id": 626,
-    "name": "bouffalant",
+    "name_en": "bouffalant",
+    "name_ja": "バッフロン",
     "height": 1.6,
     "weight": 94.6,
     "base_exp": 172,

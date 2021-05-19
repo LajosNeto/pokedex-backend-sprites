@@ -1,6 +1,7 @@
 {
     "id": 197,
-    "name": "umbreon",
+    "name_en": "umbreon",
+    "name_ja": "ブラッキー",
     "height": 1.0,
     "weight": 27.0,
     "base_exp": 184,

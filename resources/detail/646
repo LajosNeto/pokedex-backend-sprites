@@ -1,6 +1,7 @@
 {
     "id": 646,
-    "name": "kyurem",
+    "name_en": "kyurem",
+    "name_ja": "キュレム",
     "height": 3.0,
     "weight": 325.0,
     "base_exp": 297,

@@ -1,6 +1,7 @@
 {
     "id": 796,
-    "name": "xurkitree",
+    "name_en": "xurkitree",
+    "name_ja": "デンジュモク",
     "height": 3.8,
     "weight": 100.0,
     "base_exp": 257,

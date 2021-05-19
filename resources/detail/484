@@ -1,6 +1,7 @@
 {
     "id": 484,
-    "name": "palkia",
+    "name_en": "palkia",
+    "name_ja": "パルキア",
     "height": 4.2,
     "weight": 336.0,
     "base_exp": 306,

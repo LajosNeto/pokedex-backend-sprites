@@ -1,6 +1,7 @@
 {
     "id": 848,
-    "name": "toxel",
+    "name_en": "toxel",
+    "name_ja": "エレズン",
     "height": 0.4,
     "weight": 11.0,
     "base_exp": 48,

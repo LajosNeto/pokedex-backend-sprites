@@ -1,6 +1,7 @@
 {
     "id": 236,
-    "name": "tyrogue",
+    "name_en": "tyrogue",
+    "name_ja": "バルキー",
     "height": 0.7,
     "weight": 21.0,
     "base_exp": 42,

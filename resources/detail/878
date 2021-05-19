@@ -1,6 +1,7 @@
 {
     "id": 878,
-    "name": "cufant",
+    "name_en": "cufant",
+    "name_ja": "ゾウドウ",
     "height": 1.2,
     "weight": 100.0,
     "base_exp": 66,

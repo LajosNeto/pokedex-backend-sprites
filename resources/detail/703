@@ -1,6 +1,7 @@
 {
     "id": 703,
-    "name": "carbink",
+    "name_en": "carbink",
+    "name_ja": "メレシー",
     "height": 0.3,
     "weight": 5.7,
     "base_exp": 100,

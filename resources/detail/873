@@ -1,6 +1,7 @@
 {
     "id": 873,
-    "name": "frosmoth",
+    "name_en": "frosmoth",
+    "name_ja": "モスノウ",
     "height": 1.3,
     "weight": 42.0,
     "base_exp": 168,

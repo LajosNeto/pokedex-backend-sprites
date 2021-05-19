@@ -1,6 +1,7 @@
 {
     "id": 726,
-    "name": "torracat",
+    "name_en": "torracat",
+    "name_ja": "ニャヒート",
     "height": 0.7,
     "weight": 25.0,
     "base_exp": 147,

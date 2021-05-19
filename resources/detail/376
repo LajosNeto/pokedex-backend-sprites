@@ -1,6 +1,7 @@
 {
     "id": 376,
-    "name": "metagross",
+    "name_en": "metagross",
+    "name_ja": "メタグロス",
     "height": 1.6,
     "weight": 550.0,
     "base_exp": 270,

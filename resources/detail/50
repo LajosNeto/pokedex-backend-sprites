@@ -1,6 +1,7 @@
 {
     "id": 50,
-    "name": "diglett",
+    "name_en": "diglett",
+    "name_ja": "ディグダ",
     "height": 0.2,
     "weight": 0.8,
     "base_exp": 53,

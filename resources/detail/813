@@ -1,6 +1,7 @@
 {
     "id": 813,
-    "name": "scorbunny",
+    "name_en": "scorbunny",
+    "name_ja": "ヒバニー",
     "height": 0.3,
     "weight": 4.5,
     "base_exp": 62,

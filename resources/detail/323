@@ -1,6 +1,7 @@
 {
     "id": 323,
-    "name": "camerupt",
+    "name_en": "camerupt",
+    "name_ja": "バクーダ",
     "height": 1.9,
     "weight": 220.0,
     "base_exp": 161,

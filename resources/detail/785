@@ -1,6 +1,7 @@
 {
     "id": 785,
-    "name": "tapu-koko",
+    "name_en": "tapu-koko",
+    "name_ja": "カプ・コケコ",
     "height": 1.8,
     "weight": 20.5,
     "base_exp": 257,

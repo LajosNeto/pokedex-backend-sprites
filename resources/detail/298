@@ -1,6 +1,7 @@
 {
     "id": 298,
-    "name": "azurill",
+    "name_en": "azurill",
+    "name_ja": "ルリリ",
     "height": 0.2,
     "weight": 2.0,
     "base_exp": 38,

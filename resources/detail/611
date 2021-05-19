@@ -1,6 +1,7 @@
 {
     "id": 611,
-    "name": "fraxure",
+    "name_en": "fraxure",
+    "name_ja": "オノンド",
     "height": 1.0,
     "weight": 36.0,
     "base_exp": 144,

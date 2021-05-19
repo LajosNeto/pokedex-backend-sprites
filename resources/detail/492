@@ -1,6 +1,7 @@
 {
     "id": 492,
-    "name": "shaymin-land",
+    "name_en": "shaymin-land",
+    "name_ja": "シェイミ",
     "height": 0.2,
     "weight": 2.1,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 96,
-    "name": "drowzee",
+    "name_en": "drowzee",
+    "name_ja": "スリープ",
     "height": 1.0,
     "weight": 32.4,
     "base_exp": 66,

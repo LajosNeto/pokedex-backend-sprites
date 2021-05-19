@@ -1,6 +1,7 @@
 {
     "id": 140,
-    "name": "kabuto",
+    "name_en": "kabuto",
+    "name_ja": "カブト",
     "height": 0.5,
     "weight": 11.5,
     "base_exp": 71,

@@ -1,6 +1,7 @@
 {
     "id": 93,
-    "name": "haunter",
+    "name_en": "haunter",
+    "name_ja": "ゴースト",
     "height": 1.6,
     "weight": 0.1,
     "base_exp": 142,

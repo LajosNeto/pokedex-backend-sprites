@@ -1,6 +1,7 @@
 {
     "id": 174,
-    "name": "igglybuff",
+    "name_en": "igglybuff",
+    "name_ja": "ププリン",
     "height": 0.3,
     "weight": 1.0,
     "base_exp": 42,

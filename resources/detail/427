@@ -1,6 +1,7 @@
 {
     "id": 427,
-    "name": "buneary",
+    "name_en": "buneary",
+    "name_ja": "ミミロル",
     "height": 0.4,
     "weight": 5.5,
     "base_exp": 70,

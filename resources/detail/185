@@ -1,6 +1,7 @@
 {
     "id": 185,
-    "name": "sudowoodo",
+    "name_en": "sudowoodo",
+    "name_ja": "ウソッキー",
     "height": 1.2,
     "weight": 38.0,
     "base_exp": 144,

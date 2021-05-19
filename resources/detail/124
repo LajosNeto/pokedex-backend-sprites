@@ -1,6 +1,7 @@
 {
     "id": 124,
-    "name": "jynx",
+    "name_en": "jynx",
+    "name_ja": "ルージュラ",
     "height": 1.4,
     "weight": 40.6,
     "base_exp": 159,

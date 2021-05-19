@@ -1,6 +1,7 @@
 {
     "id": 408,
-    "name": "cranidos",
+    "name_en": "cranidos",
+    "name_ja": "ズガイドス",
     "height": 0.9,
     "weight": 31.5,
     "base_exp": 70,

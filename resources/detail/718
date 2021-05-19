@@ -1,6 +1,7 @@
 {
     "id": 718,
-    "name": "zygarde",
+    "name_en": "zygarde",
+    "name_ja": "ジガルデ",
     "height": 5.0,
     "weight": 305.0,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 171,
-    "name": "lanturn",
+    "name_en": "lanturn",
+    "name_ja": "ランターン",
     "height": 1.2,
     "weight": 22.5,
     "base_exp": 161,

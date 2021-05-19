@@ -1,6 +1,7 @@
 {
     "id": 798,
-    "name": "kartana",
+    "name_en": "kartana",
+    "name_ja": "カミツルギ",
     "height": 0.3,
     "weight": 0.1,
     "base_exp": 257,

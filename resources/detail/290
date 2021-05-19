@@ -1,6 +1,7 @@
 {
     "id": 290,
-    "name": "nincada",
+    "name_en": "nincada",
+    "name_ja": "ツチニン",
     "height": 0.5,
     "weight": 5.5,
     "base_exp": 53,

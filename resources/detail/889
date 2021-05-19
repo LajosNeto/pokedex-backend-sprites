@@ -1,6 +1,7 @@
 {
     "id": 889,
-    "name": "zamazenta-hero",
+    "name_en": "zamazenta-hero",
+    "name_ja": "ザマゼンタ",
     "height": 2.9,
     "weight": 210.0,
     "base_exp": 335,

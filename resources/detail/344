@@ -1,6 +1,7 @@
 {
     "id": 344,
-    "name": "claydol",
+    "name_en": "claydol",
+    "name_ja": "ネンドール",
     "height": 1.5,
     "weight": 108.0,
     "base_exp": 175,

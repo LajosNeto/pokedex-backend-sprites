@@ -1,6 +1,7 @@
 {
     "id": 460,
-    "name": "abomasnow",
+    "name_en": "abomasnow",
+    "name_ja": "ユキノオー",
     "height": 2.2,
     "weight": 135.5,
     "base_exp": 173,

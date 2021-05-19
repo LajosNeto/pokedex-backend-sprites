@@ -1,6 +1,7 @@
 {
     "id": 314,
-    "name": "illumise",
+    "name_en": "illumise",
+    "name_ja": "イルミーゼ",
     "height": 0.6,
     "weight": 17.7,
     "base_exp": 151,

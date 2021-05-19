@@ -1,6 +1,7 @@
 {
     "id": 233,
-    "name": "porygon2",
+    "name_en": "porygon2",
+    "name_ja": "ポリゴン２",
     "height": 0.6,
     "weight": 32.5,
     "base_exp": 180,

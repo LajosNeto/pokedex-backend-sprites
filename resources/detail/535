@@ -1,6 +1,7 @@
 {
     "id": 535,
-    "name": "tympole",
+    "name_en": "tympole",
+    "name_ja": "オタマロ",
     "height": 0.5,
     "weight": 4.5,
     "base_exp": 59,

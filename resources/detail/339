@@ -1,6 +1,7 @@
 {
     "id": 339,
-    "name": "barboach",
+    "name_en": "barboach",
+    "name_ja": "ドジョッチ",
     "height": 0.4,
     "weight": 1.9,
     "base_exp": 58,

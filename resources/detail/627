@@ -1,6 +1,7 @@
 {
     "id": 627,
-    "name": "rufflet",
+    "name_en": "rufflet",
+    "name_ja": "ワシボン",
     "height": 0.5,
     "weight": 10.5,
     "base_exp": 70,

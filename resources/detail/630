@@ -1,6 +1,7 @@
 {
     "id": 630,
-    "name": "mandibuzz",
+    "name_en": "mandibuzz",
+    "name_ja": "バルジーナ",
     "height": 1.2,
     "weight": 39.5,
     "base_exp": 179,

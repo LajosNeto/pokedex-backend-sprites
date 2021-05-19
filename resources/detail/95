@@ -1,6 +1,7 @@
 {
     "id": 95,
-    "name": "onix",
+    "name_en": "onix",
+    "name_ja": "イワーク",
     "height": 8.8,
     "weight": 210.0,
     "base_exp": 77,

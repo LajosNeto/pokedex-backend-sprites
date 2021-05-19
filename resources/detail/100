@@ -1,6 +1,7 @@
 {
     "id": 100,
-    "name": "voltorb",
+    "name_en": "voltorb",
+    "name_ja": "ビリリダマ",
     "height": 0.5,
     "weight": 10.4,
     "base_exp": 66,

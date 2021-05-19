@@ -1,6 +1,7 @@
 {
     "id": 53,
-    "name": "persian",
+    "name_en": "persian",
+    "name_ja": "ペルシアン",
     "height": 1.0,
     "weight": 32.0,
     "base_exp": 154,

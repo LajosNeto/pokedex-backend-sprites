@@ -1,6 +1,7 @@
 {
     "id": 447,
-    "name": "riolu",
+    "name_en": "riolu",
+    "name_ja": "リオル",
     "height": 0.7,
     "weight": 20.2,
     "base_exp": 57,

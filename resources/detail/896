@@ -1,6 +1,7 @@
 {
     "id": 896,
-    "name": "glastrier",
+    "name_en": "glastrier",
+    "name_ja": "ブリザポス",
     "height": 2.2,
     "weight": 800.0,
     "base_exp": 290,

@@ -1,6 +1,7 @@
 {
     "id": 532,
-    "name": "timburr",
+    "name_en": "timburr",
+    "name_ja": "ドッコラー",
     "height": 0.6,
     "weight": 12.5,
     "base_exp": 61,

@@ -1,6 +1,7 @@
 {
     "id": 90,
-    "name": "shellder",
+    "name_en": "shellder",
+    "name_ja": "シェルダー",
     "height": 0.3,
     "weight": 4.0,
     "base_exp": 61,

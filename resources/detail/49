@@ -1,6 +1,7 @@
 {
     "id": 49,
-    "name": "venomoth",
+    "name_en": "venomoth",
+    "name_ja": "モルフォン",
     "height": 1.5,
     "weight": 12.5,
     "base_exp": 158,

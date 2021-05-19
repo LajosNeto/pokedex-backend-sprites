@@ -1,6 +1,7 @@
 {
     "id": 604,
-    "name": "eelektross",
+    "name_en": "eelektross",
+    "name_ja": "シビルドン",
     "height": 2.1,
     "weight": 80.5,
     "base_exp": 232,

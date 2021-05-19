@@ -1,6 +1,7 @@
 {
     "id": 631,
-    "name": "heatmor",
+    "name_en": "heatmor",
+    "name_ja": "クイタラン",
     "height": 1.4,
     "weight": 58.0,
     "base_exp": 169,

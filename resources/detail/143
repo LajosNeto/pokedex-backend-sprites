@@ -1,6 +1,7 @@
 {
     "id": 143,
-    "name": "snorlax",
+    "name_en": "snorlax",
+    "name_ja": "カビゴン",
     "height": 2.1,
     "weight": 460.0,
     "base_exp": 189,

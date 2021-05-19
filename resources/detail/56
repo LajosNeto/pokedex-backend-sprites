@@ -1,6 +1,7 @@
 {
     "id": 56,
-    "name": "mankey",
+    "name_en": "mankey",
+    "name_ja": "マンキー",
     "height": 0.5,
     "weight": 28.0,
     "base_exp": 61,

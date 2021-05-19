@@ -1,6 +1,7 @@
 {
     "id": 270,
-    "name": "lotad",
+    "name_en": "lotad",
+    "name_ja": "ハスボー",
     "height": 0.5,
     "weight": 2.6,
     "base_exp": 44,

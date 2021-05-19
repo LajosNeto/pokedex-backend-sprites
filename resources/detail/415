@@ -1,6 +1,7 @@
 {
     "id": 415,
-    "name": "combee",
+    "name_en": "combee",
+    "name_ja": "ミツハニー",
     "height": 0.3,
     "weight": 5.5,
     "base_exp": 49,

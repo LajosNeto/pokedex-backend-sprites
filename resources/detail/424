@@ -1,6 +1,7 @@
 {
     "id": 424,
-    "name": "ambipom",
+    "name_en": "ambipom",
+    "name_ja": "エテボース",
     "height": 1.2,
     "weight": 20.3,
     "base_exp": 169,

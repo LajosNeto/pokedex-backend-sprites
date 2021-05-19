@@ -1,6 +1,7 @@
 {
     "id": 700,
-    "name": "sylveon",
+    "name_en": "sylveon",
+    "name_ja": "ニンフィア",
     "height": 1.0,
     "weight": 23.5,
     "base_exp": 184,

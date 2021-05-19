@@ -1,6 +1,7 @@
 {
     "id": 303,
-    "name": "mawile",
+    "name_en": "mawile",
+    "name_ja": "クチート",
     "height": 0.6,
     "weight": 11.5,
     "base_exp": 133,

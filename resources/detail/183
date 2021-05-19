@@ -1,6 +1,7 @@
 {
     "id": 183,
-    "name": "marill",
+    "name_en": "marill",
+    "name_ja": "マリル",
     "height": 0.4,
     "weight": 8.5,
     "base_exp": 88,

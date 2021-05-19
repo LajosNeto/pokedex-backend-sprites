@@ -1,6 +1,7 @@
 {
     "id": 150,
-    "name": "mewtwo",
+    "name_en": "mewtwo",
+    "name_ja": "ミュウツー",
     "height": 2.0,
     "weight": 122.0,
     "base_exp": 306,

@@ -1,6 +1,7 @@
 {
     "id": 278,
-    "name": "wingull",
+    "name_en": "wingull",
+    "name_ja": "キャモメ",
     "height": 0.6,
     "weight": 9.5,
     "base_exp": 54,

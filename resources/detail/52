@@ -1,6 +1,7 @@
 {
     "id": 52,
-    "name": "meowth",
+    "name_en": "meowth",
+    "name_ja": "ニャース",
     "height": 0.4,
     "weight": 4.2,
     "base_exp": 58,

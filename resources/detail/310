@@ -1,6 +1,7 @@
 {
     "id": 310,
-    "name": "manectric",
+    "name_en": "manectric",
+    "name_ja": "ライボルト",
     "height": 1.5,
     "weight": 40.2,
     "base_exp": 166,

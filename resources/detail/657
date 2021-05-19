@@ -1,6 +1,7 @@
 {
     "id": 657,
-    "name": "frogadier",
+    "name_en": "frogadier",
+    "name_ja": "ゲコガシラ",
     "height": 0.6,
     "weight": 10.9,
     "base_exp": 142,

@@ -1,6 +1,7 @@
 {
     "id": 65,
-    "name": "alakazam",
+    "name_en": "alakazam",
+    "name_ja": "フーディン",
     "height": 1.5,
     "weight": 48.0,
     "base_exp": 225,

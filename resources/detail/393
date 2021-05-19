@@ -1,6 +1,7 @@
 {
     "id": 393,
-    "name": "piplup",
+    "name_en": "piplup",
+    "name_ja": "ポッチャマ",
     "height": 0.4,
     "weight": 5.2,
     "base_exp": 63,

@@ -1,6 +1,7 @@
 {
     "id": 601,
-    "name": "klinklang",
+    "name_en": "klinklang",
+    "name_ja": "ギギギアル",
     "height": 0.6,
     "weight": 81.0,
     "base_exp": 234,

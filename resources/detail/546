@@ -1,6 +1,7 @@
 {
     "id": 546,
-    "name": "cottonee",
+    "name_en": "cottonee",
+    "name_ja": "モンメン",
     "height": 0.3,
     "weight": 0.6,
     "base_exp": 56,

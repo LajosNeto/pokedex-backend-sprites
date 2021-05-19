@@ -1,6 +1,7 @@
 {
     "id": 97,
-    "name": "hypno",
+    "name_en": "hypno",
+    "name_ja": "スリーパー",
     "height": 1.6,
     "weight": 75.6,
     "base_exp": 169,

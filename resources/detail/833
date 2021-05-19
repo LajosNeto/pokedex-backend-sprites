@@ -1,6 +1,7 @@
 {
     "id": 833,
-    "name": "chewtle",
+    "name_en": "chewtle",
+    "name_ja": "カムカメ",
     "height": 0.3,
     "weight": 8.5,
     "base_exp": 57,

@@ -1,6 +1,7 @@
 {
     "id": 761,
-    "name": "bounsweet",
+    "name_en": "bounsweet",
+    "name_ja": "アマカジ",
     "height": 0.3,
     "weight": 3.2,
     "base_exp": 42,

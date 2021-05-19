@@ -1,6 +1,7 @@
 {
     "id": 836,
-    "name": "boltund",
+    "name_en": "boltund",
+    "name_ja": "パルスワン",
     "height": 1.0,
     "weight": 34.0,
     "base_exp": 172,

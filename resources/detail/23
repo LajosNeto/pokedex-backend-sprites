@@ -1,6 +1,7 @@
 {
     "id": 23,
-    "name": "ekans",
+    "name_en": "ekans",
+    "name_ja": "アーボ",
     "height": 2.0,
     "weight": 6.9,
     "base_exp": 58,

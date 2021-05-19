@@ -1,6 +1,7 @@
 {
     "id": 791,
-    "name": "solgaleo",
+    "name_en": "solgaleo",
+    "name_ja": "ソルガレオ",
     "height": 3.4,
     "weight": 230.0,
     "base_exp": 306,

@@ -1,6 +1,7 @@
 {
     "id": 614,
-    "name": "beartic",
+    "name_en": "beartic",
+    "name_ja": "ツンベアー",
     "height": 2.6,
     "weight": 260.0,
     "base_exp": 177,

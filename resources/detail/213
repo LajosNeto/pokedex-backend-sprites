@@ -1,6 +1,7 @@
 {
     "id": 213,
-    "name": "shuckle",
+    "name_en": "shuckle",
+    "name_ja": "ツボツボ",
     "height": 0.6,
     "weight": 20.5,
     "base_exp": 177,

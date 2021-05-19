@@ -1,6 +1,7 @@
 {
     "id": 375,
-    "name": "metang",
+    "name_en": "metang",
+    "name_ja": "メタング",
     "height": 1.2,
     "weight": 202.5,
     "base_exp": 147,

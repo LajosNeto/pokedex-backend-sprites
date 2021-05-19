@@ -1,6 +1,7 @@
 {
     "id": 127,
-    "name": "pinsir",
+    "name_en": "pinsir",
+    "name_ja": "カイロス",
     "height": 1.5,
     "weight": 55.0,
     "base_exp": 175,

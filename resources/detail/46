@@ -1,6 +1,7 @@
 {
     "id": 46,
-    "name": "paras",
+    "name_en": "paras",
+    "name_ja": "パラス",
     "height": 0.3,
     "weight": 5.4,
     "base_exp": 57,

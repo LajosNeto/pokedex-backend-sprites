@@ -1,6 +1,7 @@
 {
     "id": 357,
-    "name": "tropius",
+    "name_en": "tropius",
+    "name_ja": "トロピウス",
     "height": 2.0,
     "weight": 100.0,
     "base_exp": 161,

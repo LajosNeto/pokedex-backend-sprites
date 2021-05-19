@@ -1,6 +1,7 @@
 {
     "id": 757,
-    "name": "salandit",
+    "name_en": "salandit",
+    "name_ja": "ヤトウモリ",
     "height": 0.6,
     "weight": 4.8,
     "base_exp": 64,

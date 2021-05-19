@@ -1,6 +1,7 @@
 {
     "id": 548,
-    "name": "petilil",
+    "name_en": "petilil",
+    "name_ja": "チュリネ",
     "height": 0.5,
     "weight": 6.6,
     "base_exp": 56,

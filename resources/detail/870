@@ -1,6 +1,7 @@
 {
     "id": 870,
-    "name": "falinks",
+    "name_en": "falinks",
+    "name_ja": "タイレーツ",
     "height": 3.0,
     "weight": 62.0,
     "base_exp": 165,

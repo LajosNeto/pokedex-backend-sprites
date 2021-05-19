@@ -1,6 +1,7 @@
 {
     "id": 516,
-    "name": "simipour",
+    "name_en": "simipour",
+    "name_ja": "ヒヤッキー",
     "height": 1.0,
     "weight": 29.0,
     "base_exp": 174,

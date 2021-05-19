@@ -1,6 +1,7 @@
 {
     "id": 220,
-    "name": "swinub",
+    "name_en": "swinub",
+    "name_ja": "ウリムー",
     "height": 0.4,
     "weight": 6.5,
     "base_exp": 50,

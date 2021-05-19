@@ -1,6 +1,7 @@
 {
     "id": 168,
-    "name": "ariados",
+    "name_en": "ariados",
+    "name_ja": "アリアドス",
     "height": 1.1,
     "weight": 33.5,
     "base_exp": 140,

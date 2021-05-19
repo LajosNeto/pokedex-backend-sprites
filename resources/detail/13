@@ -1,6 +1,7 @@
 {
     "id": 13,
-    "name": "weedle",
+    "name_en": "weedle",
+    "name_ja": "ビードル",
     "height": 0.3,
     "weight": 3.2,
     "base_exp": 39,

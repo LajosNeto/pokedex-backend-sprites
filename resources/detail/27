@@ -1,6 +1,7 @@
 {
     "id": 27,
-    "name": "sandshrew",
+    "name_en": "sandshrew",
+    "name_ja": "サンド",
     "height": 0.6,
     "weight": 12.0,
     "base_exp": 60,

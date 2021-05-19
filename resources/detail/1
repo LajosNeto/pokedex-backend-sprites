@@ -1,6 +1,7 @@
 {
     "id": 1,
-    "name": "bulbasaur",
+    "name_en": "bulbasaur",
+    "name_ja": "フシギダネ",
     "height": 0.7,
     "weight": 6.9,
     "base_exp": 64,

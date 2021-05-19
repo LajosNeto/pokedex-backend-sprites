@@ -1,6 +1,7 @@
 {
     "id": 588,
-    "name": "karrablast",
+    "name_en": "karrablast",
+    "name_ja": "カブルモ",
     "height": 0.5,
     "weight": 5.9,
     "base_exp": 63,

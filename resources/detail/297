@@ -1,6 +1,7 @@
 {
     "id": 297,
-    "name": "hariyama",
+    "name_en": "hariyama",
+    "name_ja": "ハリテヤマ",
     "height": 2.3,
     "weight": 253.8,
     "base_exp": 166,

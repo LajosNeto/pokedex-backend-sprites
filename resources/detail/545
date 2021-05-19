@@ -1,6 +1,7 @@
 {
     "id": 545,
-    "name": "scolipede",
+    "name_en": "scolipede",
+    "name_ja": "ペンドラー",
     "height": 2.5,
     "weight": 200.5,
     "base_exp": 218,

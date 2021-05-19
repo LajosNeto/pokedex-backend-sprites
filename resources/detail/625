@@ -1,6 +1,7 @@
 {
     "id": 625,
-    "name": "bisharp",
+    "name_en": "bisharp",
+    "name_ja": "キリキザン",
     "height": 1.6,
     "weight": 70.0,
     "base_exp": 172,

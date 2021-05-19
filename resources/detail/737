@@ -1,6 +1,7 @@
 {
     "id": 737,
-    "name": "charjabug",
+    "name_en": "charjabug",
+    "name_ja": "デンヂムシ",
     "height": 0.5,
     "weight": 10.5,
     "base_exp": 140,

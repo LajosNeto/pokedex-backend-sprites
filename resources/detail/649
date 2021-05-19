@@ -1,6 +1,7 @@
 {
     "id": 649,
-    "name": "genesect",
+    "name_en": "genesect",
+    "name_ja": "ゲノセクト",
     "height": 1.5,
     "weight": 82.5,
     "base_exp": 270,

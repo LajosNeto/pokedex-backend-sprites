@@ -1,6 +1,7 @@
 {
     "id": 568,
-    "name": "trubbish",
+    "name_en": "trubbish",
+    "name_ja": "ヤブクロン",
     "height": 0.6,
     "weight": 31.0,
     "base_exp": 66,

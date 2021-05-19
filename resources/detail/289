@@ -1,6 +1,7 @@
 {
     "id": 289,
-    "name": "slaking",
+    "name_en": "slaking",
+    "name_ja": "ケッキング",
     "height": 2.0,
     "weight": 130.5,
     "base_exp": 252,

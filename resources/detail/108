@@ -1,6 +1,7 @@
 {
     "id": 108,
-    "name": "lickitung",
+    "name_en": "lickitung",
+    "name_ja": "ベロリンガ",
     "height": 1.2,
     "weight": 65.5,
     "base_exp": 77,

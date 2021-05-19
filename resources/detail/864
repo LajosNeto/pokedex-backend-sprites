@@ -1,6 +1,7 @@
 {
     "id": 864,
-    "name": "cursola",
+    "name_en": "cursola",
+    "name_ja": "サニゴーン",
     "height": 1.0,
     "weight": 0.4,
     "base_exp": 179,

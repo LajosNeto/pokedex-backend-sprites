@@ -1,6 +1,7 @@
 {
     "id": 422,
-    "name": "shellos",
+    "name_en": "shellos",
+    "name_ja": "カラナクシ",
     "height": 0.3,
     "weight": 6.3,
     "base_exp": 65,

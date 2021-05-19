@@ -1,6 +1,7 @@
 {
     "id": 632,
-    "name": "durant",
+    "name_en": "durant",
+    "name_ja": "アイアント",
     "height": 0.3,
     "weight": 33.0,
     "base_exp": 169,

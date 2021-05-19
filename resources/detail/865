@@ -1,6 +1,7 @@
 {
     "id": 865,
-    "name": "sirfetchd",
+    "name_en": "sirfetchd",
+    "name_ja": "ネギガナイト",
     "height": 0.8,
     "weight": 117.0,
     "base_exp": 177,

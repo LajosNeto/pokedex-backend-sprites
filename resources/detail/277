@@ -1,6 +1,7 @@
 {
     "id": 277,
-    "name": "swellow",
+    "name_en": "swellow",
+    "name_ja": "オオスバメ",
     "height": 0.7,
     "weight": 19.8,
     "base_exp": 159,

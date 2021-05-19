@@ -1,6 +1,7 @@
 {
     "id": 483,
-    "name": "dialga",
+    "name_en": "dialga",
+    "name_ja": "ディアルガ",
     "height": 5.4,
     "weight": 683.0,
     "base_exp": 306,

@@ -1,6 +1,7 @@
 {
     "id": 443,
-    "name": "gible",
+    "name_en": "gible",
+    "name_ja": "フカマル",
     "height": 0.7,
     "weight": 20.5,
     "base_exp": 60,

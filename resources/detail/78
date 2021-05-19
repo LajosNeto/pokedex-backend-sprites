@@ -1,6 +1,7 @@
 {
     "id": 78,
-    "name": "rapidash",
+    "name_en": "rapidash",
+    "name_ja": "ギャロップ",
     "height": 1.7,
     "weight": 95.0,
     "base_exp": 175,

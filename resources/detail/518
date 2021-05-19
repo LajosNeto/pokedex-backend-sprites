@@ -1,6 +1,7 @@
 {
     "id": 518,
-    "name": "musharna",
+    "name_en": "musharna",
+    "name_ja": "ムシャーナ",
     "height": 1.1,
     "weight": 60.5,
     "base_exp": 170,

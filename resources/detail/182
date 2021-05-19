@@ -1,6 +1,7 @@
 {
     "id": 182,
-    "name": "bellossom",
+    "name_en": "bellossom",
+    "name_ja": "キレイハナ",
     "height": 0.4,
     "weight": 5.8,
     "base_exp": 221,

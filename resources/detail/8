@@ -1,6 +1,7 @@
 {
     "id": 8,
-    "name": "wartortle",
+    "name_en": "wartortle",
+    "name_ja": "カメール",
     "height": 1.0,
     "weight": 22.5,
     "base_exp": 142,

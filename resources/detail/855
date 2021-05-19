@@ -1,6 +1,7 @@
 {
     "id": 855,
-    "name": "polteageist",
+    "name_en": "polteageist",
+    "name_ja": "ポットデス",
     "height": 0.2,
     "weight": 0.4,
     "base_exp": 178,

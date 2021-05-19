@@ -1,6 +1,7 @@
 {
     "id": 811,
-    "name": "thwackey",
+    "name_en": "thwackey",
+    "name_ja": "バチンキー",
     "height": 0.7,
     "weight": 14.0,
     "base_exp": 147,

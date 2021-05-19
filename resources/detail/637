@@ -1,6 +1,7 @@
 {
     "id": 637,
-    "name": "volcarona",
+    "name_en": "volcarona",
+    "name_ja": "ウルガモス",
     "height": 1.6,
     "weight": 46.0,
     "base_exp": 248,

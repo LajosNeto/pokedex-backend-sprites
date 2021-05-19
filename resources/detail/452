@@ -1,6 +1,7 @@
 {
     "id": 452,
-    "name": "drapion",
+    "name_en": "drapion",
+    "name_ja": "ドラピオン",
     "height": 1.3,
     "weight": 61.5,
     "base_exp": 175,

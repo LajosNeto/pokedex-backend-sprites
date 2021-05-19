@@ -1,6 +1,7 @@
 {
     "id": 648,
-    "name": "meloetta-aria",
+    "name_en": "meloetta-aria",
+    "name_ja": "メロエッタ",
     "height": 0.6,
     "weight": 6.5,
     "base_exp": 270,

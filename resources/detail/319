@@ -1,6 +1,7 @@
 {
     "id": 319,
-    "name": "sharpedo",
+    "name_en": "sharpedo",
+    "name_ja": "サメハダー",
     "height": 1.8,
     "weight": 88.8,
     "base_exp": 161,

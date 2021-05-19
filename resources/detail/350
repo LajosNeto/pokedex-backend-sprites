@@ -1,6 +1,7 @@
 {
     "id": 350,
-    "name": "milotic",
+    "name_en": "milotic",
+    "name_ja": "ミロカロス",
     "height": 6.2,
     "weight": 162.0,
     "base_exp": 189,

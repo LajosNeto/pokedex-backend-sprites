@@ -1,6 +1,7 @@
 {
     "id": 428,
-    "name": "lopunny",
+    "name_en": "lopunny",
+    "name_ja": "ミミロップ",
     "height": 1.2,
     "weight": 33.3,
     "base_exp": 168,

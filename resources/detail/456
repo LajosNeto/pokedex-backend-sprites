@@ -1,6 +1,7 @@
 {
     "id": 456,
-    "name": "finneon",
+    "name_en": "finneon",
+    "name_ja": "ケイコウオ",
     "height": 0.4,
     "weight": 7.0,
     "base_exp": 66,

@@ -1,6 +1,7 @@
 {
     "id": 549,
-    "name": "lilligant",
+    "name_en": "lilligant",
+    "name_ja": "ドレディア",
     "height": 1.1,
     "weight": 16.3,
     "base_exp": 168,

@@ -1,6 +1,7 @@
 {
     "id": 566,
-    "name": "archen",
+    "name_en": "archen",
+    "name_ja": "アーケン",
     "height": 0.5,
     "weight": 9.5,
     "base_exp": 71,

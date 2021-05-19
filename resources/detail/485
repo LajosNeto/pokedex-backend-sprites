@@ -1,6 +1,7 @@
 {
     "id": 485,
-    "name": "heatran",
+    "name_en": "heatran",
+    "name_ja": "ヒードラン",
     "height": 1.7,
     "weight": 430.0,
     "base_exp": 270,

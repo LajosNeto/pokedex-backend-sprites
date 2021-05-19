@@ -1,6 +1,7 @@
 {
     "id": 729,
-    "name": "brionne",
+    "name_en": "brionne",
+    "name_ja": "オシャマリ",
     "height": 0.6,
     "weight": 17.5,
     "base_exp": 147,

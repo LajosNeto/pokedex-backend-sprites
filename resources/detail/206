@@ -1,6 +1,7 @@
 {
     "id": 206,
-    "name": "dunsparce",
+    "name_en": "dunsparce",
+    "name_ja": "ノコッチ",
     "height": 1.5,
     "weight": 14.0,
     "base_exp": 145,

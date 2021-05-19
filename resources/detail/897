@@ -1,6 +1,7 @@
 {
     "id": 897,
-    "name": "spectrier",
+    "name_en": "spectrier",
+    "name_ja": "レイスポス",
     "height": 2.0,
     "weight": 44.5,
     "base_exp": 290,

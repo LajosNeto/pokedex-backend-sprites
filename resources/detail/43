@@ -1,6 +1,7 @@
 {
     "id": 43,
-    "name": "oddish",
+    "name_en": "oddish",
+    "name_ja": "ナゾノクサ",
     "height": 0.5,
     "weight": 5.4,
     "base_exp": 64,

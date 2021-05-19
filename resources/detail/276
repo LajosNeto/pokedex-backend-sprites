@@ -1,6 +1,7 @@
 {
     "id": 276,
-    "name": "taillow",
+    "name_en": "taillow",
+    "name_ja": "スバメ",
     "height": 0.3,
     "weight": 2.3,
     "base_exp": 54,

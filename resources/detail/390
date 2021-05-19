@@ -1,6 +1,7 @@
 {
     "id": 390,
-    "name": "chimchar",
+    "name_en": "chimchar",
+    "name_ja": "ヒコザル",
     "height": 0.5,
     "weight": 6.2,
     "base_exp": 62,

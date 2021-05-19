@@ -1,6 +1,7 @@
 {
     "id": 138,
-    "name": "omanyte",
+    "name_en": "omanyte",
+    "name_ja": "オムナイト",
     "height": 0.4,
     "weight": 7.5,
     "base_exp": 71,

@@ -1,6 +1,7 @@
 {
     "id": 128,
-    "name": "tauros",
+    "name_en": "tauros",
+    "name_ja": "ケンタロス",
     "height": 1.4,
     "weight": 88.4,
     "base_exp": 172,

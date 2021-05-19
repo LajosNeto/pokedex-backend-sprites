@@ -1,6 +1,7 @@
 {
     "id": 18,
-    "name": "pidgeot",
+    "name_en": "pidgeot",
+    "name_ja": "ピジョット",
     "height": 1.5,
     "weight": 39.5,
     "base_exp": 216,

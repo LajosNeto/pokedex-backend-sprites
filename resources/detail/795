@@ -1,6 +1,7 @@
 {
     "id": 795,
-    "name": "pheromosa",
+    "name_en": "pheromosa",
+    "name_ja": "フェローチェ",
     "height": 1.8,
     "weight": 25.0,
     "base_exp": 257,

@@ -1,6 +1,7 @@
 {
     "id": 770,
-    "name": "palossand",
+    "name_en": "palossand",
+    "name_ja": "シロデスナ",
     "height": 1.3,
     "weight": 250.0,
     "base_exp": 168,

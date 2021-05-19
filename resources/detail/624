@@ -1,6 +1,7 @@
 {
     "id": 624,
-    "name": "pawniard",
+    "name_en": "pawniard",
+    "name_ja": "コマタナ",
     "height": 0.5,
     "weight": 10.2,
     "base_exp": 68,

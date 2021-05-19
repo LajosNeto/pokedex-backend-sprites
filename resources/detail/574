@@ -1,6 +1,7 @@
 {
     "id": 574,
-    "name": "gothita",
+    "name_en": "gothita",
+    "name_ja": "ゴチム",
     "height": 0.4,
     "weight": 5.8,
     "base_exp": 58,

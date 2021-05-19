@@ -1,6 +1,7 @@
 {
     "id": 709,
-    "name": "trevenant",
+    "name_en": "trevenant",
+    "name_ja": "オーロット",
     "height": 1.5,
     "weight": 71.0,
     "base_exp": 166,

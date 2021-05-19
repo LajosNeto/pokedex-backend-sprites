@@ -1,6 +1,7 @@
 {
     "id": 825,
-    "name": "dottler",
+    "name_en": "dottler",
+    "name_ja": "レドームシ",
     "height": 0.4,
     "weight": 19.5,
     "base_exp": 117,

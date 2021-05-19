@@ -1,6 +1,7 @@
 {
     "id": 606,
-    "name": "beheeyem",
+    "name_en": "beheeyem",
+    "name_ja": "オーベム",
     "height": 1.0,
     "weight": 34.5,
     "base_exp": 170,

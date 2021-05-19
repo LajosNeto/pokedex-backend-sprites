@@ -1,6 +1,7 @@
 {
     "id": 75,
-    "name": "graveler",
+    "name_en": "graveler",
+    "name_ja": "ゴローン",
     "height": 1.0,
     "weight": 105.0,
     "base_exp": 137,

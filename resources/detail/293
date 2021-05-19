@@ -1,6 +1,7 @@
 {
     "id": 293,
-    "name": "whismur",
+    "name_en": "whismur",
+    "name_ja": "ゴニョニョ",
     "height": 0.6,
     "weight": 16.3,
     "base_exp": 48,

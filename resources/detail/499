@@ -1,6 +1,7 @@
 {
     "id": 499,
-    "name": "pignite",
+    "name_en": "pignite",
+    "name_ja": "チャオブー",
     "height": 1.0,
     "weight": 55.5,
     "base_exp": 146,

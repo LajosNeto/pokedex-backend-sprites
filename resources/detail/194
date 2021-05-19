@@ -1,6 +1,7 @@
 {
     "id": 194,
-    "name": "wooper",
+    "name_en": "wooper",
+    "name_ja": "ウパー",
     "height": 0.4,
     "weight": 8.5,
     "base_exp": 42,

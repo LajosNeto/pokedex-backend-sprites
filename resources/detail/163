@@ -1,6 +1,7 @@
 {
     "id": 163,
-    "name": "hoothoot",
+    "name_en": "hoothoot",
+    "name_ja": "ホーホー",
     "height": 0.7,
     "weight": 21.2,
     "base_exp": 52,

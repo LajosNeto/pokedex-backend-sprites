@@ -1,6 +1,7 @@
 {
     "id": 754,
-    "name": "lurantis",
+    "name_en": "lurantis",
+    "name_ja": "ラランテス",
     "height": 0.9,
     "weight": 18.5,
     "base_exp": 168,

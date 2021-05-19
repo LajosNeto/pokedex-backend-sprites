@@ -1,6 +1,7 @@
 {
     "id": 104,
-    "name": "cubone",
+    "name_en": "cubone",
+    "name_ja": "カラカラ",
     "height": 0.4,
     "weight": 6.5,
     "base_exp": 64,

@@ -1,6 +1,7 @@
 {
     "id": 788,
-    "name": "tapu-fini",
+    "name_en": "tapu-fini",
+    "name_ja": "カプ・レヒレ",
     "height": 1.3,
     "weight": 21.2,
     "base_exp": 257,

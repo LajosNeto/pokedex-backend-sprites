@@ -1,6 +1,7 @@
 {
     "id": 847,
-    "name": "barraskewda",
+    "name_en": "barraskewda",
+    "name_ja": "カマスジョー",
     "height": 1.3,
     "weight": 30.0,
     "base_exp": 172,

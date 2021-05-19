@@ -1,6 +1,7 @@
 {
     "id": 9,
-    "name": "blastoise",
+    "name_en": "blastoise",
+    "name_ja": "カメックス",
     "height": 1.6,
     "weight": 85.5,
     "base_exp": 239,

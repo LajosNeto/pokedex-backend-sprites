@@ -1,6 +1,7 @@
 {
     "id": 664,
-    "name": "scatterbug",
+    "name_en": "scatterbug",
+    "name_ja": "コフキムシ",
     "height": 0.3,
     "weight": 2.5,
     "base_exp": 40,

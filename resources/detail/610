@@ -1,6 +1,7 @@
 {
     "id": 610,
-    "name": "axew",
+    "name_en": "axew",
+    "name_ja": "キバゴ",
     "height": 0.6,
     "weight": 18.0,
     "base_exp": 64,

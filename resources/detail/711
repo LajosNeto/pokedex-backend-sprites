@@ -1,6 +1,7 @@
 {
     "id": 711,
-    "name": "gourgeist-average",
+    "name_en": "gourgeist-average",
+    "name_ja": "パンプジン",
     "height": 0.9,
     "weight": 12.5,
     "base_exp": 173,

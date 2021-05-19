@@ -1,6 +1,7 @@
 {
     "id": 814,
-    "name": "raboot",
+    "name_en": "raboot",
+    "name_ja": "ラビフット",
     "height": 0.6,
     "weight": 9.0,
     "base_exp": 147,

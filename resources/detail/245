@@ -1,6 +1,7 @@
 {
     "id": 245,
-    "name": "suicune",
+    "name_en": "suicune",
+    "name_ja": "スイクン",
     "height": 2.0,
     "weight": 187.0,
     "base_exp": 261,

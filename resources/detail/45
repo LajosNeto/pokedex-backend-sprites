@@ -1,6 +1,7 @@
 {
     "id": 45,
-    "name": "vileplume",
+    "name_en": "vileplume",
+    "name_ja": "ラフレシア",
     "height": 1.2,
     "weight": 18.6,
     "base_exp": 221,

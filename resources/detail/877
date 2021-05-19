@@ -1,6 +1,7 @@
 {
     "id": 877,
-    "name": "morpeko",
+    "name_en": "morpeko",
+    "name_ja": "モルペコ",
     "height": 0.3,
     "weight": 3.0,
     "base_exp": 153,

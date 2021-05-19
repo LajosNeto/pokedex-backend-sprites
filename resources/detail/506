@@ -1,6 +1,7 @@
 {
     "id": 506,
-    "name": "lillipup",
+    "name_en": "lillipup",
+    "name_ja": "ヨーテリー",
     "height": 0.4,
     "weight": 4.1,
     "base_exp": 55,

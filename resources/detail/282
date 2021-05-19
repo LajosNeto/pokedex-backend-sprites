@@ -1,6 +1,7 @@
 {
     "id": 282,
-    "name": "gardevoir",
+    "name_en": "gardevoir",
+    "name_ja": "サーナイト",
     "height": 1.6,
     "weight": 48.4,
     "base_exp": 233,

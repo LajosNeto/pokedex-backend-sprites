@@ -1,6 +1,7 @@
 {
     "id": 351,
-    "name": "castform",
+    "name_en": "castform",
+    "name_ja": "ポワルン",
     "height": 0.3,
     "weight": 0.8,
     "base_exp": 147,

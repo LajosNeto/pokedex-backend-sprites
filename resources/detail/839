@@ -1,6 +1,7 @@
 {
     "id": 839,
-    "name": "coalossal",
+    "name_en": "coalossal",
+    "name_ja": "セキタンザン",
     "height": 2.8,
     "weight": 310.5,
     "base_exp": 255,

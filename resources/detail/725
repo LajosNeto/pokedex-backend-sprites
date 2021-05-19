@@ -1,6 +1,7 @@
 {
     "id": 725,
-    "name": "litten",
+    "name_en": "litten",
+    "name_ja": "ニャビー",
     "height": 0.4,
     "weight": 4.3,
     "base_exp": 64,

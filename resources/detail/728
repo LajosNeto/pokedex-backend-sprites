@@ -1,6 +1,7 @@
 {
     "id": 728,
-    "name": "popplio",
+    "name_en": "popplio",
+    "name_ja": "アシマリ",
     "height": 0.4,
     "weight": 7.5,
     "base_exp": 64,

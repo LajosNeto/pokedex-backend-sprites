@@ -1,6 +1,7 @@
 {
     "id": 430,
-    "name": "honchkrow",
+    "name_en": "honchkrow",
+    "name_ja": "ドンカラス",
     "height": 0.9,
     "weight": 27.3,
     "base_exp": 177,

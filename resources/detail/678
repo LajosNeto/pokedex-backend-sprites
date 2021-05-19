@@ -1,6 +1,7 @@
 {
     "id": 678,
-    "name": "meowstic-male",
+    "name_en": "meowstic-male",
+    "name_ja": "ニャオニクス",
     "height": 0.6,
     "weight": 8.5,
     "base_exp": 163,

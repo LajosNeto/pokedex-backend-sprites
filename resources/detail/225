@@ -1,6 +1,7 @@
 {
     "id": 225,
-    "name": "delibird",
+    "name_en": "delibird",
+    "name_ja": "デリバード",
     "height": 0.9,
     "weight": 16.0,
     "base_exp": 116,

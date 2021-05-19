@@ -1,6 +1,7 @@
 {
     "id": 654,
-    "name": "braixen",
+    "name_en": "braixen",
+    "name_ja": "テールナー",
     "height": 1.0,
     "weight": 14.5,
     "base_exp": 143,

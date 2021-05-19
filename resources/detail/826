@@ -1,6 +1,7 @@
 {
     "id": 826,
-    "name": "orbeetle",
+    "name_en": "orbeetle",
+    "name_ja": "イオルブ",
     "height": 0.4,
     "weight": 40.8,
     "base_exp": 253,

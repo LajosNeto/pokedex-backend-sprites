@@ -1,6 +1,7 @@
 {
     "id": 22,
-    "name": "fearow",
+    "name_en": "fearow",
+    "name_ja": "オニドリル",
     "height": 1.2,
     "weight": 38.0,
     "base_exp": 155,

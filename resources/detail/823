@@ -1,6 +1,7 @@
 {
     "id": 823,
-    "name": "corviknight",
+    "name_en": "corviknight",
+    "name_ja": "アーマーガア",
     "height": 2.2,
     "weight": 75.0,
     "base_exp": 248,

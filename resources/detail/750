@@ -1,6 +1,7 @@
 {
     "id": 750,
-    "name": "mudsdale",
+    "name_en": "mudsdale",
+    "name_ja": "バンバドロ",
     "height": 2.5,
     "weight": 920.0,
     "base_exp": 175,

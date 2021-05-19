@@ -1,6 +1,7 @@
 {
     "id": 40,
-    "name": "wigglytuff",
+    "name_en": "wigglytuff",
+    "name_ja": "プクリン",
     "height": 1.0,
     "weight": 12.0,
     "base_exp": 196,

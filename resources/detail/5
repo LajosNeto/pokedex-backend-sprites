@@ -1,6 +1,7 @@
 {
     "id": 5,
-    "name": "charmeleon",
+    "name_en": "charmeleon",
+    "name_ja": "リザード",
     "height": 1.1,
     "weight": 19.0,
     "base_exp": 142,

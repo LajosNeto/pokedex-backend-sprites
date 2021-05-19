@@ -1,6 +1,7 @@
 {
     "id": 250,
-    "name": "ho-oh",
+    "name_en": "ho-oh",
+    "name_ja": "ホウオウ",
     "height": 3.8,
     "weight": 199.0,
     "base_exp": 306,

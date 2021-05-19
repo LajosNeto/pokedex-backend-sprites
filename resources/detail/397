@@ -1,6 +1,7 @@
 {
     "id": 397,
-    "name": "staravia",
+    "name_en": "staravia",
+    "name_ja": "ムクバード",
     "height": 0.6,
     "weight": 15.5,
     "base_exp": 119,

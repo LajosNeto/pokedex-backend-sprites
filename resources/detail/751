@@ -1,6 +1,7 @@
 {
     "id": 751,
-    "name": "dewpider",
+    "name_en": "dewpider",
+    "name_ja": "シズクモ",
     "height": 0.3,
     "weight": 4.0,
     "base_exp": 54,

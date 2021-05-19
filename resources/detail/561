@@ -1,6 +1,7 @@
 {
     "id": 561,
-    "name": "sigilyph",
+    "name_en": "sigilyph",
+    "name_ja": "シンボラー",
     "height": 1.4,
     "weight": 14.0,
     "base_exp": 172,

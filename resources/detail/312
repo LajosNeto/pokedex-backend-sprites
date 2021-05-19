@@ -1,6 +1,7 @@
 {
     "id": 312,
-    "name": "minun",
+    "name_en": "minun",
+    "name_ja": "マイナン",
     "height": 0.4,
     "weight": 4.2,
     "base_exp": 142,

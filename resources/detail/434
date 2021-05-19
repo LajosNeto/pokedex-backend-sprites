@@ -1,6 +1,7 @@
 {
     "id": 434,
-    "name": "stunky",
+    "name_en": "stunky",
+    "name_ja": "スカンプー",
     "height": 0.4,
     "weight": 19.2,
     "base_exp": 66,

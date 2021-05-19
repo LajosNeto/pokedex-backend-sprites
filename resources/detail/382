@@ -1,6 +1,7 @@
 {
     "id": 382,
-    "name": "kyogre",
+    "name_en": "kyogre",
+    "name_ja": "カイオーガ",
     "height": 4.5,
     "weight": 352.0,
     "base_exp": 302,

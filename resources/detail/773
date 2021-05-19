@@ -1,6 +1,7 @@
 {
     "id": 773,
-    "name": "silvally",
+    "name_en": "silvally",
+    "name_ja": "シルヴァディ",
     "height": 2.3,
     "weight": 100.5,
     "base_exp": 257,

@@ -19,6 +19,7 @@ ALL_REGIONS_ID_RANGE = range(1, 898)
 BASE_POKEMON_DATA_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_POKEMON_DETAILS_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_POKEMON_SPECIES_DATA_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
+BASE_NAMES_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 
 BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/"
 SPRITE_FILE_TYPE = ".png"
@@ -71,11 +72,14 @@ def build_detail_data():
         pokemon_data = dict(pokemon_data.json())
         species_data = requests.get(BASE_POKEMON_SPECIES_DATA_API_URL + str(id))
         species_data = dict(species_data.json())
+        name_data = requests.get(BASE_NAMES_API_URL + str(id))
+        name_data = dict(name_data.json())
 
         pokemon_detail = dict()
 
         pokemon_detail['id'] = pokemon_data['id']
-        pokemon_detail['name'] = pokemon_data['name']
+        pokemon_detail['name_en'] = pokemon_data['name']
+        pokemon_detail['name_ja'] = extract_japanese_name(name_data)
         pokemon_detail['height'] = float(pokemon_data['height'])/10
         pokemon_detail['weight'] = float(pokemon_data['weight'])/10
         pokemon_detail['base_exp'] = pokemon_data['base_experience']
@@ -168,6 +172,13 @@ def extract_abilities(pokemon_data):
 
 def extract_habitat(species_data):
     return species_data['habitat']['name'] if species_data['habitat'] is not None else ""
+
+def extract_japanese_name(name_data):
+    name_japanese = ""
+    for name in name_data['names']:
+        if (name['language']['name'] == "ja"):
+            name_japanese = name['name']
+    return name_japanese
 
 if __name__ == '__main__':
     filter_argparse = argparse.ArgumentParser()

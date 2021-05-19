@@ -1,6 +1,7 @@
 {
     "id": 288,
-    "name": "vigoroth",
+    "name_en": "vigoroth",
+    "name_ja": "ヤルキモノ",
     "height": 1.4,
     "weight": 46.5,
     "base_exp": 154,

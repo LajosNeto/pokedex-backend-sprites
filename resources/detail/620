@@ -1,6 +1,7 @@
 {
     "id": 620,
-    "name": "mienshao",
+    "name_en": "mienshao",
+    "name_ja": "コジョンド",
     "height": 1.4,
     "weight": 35.5,
     "base_exp": 179,

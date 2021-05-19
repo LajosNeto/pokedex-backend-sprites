@@ -1,6 +1,7 @@
 {
     "id": 254,
-    "name": "sceptile",
+    "name_en": "sceptile",
+    "name_ja": "ジュカイン",
     "height": 1.7,
     "weight": 52.2,
     "base_exp": 239,

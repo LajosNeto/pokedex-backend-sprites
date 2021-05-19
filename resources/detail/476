@@ -1,6 +1,7 @@
 {
     "id": 476,
-    "name": "probopass",
+    "name_en": "probopass",
+    "name_ja": "ダイノーズ",
     "height": 1.4,
     "weight": 340.0,
     "base_exp": 184,

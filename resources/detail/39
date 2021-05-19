@@ -1,6 +1,7 @@
 {
     "id": 39,
-    "name": "jigglypuff",
+    "name_en": "jigglypuff",
+    "name_ja": "プリン",
     "height": 0.5,
     "weight": 5.5,
     "base_exp": 95,

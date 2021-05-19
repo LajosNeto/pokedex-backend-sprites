@@ -1,6 +1,7 @@
 {
     "id": 300,
-    "name": "skitty",
+    "name_en": "skitty",
+    "name_ja": "エネコ",
     "height": 0.6,
     "weight": 11.0,
     "base_exp": 52,

@@ -1,6 +1,7 @@
 {
     "id": 580,
-    "name": "ducklett",
+    "name_en": "ducklett",
+    "name_ja": "コアルヒー",
     "height": 0.5,
     "weight": 5.5,
     "base_exp": 61,

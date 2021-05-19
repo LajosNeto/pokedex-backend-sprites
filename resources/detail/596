@@ -1,6 +1,7 @@
 {
     "id": 596,
-    "name": "galvantula",
+    "name_en": "galvantula",
+    "name_ja": "デンチュラ",
     "height": 0.8,
     "weight": 14.3,
     "base_exp": 165,

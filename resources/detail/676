@@ -1,6 +1,7 @@
 {
     "id": 676,
-    "name": "furfrou",
+    "name_en": "furfrou",
+    "name_ja": "トリミアン",
     "height": 1.2,
     "weight": 28.0,
     "base_exp": 165,

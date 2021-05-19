@@ -1,6 +1,7 @@
 {
     "id": 204,
-    "name": "pineco",
+    "name_en": "pineco",
+    "name_ja": "クヌギダマ",
     "height": 0.6,
     "weight": 7.2,
     "base_exp": 58,

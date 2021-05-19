@@ -1,6 +1,7 @@
 {
     "id": 635,
-    "name": "hydreigon",
+    "name_en": "hydreigon",
+    "name_ja": "サザンドラ",
     "height": 1.8,
     "weight": 160.0,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 868,
-    "name": "milcery",
+    "name_en": "milcery",
+    "name_ja": "マホミル",
     "height": 0.2,
     "weight": 0.3,
     "base_exp": 54,

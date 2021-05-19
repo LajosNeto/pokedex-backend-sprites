@@ -1,6 +1,7 @@
 {
     "id": 768,
-    "name": "golisopod",
+    "name_en": "golisopod",
+    "name_ja": "グソクムシャ",
     "height": 2.0,
     "weight": 108.0,
     "base_exp": 186,

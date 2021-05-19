@@ -1,6 +1,7 @@
 {
     "id": 571,
-    "name": "zoroark",
+    "name_en": "zoroark",
+    "name_ja": "ゾロアーク",
     "height": 1.6,
     "weight": 81.1,
     "base_exp": 179,

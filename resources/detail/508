@@ -1,6 +1,7 @@
 {
     "id": 508,
-    "name": "stoutland",
+    "name_en": "stoutland",
+    "name_ja": "ムーランド",
     "height": 1.2,
     "weight": 61.0,
     "base_exp": 225,

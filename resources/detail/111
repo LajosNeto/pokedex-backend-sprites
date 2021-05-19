@@ -1,6 +1,7 @@
 {
     "id": 111,
-    "name": "rhyhorn",
+    "name_en": "rhyhorn",
+    "name_ja": "サイホーン",
     "height": 1.0,
     "weight": 115.0,
     "base_exp": 69,

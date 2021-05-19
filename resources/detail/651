@@ -1,6 +1,7 @@
 {
     "id": 651,
-    "name": "quilladin",
+    "name_en": "quilladin",
+    "name_ja": "ハリボーグ",
     "height": 0.7,
     "weight": 29.0,
     "base_exp": 142,

@@ -1,6 +1,7 @@
 {
     "id": 224,
-    "name": "octillery",
+    "name_en": "octillery",
+    "name_ja": "オクタン",
     "height": 0.9,
     "weight": 28.5,
     "base_exp": 168,

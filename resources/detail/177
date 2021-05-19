@@ -1,6 +1,7 @@
 {
     "id": 177,
-    "name": "natu",
+    "name_en": "natu",
+    "name_ja": "ネイティ",
     "height": 0.2,
     "weight": 2.0,
     "base_exp": 64,

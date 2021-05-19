@@ -1,6 +1,7 @@
 {
     "id": 668,
-    "name": "pyroar",
+    "name_en": "pyroar",
+    "name_ja": "カエンジシ",
     "height": 1.5,
     "weight": 81.5,
     "base_exp": 177,

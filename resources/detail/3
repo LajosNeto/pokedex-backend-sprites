@@ -1,6 +1,7 @@
 {
     "id": 3,
-    "name": "venusaur",
+    "name_en": "venusaur",
+    "name_ja": "フシギバナ",
     "height": 2.0,
     "weight": 100.0,
     "base_exp": 236,

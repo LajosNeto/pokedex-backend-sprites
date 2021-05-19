@@ -1,6 +1,7 @@
 {
     "id": 313,
-    "name": "volbeat",
+    "name_en": "volbeat",
+    "name_ja": "バルビート",
     "height": 0.7,
     "weight": 17.7,
     "base_exp": 151,

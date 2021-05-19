@@ -1,6 +1,7 @@
 {
     "id": 336,
-    "name": "seviper",
+    "name_en": "seviper",
+    "name_ja": "ハブネーク",
     "height": 2.7,
     "weight": 52.5,
     "base_exp": 160,

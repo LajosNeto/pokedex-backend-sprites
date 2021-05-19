@@ -1,6 +1,7 @@
 {
     "id": 384,
-    "name": "rayquaza",
+    "name_en": "rayquaza",
+    "name_ja": "レックウザ",
     "height": 7.0,
     "weight": 206.5,
     "base_exp": 306,

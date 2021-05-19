@@ -1,6 +1,7 @@
 {
     "id": 273,
-    "name": "seedot",
+    "name_en": "seedot",
+    "name_ja": "タネボー",
     "height": 0.5,
     "weight": 4.0,
     "base_exp": 44,

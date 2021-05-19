@@ -1,6 +1,7 @@
 {
     "id": 772,
-    "name": "type-null",
+    "name_en": "type-null",
+    "name_ja": "タイプ：ヌル",
     "height": 1.9,
     "weight": 120.5,
     "base_exp": 107,

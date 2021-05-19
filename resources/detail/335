@@ -1,6 +1,7 @@
 {
     "id": 335,
-    "name": "zangoose",
+    "name_en": "zangoose",
+    "name_ja": "ザングース",
     "height": 1.3,
     "weight": 40.3,
     "base_exp": 160,

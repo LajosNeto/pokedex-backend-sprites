@@ -1,6 +1,7 @@
 {
     "id": 459,
-    "name": "snover",
+    "name_en": "snover",
+    "name_ja": "ユキカブリ",
     "height": 1.0,
     "weight": 50.5,
     "base_exp": 67,

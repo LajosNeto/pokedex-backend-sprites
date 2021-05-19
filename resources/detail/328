@@ -1,6 +1,7 @@
 {
     "id": 328,
-    "name": "trapinch",
+    "name_en": "trapinch",
+    "name_ja": "ナックラー",
     "height": 0.7,
     "weight": 15.0,
     "base_exp": 58,

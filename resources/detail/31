@@ -1,6 +1,7 @@
 {
     "id": 31,
-    "name": "nidoqueen",
+    "name_en": "nidoqueen",
+    "name_ja": "ニドクイン",
     "height": 1.3,
     "weight": 60.0,
     "base_exp": 227,

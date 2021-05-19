@@ -1,6 +1,7 @@
 {
     "id": 682,
-    "name": "spritzee",
+    "name_en": "spritzee",
+    "name_ja": "シュシュプ",
     "height": 0.2,
     "weight": 0.5,
     "base_exp": 68,

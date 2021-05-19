@@ -1,6 +1,7 @@
 {
     "id": 736,
-    "name": "grubbin",
+    "name_en": "grubbin",
+    "name_ja": "アゴジムシ",
     "height": 0.4,
     "weight": 4.4,
     "base_exp": 60,

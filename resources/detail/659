@@ -1,6 +1,7 @@
 {
     "id": 659,
-    "name": "bunnelby",
+    "name_en": "bunnelby",
+    "name_ja": "ホルビー",
     "height": 0.4,
     "weight": 5.0,
     "base_exp": 47,

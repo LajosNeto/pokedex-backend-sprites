@@ -1,6 +1,7 @@
 {
     "id": 170,
-    "name": "chinchou",
+    "name_en": "chinchou",
+    "name_ja": "チョンチー",
     "height": 0.5,
     "weight": 12.0,
     "base_exp": 66,

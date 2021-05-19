@@ -1,6 +1,7 @@
 {
     "id": 240,
-    "name": "magby",
+    "name_en": "magby",
+    "name_ja": "ブビィ",
     "height": 0.7,
     "weight": 21.4,
     "base_exp": 73,

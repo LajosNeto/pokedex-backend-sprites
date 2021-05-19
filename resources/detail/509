@@ -1,6 +1,7 @@
 {
     "id": 509,
-    "name": "purrloin",
+    "name_en": "purrloin",
+    "name_ja": "チョロネコ",
     "height": 0.4,
     "weight": 10.1,
     "base_exp": 56,

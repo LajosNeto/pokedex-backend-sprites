@@ -1,6 +1,7 @@
 {
     "id": 472,
-    "name": "gliscor",
+    "name_en": "gliscor",
+    "name_ja": "グライオン",
     "height": 2.0,
     "weight": 42.5,
     "base_exp": 179,

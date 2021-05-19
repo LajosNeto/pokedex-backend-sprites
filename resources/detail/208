@@ -1,6 +1,7 @@
 {
     "id": 208,
-    "name": "steelix",
+    "name_en": "steelix",
+    "name_ja": "ハガネール",
     "height": 9.2,
     "weight": 400.0,
     "base_exp": 179,

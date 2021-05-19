@@ -1,6 +1,7 @@
 {
     "id": 80,
-    "name": "slowbro",
+    "name_en": "slowbro",
+    "name_ja": "ヤドラン",
     "height": 1.6,
     "weight": 78.5,
     "base_exp": 172,

@@ -1,6 +1,7 @@
 {
     "id": 640,
-    "name": "virizion",
+    "name_en": "virizion",
+    "name_ja": "ビリジオン",
     "height": 2.0,
     "weight": 200.0,
     "base_exp": 261,

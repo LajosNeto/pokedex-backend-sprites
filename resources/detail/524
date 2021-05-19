@@ -1,6 +1,7 @@
 {
     "id": 524,
-    "name": "roggenrola",
+    "name_en": "roggenrola",
+    "name_ja": "ダンゴロ",
     "height": 0.4,
     "weight": 18.0,
     "base_exp": 56,

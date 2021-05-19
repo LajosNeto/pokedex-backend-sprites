@@ -1,6 +1,7 @@
 {
     "id": 130,
-    "name": "gyarados",
+    "name_en": "gyarados",
+    "name_ja": "ギャラドス",
     "height": 6.5,
     "weight": 235.0,
     "base_exp": 189,

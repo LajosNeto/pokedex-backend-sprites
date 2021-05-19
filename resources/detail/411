@@ -1,6 +1,7 @@
 {
     "id": 411,
-    "name": "bastiodon",
+    "name_en": "bastiodon",
+    "name_ja": "トリデプス",
     "height": 1.3,
     "weight": 149.5,
     "base_exp": 173,

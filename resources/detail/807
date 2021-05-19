@@ -1,6 +1,7 @@
 {
     "id": 807,
-    "name": "zeraora",
+    "name_en": "zeraora",
+    "name_ja": "ゼラオラ",
     "height": 1.5,
     "weight": 44.5,
     "base_exp": 270,

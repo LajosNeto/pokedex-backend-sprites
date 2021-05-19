@@ -1,6 +1,7 @@
 {
     "id": 322,
-    "name": "numel",
+    "name_en": "numel",
+    "name_ja": "ドンメル",
     "height": 0.7,
     "weight": 24.0,
     "base_exp": 61,

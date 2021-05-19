@@ -1,6 +1,7 @@
 {
     "id": 315,
-    "name": "roselia",
+    "name_en": "roselia",
+    "name_ja": "ロゼリア",
     "height": 0.3,
     "weight": 2.0,
     "base_exp": 140,

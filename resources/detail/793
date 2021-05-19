@@ -1,6 +1,7 @@
 {
     "id": 793,
-    "name": "nihilego",
+    "name_en": "nihilego",
+    "name_ja": "ウツロイド",
     "height": 1.2,
     "weight": 55.5,
     "base_exp": 257,

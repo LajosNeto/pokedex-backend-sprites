@@ -1,6 +1,7 @@
 {
     "id": 261,
-    "name": "poochyena",
+    "name_en": "poochyena",
+    "name_ja": "ポチエナ",
     "height": 0.5,
     "weight": 13.6,
     "base_exp": 56,

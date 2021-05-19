@@ -1,6 +1,7 @@
 {
     "id": 164,
-    "name": "noctowl",
+    "name_en": "noctowl",
+    "name_ja": "ヨルノズク",
     "height": 1.6,
     "weight": 40.8,
     "base_exp": 158,

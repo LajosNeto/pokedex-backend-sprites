@@ -1,6 +1,7 @@
 {
     "id": 181,
-    "name": "ampharos",
+    "name_en": "ampharos",
+    "name_ja": "デンリュウ",
     "height": 1.4,
     "weight": 61.5,
     "base_exp": 230,

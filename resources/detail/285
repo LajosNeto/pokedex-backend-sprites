@@ -1,6 +1,7 @@
 {
     "id": 285,
-    "name": "shroomish",
+    "name_en": "shroomish",
+    "name_ja": "キノココ",
     "height": 0.4,
     "weight": 4.5,
     "base_exp": 59,

@@ -1,6 +1,7 @@
 {
     "id": 67,
-    "name": "machoke",
+    "name_en": "machoke",
+    "name_ja": "ゴーリキー",
     "height": 1.5,
     "weight": 70.5,
     "base_exp": 142,

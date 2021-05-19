@@ -1,6 +1,7 @@
 {
     "id": 468,
-    "name": "togekiss",
+    "name_en": "togekiss",
+    "name_ja": "トゲキッス",
     "height": 1.5,
     "weight": 38.0,
     "base_exp": 245,

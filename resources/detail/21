@@ -1,6 +1,7 @@
 {
     "id": 21,
-    "name": "spearow",
+    "name_en": "spearow",
+    "name_ja": "オニスズメ",
     "height": 0.3,
     "weight": 2.0,
     "base_exp": 52,

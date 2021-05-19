@@ -1,6 +1,7 @@
 {
     "id": 231,
-    "name": "phanpy",
+    "name_en": "phanpy",
+    "name_ja": "ゴマゾウ",
     "height": 0.5,
     "weight": 33.5,
     "base_exp": 66,

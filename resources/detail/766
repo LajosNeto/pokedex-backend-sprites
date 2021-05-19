@@ -1,6 +1,7 @@
 {
     "id": 766,
-    "name": "passimian",
+    "name_en": "passimian",
+    "name_ja": "ナゲツケサル",
     "height": 2.0,
     "weight": 82.8,
     "base_exp": 172,

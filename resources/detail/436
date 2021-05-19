@@ -1,6 +1,7 @@
 {
     "id": 436,
-    "name": "bronzor",
+    "name_en": "bronzor",
+    "name_ja": "ドーミラー",
     "height": 0.5,
     "weight": 60.5,
     "base_exp": 60,

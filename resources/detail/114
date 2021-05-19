@@ -1,6 +1,7 @@
 {
     "id": 114,
-    "name": "tangela",
+    "name_en": "tangela",
+    "name_ja": "モンジャラ",
     "height": 1.0,
     "weight": 35.0,
     "base_exp": 87,

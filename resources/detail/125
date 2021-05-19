@@ -1,6 +1,7 @@
 {
     "id": 125,
-    "name": "electabuzz",
+    "name_en": "electabuzz",
+    "name_ja": "エレブー",
     "height": 1.1,
     "weight": 30.0,
     "base_exp": 172,

@@ -1,6 +1,7 @@
 {
     "id": 85,
-    "name": "dodrio",
+    "name_en": "dodrio",
+    "name_ja": "ドードリオ",
     "height": 1.8,
     "weight": 85.2,
     "base_exp": 165,

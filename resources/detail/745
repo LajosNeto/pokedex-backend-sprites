@@ -1,6 +1,7 @@
 {
     "id": 745,
-    "name": "lycanroc-midday",
+    "name_en": "lycanroc-midday",
+    "name_ja": "ルガルガン",
     "height": 0.8,
     "weight": 25.0,
     "base_exp": 170,

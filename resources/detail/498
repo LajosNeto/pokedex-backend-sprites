@@ -1,6 +1,7 @@
 {
     "id": 498,
-    "name": "tepig",
+    "name_en": "tepig",
+    "name_ja": "ポカブ",
     "height": 0.5,
     "weight": 9.9,
     "base_exp": 62,

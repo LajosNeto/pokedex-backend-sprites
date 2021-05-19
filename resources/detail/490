@@ -1,6 +1,7 @@
 {
     "id": 490,
-    "name": "manaphy",
+    "name_en": "manaphy",
+    "name_ja": "マナフィ",
     "height": 0.3,
     "weight": 1.4,
     "base_exp": 270,

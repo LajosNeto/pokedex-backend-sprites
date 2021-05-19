@@ -1,6 +1,7 @@
 {
     "id": 704,
-    "name": "goomy",
+    "name_en": "goomy",
+    "name_ja": "ヌメラ",
     "height": 0.3,
     "weight": 2.8,
     "base_exp": 60,

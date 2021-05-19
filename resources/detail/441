@@ -1,6 +1,7 @@
 {
     "id": 441,
-    "name": "chatot",
+    "name_en": "chatot",
+    "name_ja": "ペラップ",
     "height": 0.5,
     "weight": 1.9,
     "base_exp": 144,

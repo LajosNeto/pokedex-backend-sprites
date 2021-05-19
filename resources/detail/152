@@ -1,6 +1,7 @@
 {
     "id": 152,
-    "name": "chikorita",
+    "name_en": "chikorita",
+    "name_ja": "チコリータ",
     "height": 0.9,
     "weight": 6.4,
     "base_exp": 64,

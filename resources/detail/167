@@ -1,6 +1,7 @@
 {
     "id": 167,
-    "name": "spinarak",
+    "name_en": "spinarak",
+    "name_ja": "イトマル",
     "height": 0.5,
     "weight": 8.5,
     "base_exp": 50,

@@ -1,6 +1,7 @@
 {
     "id": 267,
-    "name": "beautifly",
+    "name_en": "beautifly",
+    "name_ja": "アゲハント",
     "height": 1.0,
     "weight": 28.4,
     "base_exp": 178,

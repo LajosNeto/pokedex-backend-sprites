@@ -1,6 +1,7 @@
 {
     "id": 714,
-    "name": "noibat",
+    "name_en": "noibat",
+    "name_ja": "オンバット",
     "height": 0.5,
     "weight": 8.0,
     "base_exp": 49,

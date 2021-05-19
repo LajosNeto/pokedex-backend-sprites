@@ -1,6 +1,7 @@
 {
     "id": 159,
-    "name": "croconaw",
+    "name_en": "croconaw",
+    "name_ja": "アリゲイツ",
     "height": 1.1,
     "weight": 25.0,
     "base_exp": 142,

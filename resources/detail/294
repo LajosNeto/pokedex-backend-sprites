@@ -1,6 +1,7 @@
 {
     "id": 294,
-    "name": "loudred",
+    "name_en": "loudred",
+    "name_ja": "ドゴーム",
     "height": 1.0,
     "weight": 40.5,
     "base_exp": 126,

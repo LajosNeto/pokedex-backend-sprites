@@ -1,6 +1,7 @@
 {
     "id": 403,
-    "name": "shinx",
+    "name_en": "shinx",
+    "name_ja": "コリンク",
     "height": 0.5,
     "weight": 9.5,
     "base_exp": 53,

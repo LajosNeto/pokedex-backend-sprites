@@ -1,6 +1,7 @@
 {
     "id": 688,
-    "name": "binacle",
+    "name_en": "binacle",
+    "name_ja": "カメテテ",
     "height": 0.5,
     "weight": 31.0,
     "base_exp": 61,

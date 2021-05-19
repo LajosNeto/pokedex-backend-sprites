@@ -1,6 +1,7 @@
 {
     "id": 317,
-    "name": "swalot",
+    "name_en": "swalot",
+    "name_ja": "マルノーム",
     "height": 1.7,
     "weight": 80.0,
     "base_exp": 163,

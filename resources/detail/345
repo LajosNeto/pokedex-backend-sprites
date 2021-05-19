@@ -1,6 +1,7 @@
 {
     "id": 345,
-    "name": "lileep",
+    "name_en": "lileep",
+    "name_ja": "リリーラ",
     "height": 1.0,
     "weight": 23.8,
     "base_exp": 71,

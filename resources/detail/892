@@ -1,6 +1,7 @@
 {
     "id": 892,
-    "name": "urshifu-single-strike",
+    "name_en": "urshifu-single-strike",
+    "name_ja": "ウーラオス",
     "height": 1.9,
     "weight": 105.0,
     "base_exp": 275,

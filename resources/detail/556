@@ -1,6 +1,7 @@
 {
     "id": 556,
-    "name": "maractus",
+    "name_en": "maractus",
+    "name_ja": "マラカッチ",
     "height": 1.0,
     "weight": 28.0,
     "base_exp": 161,

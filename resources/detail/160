@@ -1,6 +1,7 @@
 {
     "id": 160,
-    "name": "feraligatr",
+    "name_en": "feraligatr",
+    "name_ja": "オーダイル",
     "height": 2.3,
     "weight": 88.8,
     "base_exp": 239,

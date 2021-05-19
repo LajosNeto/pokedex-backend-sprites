@@ -1,6 +1,7 @@
 {
     "id": 582,
-    "name": "vanillite",
+    "name_en": "vanillite",
+    "name_ja": "バニプッチ",
     "height": 0.4,
     "weight": 5.7,
     "base_exp": 61,

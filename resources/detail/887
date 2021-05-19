@@ -1,6 +1,7 @@
 {
     "id": 887,
-    "name": "dragapult",
+    "name_en": "dragapult",
+    "name_ja": "ドラパルト",
     "height": 3.0,
     "weight": 50.0,
     "base_exp": 300,

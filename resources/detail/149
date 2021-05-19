@@ -1,6 +1,7 @@
 {
     "id": 149,
-    "name": "dragonite",
+    "name_en": "dragonite",
+    "name_ja": "カイリュー",
     "height": 2.2,
     "weight": 210.0,
     "base_exp": 270,

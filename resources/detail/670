@@ -1,6 +1,7 @@
 {
     "id": 670,
-    "name": "floette",
+    "name_en": "floette",
+    "name_ja": "フラエッテ",
     "height": 0.2,
     "weight": 0.9,
     "base_exp": 130,

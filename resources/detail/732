@@ -1,6 +1,7 @@
 {
     "id": 732,
-    "name": "trumbeak",
+    "name_en": "trumbeak",
+    "name_ja": "ケララッパ",
     "height": 0.6,
     "weight": 14.8,
     "base_exp": 124,

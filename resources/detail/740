@@ -1,6 +1,7 @@
 {
     "id": 740,
-    "name": "crabominable",
+    "name_en": "crabominable",
+    "name_ja": "ケケンカニ",
     "height": 1.7,
     "weight": 180.0,
     "base_exp": 167,

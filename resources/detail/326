@@ -1,6 +1,7 @@
 {
     "id": 326,
-    "name": "grumpig",
+    "name_en": "grumpig",
+    "name_ja": "ブーピッグ",
     "height": 0.9,
     "weight": 71.5,
     "base_exp": 165,

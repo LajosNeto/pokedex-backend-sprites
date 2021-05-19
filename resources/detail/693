@@ -1,6 +1,7 @@
 {
     "id": 693,
-    "name": "clawitzer",
+    "name_en": "clawitzer",
+    "name_ja": "ブロスター",
     "height": 1.3,
     "weight": 35.3,
     "base_exp": 100,

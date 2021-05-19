@@ -1,6 +1,7 @@
 {
     "id": 101,
-    "name": "electrode",
+    "name_en": "electrode",
+    "name_ja": "マルマイン",
     "height": 1.2,
     "weight": 66.6,
     "base_exp": 172,

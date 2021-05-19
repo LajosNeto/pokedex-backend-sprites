@@ -1,6 +1,7 @@
 {
     "id": 432,
-    "name": "purugly",
+    "name_en": "purugly",
+    "name_ja": "ブニャット",
     "height": 1.0,
     "weight": 43.8,
     "base_exp": 158,

@@ -1,6 +1,7 @@
 {
     "id": 809,
-    "name": "melmetal",
+    "name_en": "melmetal",
+    "name_ja": "メルメタル",
     "height": 2.5,
     "weight": 800.0,
     "base_exp": 270,

@@ -1,6 +1,7 @@
 {
     "id": 491,
-    "name": "darkrai",
+    "name_en": "darkrai",
+    "name_ja": "ダークライ",
     "height": 1.5,
     "weight": 50.5,
     "base_exp": 270,

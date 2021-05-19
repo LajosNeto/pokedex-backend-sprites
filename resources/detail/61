@@ -1,6 +1,7 @@
 {
     "id": 61,
-    "name": "poliwhirl",
+    "name_en": "poliwhirl",
+    "name_ja": "ニョロゾ",
     "height": 1.0,
     "weight": 20.0,
     "base_exp": 135,

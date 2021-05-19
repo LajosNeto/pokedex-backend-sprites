@@ -1,6 +1,7 @@
 {
     "id": 283,
-    "name": "surskit",
+    "name_en": "surskit",
+    "name_ja": "アメタマ",
     "height": 0.5,
     "weight": 1.7,
     "base_exp": 54,

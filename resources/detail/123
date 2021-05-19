@@ -1,6 +1,7 @@
 {
     "id": 123,
-    "name": "scyther",
+    "name_en": "scyther",
+    "name_ja": "ストライク",
     "height": 1.5,
     "weight": 56.0,
     "base_exp": 100,

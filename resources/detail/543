@@ -1,6 +1,7 @@
 {
     "id": 543,
-    "name": "venipede",
+    "name_en": "venipede",
+    "name_ja": "フシデ",
     "height": 0.4,
     "weight": 5.3,
     "base_exp": 52,

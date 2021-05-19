@@ -1,6 +1,7 @@
 {
     "id": 439,
-    "name": "mime-jr",
+    "name_en": "mime-jr",
+    "name_ja": "マネネ",
     "height": 0.6,
     "weight": 13.0,
     "base_exp": 62,

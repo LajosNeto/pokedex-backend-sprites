@@ -1,6 +1,7 @@
 {
     "id": 373,
-    "name": "salamence",
+    "name_en": "salamence",
+    "name_ja": "ボーマンダ",
     "height": 1.5,
     "weight": 102.6,
     "base_exp": 270,

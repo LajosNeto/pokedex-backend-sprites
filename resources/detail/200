@@ -1,6 +1,7 @@
 {
     "id": 200,
-    "name": "misdreavus",
+    "name_en": "misdreavus",
+    "name_ja": "ムウマ",
     "height": 0.7,
     "weight": 1.0,
     "base_exp": 87,

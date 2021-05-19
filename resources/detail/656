@@ -1,6 +1,7 @@
 {
     "id": 656,
-    "name": "froakie",
+    "name_en": "froakie",
+    "name_ja": "ケロマツ",
     "height": 0.3,
     "weight": 7.0,
     "base_exp": 63,

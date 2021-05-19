@@ -1,6 +1,7 @@
 {
     "id": 165,
-    "name": "ledyba",
+    "name_en": "ledyba",
+    "name_ja": "レディバ",
     "height": 1.0,
     "weight": 10.8,
     "base_exp": 53,

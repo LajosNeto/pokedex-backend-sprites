@@ -1,6 +1,7 @@
 {
     "id": 260,
-    "name": "swampert",
+    "name_en": "swampert",
+    "name_ja": "ラグラージ",
     "height": 1.5,
     "weight": 81.9,
     "base_exp": 241,

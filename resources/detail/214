@@ -1,6 +1,7 @@
 {
     "id": 214,
-    "name": "heracross",
+    "name_en": "heracross",
+    "name_ja": "ヘラクロス",
     "height": 1.5,
     "weight": 54.0,
     "base_exp": 175,

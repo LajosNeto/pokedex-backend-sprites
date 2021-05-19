@@ -1,6 +1,7 @@
 {
     "id": 595,
-    "name": "joltik",
+    "name_en": "joltik",
+    "name_ja": "バチュル",
     "height": 0.1,
     "weight": 0.6,
     "base_exp": 64,

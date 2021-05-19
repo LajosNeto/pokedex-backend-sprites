@@ -1,6 +1,7 @@
 {
     "id": 139,
-    "name": "omastar",
+    "name_en": "omastar",
+    "name_ja": "オムスター",
     "height": 1.0,
     "weight": 35.0,
     "base_exp": 173,

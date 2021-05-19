@@ -1,6 +1,7 @@
 {
     "id": 253,
-    "name": "grovyle",
+    "name_en": "grovyle",
+    "name_ja": "ジュプトル",
     "height": 0.9,
     "weight": 21.6,
     "base_exp": 142,

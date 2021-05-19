@@ -1,6 +1,7 @@
 {
     "id": 451,
-    "name": "skorupi",
+    "name_en": "skorupi",
+    "name_ja": "スコルピ",
     "height": 0.8,
     "weight": 12.0,
     "base_exp": 66,

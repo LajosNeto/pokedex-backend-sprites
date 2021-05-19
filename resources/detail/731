@@ -1,6 +1,7 @@
 {
     "id": 731,
-    "name": "pikipek",
+    "name_en": "pikipek",
+    "name_ja": "ツツケラ",
     "height": 0.3,
     "weight": 1.2,
     "base_exp": 53,

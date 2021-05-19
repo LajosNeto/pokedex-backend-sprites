@@ -1,6 +1,7 @@
 {
     "id": 716,
-    "name": "xerneas",
+    "name_en": "xerneas",
+    "name_ja": "ゼルネアス",
     "height": 3.0,
     "weight": 215.0,
     "base_exp": 306,

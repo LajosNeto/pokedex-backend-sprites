@@ -1,6 +1,7 @@
 {
     "id": 157,
-    "name": "typhlosion",
+    "name_en": "typhlosion",
+    "name_ja": "バクフーン",
     "height": 1.7,
     "weight": 79.5,
     "base_exp": 240,

@@ -1,6 +1,7 @@
 {
     "id": 719,
-    "name": "diancie",
+    "name_en": "diancie",
+    "name_ja": "ディアンシー",
     "height": 0.7,
     "weight": 8.8,
     "base_exp": 270,

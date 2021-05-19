@@ -1,6 +1,7 @@
 {
     "id": 851,
-    "name": "centiskorch",
+    "name_en": "centiskorch",
+    "name_ja": "マルヤクデ",
     "height": 3.0,
     "weight": 120.0,
     "base_exp": 184,

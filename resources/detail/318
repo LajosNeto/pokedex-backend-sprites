@@ -1,6 +1,7 @@
 {
     "id": 318,
-    "name": "carvanha",
+    "name_en": "carvanha",
+    "name_ja": "キバニア",
     "height": 0.8,
     "weight": 20.8,
     "base_exp": 61,

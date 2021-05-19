@@ -1,6 +1,7 @@
 {
     "id": 673,
-    "name": "gogoat",
+    "name_en": "gogoat",
+    "name_ja": "ゴーゴート",
     "height": 1.7,
     "weight": 91.0,
     "base_exp": 186,

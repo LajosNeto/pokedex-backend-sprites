@@ -1,6 +1,7 @@
 {
     "id": 573,
-    "name": "cinccino",
+    "name_en": "cinccino",
+    "name_ja": "チラチーノ",
     "height": 0.5,
     "weight": 7.5,
     "base_exp": 165,
