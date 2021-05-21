@@ -2,9 +2,32 @@
     "id": 244,
     "name_en": "entei",
     "name_ja": "エンテイ",
-    "height": 2.1,
-    "weight": 198.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "198.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/244.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/244Entei.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 75,
         "speed": 100
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "Entei embodies the passion of magma. This Pokémon is\nthought to have been born in the eruption of a volcano.\nIt sends up massive bursts of fire that utterly consume all\nthat they touch.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

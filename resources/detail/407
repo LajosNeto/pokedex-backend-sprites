@@ -2,9 +2,32 @@
     "id": 407,
     "name_en": "roserade",
     "name_ja": "ロズレイド",
-    "height": 0.9,
-    "weight": 14.5,
-    "base_exp": 232,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "14.5"
+        },
+        {
+            "name": "base exp",
+            "value": "232"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/407Roserade.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 105,
         "speed": 90
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "The poison in its right hand is quick acting.\nThe poison in its left hand is slow acting.\nBoth are life threatening.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

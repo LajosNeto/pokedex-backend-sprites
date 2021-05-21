@@ -2,9 +2,32 @@
     "id": 568,
     "name_en": "trubbish",
     "name_ja": "ヤブクロン",
-    "height": 0.6,
-    "weight": 31.0,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "31.0"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/568.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/568Trubbish.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 62,
         "speed": 65
     },
-    "abilities": {
-        "name": "aftermath",
-        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "This Pokémon was born from a bag stuffed with\ntrash. Galarian Weezing relish the fumes belched\nby Trubbish.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 870,
     "name_en": "falinks",
     "name_ja": "タイレーツ",
-    "height": 3.0,
-    "weight": 62.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "62.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/870.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/870Falinks.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 75
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "The six of them work together as one Pokémon.\nTeamwork is also their battle strategy, and they\nconstantly change their formation as they fight.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

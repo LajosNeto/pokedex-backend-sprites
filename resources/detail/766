@@ -2,9 +2,32 @@
     "id": 766,
     "name_en": "passimian",
     "name_ja": "ナゲツケサル",
-    "height": 2.0,
-    "weight": 82.8,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "82.8"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/766.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/766Passimian.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 80
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "receiver",
+            "description": "When an ally faints, this Pokémon gains its Ability."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Passimian live in groups of about 20, with\neach member performing an assigned role.\nThrough cooperation, the group survives.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 103,
     "name_en": "exeggutor",
     "name_ja": "ナッシー",
-    "height": 2.0,
-    "weight": 120.0,
-    "base_exp": 186,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "186"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/24/103Exeggutor.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 75,
         "speed": 55
     },
-    "abilities": {
-        "name": "harvest",
-        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "harvest",
+            "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+        }
+    ],
     "types": [
         "grass",
         "psychic"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#f6527e"
     ],
-    "short_description": "When they work together, Exeggutor’s three\nheads can put out powerful psychic energy.\nCloudy days make this Pokémon sluggish.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

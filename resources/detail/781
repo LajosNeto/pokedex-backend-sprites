@@ -2,9 +2,32 @@
     "id": 781,
     "name_en": "dhelmise",
     "name_ja": "ダダリン",
-    "height": 3.9,
-    "weight": 210.0,
-    "base_exp": 181,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.9"
+        },
+        {
+            "name": "weight",
+            "value": "210.0"
+        },
+        {
+            "name": "base exp",
+            "value": "181"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2f/781Dhelmise.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 90,
         "speed": 40
     },
-    "abilities": {
-        "name": "steelworker",
-        "description": "This Pokémon's Steel moves have 1.5× power."
-    },
+    "abilities": [
+        {
+            "name": "steelworker",
+            "description": "This Pokémon's Steel moves have 1.5× power."
+        }
+    ],
     "types": [
         "ghost",
         "grass"
@@ -27,11 +52,8 @@
         "#654e8c",
         "#6dc04c"
     ],
-    "short_description": "After lowering its anchor, it waits for its prey. It\ncatches large Wailord and drains their life-force.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

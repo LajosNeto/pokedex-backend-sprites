@@ -2,9 +2,32 @@
     "id": 762,
     "name_en": "steenee",
     "name_ja": "アママイコ",
-    "height": 0.7,
-    "weight": 8.2,
-    "base_exp": 102,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "8.2"
+        },
+        {
+            "name": "base exp",
+            "value": "102"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/762Steenee.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 48,
         "speed": 62
     },
-    "abilities": {
-        "name": "sweet-veil",
-        "description": "Prevents friendly Pokémon from sleeping."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Any Corvisquire that pecks at this\nPokémon will be greeted with a smack from\nits sepals followed by a sharp kick.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

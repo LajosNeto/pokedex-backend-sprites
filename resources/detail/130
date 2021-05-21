@@ -2,9 +2,32 @@
     "id": 130,
     "name_en": "gyarados",
     "name_ja": "ギャラドス",
-    "height": 6.5,
-    "weight": 235.0,
-    "base_exp": 189,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "6.5"
+        },
+        {
+            "name": "weight",
+            "value": "235.0"
+        },
+        {
+            "name": "base exp",
+            "value": "189"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/41/130Gyarados.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 100,
         "speed": 81
     },
-    "abilities": {
-        "name": "moxie",
-        "description": "Raises Attack one stage upon KOing a Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +56,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "Once it begins to rampage, a Gyarados will burn\neverything down, even in a harsh storm.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
     "habitat": "waters-edge",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

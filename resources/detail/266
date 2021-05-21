@@ -2,9 +2,32 @@
     "id": 266,
     "name_en": "silcoon",
     "name_ja": "カラサリス",
-    "height": 0.6,
-    "weight": 10.0,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "10.0"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/266Silcoon.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 25,
         "speed": 15
     },
-    "abilities": {
-        "name": "shed-skin",
-        "description": "Has a 33% chance of curing any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Silcoon was thought to endure hunger and not consume\nanything before its evolution. However, it is now thought\nthat this Pokémon slakes its thirst by drinking rainwater\nthat collects on its silk.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

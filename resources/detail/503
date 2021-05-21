@@ -2,9 +2,32 @@
     "id": 503,
     "name_en": "samurott",
     "name_ja": "ダイケンキ",
-    "height": 1.5,
-    "weight": 94.6,
-    "base_exp": 238,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "94.6"
+        },
+        {
+            "name": "base exp",
+            "value": "238"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b5/503Samurott.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 70,
         "speed": 70
     },
-    "abilities": {
-        "name": "shell-armor",
-        "description": "Protects against critical hits."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "One swing of the sword incorporated in its armor\ncan fell an opponent. A simple glare from one of\nthem quiets everybody.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

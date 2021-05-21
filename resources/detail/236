@@ -2,9 +2,32 @@
     "id": 236,
     "name_en": "tyrogue",
     "name_ja": "バルキー",
-    "height": 0.7,
-    "weight": 21.0,
-    "base_exp": 42,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "21.0"
+        },
+        {
+            "name": "base exp",
+            "value": "42"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/236Tyrogue.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 35
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "steadfast",
+            "description": "Raises Speed one stage upon flinching."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Even though it is small, it can’t be ignored because\nit will slug any handy target without warning.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

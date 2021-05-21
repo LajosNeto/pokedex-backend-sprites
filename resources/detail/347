@@ -2,9 +2,32 @@
     "id": 347,
     "name_en": "anorith",
     "name_ja": "アノプス",
-    "height": 0.7,
-    "weight": 12.5,
-    "base_exp": 71,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "71"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/45/347Anorith.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 50,
         "speed": 75
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "rock",
         "bug"
@@ -27,11 +56,8 @@
         "#af9539",
         "#9daf2b"
     ],
-    "short_description": "This is one kind of primeval bug Pokémon.\nWith eight wings, it could apparently swim\na lot faster than you’d expect.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you’d expect.",
     "habitat": "waters-edge",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 329,
     "name_en": "vibrava",
     "name_ja": "ビブラーバ",
-    "height": 1.1,
-    "weight": 15.3,
-    "base_exp": 119,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "15.3"
+        },
+        {
+            "name": "base exp",
+            "value": "119"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/329.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/af/329Vibrava.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 50,
         "speed": 70
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "ground",
         "dragon"
@@ -27,11 +52,8 @@
         "#dbb963",
         "#6630f3"
     ],
-    "short_description": "To help make its wings grow, it dissolves\nquantities of prey in its digestive juices and\nguzzles them down every day.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

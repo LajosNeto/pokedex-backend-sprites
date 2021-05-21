@@ -2,9 +2,32 @@
     "id": 713,
     "name_en": "avalugg",
     "name_ja": "クレベース",
-    "height": 2.0,
-    "weight": 505.0,
-    "base_exp": 180,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "505.0"
+        },
+        {
+            "name": "base exp",
+            "value": "180"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/04/713Avalugg.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 46,
         "speed": 28
     },
-    "abilities": {
-        "name": "sturdy",
-        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
-    },
+    "abilities": [
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "As Avalugg moves about during the day,\nthe cracks in its body deepen. The Pokémon’s\nbody returns to a pristine state overnight.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

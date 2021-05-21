@@ -2,9 +2,32 @@
     "id": 691,
     "name_en": "dragalge",
     "name_ja": "ドラミドロ",
-    "height": 1.8,
-    "weight": 81.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "81.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/691.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/691Dragalge.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 123,
         "speed": 44
     },
-    "abilities": {
-        "name": "adaptability",
-        "description": "Increases the same-type attack bonus from 1.5× to 2×."
-    },
+    "abilities": [
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "poison-touch",
+            "description": "Has a 30% chance of poisoning target Pokémon upon contact."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        }
+    ],
     "types": [
         "poison",
         "dragon"
@@ -27,11 +60,8 @@
         "#953a93",
         "#6630f3"
     ],
-    "short_description": "Dragalge generates dragon energy by sticking\nthe plume on its head out above the ocean’s\nsurface and bathing it in sunlight.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

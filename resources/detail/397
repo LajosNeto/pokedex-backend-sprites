@@ -2,9 +2,32 @@
     "id": 397,
     "name_en": "staravia",
     "name_ja": "ムクバード",
-    "height": 0.6,
-    "weight": 15.5,
-    "base_exp": 119,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "15.5"
+        },
+        {
+            "name": "base exp",
+            "value": "119"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/397.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/397Staravia.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 40,
         "speed": 80
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +56,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "It lives in forests and fields. Squabbles over\nterritory occur when flocks collide.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

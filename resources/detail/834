@@ -2,9 +2,32 @@
     "id": 834,
     "name_en": "drednaw",
     "name_ja": "カジリガメ",
-    "height": 1.0,
-    "weight": 115.5,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "115.5"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/be/834Drednaw.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 68,
         "speed": 74
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water",
         "rock"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "This Pokémon rapidly extends its retractable neck\nto sink its sharp fangs into distant enemies and\ntake them down.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

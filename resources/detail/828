@@ -2,9 +2,32 @@
     "id": 828,
     "name_en": "thievul",
     "name_ja": "フォクスライ",
-    "height": 1.2,
-    "weight": 19.9,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "19.9"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/828Thievul.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 92,
         "speed": 90
     },
-    "abilities": {
-        "name": "stakeout",
-        "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "stakeout",
+            "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "With a lithe body and sharp claws, it goes\naround stealing food and eggs. Boltund\nis its natural enemy.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a8733d",
     "evolution_chain": [
         {

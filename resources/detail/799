@@ -2,9 +2,32 @@
     "id": 799,
     "name_en": "guzzlord",
     "name_ja": "アクジキング",
-    "height": 5.5,
-    "weight": 888.0,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "5.5"
+        },
+        {
+            "name": "weight",
+            "value": "888.0"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/799.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/799Guzzlord.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 53,
         "speed": 43
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "dark",
         "dragon"
@@ -27,11 +52,8 @@
         "#644e40",
         "#6630f3"
     ],
-    "short_description": "An unknown life-form called a UB. It may be\nconstantly hungry—it is certainly always\ndevouring something.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

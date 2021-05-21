@@ -2,9 +2,32 @@
     "id": 787,
     "name_en": "tapu-bulu",
     "name_ja": "カプ・ブルル",
-    "height": 1.9,
-    "weight": 45.5,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "45.5"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/787Tapu_Bulu.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 95,
         "speed": 75
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "grassy-surge",
+            "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "grass",
         "fairy"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#eb90a4"
     ],
-    "short_description": "It makes ringing sounds with its tail to let others\nknow where it is, avoiding unneeded conflicts.\nThis guardian deity of Ula’ula controls plants.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

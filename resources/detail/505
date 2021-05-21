@@ -2,9 +2,32 @@
     "id": 505,
     "name_en": "watchog",
     "name_ja": "ミルホッグ",
-    "height": 1.1,
-    "weight": 27.0,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "27.0"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/505.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/505Watchog.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 69,
         "speed": 77
     },
-    "abilities": {
-        "name": "analytic",
-        "description": "Strengthens moves to 1.3× their power when moving last."
-    },
+    "abilities": [
+        {
+            "name": "illuminate",
+            "description": "Doubles the wild encounter rate."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "analytic",
+            "description": "Strengthens moves to 1.3× their power when moving last."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "When they see an enemy, their tails stand high,\nand they spit the seeds of berries stored in their\ncheek pouches.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

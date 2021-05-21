@@ -2,9 +2,32 @@
     "id": 430,
     "name_en": "honchkrow",
     "name_ja": "ドンカラス",
-    "height": 0.9,
-    "weight": 27.3,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "27.3"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/46/430Honchkrow.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 52,
         "speed": 71
     },
-    "abilities": {
-        "name": "moxie",
-        "description": "Raises Attack one stage upon KOing a Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "super-luck",
+            "description": "Raises moves' critical hit rates one stage."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        }
+    ],
     "types": [
         "dark",
         "flying"
@@ -27,11 +60,8 @@
         "#644e40",
         "#9e85eb"
     ],
-    "short_description": "Its goons take care of most of the fighting for it.\nThe only time it dirties its own hands is in\ndelivering a final blow to finish off an opponent.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its goons take care of most of the fighting for it. The only time it dirties its own hands is in delivering a final blow to finish off an opponent.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

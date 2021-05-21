@@ -2,9 +2,32 @@
     "id": 73,
     "name_en": "tentacruel",
     "name_ja": "ドククラゲ",
-    "height": 1.6,
-    "weight": 55.0,
-    "base_exp": 180,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "55.0"
+        },
+        {
+            "name": "base exp",
+            "value": "180"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/073Tentacruel.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 120,
         "speed": 100
     },
-    "abilities": {
-        "name": "rain-dish",
-        "description": "Heals for 1/16 max HP after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "liquid-ooze",
+            "description": "Damages opponents using leeching moves for as much as they would heal."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "poison"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#953a93"
     ],
-    "short_description": "Its 80 tentacles can stretch and shrink freely.\nTentacruel ensnares prey in a net of spread-out\ntentacles, delivering venomous stings to its catch.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

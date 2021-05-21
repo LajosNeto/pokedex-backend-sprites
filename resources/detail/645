@@ -2,9 +2,32 @@
     "id": 645,
     "name_en": "landorus-incarnate",
     "name_ja": "ランドロス",
-    "height": 1.5,
-    "weight": 68.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "68.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/645Landorus.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 80,
         "speed": 101
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "ground",
         "flying"
@@ -27,11 +56,8 @@
         "#dbb963",
         "#9e85eb"
     ],
-    "short_description": "From the forces of lightning and wind, it creates\nenergy to give nutrients to the soil and make the\nland abundant.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

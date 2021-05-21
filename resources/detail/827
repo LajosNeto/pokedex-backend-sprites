@@ -2,9 +2,32 @@
     "id": 827,
     "name_en": "nickit",
     "name_ja": "クスネ",
-    "height": 0.6,
-    "weight": 8.9,
-    "base_exp": 49,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.9"
+        },
+        {
+            "name": "base exp",
+            "value": "49"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/22/827Nickit.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 52,
         "speed": 50
     },
-    "abilities": {
-        "name": "stakeout",
-        "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "stakeout",
+            "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Cunning and cautious, this Pokémon survives by\nstealing food from others. It erases its tracks with\nswipes of its tail as it makes off with its plunder.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 194,
     "name_en": "wooper",
     "name_ja": "ウパー",
-    "height": 0.4,
-    "weight": 8.5,
-    "base_exp": 42,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "42"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/194Wooper.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 25,
         "speed": 15
     },
-    "abilities": {
-        "name": "unaware",
-        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
-    },
+    "abilities": [
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        },
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        }
+    ],
     "types": [
         "water",
         "ground"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#dbb963"
     ],
-    "short_description": "When walking on land, it covers its body with a\npoisonous film that keeps its skin from dehydrating.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

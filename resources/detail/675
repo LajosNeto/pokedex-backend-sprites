@@ -2,9 +2,32 @@
     "id": 675,
     "name_en": "pangoro",
     "name_ja": "ゴロンダ",
-    "height": 2.1,
-    "weight": 136.0,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "136.0"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/08/675Pangoro.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 71,
         "speed": 58
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        },
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "fighting",
         "dark"
@@ -27,11 +60,8 @@
         "#b72f29",
         "#644e40"
     ],
-    "short_description": "Using its leaf, Pangoro can predict the moves of\nits opponents. It strikes with punches that can\nturn a dump truck into scrap with just one hit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 264,
     "name_en": "linoone",
     "name_ja": "マッスグマ",
-    "height": 0.5,
-    "weight": 32.5,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "32.5"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/264Linoone.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 61,
         "speed": 100
     },
-    "abilities": {
-        "name": "quick-feet",
-        "description": "Increases Speed to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

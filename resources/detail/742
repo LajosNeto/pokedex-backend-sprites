@@ -2,9 +2,32 @@
     "id": 742,
     "name_en": "cutiefly",
     "name_ja": "アブリー",
-    "height": 0.1,
-    "weight": 0.2,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.1"
+        },
+        {
+            "name": "weight",
+            "value": "0.2"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/742Cutiefly.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 84
     },
-    "abilities": {
-        "name": "sweet-veil",
-        "description": "Prevents friendly Pokémon from sleeping."
-    },
+    "abilities": [
+        {
+            "name": "honey-gather",
+            "description": "The Pokémon may pick up honey after battle."
+        },
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        }
+    ],
     "types": [
         "bug",
         "fairy"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#eb90a4"
     ],
-    "short_description": "An opponent’s aura can tell Cutiefly what that\nopponent’s next move will be. Then Cutiefly can\nglide around the attack and strike back.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

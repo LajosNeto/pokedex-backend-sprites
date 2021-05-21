@@ -2,9 +2,32 @@
     "id": 422,
     "name_en": "shellos",
     "name_ja": "カラナクシ",
-    "height": 0.3,
-    "weight": 6.3,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "6.3"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/422.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/422Shellos.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 62,
         "speed": 34
     },
-    "abilities": {
-        "name": "sand-force",
-        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "storm-drain",
+            "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+        },
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Subjecting this Pokémon to a strong force\ncauses it to secrete a strange purple fluid.\nThough harmless, the fluid is awfully sticky.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

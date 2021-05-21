@@ -2,9 +2,32 @@
     "id": 125,
     "name_en": "electabuzz",
     "name_ja": "エレブー",
-    "height": 1.1,
-    "weight": 30.0,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/125.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/de/125Electabuzz.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 85,
         "speed": 105
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "If a major power outage occurs, it is certain\nthat this Pokémon has eaten electricity\nat a power plant.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

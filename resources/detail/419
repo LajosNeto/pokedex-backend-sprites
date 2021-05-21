@@ -2,9 +2,32 @@
     "id": 419,
     "name_en": "floatzel",
     "name_ja": "フローゼル",
-    "height": 1.1,
-    "weight": 33.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "33.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/419.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/419Floatzel.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 115
     },
-    "abilities": {
-        "name": "water-veil",
-        "description": "Prevents burns."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

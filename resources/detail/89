@@ -2,9 +2,32 @@
     "id": 89,
     "name_en": "muk",
     "name_ja": "ベトベトン",
-    "height": 1.2,
-    "weight": 30.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/89.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7c/089Muk.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 100,
         "speed": 50
     },
-    "abilities": {
-        "name": "poison-touch",
-        "description": "Has a 30% chance of poisoning target Pokémon upon contact."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "poison-touch",
+            "description": "Has a 30% chance of poisoning target Pokémon upon contact."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Smells so awful, it can cause fainting.\nThrough degeneration of its nose,\nit lost its sense of smell.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

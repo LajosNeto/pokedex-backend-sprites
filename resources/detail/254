@@ -2,9 +2,32 @@
     "id": 254,
     "name_en": "sceptile",
     "name_ja": "ジュカイン",
-    "height": 1.7,
-    "weight": 52.2,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "52.2"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/254.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/254Sceptile.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 85,
         "speed": 120
     },
-    "abilities": {
-        "name": "unburden",
-        "description": "Doubles Speed upon using or losing a held item."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Sceptile has seeds growing on its back. They are said to be\nbursting with nutrients that revitalize trees. This Pokémon\nraises the trees in a forest with loving care.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

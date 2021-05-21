@@ -2,9 +2,32 @@
     "id": 316,
     "name_en": "gulpin",
     "name_ja": "ゴクリン",
-    "height": 0.4,
-    "weight": 10.3,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "10.3"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/316.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/316Gulpin.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 53,
         "speed": 40
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "liquid-ooze",
+            "description": "Damages opponents using leeching moves for as much as they would heal."
+        },
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Most of Gulpin’s body is made up of its stomach—its heart and\nbrain are very small in comparison. This Pokémon’s stomach\ncontains special enzymes that dissolve anything.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
     "habitat": "grassland",
-    "growth_rate": "fast-then-very-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

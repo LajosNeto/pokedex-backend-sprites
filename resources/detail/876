@@ -2,9 +2,32 @@
     "id": 876,
     "name_en": "indeedee-male",
     "name_ja": "イエッサン",
-    "height": 0.9,
-    "weight": 28.0,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/876Indeedee.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 95
     },
-    "abilities": {
-        "name": "psychic-surge",
-        "description": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "psychic-surge",
+            "description": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+        }
+    ],
     "types": [
         "psychic",
         "normal"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#9e9e6f"
     ],
-    "short_description": "Through its horns, it can pick up on the emotions\nof creatures around it. Positive emotions are the\nsource of its strength.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

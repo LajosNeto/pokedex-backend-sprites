@@ -2,9 +2,32 @@
     "id": 754,
     "name_en": "lurantis",
     "name_ja": "ラランテス",
-    "height": 0.9,
-    "weight": 18.5,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "18.5"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/754.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/19/754Lurantis.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 90,
         "speed": 45
     },
-    "abilities": {
-        "name": "contrary",
-        "description": "Inverts stat changes."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The petals on this Pokémon’s arms are thin and\nsuper sharp, and they can fire laser beams if\nLurantis gathers light first.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The petals on this Pokémon’s arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

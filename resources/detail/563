@@ -2,9 +2,32 @@
     "id": 563,
     "name_en": "cofagrigus",
     "name_ja": "デスカーン",
-    "height": 1.7,
-    "weight": 76.5,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "76.5"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/563Cofagrigus.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 105,
         "speed": 30
     },
-    "abilities": {
-        "name": "mummy",
-        "description": "Changes attacking Pokémon's abilities to Mummy on contact."
-    },
+    "abilities": [
+        {
+            "name": "mummy",
+            "description": "Changes attacking Pokémon's abilities to Mummy on contact."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "There are many depictions of Cofagrigus\ndecorating ancient tombs. They’re symbols\nof the wealth that kings of bygone eras had.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

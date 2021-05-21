@@ -2,9 +2,32 @@
     "id": 883,
     "name_en": "arctovish",
     "name_ja": "ウオチルドン",
-    "height": 2.0,
-    "weight": 175.0,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "175.0"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/03/883Arctovish.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 55
     },
-    "abilities": {
-        "name": "slush-rush",
-        "description": "During Hail, this Pokémon has double Speed."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "slush-rush",
+            "description": "During Hail, this Pokémon has double Speed."
+        }
+    ],
     "types": [
         "water",
         "ice"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#8ed2d2"
     ],
-    "short_description": "The skin on its face is impervious to attack, but\nbreathing difficulties made this Pokémon go\nextinct anyway.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

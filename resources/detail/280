@@ -2,9 +2,32 @@
     "id": 280,
     "name_en": "ralts",
     "name_ja": "ラルトス",
-    "height": 0.4,
-    "weight": 6.6,
-    "base_exp": 40,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "6.6"
+        },
+        {
+            "name": "base exp",
+            "value": "40"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/280Ralts.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 35,
         "speed": 40
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "trace",
+            "description": "Copies an opponent's ability upon entering battle."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "psychic",
         "fairy"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "If its horns capture the warm feelings of people\nor Pokémon, its body warms up slightly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
     "habitat": "urban",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

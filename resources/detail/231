@@ -2,9 +2,32 @@
     "id": 231,
     "name_en": "phanpy",
     "name_ja": "ゴマゾウ",
-    "height": 0.5,
-    "weight": 33.5,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "33.5"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/231Phanpy.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 40,
         "speed": 40
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Phanpy uses its long nose to shower itself. When others\ngather around, they thoroughly douse each other with water.\nThese Pokémon can be seen drying their soaking-wet\nbodies at the edge of water.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

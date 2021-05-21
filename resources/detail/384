@@ -2,9 +2,32 @@
     "id": 384,
     "name_en": "rayquaza",
     "name_ja": "レックウザ",
-    "height": 7.0,
-    "weight": 206.5,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "7.0"
+        },
+        {
+            "name": "weight",
+            "value": "206.5"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/384.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/384Rayquaza.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 90,
         "speed": 95
     },
-    "abilities": {
-        "name": "air-lock",
-        "description": "Negates all effects of weather, but does not prevent the weather itself."
-    },
+    "abilities": [
+        {
+            "name": "air-lock",
+            "description": "Negates all effects of weather, but does not prevent the weather itself."
+        }
+    ],
     "types": [
         "dragon",
         "flying"
@@ -27,11 +52,8 @@
         "#6630f3",
         "#9e85eb"
     ],
-    "short_description": "It flies forever through the ozone layer, consuming\nmeteoroids for sustenance. The many meteoroids\nin its body provide the energy it needs to Mega Evolve.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
     "habitat": "rare",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

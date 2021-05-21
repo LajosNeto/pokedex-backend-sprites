@@ -2,9 +2,32 @@
     "id": 780,
     "name_en": "drampa",
     "name_ja": "ジジーロン",
-    "height": 3.0,
-    "weight": 185.0,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "185.0"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dc/780Drampa.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 91,
         "speed": 36
     },
-    "abilities": {
-        "name": "cloud-nine",
-        "description": "Negates all effects of weather, but does not prevent the weather itself."
-    },
+    "abilities": [
+        {
+            "name": "berserk",
+            "description": "Raises this Pokémon's Special Attack by one stage every time its HP drops below half."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "cloud-nine",
+            "description": "Negates all effects of weather, but does not prevent the weather itself."
+        }
+    ],
     "types": [
         "normal",
         "dragon"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#6630f3"
     ],
-    "short_description": "Drampa is a kind and friendly Pokémon—up until\nit’s angered. When that happens, it stirs up a\ngale and flattens everything around.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

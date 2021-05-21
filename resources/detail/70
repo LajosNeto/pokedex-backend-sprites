@@ -2,9 +2,32 @@
     "id": 70,
     "name_en": "weepinbell",
     "name_ja": "ウツドン",
-    "height": 1.0,
-    "weight": 6.4,
-    "base_exp": 137,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "6.4"
+        },
+        {
+            "name": "base exp",
+            "value": "137"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/70.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9f/070Weepinbell.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 45,
         "speed": 55
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "When hungry, it swallows anything that moves.\nIts hapless prey is dissolved by strong acids.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

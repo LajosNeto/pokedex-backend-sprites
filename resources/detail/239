@@ -2,9 +2,32 @@
     "id": 239,
     "name_en": "elekid",
     "name_ja": "エレキッド",
-    "height": 0.6,
-    "weight": 23.5,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "23.5"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/239.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5d/239Elekid.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 95
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "When its horns shine a bluish white, that’s the\nsign it’s fully charged. You’ll get a shocking\njolt if you touch it!",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When its horns shine a bluish white, that’s the sign it’s fully charged. You’ll get a shocking jolt if you touch it!",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

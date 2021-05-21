@@ -2,9 +2,32 @@
     "id": 639,
     "name_en": "terrakion",
     "name_ja": "テラキオン",
-    "height": 1.9,
-    "weight": 260.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "260.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/639Terrakion.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 90,
         "speed": 108
     },
-    "abilities": {
-        "name": "justified",
-        "description": "Raises Attack one stage upon taking damage from a dark move."
-    },
+    "abilities": [
+        {
+            "name": "justified",
+            "description": "Raises Attack one stage upon taking damage from a dark move."
+        }
+    ],
     "types": [
         "rock",
         "fighting"
@@ -27,11 +52,8 @@
         "#af9539",
         "#b72f29"
     ],
-    "short_description": "Spoken of in legend, this Pokémon used its\nphenomenal power to destroy a castle in its effort\nto protect Pokémon.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

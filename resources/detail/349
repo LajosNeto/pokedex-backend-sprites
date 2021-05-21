@@ -2,9 +2,32 @@
     "id": 349,
     "name_en": "feebas",
     "name_ja": "ヒンバス",
-    "height": 0.6,
-    "weight": 7.4,
-    "base_exp": 40,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "7.4"
+        },
+        {
+            "name": "base exp",
+            "value": "40"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/349.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/349Feebas.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 80
     },
-    "abilities": {
-        "name": "adaptability",
-        "description": "Increases the same-type attack bonus from 1.5× to 2×."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It is a shabby and ugly Pokémon. However, it is\nvery hardy and can survive on little water.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
     "habitat": "waters-edge",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a8733d",
     "evolution_chain": [
         {

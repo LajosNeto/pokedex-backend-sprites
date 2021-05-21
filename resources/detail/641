@@ -2,9 +2,32 @@
     "id": 641,
     "name_en": "tornadus-incarnate",
     "name_ja": "トルネロス",
-    "height": 1.5,
-    "weight": 63.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "63.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/08/641Tornadus.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 80,
         "speed": 111
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "flying"
     ],
     "types_colors": [
         "#9e85eb"
     ],
-    "short_description": "Tornadus expels massive energy from its tail,\ncausing severe storms. Its power is great enough\nto blow houses away.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

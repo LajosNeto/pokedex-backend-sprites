@@ -2,9 +2,32 @@
     "id": 738,
     "name_en": "vikavolt",
     "name_ja": "クワガノン",
-    "height": 1.5,
-    "weight": 45.0,
-    "base_exp": 225,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "45.0"
+        },
+        {
+            "name": "base exp",
+            "value": "225"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/738.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/738Vikavolt.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 75,
         "speed": 43
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "bug",
         "electric"
@@ -27,11 +52,8 @@
         "#9daf2b",
         "#f6cb3b"
     ],
-    "short_description": "If it carries a Charjabug to use as a spare battery,\na flying Vikavolt can rapidly fire high-powered\nbeams of electricity.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

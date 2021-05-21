@@ -2,9 +2,32 @@
     "id": 624,
     "name_en": "pawniard",
     "name_ja": "コマタナ",
-    "height": 0.5,
-    "weight": 10.2,
-    "base_exp": 68,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "10.2"
+        },
+        {
+            "name": "base exp",
+            "value": "68"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9c/624Pawniard.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 60
     },
-    "abilities": {
-        "name": "pressure",
-        "description": "Increases the PP cost of moves targetting the Pokémon by one."
-    },
+    "abilities": [
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        }
+    ],
     "types": [
         "dark",
         "steel"
@@ -27,11 +60,8 @@
         "#644e40",
         "#afafc9"
     ],
-    "short_description": "A pack of these Pokémon forms to serve a\nBisharp boss. Each Pawniard trains diligently,\ndreaming of one day taking the lead.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

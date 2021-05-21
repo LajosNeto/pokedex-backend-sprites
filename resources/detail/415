@@ -2,9 +2,32 @@
     "id": 415,
     "name_en": "combee",
     "name_ja": "ミツハニー",
-    "height": 0.3,
-    "weight": 5.5,
-    "base_exp": 49,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "5.5"
+        },
+        {
+            "name": "base exp",
+            "value": "49"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b6/415Combee.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 42,
         "speed": 70
     },
-    "abilities": {
-        "name": "hustle",
-        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
-    },
+    "abilities": [
+        {
+            "name": "honey-gather",
+            "description": "The Pokémon may pick up honey after battle."
+        },
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        }
+    ],
     "types": [
         "bug",
         "flying"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "It ceaselessly gathers nectar from sunrise to\nsundown, all for the sake of Vespiquen and\nthe swarm.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

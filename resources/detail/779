@@ -2,9 +2,32 @@
     "id": 779,
     "name_en": "bruxish",
     "name_ja": "ハギギシリ",
-    "height": 0.9,
-    "weight": 19.0,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "19.0"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/779.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/92/779Bruxish.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 92
     },
-    "abilities": {
-        "name": "wonder-skin",
-        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
-    },
+    "abilities": [
+        {
+            "name": "dazzling",
+            "description": "Opposing Pokémon cannot use priority attacks."
+        },
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "wonder-skin",
+            "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+        }
+    ],
     "types": [
         "water",
         "psychic"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#f6527e"
     ],
-    "short_description": "Its skin is thick enough to fend off Mareanie’s\nspikes. With its robust teeth, Bruxish crunches\nup the spikes and eats them.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 895,
     "name_en": "regidrago",
     "name_ja": "レジドラゴ",
-    "height": 2.1,
-    "weight": 200.0,
-    "base_exp": 290,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "200.0"
+        },
+        {
+            "name": "base exp",
+            "value": "290"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/895Regidrago.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 50,
         "speed": 80
     },
-    "abilities": {
-        "name": "dragons-maw",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "dragons-maw",
+            "description": ""
+        }
+    ],
     "types": [
         "dragon"
     ],
@@ -26,10 +51,7 @@
         "#6630f3"
     ],
     "short_description": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
-    "is_legendary": true,
-    "is_mythical": false,
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

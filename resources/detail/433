@@ -2,9 +2,32 @@
     "id": 433,
     "name_en": "chingling",
     "name_ja": "リーシャン",
-    "height": 0.2,
-    "weight": 0.6,
-    "base_exp": 57,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.6"
+        },
+        {
+            "name": "base exp",
+            "value": "57"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/433.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ed/433Chingling.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 50,
         "speed": 45
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "There is an orb inside its mouth. When it hops,\nthe orb bounces all over and makes a\nringing sound.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#ecd061",
     "evolution_chain": [
         {

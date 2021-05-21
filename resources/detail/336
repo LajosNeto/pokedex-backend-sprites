@@ -2,9 +2,32 @@
     "id": 336,
     "name_en": "seviper",
     "name_ja": "ハブネーク",
-    "height": 2.7,
-    "weight": 52.5,
-    "base_exp": 160,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.7"
+        },
+        {
+            "name": "weight",
+            "value": "52.5"
+        },
+        {
+            "name": "base exp",
+            "value": "160"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/336.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d6/336Seviper.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 65
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Seviper’s swordlike tail serves two purposes—it slashes foes\nand douses them with secreted poison. This Pokémon will not\ngive up its long-running blood feud with Zangoose.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
     "habitat": "grassland",
-    "growth_rate": "fast-then-very-slow",
     "color": "#585858",
     "evolution_chain": [
         {

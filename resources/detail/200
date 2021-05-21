@@ -2,9 +2,32 @@
     "id": 200,
     "name_en": "misdreavus",
     "name_ja": "ムウマ",
-    "height": 0.7,
-    "weight": 1.0,
-    "base_exp": 87,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "1.0"
+        },
+        {
+            "name": "base exp",
+            "value": "87"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/be/200Misdreavus.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 85,
         "speed": 85
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "What makes it happy is imitating the voices of\nweeping people and scaring everyone. It doesn’t\ndeal well with folks who aren’t easily frightened.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened.",
     "habitat": "cave",
-    "growth_rate": "fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 325,
     "name_en": "spoink",
     "name_ja": "バネブー",
-    "height": 0.7,
-    "weight": 30.6,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "30.6"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/325.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9e/325Spoink.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 60
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Spoink keeps a pearl on top of its head. The pearl functions to\namplify this Pokémon’s psychokinetic powers. It is therefore on\na constant search for a bigger pearl.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
     "habitat": "mountain",
-    "growth_rate": "fast",
     "color": "#585858",
     "evolution_chain": [
         {

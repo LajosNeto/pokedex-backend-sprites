@@ -2,9 +2,32 @@
     "id": 185,
     "name_en": "sudowoodo",
     "name_ja": "ウソッキー",
-    "height": 1.2,
-    "weight": 38.0,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "38.0"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1e/185Sudowoodo.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 30
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "It disguises itself as a tree to avoid attack. It hates\nwater, so it will disappear if it starts raining.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 321,
     "name_en": "wailord",
     "name_ja": "ホエルオー",
-    "height": 14.5,
-    "weight": 398.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "14.5"
+        },
+        {
+            "name": "weight",
+            "value": "398.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/321.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b9/321Wailord.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 60
     },
-    "abilities": {
-        "name": "pressure",
-        "description": "Increases the PP cost of moves targetting the Pokémon by one."
-    },
+    "abilities": [
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its immense size is the reason for its popularity.\nWailord watching is a favorite sightseeing\nactivity in various parts of the world.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
     "habitat": "sea",
-    "growth_rate": "fast-then-very-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

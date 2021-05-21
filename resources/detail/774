@@ -2,9 +2,32 @@
     "id": 774,
     "name_en": "minior-red-meteor",
     "name_ja": "メテノ",
-    "height": 0.3,
-    "weight": 40.0,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "40.0"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/90/774Minior.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 100,
         "speed": 60
     },
-    "abilities": {
-        "name": "shields-down",
-        "description": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form."
-    },
+    "abilities": [
+        {
+            "name": "shields-down",
+            "description": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form."
+        }
+    ],
     "types": [
         "rock",
         "flying"
@@ -27,11 +52,8 @@
         "#af9539",
         "#9e85eb"
     ],
-    "short_description": "Although its outer shell is uncommonly durable,\nthe shock of falling to the ground smashes the\nshell to smithereens.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

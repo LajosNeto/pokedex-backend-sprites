@@ -2,9 +2,32 @@
     "id": 533,
     "name_en": "gurdurr",
     "name_ja": "ドテッコツ",
-    "height": 1.2,
-    "weight": 40.0,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "40.0"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/533.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/533Gurdurr.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 40
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Gurdurr excels at demolition—construction is not\nits forte. In any case, there’s skill in the way this\nPokémon wields its metal beam.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

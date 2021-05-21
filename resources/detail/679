@@ -2,9 +2,32 @@
     "id": 679,
     "name_en": "honedge",
     "name_ja": "ヒトツキ",
-    "height": 0.8,
-    "weight": 2.0,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "2.0"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/35/679Honedge.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 37,
         "speed": 28
     },
-    "abilities": {
-        "name": "no-guard",
-        "description": "Ensures all moves used by and against the Pokémon hit."
-    },
+    "abilities": [
+        {
+            "name": "no-guard",
+            "description": "Ensures all moves used by and against the Pokémon hit."
+        }
+    ],
     "types": [
         "steel",
         "ghost"
@@ -27,11 +52,8 @@
         "#afafc9",
         "#654e8c"
     ],
-    "short_description": "The blue eye on the sword’s handguard is the\ntrue body of Honedge. With its old cloth, it\ndrains people’s lives away.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 293,
     "name_en": "whismur",
     "name_ja": "ゴニョニョ",
-    "height": 0.6,
-    "weight": 16.3,
-    "base_exp": 48,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "16.3"
+        },
+        {
+            "name": "base exp",
+            "value": "48"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/293.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/293Whismur.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 23,
         "speed": 28
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "When Whismur cries, the sound of its own voice\nstartles it, making the Pokémon cry even louder.\nIt cries until it’s exhausted, then it falls asleep.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

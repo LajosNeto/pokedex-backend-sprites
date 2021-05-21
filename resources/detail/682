@@ -2,9 +2,32 @@
     "id": 682,
     "name_en": "spritzee",
     "name_ja": "シュシュプ",
-    "height": 0.2,
-    "weight": 0.5,
-    "base_exp": 68,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.5"
+        },
+        {
+            "name": "base exp",
+            "value": "68"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/682.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/66/682Spritzee.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 23
     },
-    "abilities": {
-        "name": "aroma-veil",
-        "description": "Protects allies against moves that affect their mental state."
-    },
+    "abilities": [
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        },
+        {
+            "name": "aroma-veil",
+            "description": "Protects allies against moves that affect their mental state."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "The scent its body gives off enraptures those\nwho smell it. Noble ladies had no shortage of\nlove for Spritzee.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 872,
     "name_en": "snom",
     "name_ja": "ユキハミ",
-    "height": 0.3,
-    "weight": 3.8,
-    "base_exp": 37,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.8"
+        },
+        {
+            "name": "base exp",
+            "value": "37"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/872Snom.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 30,
         "speed": 20
     },
-    "abilities": {
-        "name": "ice-scales",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "ice-scales",
+            "description": ""
+        }
+    ],
     "types": [
         "ice",
         "bug"
@@ -27,11 +56,8 @@
         "#8ed2d2",
         "#9daf2b"
     ],
-    "short_description": "It eats snow that piles up on the ground.\nThe more snow it eats, the bigger and more\nimpressive the spikes on its back grow.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

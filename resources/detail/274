@@ -2,9 +2,32 @@
     "id": 274,
     "name_en": "nuzleaf",
     "name_ja": "コノハナ",
-    "height": 1.0,
-    "weight": 28.0,
-    "base_exp": 119,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "119"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/07/274Nuzleaf.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 60
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "grass",
         "dark"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#644e40"
     ],
-    "short_description": "They live in holes bored in large trees. The sound\nof Nuzleaf’s grass flute fills listeners with dread.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

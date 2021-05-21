@@ -2,9 +2,32 @@
     "id": 640,
     "name_en": "virizion",
     "name_ja": "ビリジオン",
-    "height": 2.0,
-    "weight": 200.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "200.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/640Virizion.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 129,
         "speed": 108
     },
-    "abilities": {
-        "name": "justified",
-        "description": "Raises Attack one stage upon taking damage from a dark move."
-    },
+    "abilities": [
+        {
+            "name": "justified",
+            "description": "Raises Attack one stage upon taking damage from a dark move."
+        }
+    ],
     "types": [
         "grass",
         "fighting"
@@ -27,11 +52,8 @@
         "#6dc04c",
         "#b72f29"
     ],
-    "short_description": "Legends say this Pokémon confounded opponents\nwith its swift movements.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Legends say this Pokémon confounded opponents with its swift movements.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

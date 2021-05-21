@@ -2,9 +2,32 @@
     "id": 717,
     "name_en": "yveltal",
     "name_ja": "イベルタル",
-    "height": 5.8,
-    "weight": 203.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "5.8"
+        },
+        {
+            "name": "weight",
+            "value": "203.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/54/717Yveltal.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 98,
         "speed": 99
     },
-    "abilities": {
-        "name": "dark-aura",
-        "description": "Strengthens dark moves to 1.33× their power for all friendly and opposing Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "dark-aura",
+            "description": "Strengthens dark moves to 1.33× their power for all friendly and opposing Pokémon."
+        }
+    ],
     "types": [
         "dark",
         "flying"
@@ -27,11 +52,8 @@
         "#644e40",
         "#9e85eb"
     ],
-    "short_description": "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

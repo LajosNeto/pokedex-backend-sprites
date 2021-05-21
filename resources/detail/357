@@ -2,9 +2,32 @@
     "id": 357,
     "name_en": "tropius",
     "name_ja": "トロピウス",
-    "height": 2.0,
-    "weight": 100.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "100.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dd/357Tropius.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 87,
         "speed": 51
     },
-    "abilities": {
-        "name": "harvest",
-        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "solar-power",
+            "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+        },
+        {
+            "name": "harvest",
+            "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+        }
+    ],
     "types": [
         "grass",
         "flying"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#9e85eb"
     ],
-    "short_description": "Bunches of delicious fruit grow around its neck.\nIn warm areas, many ranches raise Tropius.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

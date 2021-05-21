@@ -2,9 +2,32 @@
     "id": 213,
     "name_en": "shuckle",
     "name_ja": "ツボツボ",
-    "height": 0.6,
-    "weight": 20.5,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "20.5"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/213Shuckle.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 230,
         "speed": 5
     },
-    "abilities": {
-        "name": "contrary",
-        "description": "Inverts stat changes."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        }
+    ],
     "types": [
         "bug",
         "rock"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#af9539"
     ],
-    "short_description": "The berries stored in its vaselike shell eventually\nbecome a thick, pulpy juice.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
     "habitat": "mountain",
-    "growth_rate": "medium-slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

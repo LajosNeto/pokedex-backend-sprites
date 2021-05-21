@@ -2,9 +2,32 @@
     "id": 789,
     "name_en": "cosmog",
     "name_ja": "コスモッグ",
-    "height": 0.2,
-    "weight": 0.1,
-    "base_exp": 40,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.1"
+        },
+        {
+            "name": "base exp",
+            "value": "40"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/789Cosmog.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 31,
         "speed": 37
     },
-    "abilities": {
-        "name": "unaware",
-        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
-    },
+    "abilities": [
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Cosmog is very curious but not very cautious,\noften placing itself in danger. If things start to\nlook dicey, it teleports away.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

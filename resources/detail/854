@@ -2,9 +2,32 @@
     "id": 854,
     "name_en": "sinistea",
     "name_ja": "ヤバチャ",
-    "height": 0.1,
-    "weight": 0.2,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.1"
+        },
+        {
+            "name": "weight",
+            "value": "0.2"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/854Sinistea.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 54,
         "speed": 50
     },
-    "abilities": {
-        "name": "cursed-body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        },
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "The teacup in which this Pokémon makes its\nhome is a famous piece of antique tableware.\nMany forgeries are in circulation.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

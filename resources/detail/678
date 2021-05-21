@@ -2,9 +2,32 @@
     "id": 678,
     "name_en": "meowstic-male",
     "name_ja": "ニャオニクス",
-    "height": 0.6,
-    "weight": 8.5,
-    "base_exp": 163,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "163"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/678.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/678Meowstic.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 81,
         "speed": 104
     },
-    "abilities": {
-        "name": "prankster",
-        "description": "Raises non-damaging moves' priority by one stage."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        },
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "The defensive instinct of the males is strong.\nIt’s when they’re protecting themselves or their\npartners that they unleash their full power.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

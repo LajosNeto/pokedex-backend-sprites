@@ -2,9 +2,32 @@
     "id": 228,
     "name_en": "houndour",
     "name_ja": "デルビル",
-    "height": 0.6,
-    "weight": 10.8,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "10.8"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/228.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/228Houndour.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 65
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "dark",
         "fire"
@@ -27,11 +60,8 @@
         "#644e40",
         "#ed7835"
     ],
-    "short_description": "They make repeated eerie howls before dawn\nto call attention to their pack.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They make repeated eerie howls before dawn to call attention to their pack.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

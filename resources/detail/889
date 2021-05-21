@@ -2,9 +2,32 @@
     "id": 889,
     "name_en": "zamazenta-hero",
     "name_ja": "ザマゼンタ",
-    "height": 2.9,
-    "weight": 210.0,
-    "base_exp": 335,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.9"
+        },
+        {
+            "name": "weight",
+            "value": "210.0"
+        },
+        {
+            "name": "base exp",
+            "value": "335"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/97/889Zamazenta-Hero.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 115,
         "speed": 138
     },
-    "abilities": {
-        "name": "dauntless-shield",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "dauntless-shield",
+            "description": ""
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "This Pokémon slept for aeons while in the form of\na statue. It was asleep for so long, people forgot\nthat it ever existed.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

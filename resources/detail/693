@@ -2,9 +2,32 @@
     "id": 693,
     "name_en": "clawitzer",
     "name_ja": "ブロスター",
-    "height": 1.3,
-    "weight": 35.3,
-    "base_exp": 100,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "35.3"
+        },
+        {
+            "name": "base exp",
+            "value": "100"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/693.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/693Clawitzer.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 89,
         "speed": 59
     },
-    "abilities": {
-        "name": "mega-launcher",
-        "description": "Strengthens aura and pulse moves to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "mega-launcher",
+            "description": "Strengthens aura and pulse moves to 1.5× their power."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Clawitzer’s right arm is a cannon that launches\nprojectiles made of seawater. Shots from a\nClawitzer’s cannon arm can sink a tanker.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

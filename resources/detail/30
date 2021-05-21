@@ -2,9 +2,32 @@
     "id": 30,
     "name_en": "nidorina",
     "name_ja": "ニドリーナ",
-    "height": 0.8,
-    "weight": 20.0,
-    "base_exp": 128,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "20.0"
+        },
+        {
+            "name": "base exp",
+            "value": "128"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/030Nidorina.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 56
     },
-    "abilities": {
-        "name": "hustle",
-        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
-    },
+    "abilities": [
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        },
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "When resting deep in its burrow, its barbs always\nretract. This is proof that it is relaxed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 401,
     "name_en": "kricketot",
     "name_ja": "コロボーシ",
-    "height": 0.3,
-    "weight": 2.2,
-    "base_exp": 39,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.2"
+        },
+        {
+            "name": "base exp",
+            "value": "39"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/401.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/33/401Kricketot.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 41,
         "speed": 25
     },
-    "abilities": {
-        "name": "run-away",
-        "description": "Ensures success fleeing from wild battles."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "When its antennae hit each other, it sounds like the\nmusic of a xylophone.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When its antennae hit each other, it sounds like the music of a xylophone.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

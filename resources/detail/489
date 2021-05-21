@@ -2,9 +2,32 @@
     "id": 489,
     "name_en": "phione",
     "name_ja": "フィオネ",
-    "height": 0.4,
-    "weight": 3.1,
-    "base_exp": 216,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "3.1"
+        },
+        {
+            "name": "base exp",
+            "value": "216"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/489.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/489Phione.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 80,
         "speed": 80
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It drifts in warm seas. It always returns to where it\nwas born, no matter how far it may have drifted.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 398,
     "name_en": "staraptor",
     "name_ja": "ムクホーク",
-    "height": 1.2,
-    "weight": 24.9,
-    "base_exp": 218,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "24.9"
+        },
+        {
+            "name": "base exp",
+            "value": "218"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5e/398Staraptor.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 60,
         "speed": 100
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +56,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "When Staravia evolve into Staraptor, they leave the\nflock to live alone. They have sturdy wings.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 412,
     "name_en": "burmy",
     "name_ja": "ミノムッチ",
-    "height": 0.2,
-    "weight": 3.4,
-    "base_exp": 45,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "3.4"
+        },
+        {
+            "name": "base exp",
+            "value": "45"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/412Burmy.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 45,
         "speed": 36
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

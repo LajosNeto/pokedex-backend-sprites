@@ -2,9 +2,32 @@
     "id": 47,
     "name_en": "parasect",
     "name_ja": "パラセクト",
-    "height": 1.0,
-    "weight": 29.5,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "29.5"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/047Parasect.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 30
     },
-    "abilities": {
-        "name": "damp",
-        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
-    },
+    "abilities": [
+        {
+            "name": "effect-spore",
+            "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+        },
+        {
+            "name": "dry-skin",
+            "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        }
+    ],
     "types": [
         "bug",
         "grass"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#6dc04c"
     ],
-    "short_description": "The bug host is drained of energy by\nthe mushroom on its back. The mushroom\nappears to do all the thinking.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

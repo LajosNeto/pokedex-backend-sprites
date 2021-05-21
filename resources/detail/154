@@ -2,9 +2,32 @@
     "id": 154,
     "name_en": "meganium",
     "name_ja": "メガニウム",
-    "height": 1.8,
-    "weight": 100.5,
-    "base_exp": 236,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "100.5"
+        },
+        {
+            "name": "base exp",
+            "value": "236"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/154.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d1/154Meganium.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 100,
         "speed": 80
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The fragrance of Meganium’s flower soothes and calms\nemotions. In battle, this Pokémon gives off more of its\nbecalming scent to blunt the foe’s fighting spirit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

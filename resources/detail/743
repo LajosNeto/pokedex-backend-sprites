@@ -2,9 +2,32 @@
     "id": 743,
     "name_en": "ribombee",
     "name_ja": "アブリボン",
-    "height": 0.2,
-    "weight": 0.5,
-    "base_exp": 162,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.5"
+        },
+        {
+            "name": "base exp",
+            "value": "162"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/743Ribombee.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 124
     },
-    "abilities": {
-        "name": "sweet-veil",
-        "description": "Prevents friendly Pokémon from sleeping."
-    },
+    "abilities": [
+        {
+            "name": "honey-gather",
+            "description": "The Pokémon may pick up honey after battle."
+        },
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        }
+    ],
     "types": [
         "bug",
         "fairy"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#eb90a4"
     ],
-    "short_description": "Ribombee absolutely hate getting wet or\nrained on. In the cloudy Galar region,\nthey are very seldom seen.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

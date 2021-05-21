@@ -2,9 +2,32 @@
     "id": 736,
     "name_en": "grubbin",
     "name_ja": "アゴジムシ",
-    "height": 0.4,
-    "weight": 4.4,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.4"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/736.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/14/736Grubbin.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 45,
         "speed": 46
     },
-    "abilities": {
-        "name": "swarm",
-        "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
-    },
+    "abilities": [
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "It uses its big jaws to dig nests into the forest\nfloor, and it loves to feed on sweet tree sap.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

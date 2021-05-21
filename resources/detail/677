@@ -2,9 +2,32 @@
     "id": 677,
     "name_en": "espurr",
     "name_ja": "ニャスパー",
-    "height": 0.3,
-    "weight": 3.5,
-    "base_exp": 71,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.5"
+        },
+        {
+            "name": "base exp",
+            "value": "71"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/677.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/09/677Espurr.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 68
     },
-    "abilities": {
-        "name": "own-tempo",
-        "description": "Prevents confusion."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "There’s enough psychic power in Espurr to send a\nwrestler flying, but because this power can’t be\ncontrolled, Espurr finds it troublesome.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

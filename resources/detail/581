@@ -2,9 +2,32 @@
     "id": 581,
     "name_en": "swanna",
     "name_ja": "スワンナ",
-    "height": 1.3,
-    "weight": 24.2,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "24.2"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/581Swanna.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 63,
         "speed": 98
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "Swanna start to dance at dusk. The one dancing in\nthe middle is the leader of the flock.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 372,
     "name_en": "shelgon",
     "name_ja": "コモルー",
-    "height": 1.1,
-    "weight": 110.5,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "110.5"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/372Shelgon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 50
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "dragon"
     ],
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "Shelgon lives deep within caves. It stays shut\nup in its hard shell, dreaming of the day it will\nbe able to fly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

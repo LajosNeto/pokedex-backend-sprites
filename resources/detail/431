@@ -2,9 +2,32 @@
     "id": 431,
     "name_en": "glameow",
     "name_ja": "ニャルマー",
-    "height": 0.5,
-    "weight": 3.9,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "3.9"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/431.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/26/431Glameow.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 37,
         "speed": 85
     },
-    "abilities": {
-        "name": "keen-eye",
-        "description": "Prevents accuracy from being lowered."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "When it’s happy, Glameow demonstrates beautiful\nmovements of its tail, like a dancing ribbon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

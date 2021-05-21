@@ -2,9 +2,32 @@
     "id": 37,
     "name_en": "vulpix",
     "name_ja": "ロコン",
-    "height": 0.6,
-    "weight": 9.9,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "9.9"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/037Vulpix.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 65
     },
-    "abilities": {
-        "name": "drought",
-        "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "drought",
+            "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "If you observe its curly hairs through\na microscope, you’ll see small ice\nparticles springing up.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If you observe its curly hairs through a microscope, you’ll see small ice particles springing up.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

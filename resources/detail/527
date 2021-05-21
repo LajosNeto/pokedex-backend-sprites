@@ -2,9 +2,32 @@
     "id": 527,
     "name_en": "woobat",
     "name_ja": "コロモリ",
-    "height": 0.4,
-    "weight": 2.1,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "2.1"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/527.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/36/527Woobat.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 43,
         "speed": 72
     },
-    "abilities": {
-        "name": "simple",
-        "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
-    },
+    "abilities": [
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "simple",
+            "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+        }
+    ],
     "types": [
         "psychic",
         "flying"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#9e85eb"
     ],
-    "short_description": "It emits ultrasonic waves as it flutters about,\nsearching for its prey—bug Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

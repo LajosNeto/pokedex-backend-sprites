@@ -2,9 +2,32 @@
     "id": 523,
     "name_en": "zebstrika",
     "name_ja": "ゼブライカ",
-    "height": 1.6,
-    "weight": 79.5,
-    "base_exp": 174,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "79.5"
+        },
+        {
+            "name": "base exp",
+            "value": "174"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/523.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/523Zebstrika.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 63,
         "speed": 116
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "motor-drive",
+            "description": "Absorbs electric moves, raising Speed one stage."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 749,
     "name_en": "mudbray",
     "name_ja": "ドロバンコ",
-    "height": 1.0,
-    "weight": 110.0,
-    "base_exp": 77,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "110.0"
+        },
+        {
+            "name": "base exp",
+            "value": "77"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/749.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/749Mudbray.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 45
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "stamina",
+            "description": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "It eats dirt to create mud and smears this mud all\nover its feet, giving them the grip needed to walk\non rough terrain without slipping.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

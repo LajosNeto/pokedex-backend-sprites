@@ -2,9 +2,32 @@
     "id": 289,
     "name_en": "slaking",
     "name_ja": "ケッキング",
-    "height": 2.0,
-    "weight": 130.5,
-    "base_exp": 252,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "130.5"
+        },
+        {
+            "name": "base exp",
+            "value": "252"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/289.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/289Slaking.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 65,
         "speed": 100
     },
-    "abilities": {
-        "name": "truant",
-        "description": "Skips every second turn."
-    },
+    "abilities": [
+        {
+            "name": "truant",
+            "description": "Skips every second turn."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Wherever Slaking live, rings of over a yard in diameter appear\nin grassy fields. They are made by the Pokémon as it eats all\nthe grass within reach while lying prone on the ground.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

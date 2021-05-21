@@ -2,9 +2,32 @@
     "id": 96,
     "name_en": "drowzee",
     "name_ja": "スリープ",
-    "height": 1.0,
-    "weight": 32.4,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "32.4"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/96.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/096Drowzee.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 90,
         "speed": 42
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "forewarn",
+            "description": "Reveals the opponents' strongest move upon entering battle."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "If you sleep by it all the time, it will sometimes\nshow you dreams it had eaten in the past.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

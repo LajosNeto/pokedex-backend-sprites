@@ -2,9 +2,32 @@
     "id": 276,
     "name_en": "taillow",
     "name_ja": "スバメ",
-    "height": 0.3,
-    "weight": 2.3,
-    "base_exp": 54,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.3"
+        },
+        {
+            "name": "base exp",
+            "value": "54"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/276.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/276Taillow.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 30,
         "speed": 85
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +56,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "Taillow is young—it has only just left its nest. As a result,\nit sometimes becomes lonesome and cries at night.\nThis Pokémon feeds on Wurmple that live in forests.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

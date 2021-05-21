@@ -2,9 +2,32 @@
     "id": 461,
     "name_en": "weavile",
     "name_ja": "マニューラ",
-    "height": 1.1,
-    "weight": 34.0,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "34.0"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/461Weavile.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 85,
         "speed": 125
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "dark",
         "ice"
@@ -27,11 +56,8 @@
         "#644e40",
         "#8ed2d2"
     ],
-    "short_description": "With its claws, it leaves behind signs for its\nfriends to find. The number of distinct signs\nis said to be over 500.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 285,
     "name_en": "shroomish",
     "name_ja": "キノココ",
-    "height": 0.4,
-    "weight": 4.5,
-    "base_exp": 59,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.5"
+        },
+        {
+            "name": "base exp",
+            "value": "59"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d8/285Shroomish.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 35
     },
-    "abilities": {
-        "name": "quick-feet",
-        "description": "Increases Speed to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "effect-spore",
+            "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+        },
+        {
+            "name": "poison-heal",
+            "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "If Shroomish senses danger, it shakes its body and scatters\nspores from the top of its head. This Pokémon’s spores are\nso toxic, they make trees and weeds wilt.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
     "habitat": "forest",
-    "growth_rate": "fast-then-very-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

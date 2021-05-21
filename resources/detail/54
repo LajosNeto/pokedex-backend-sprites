@@ -2,9 +2,32 @@
     "id": 54,
     "name_en": "psyduck",
     "name_ja": "コダック",
-    "height": 0.8,
-    "weight": 19.6,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "19.6"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/54.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/054Psyduck.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 55
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        },
+        {
+            "name": "cloud-nine",
+            "description": "Negates all effects of weather, but does not prevent the weather itself."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "As Psyduck gets stressed out, its headache gets\nprogressively worse. It uses intense psychic\nenergy to overwhelm those around it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

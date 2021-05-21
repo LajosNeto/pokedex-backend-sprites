@@ -2,9 +2,32 @@
     "id": 313,
     "name_en": "volbeat",
     "name_ja": "バルビート",
-    "height": 0.7,
-    "weight": 17.7,
-    "base_exp": 151,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "17.7"
+        },
+        {
+            "name": "base exp",
+            "value": "151"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/313.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d6/313Volbeat.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 85
     },
-    "abilities": {
-        "name": "prankster",
-        "description": "Raises non-damaging moves' priority by one stage."
-    },
+    "abilities": [
+        {
+            "name": "illuminate",
+            "description": "Doubles the wild encounter rate."
+        },
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Volbeat’s tail glows like a lightbulb. With other Volbeat,\nit uses its tail to draw geometric shapes in the night sky.\nThis Pokémon loves the sweet aroma given off by Illumise.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
     "habitat": "forest",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

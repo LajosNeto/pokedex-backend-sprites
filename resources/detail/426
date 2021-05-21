@@ -2,9 +2,32 @@
     "id": 426,
     "name_en": "drifblim",
     "name_ja": "フワライド",
-    "height": 1.2,
-    "weight": 15.0,
-    "base_exp": 174,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "15.0"
+        },
+        {
+            "name": "base exp",
+            "value": "174"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/426Drifblim.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 54,
         "speed": 80
     },
-    "abilities": {
-        "name": "flare-boost",
-        "description": "Increases Special Attack to 1.5× when burned."
-    },
+    "abilities": [
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "flare-boost",
+            "description": "Increases Special Attack to 1.5× when burned."
+        }
+    ],
     "types": [
         "ghost",
         "flying"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#9e85eb"
     ],
-    "short_description": "It grabs people and Pokémon and carries them\noff somewhere. Where do they go?\nNobody knows.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.",
     "habitat": "",
-    "growth_rate": "fast-then-very-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

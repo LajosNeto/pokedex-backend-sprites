@@ -2,9 +2,32 @@
     "id": 38,
     "name_en": "ninetales",
     "name_ja": "キュウコン",
-    "height": 1.1,
-    "weight": 19.9,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "19.9"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/038Ninetales.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 100,
         "speed": 100
     },
-    "abilities": {
-        "name": "drought",
-        "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "drought",
+            "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "While it will guide travelers who get lost on a\nsnowy mountain down to the mountain’s base,\nit won’t forgive anyone who harms nature.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

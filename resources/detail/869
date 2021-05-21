@@ -2,9 +2,32 @@
     "id": 869,
     "name_en": "alcremie",
     "name_ja": "マホイップ",
-    "height": 0.3,
-    "weight": 0.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "0.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/869.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e0/869Alcremie.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 121,
         "speed": 64
     },
-    "abilities": {
-        "name": "aroma-veil",
-        "description": "Protects allies against moves that affect their mental state."
-    },
+    "abilities": [
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        },
+        {
+            "name": "aroma-veil",
+            "description": "Protects allies against moves that affect their mental state."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "When Alcremie is content, the cream it\nsecretes from its hands becomes sweeter\nand richer.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

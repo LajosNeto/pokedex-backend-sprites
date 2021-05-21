@@ -2,9 +2,32 @@
     "id": 484,
     "name_en": "palkia",
     "name_ja": "パルキア",
-    "height": 4.2,
-    "weight": 336.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "4.2"
+        },
+        {
+            "name": "weight",
+            "value": "336.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/66/484Palkia.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 120,
         "speed": 100
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "water",
         "dragon"
@@ -27,11 +56,8 @@
         "#5f84ea",
         "#6630f3"
     ],
-    "short_description": "It has the ability to distort space. It is described as\na deity in Sinnoh-region mythology.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

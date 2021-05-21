@@ -2,9 +2,32 @@
     "id": 702,
     "name_en": "dedenne",
     "name_ja": "デデンネ",
-    "height": 0.2,
-    "weight": 2.2,
-    "base_exp": 151,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "2.2"
+        },
+        {
+            "name": "base exp",
+            "value": "151"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/702.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/702Dedenne.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 67,
         "speed": 101
     },
-    "abilities": {
-        "name": "plus",
-        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
-    },
+    "abilities": [
+        {
+            "name": "cheek-pouch",
+            "description": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+        },
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        }
+    ],
     "types": [
         "electric",
         "fairy"
@@ -27,11 +60,8 @@
         "#f6cb3b",
         "#eb90a4"
     ],
-    "short_description": "Since Dedenne can’t generate much electricity on\nits own, it steals electricity from outlets or other\nelectric Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

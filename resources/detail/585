@@ -2,9 +2,32 @@
     "id": 585,
     "name_en": "deerling",
     "name_ja": "シキジカ",
-    "height": 0.6,
-    "weight": 19.5,
-    "base_exp": 67,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "19.5"
+        },
+        {
+            "name": "base exp",
+            "value": "67"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/585.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/68/585Deerling-Spring.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 75
     },
-    "abilities": {
-        "name": "serene-grace",
-        "description": "Doubles the chance of moves' extra effects occurring."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        }
+    ],
     "types": [
         "normal",
         "grass"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#6dc04c"
     ],
-    "short_description": "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

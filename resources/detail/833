@@ -2,9 +2,32 @@
     "id": 833,
     "name_en": "chewtle",
     "name_ja": "カムカメ",
-    "height": 0.3,
-    "weight": 8.5,
-    "base_exp": 57,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "57"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/22/833Chewtle.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 38,
         "speed": 44
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It starts off battles by attacking with its rock-hard\nhorn, but as soon as the opponent flinches, this\nPokémon bites down and never lets go.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

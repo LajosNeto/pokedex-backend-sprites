@@ -2,9 +2,32 @@
     "id": 99,
     "name_en": "kingler",
     "name_ja": "キングラー",
-    "height": 1.3,
-    "weight": 60.0,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "60.0"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/99.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/099Kingler.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 75
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "The bubbles it spews out are strongly alkaline.\nAny opponents hit by them will have their bodies\nquickly melted away.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

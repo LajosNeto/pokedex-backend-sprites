@@ -2,9 +2,32 @@
     "id": 458,
     "name_en": "mantyke",
     "name_ja": "タマンタ",
-    "height": 1.0,
-    "weight": 65.0,
-    "base_exp": 69,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "65.0"
+        },
+        {
+            "name": "base exp",
+            "value": "69"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/458.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/458Mantyke.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 120,
         "speed": 50
     },
-    "abilities": {
-        "name": "water-veil",
-        "description": "Prevents burns."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "It swims along with a school of Remoraid, and\nthey’ll all fight together to repel attackers.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It swims along with a school of Remoraid, and they’ll all fight together to repel attackers.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

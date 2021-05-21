@@ -2,9 +2,32 @@
     "id": 338,
     "name_en": "solrock",
     "name_ja": "ソルロック",
-    "height": 1.2,
-    "weight": 154.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "154.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/338.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/90/338Solrock.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 65,
         "speed": 70
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "rock",
         "psychic"
@@ -27,11 +52,8 @@
         "#af9539",
         "#f6527e"
     ],
-    "short_description": "Solar energy is the source of its power, so it is\nstrong during the daytime. When it spins, its\nbody shines.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
     "habitat": "cave",
-    "growth_rate": "fast",
     "color": "#e0626a",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 520,
     "name_en": "tranquill",
     "name_ja": "ハトーボー",
-    "height": 0.6,
-    "weight": 15.0,
-    "base_exp": 125,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "15.0"
+        },
+        {
+            "name": "base exp",
+            "value": "125"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/520Tranquill.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 42,
         "speed": 65
     },
-    "abilities": {
-        "name": "rivalry",
-        "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
-    },
+    "abilities": [
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        },
+        {
+            "name": "super-luck",
+            "description": "Raises moves' critical hit rates one stage."
+        },
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "These bright Pokémon have acute memories.\nApparently delivery workers often choose them\nas their partners.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

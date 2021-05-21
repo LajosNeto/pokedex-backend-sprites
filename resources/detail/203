@@ -2,9 +2,32 @@
     "id": 203,
     "name_en": "girafarig",
     "name_ja": "キリンリキ",
-    "height": 1.5,
-    "weight": 41.5,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "41.5"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/203Girafarig.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 65,
         "speed": 85
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "normal",
         "psychic"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#f6527e"
     ],
-    "short_description": "Girafarig’s rear head contains a tiny brain that is too small for\nthinking. However, the rear head doesn’t need to sleep, so it\ncan keep watch over its surroundings 24 hours a day.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

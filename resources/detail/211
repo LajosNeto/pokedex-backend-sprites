@@ -2,9 +2,32 @@
     "id": 211,
     "name_en": "qwilfish",
     "name_ja": "ハリーセン",
-    "height": 0.5,
-    "weight": 3.9,
-    "base_exp": 88,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "3.9"
+        },
+        {
+            "name": "base exp",
+            "value": "88"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/211.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/21/211Qwilfish.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 85
     },
-    "abilities": {
-        "name": "intimidate",
-        "description": "Lowers opponents' Attack one stage upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        }
+    ],
     "types": [
         "water",
         "poison"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#953a93"
     ],
-    "short_description": "The small spikes covering its body developed\nfrom scales. They inject a toxin that causes fainting.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 571,
     "name_en": "zoroark",
     "name_ja": "ゾロアーク",
-    "height": 1.6,
-    "weight": 81.1,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "81.1"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/571Zoroark.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 60,
         "speed": 105
     },
-    "abilities": {
-        "name": "illusion",
-        "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "illusion",
+            "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Seeking to ease the burden of their solitude,\nlonely Trainers tell Zoroark to show illusions\nto them.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

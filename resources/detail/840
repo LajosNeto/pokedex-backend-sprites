@@ -2,9 +2,32 @@
     "id": 840,
     "name_en": "applin",
     "name_ja": "カジッチュ",
-    "height": 0.2,
-    "weight": 0.5,
-    "base_exp": 52,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.5"
+        },
+        {
+            "name": "base exp",
+            "value": "52"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/840Applin.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 20
     },
-    "abilities": {
-        "name": "bulletproof",
-        "description": "Protects against bullet, ball, and bomb-based moves."
-    },
+    "abilities": [
+        {
+            "name": "ripen",
+            "description": ""
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "bulletproof",
+            "description": "Protects against bullet, ball, and bomb-based moves."
+        }
+    ],
     "types": [
         "grass",
         "dragon"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#6630f3"
     ],
-    "short_description": "As soon as it’s born, it burrows into an apple. Not\nonly does the apple serve as its food source, but\nthe flavor of the fruit determines its evolution.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#62b570",
     "evolution_chain": [
         {

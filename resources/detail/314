@@ -2,9 +2,32 @@
     "id": 314,
     "name_en": "illumise",
     "name_ja": "イルミーゼ",
-    "height": 0.6,
-    "weight": 17.7,
-    "base_exp": 151,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "17.7"
+        },
+        {
+            "name": "base exp",
+            "value": "151"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/314.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/55/314Illumise.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 85
     },
-    "abilities": {
-        "name": "prankster",
-        "description": "Raises non-damaging moves' priority by one stage."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        },
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Illumise leads a flight of illuminated Volbeat to draw signs in\nthe night sky. This Pokémon is said to earn greater respect\nfrom its peers by composing more complex designs in the sky.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
     "habitat": "forest",
-    "growth_rate": "fast-then-very-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

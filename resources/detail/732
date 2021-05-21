@@ -2,9 +2,32 @@
     "id": 732,
     "name_en": "trumbeak",
     "name_ja": "ケララッパ",
-    "height": 0.6,
-    "weight": 14.8,
-    "base_exp": 124,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "14.8"
+        },
+        {
+            "name": "base exp",
+            "value": "124"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5c/732Trumbeak.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 75
     },
-    "abilities": {
-        "name": "pickup",
-        "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "skill-link",
+            "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+        },
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "From its mouth, it fires the seeds of berries\nit has eaten. The scattered seeds give rise\nto new plants.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 838,
     "name_en": "carkol",
     "name_ja": "トロッゴン",
-    "height": 1.1,
-    "weight": 78.0,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "78.0"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/838Carkol.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 50
     },
-    "abilities": {
-        "name": "flash-fire",
-        "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
-    },
+    "abilities": [
+        {
+            "name": "steam-engine",
+            "description": ""
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        }
+    ],
     "types": [
         "rock",
         "fire"
@@ -27,11 +60,8 @@
         "#af9539",
         "#ed7835"
     ],
-    "short_description": "By rapidly rolling its legs, it can travel at over\n18 mph. The temperature of the flames it\nbreathes exceeds 1,800 degrees Fahrenheit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

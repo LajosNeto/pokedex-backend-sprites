@@ -2,9 +2,32 @@
     "id": 622,
     "name_en": "golett",
     "name_ja": "ゴビット",
-    "height": 1.0,
-    "weight": 92.0,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "92.0"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/622Golett.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 35
     },
-    "abilities": {
-        "name": "no-guard",
-        "description": "Ensures all moves used by and against the Pokémon hit."
-    },
+    "abilities": [
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "no-guard",
+            "description": "Ensures all moves used by and against the Pokémon hit."
+        }
+    ],
     "types": [
         "ground",
         "ghost"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#654e8c"
     ],
-    "short_description": "This Pokémon was created from clay. It received\norders from its master many thousands of years\nago, and it still follows those orders to this day.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 630,
     "name_en": "mandibuzz",
     "name_ja": "バルジーナ",
-    "height": 1.2,
-    "weight": 39.5,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "39.5"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/630.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/00/630Mandibuzz.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 80
     },
-    "abilities": {
-        "name": "weak-armor",
-        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
-    },
+    "abilities": [
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        }
+    ],
     "types": [
         "dark",
         "flying"
@@ -27,11 +60,8 @@
         "#644e40",
         "#9e85eb"
     ],
-    "short_description": "They adorn themselves with bones. There seem\nto be fashion trends among them, as different\nbones come into and fall out of popularity.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

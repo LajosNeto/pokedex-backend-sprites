@@ -2,9 +2,32 @@
     "id": 879,
     "name_en": "copperajah",
     "name_ja": "ダイオウドウ",
-    "height": 3.0,
-    "weight": 650.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "650.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/879.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/879Copperajah.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 69,
         "speed": 30
     },
-    "abilities": {
-        "name": "heavy-metal",
-        "description": "Doubles the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        },
+        {
+            "name": "heavy-metal",
+            "description": "Doubles the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel"
     ],
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "These Pokémon live in herds. Their trunks have\nincredible grip strength, strong enough to crush\ngiant rocks into powder.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

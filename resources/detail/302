@@ -2,9 +2,32 @@
     "id": 302,
     "name_en": "sableye",
     "name_ja": "ヤミラミ",
-    "height": 0.5,
-    "weight": 11.0,
-    "base_exp": 133,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "11.0"
+        },
+        {
+            "name": "base exp",
+            "value": "133"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/302Sableye.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 65,
         "speed": 50
     },
-    "abilities": {
-        "name": "prankster",
-        "description": "Raises non-damaging moves' priority by one stage."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "stall",
+            "description": "Makes the Pokémon move last within its move's priority bracket."
+        },
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        }
+    ],
     "types": [
         "dark",
         "ghost"
@@ -27,11 +60,8 @@
         "#644e40",
         "#654e8c"
     ],
-    "short_description": "It feeds on gemstone crystals. In darkness, its\neyes sparkle with the glitter of jewels.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

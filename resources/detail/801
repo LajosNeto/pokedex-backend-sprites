@@ -2,9 +2,32 @@
     "id": 801,
     "name_en": "magearna",
     "name_ja": "マギアナ",
-    "height": 1.0,
-    "weight": 80.5,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "80.5"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/801.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/801Magearna.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 115,
         "speed": 65
     },
-    "abilities": {
-        "name": "soul-heart",
-        "description": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints."
-    },
+    "abilities": [
+        {
+            "name": "soul-heart",
+            "description": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints."
+        }
+    ],
     "types": [
         "steel",
         "fairy"
@@ -27,11 +52,8 @@
         "#afafc9",
         "#eb90a4"
     ],
-    "short_description": "Built roughly 500 years ago by a scientist,\nthe part called the Soul-Heart is the\nactual life-form.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

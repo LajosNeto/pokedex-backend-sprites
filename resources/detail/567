@@ -2,9 +2,32 @@
     "id": 567,
     "name_en": "archeops",
     "name_ja": "アーケオス",
-    "height": 1.4,
-    "weight": 32.0,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "32.0"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/14/567Archeops.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 65,
         "speed": 110
     },
-    "abilities": {
-        "name": "defeatist",
-        "description": "Halves Attack and Special Attack at 50% max HP or less."
-    },
+    "abilities": [
+        {
+            "name": "defeatist",
+            "description": "Halves Attack and Special Attack at 50% max HP or less."
+        }
+    ],
     "types": [
         "rock",
         "flying"
@@ -27,11 +52,8 @@
         "#af9539",
         "#9e85eb"
     ],
-    "short_description": "Said to be an ancestor of bird Pokémon, the\nmuscles it uses to flap its wings are still weak,\nso it needs a long runway in order to take off.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

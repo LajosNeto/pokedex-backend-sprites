@@ -2,9 +2,32 @@
     "id": 323,
     "name_en": "camerupt",
     "name_ja": "バクーダ",
-    "height": 1.9,
-    "weight": 220.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "220.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/323.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7d/323Camerupt.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 40
     },
-    "abilities": {
-        "name": "anger-point",
-        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
-    },
+    "abilities": [
+        {
+            "name": "magma-armor",
+            "description": "Prevents freezing."
+        },
+        {
+            "name": "solid-rock",
+            "description": "Decreases damage taken from super-effective moves by 1/4."
+        },
+        {
+            "name": "anger-point",
+            "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+        }
+    ],
     "types": [
         "fire",
         "ground"
@@ -27,11 +60,8 @@
         "#ed7835",
         "#dbb963"
     ],
-    "short_description": "The humps on Camerupt’s back are formed by a transformation\nof its bones. They sometimes blast out molten magma.\nThis Pokémon apparently erupts often when it is enraged.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

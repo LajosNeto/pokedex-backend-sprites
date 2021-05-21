@@ -2,9 +2,32 @@
     "id": 162,
     "name_en": "furret",
     "name_ja": "オオタチ",
-    "height": 1.8,
-    "weight": 32.5,
-    "base_exp": 145,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "32.5"
+        },
+        {
+            "name": "base exp",
+            "value": "145"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/162.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/162Furret.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 90
     },
-    "abilities": {
-        "name": "frisk",
-        "description": "Reveals an opponent's held item upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Furret has a very slim build. When under attack, it can slickly\nsquirm through narrow spaces and get away. In spite of its\nshort limbs, this Pokémon is very nimble and fleet.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

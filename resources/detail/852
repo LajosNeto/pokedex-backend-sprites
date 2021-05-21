@@ -2,9 +2,32 @@
     "id": 852,
     "name_en": "clobbopus",
     "name_ja": "タタッコ",
-    "height": 0.6,
-    "weight": 4.0,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/852.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/852Clobbopus.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 32
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Its tentacles tear off easily, but it isn’t alarmed\nwhen that happens—it knows they’ll grow back.\nIt’s about as smart as a three-year-old.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 134,
     "name_en": "vaporeon",
     "name_ja": "シャワーズ",
-    "height": 1.0,
-    "weight": 29.0,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "29.0"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/134.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fd/134Vaporeon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 95,
         "speed": 65
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its body’s cellular structure is similar to the\nmolecular composition of water. It can melt\ninvisibly in water.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

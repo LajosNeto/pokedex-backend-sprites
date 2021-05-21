@@ -2,9 +2,32 @@
     "id": 71,
     "name_en": "victreebel",
     "name_ja": "ウツボット",
-    "height": 1.7,
-    "weight": 15.5,
-    "base_exp": 221,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "15.5"
+        },
+        {
+            "name": "base exp",
+            "value": "221"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/71.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/be/071Victreebel.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 70,
         "speed": 70
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "Lures prey with the sweet aroma of honey.\nSwallowed whole, the prey is dissolved in a day,\nbones and all.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

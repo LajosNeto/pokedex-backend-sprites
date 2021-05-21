@@ -2,9 +2,32 @@
     "id": 442,
     "name_en": "spiritomb",
     "name_ja": "ミカルゲ",
-    "height": 1.0,
-    "weight": 108.0,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "108.0"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/442.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/442Spiritomb.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 108,
         "speed": 35
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "ghost",
         "dark"
@@ -27,11 +56,8 @@
         "#654e8c",
         "#644e40"
     ],
-    "short_description": "It was bound to a fissure in an odd keystone as\npunishment for misdeeds 500 years ago.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

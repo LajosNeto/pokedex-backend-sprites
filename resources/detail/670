@@ -2,9 +2,32 @@
     "id": 670,
     "name_en": "floette",
     "name_ja": "フラエッテ",
-    "height": 0.2,
-    "weight": 0.9,
-    "base_exp": 130,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.9"
+        },
+        {
+            "name": "base exp",
+            "value": "130"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/670Floette.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 98,
         "speed": 52
     },
-    "abilities": {
-        "name": "symbiosis",
-        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
-    },
+    "abilities": [
+        {
+            "name": "flower-veil",
+            "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
+        },
+        {
+            "name": "symbiosis",
+            "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "It gives its own power to flowers, pouring its\nheart into caring for them. Floette never forgives\nanyone who messes up a flower bed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

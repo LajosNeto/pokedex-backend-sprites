@@ -2,9 +2,32 @@
     "id": 684,
     "name_en": "swirlix",
     "name_ja": "ペロッパフ",
-    "height": 0.4,
-    "weight": 3.5,
-    "base_exp": 68,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "3.5"
+        },
+        {
+            "name": "base exp",
+            "value": "68"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/684.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/684Swirlix.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 57,
         "speed": 49
     },
-    "abilities": {
-        "name": "unburden",
-        "description": "Doubles Speed upon using or losing a held item."
-    },
+    "abilities": [
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "The sweet smell of cotton candy perfumes\nSwirlix’s fluffy fur. This Pokémon spits out\nsticky string to tangle up its enemies.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

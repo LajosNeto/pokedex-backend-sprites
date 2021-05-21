@@ -2,9 +2,32 @@
     "id": 178,
     "name_en": "xatu",
     "name_ja": "ネイティオ",
-    "height": 1.5,
-    "weight": 15.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "15.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/178.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/178Xatu.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 95
     },
-    "abilities": {
-        "name": "magic-bounce",
-        "description": "Reflects most non-damaging moves back at their user."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "magic-bounce",
+            "description": "Reflects most non-damaging moves back at their user."
+        }
+    ],
     "types": [
         "psychic",
         "flying"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#9e85eb"
     ],
-    "short_description": "This odd Pokémon can see both the past and\nthe future. It eyes the sun’s movement all day.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

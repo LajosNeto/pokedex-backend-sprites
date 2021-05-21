@@ -2,9 +2,32 @@
     "id": 554,
     "name_en": "darumaka",
     "name_ja": "ダルマッカ",
-    "height": 0.6,
-    "weight": 37.5,
-    "base_exp": 63,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "37.5"
+        },
+        {
+            "name": "base exp",
+            "value": "63"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/554.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/554Darumaka.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 45,
         "speed": 50
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "This popular symbol of good fortune will never\nfall over in its sleep, no matter how it’s pushed\nor pulled.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

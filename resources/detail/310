@@ -2,9 +2,32 @@
     "id": 310,
     "name_en": "manectric",
     "name_ja": "ライボルト",
-    "height": 1.5,
-    "weight": 40.2,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "40.2"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/310Manectric.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 105
     },
-    "abilities": {
-        "name": "minus",
-        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "minus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "It rarely appears before people. It is said to nest\nwhere lightning has fallen.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It rarely appears before people. It is said to nest where lightning has fallen.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

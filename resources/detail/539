@@ -2,9 +2,32 @@
     "id": 539,
     "name_en": "sawk",
     "name_ja": "ダゲキ",
-    "height": 1.4,
-    "weight": 51.0,
-    "base_exp": 163,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "51.0"
+        },
+        {
+            "name": "base exp",
+            "value": "163"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/539.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a8/539Sawk.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 75,
         "speed": 85
     },
-    "abilities": {
-        "name": "mold-breaker",
-        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "The karate chops of a Sawk that’s trained itself\nto the limit can cleave the ocean itself.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

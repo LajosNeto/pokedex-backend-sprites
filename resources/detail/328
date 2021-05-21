@@ -2,9 +2,32 @@
     "id": 328,
     "name_en": "trapinch",
     "name_ja": "ナックラー",
-    "height": 0.7,
-    "weight": 15.0,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "15.0"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/328Trapinch.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 10
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "arena-trap",
+            "description": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "It makes an inescapable conical pit and lies in\nwait at the bottom for prey to come\ntumbling down.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

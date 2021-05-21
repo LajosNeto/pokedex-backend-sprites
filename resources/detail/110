@@ -2,9 +2,32 @@
     "id": 110,
     "name_en": "weezing",
     "name_ja": "マタドガス",
-    "height": 1.2,
-    "weight": 9.5,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "9.5"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/42/110Weezing.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 70,
         "speed": 60
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Long ago, during a time when droves of factories\nfouled the air with pollution, Weezing changed\ninto this form for some reason.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

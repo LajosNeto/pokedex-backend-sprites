@@ -2,9 +2,32 @@
     "id": 741,
     "name_en": "oricorio-baile",
     "name_ja": "オドリドリ",
-    "height": 0.6,
-    "weight": 3.4,
-    "base_exp": 167,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "3.4"
+        },
+        {
+            "name": "base exp",
+            "value": "167"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ed/741Oricorio-Baile.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 70,
         "speed": 93
     },
-    "abilities": {
-        "name": "dancer",
-        "description": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
-    },
+    "abilities": [
+        {
+            "name": "dancer",
+            "description": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
+        }
+    ],
     "types": [
         "fire",
         "flying"
@@ -27,11 +52,8 @@
         "#ed7835",
         "#9e85eb"
     ],
-    "short_description": "This Oricorio has drunk red nectar. If its Trainer\ngives the wrong order, this passionate Pokémon\nbecomes fiercely angry.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 340,
     "name_en": "whiscash",
     "name_ja": "ナマズン",
-    "height": 0.9,
-    "weight": 23.6,
-    "base_exp": 164,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "23.6"
+        },
+        {
+            "name": "base exp",
+            "value": "164"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/340Whiscash.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 71,
         "speed": 60
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "ground"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#dbb963"
     ],
-    "short_description": "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

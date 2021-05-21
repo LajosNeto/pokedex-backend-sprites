@@ -2,9 +2,32 @@
     "id": 112,
     "name_en": "rhydon",
     "name_ja": "サイドン",
-    "height": 1.9,
-    "weight": 120.0,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/112Rhydon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 45,
         "speed": 40
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "ground",
         "rock"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#af9539"
     ],
-    "short_description": "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

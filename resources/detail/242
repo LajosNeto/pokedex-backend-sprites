@@ -2,9 +2,32 @@
     "id": 242,
     "name_en": "blissey",
     "name_ja": "ハピナス",
-    "height": 1.5,
-    "weight": 46.8,
-    "base_exp": 608,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "46.8"
+        },
+        {
+            "name": "base exp",
+            "value": "608"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/242.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/56/242Blissey.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 135,
         "speed": 55
     },
-    "abilities": {
-        "name": "healer",
-        "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        },
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Blissey lays mysterious eggs that are filled with\nhappiness. It’s said that anyone who eats a\nBlissey egg will start acting kindly to all others.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Blissey lays mysterious eggs that are filled with happiness. It’s said that anyone who eats a Blissey egg will start acting kindly to all others.",
     "habitat": "urban",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

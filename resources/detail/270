@@ -2,9 +2,32 @@
     "id": 270,
     "name_en": "lotad",
     "name_ja": "ハスボー",
-    "height": 0.5,
-    "weight": 2.6,
-    "base_exp": 44,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "2.6"
+        },
+        {
+            "name": "base exp",
+            "value": "44"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ee/270Lotad.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 30
     },
-    "abilities": {
-        "name": "own-tempo",
-        "description": "Prevents confusion."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        }
+    ],
     "types": [
         "water",
         "grass"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#6dc04c"
     ],
-    "short_description": "Its leaf grew too large for it to live on land.\nThat is how it began to live floating in the water.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

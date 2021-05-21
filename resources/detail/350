@@ -2,9 +2,32 @@
     "id": 350,
     "name_en": "milotic",
     "name_ja": "ミロカロス",
-    "height": 6.2,
-    "weight": 162.0,
-    "base_exp": 189,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "6.2"
+        },
+        {
+            "name": "weight",
+            "value": "162.0"
+        },
+        {
+            "name": "base exp",
+            "value": "189"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/350.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/36/350Milotic.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 125,
         "speed": 81
     },
-    "abilities": {
-        "name": "cute-charm",
-        "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "marvel-scale",
+            "description": "Increases Defense to 1.5× with a major status ailment."
+        },
+        {
+            "name": "competitive",
+            "description": "Raises Special Attack by two stages upon having any stat lowered."
+        },
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It’s said that a glimpse of a Milotic and its beauty\nwill calm any hostile emotions you’re feeling.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
     "habitat": "waters-edge",
-    "growth_rate": "slow-then-very-fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

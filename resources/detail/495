@@ -2,9 +2,32 @@
     "id": 495,
     "name_en": "snivy",
     "name_ja": "ツタージャ",
-    "height": 0.6,
-    "weight": 8.1,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.1"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/495.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/75/495Snivy.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 63
     },
-    "abilities": {
-        "name": "contrary",
-        "description": "Inverts stat changes."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "They photosynthesize by bathing their tails in\nsunlight. When they are not feeling well, their\ntails droop.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

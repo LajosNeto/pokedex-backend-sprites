@@ -2,9 +2,32 @@
     "id": 600,
     "name_en": "klang",
     "name_ja": "ギギアル",
-    "height": 0.6,
-    "weight": 51.0,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "51.0"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/600Klang.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 50
     },
-    "abilities": {
-        "name": "clear-body",
-        "description": "Prevents stats from being lowered by other Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "minus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        }
+    ],
     "types": [
         "steel"
     ],
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "Many companies in the Galar region choose\nKlang as their logo. This Pokémon is considered\nthe symbol of industrial technology.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

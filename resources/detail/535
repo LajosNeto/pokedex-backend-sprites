@@ -2,9 +2,32 @@
     "id": 535,
     "name_en": "tympole",
     "name_ja": "オタマロ",
-    "height": 0.5,
-    "weight": 4.5,
-    "base_exp": 59,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "4.5"
+        },
+        {
+            "name": "base exp",
+            "value": "59"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/535Tympole.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 40,
         "speed": 64
     },
-    "abilities": {
-        "name": "water-absorb",
-        "description": "Absorbs water moves, healing for 1/4 max HP."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It uses sound waves to communicate with\nothers of its kind. People and other Pokémon\nspecies can’t hear its cries of warning.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

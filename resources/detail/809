@@ -2,9 +2,32 @@
     "id": 809,
     "name_en": "melmetal",
     "name_ja": "メルメタル",
-    "height": 2.5,
-    "weight": 800.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.5"
+        },
+        {
+            "name": "weight",
+            "value": "800.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ea/809Melmetal.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 65,
         "speed": 34
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "steel"
     ],
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "It can send electric beams streaking out from the\nhole in its belly. The beams’ tremendous energy\ncan vaporize an opponent in one shot.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "It can send electric beams streaking out from the hole in its belly. The beams’ tremendous energy can vaporize an opponent in one shot.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

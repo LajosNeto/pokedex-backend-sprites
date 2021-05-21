@@ -2,9 +2,32 @@
     "id": 230,
     "name_en": "kingdra",
     "name_ja": "キングドラ",
-    "height": 1.8,
-    "weight": 152.0,
-    "base_exp": 243,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "152.0"
+        },
+        {
+            "name": "base exp",
+            "value": "243"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/230.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3c/230Kingdra.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 85
     },
-    "abilities": {
-        "name": "damp",
-        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        }
+    ],
     "types": [
         "water",
         "dragon"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#6630f3"
     ],
-    "short_description": "Scales shed by this Pokémon have such a\nsplendorous gleam to them that they’ve been\ngiven to royalty as gifts.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

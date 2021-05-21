@@ -2,9 +2,32 @@
     "id": 891,
     "name_en": "kubfu",
     "name_ja": "ダクマ",
-    "height": 0.6,
-    "weight": 12.0,
-    "base_exp": 77,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "12.0"
+        },
+        {
+            "name": "base exp",
+            "value": "77"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/891Kubfu.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 50,
         "speed": 72
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "If Kubfu pulls the long white hair on its head,\nits fighting spirit heightens and power wells up\nfrom the depths of its belly.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

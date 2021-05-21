@@ -2,9 +2,32 @@
     "id": 528,
     "name_en": "swoobat",
     "name_ja": "ココロモリ",
-    "height": 0.9,
-    "weight": 10.5,
-    "base_exp": 149,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "10.5"
+        },
+        {
+            "name": "base exp",
+            "value": "149"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/528.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/528Swoobat.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 114
     },
-    "abilities": {
-        "name": "simple",
-        "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
-    },
+    "abilities": [
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "simple",
+            "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+        }
+    ],
     "types": [
         "psychic",
         "flying"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#9e85eb"
     ],
-    "short_description": "The auspicious shape of this Pokémon’s nose\napparently led some regions to consider\nSwoobat a symbol of good luck.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

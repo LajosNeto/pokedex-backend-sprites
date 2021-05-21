@@ -2,9 +2,32 @@
     "id": 798,
     "name_en": "kartana",
     "name_ja": "カミツルギ",
-    "height": 0.3,
-    "weight": 0.1,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "0.1"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/798.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fe/798Kartana.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 31,
         "speed": 109
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "grass",
         "steel"
@@ -27,11 +52,8 @@
         "#6dc04c",
         "#afafc9"
     ],
-    "short_description": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

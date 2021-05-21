@@ -2,9 +2,32 @@
     "id": 855,
     "name_en": "polteageist",
     "name_ja": "ポットデス",
-    "height": 0.2,
-    "weight": 0.4,
-    "base_exp": 178,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.4"
+        },
+        {
+            "name": "base exp",
+            "value": "178"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/855Polteageist.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 114,
         "speed": 70
     },
-    "abilities": {
-        "name": "cursed-body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        },
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "When angered, it launches tea from its body\nat the offender’s mouth. The tea causes\nstrong chills if swallowed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When angered, it launches tea from its body at the offender’s mouth. The tea causes strong chills if swallowed.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 184,
     "name_en": "azumarill",
     "name_ja": "マリルリ",
-    "height": 0.8,
-    "weight": 28.5,
-    "base_exp": 189,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "28.5"
+        },
+        {
+            "name": "base exp",
+            "value": "189"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/184Azumarill.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 50
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "huge-power",
+            "description": "Doubles Attack in battle."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "water",
         "fairy"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#eb90a4"
     ],
-    "short_description": "These Pokémon create air-filled bubbles. When\nAzurill play in rivers, Azumarill will cover them\nwith these bubbles.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
     "habitat": "waters-edge",
-    "growth_rate": "fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

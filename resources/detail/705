@@ -2,9 +2,32 @@
     "id": 705,
     "name_en": "sliggoo",
     "name_ja": "ヌメイル",
-    "height": 0.8,
-    "weight": 17.5,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "17.5"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/95/705Sliggoo.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 113,
         "speed": 60
     },
-    "abilities": {
-        "name": "gooey",
-        "description": "Lowers attacking Pokémon's Speed by one stage on contact."
-    },
+    "abilities": [
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "gooey",
+            "description": "Lowers attacking Pokémon's Speed by one stage on contact."
+        }
+    ],
     "types": [
         "dragon"
     ],
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "The lump on its back contains its tiny brain.\nIt thinks only of food and escaping its enemies.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

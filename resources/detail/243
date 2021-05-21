@@ -2,9 +2,32 @@
     "id": 243,
     "name_en": "raikou",
     "name_ja": "ライコウ",
-    "height": 1.9,
-    "weight": 178.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "178.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/243Raikou.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 100,
         "speed": 115
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Raikou embodies the speed of lightning. The roars of\nthis Pokémon send shock waves shuddering through the\nair and shake the ground as if lightning bolts had come\ncrashing down.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

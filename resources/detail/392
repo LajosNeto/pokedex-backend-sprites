@@ -2,9 +2,32 @@
     "id": 392,
     "name_en": "infernape",
     "name_ja": "ゴウカザル",
-    "height": 1.2,
-    "weight": 55.0,
-    "base_exp": 240,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "55.0"
+        },
+        {
+            "name": "base exp",
+            "value": "240"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/392Infernape.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 71,
         "speed": 108
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fire",
         "fighting"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "It tosses its enemies around with agility. It uses all\nits limbs to fight in its own unique style.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

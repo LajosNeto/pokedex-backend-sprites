@@ -2,9 +2,32 @@
     "id": 318,
     "name_en": "carvanha",
     "name_ja": "キバニア",
-    "height": 0.8,
-    "weight": 20.8,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "20.8"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/98/318Carvanha.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 20,
         "speed": 65
     },
-    "abilities": {
-        "name": "speed-boost",
-        "description": "Raises Speed one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "rough-skin",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        },
+        {
+            "name": "speed-boost",
+            "description": "Raises Speed one stage after each turn."
+        }
+    ],
     "types": [
         "water",
         "dark"
@@ -27,11 +56,8 @@
         "#5f84ea",
         "#644e40"
     ],
-    "short_description": "These Pokémon have sharp fangs and powerful\njaws. Sailors avoid Carvanha dens at all costs.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

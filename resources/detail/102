@@ -2,9 +2,32 @@
     "id": 102,
     "name_en": "exeggcute",
     "name_ja": "タマタマ",
-    "height": 0.4,
-    "weight": 2.5,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "2.5"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/af/102Exeggcute.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 45,
         "speed": 40
     },
-    "abilities": {
-        "name": "harvest",
-        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "harvest",
+            "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+        }
+    ],
     "types": [
         "grass",
         "psychic"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#f6527e"
     ],
-    "short_description": "These Pokémon get nervous when they’re not in a\ngroup of six. The minute even one member of the\ngroup goes missing, Exeggcute become cowardly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

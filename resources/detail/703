@@ -2,9 +2,32 @@
     "id": 703,
     "name_en": "carbink",
     "name_ja": "メレシー",
-    "height": 0.3,
-    "weight": 5.7,
-    "base_exp": 100,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "5.7"
+        },
+        {
+            "name": "base exp",
+            "value": "100"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/703.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/703Carbink.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 150,
         "speed": 50
     },
-    "abilities": {
-        "name": "sturdy",
-        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        }
+    ],
     "types": [
         "rock",
         "fairy"
@@ -27,11 +56,8 @@
         "#af9539",
         "#eb90a4"
     ],
-    "short_description": "To keep the jewels on their bodies free of\ntarnish, packs of Carbink use their soft manes\nto polish one another’s jewels.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

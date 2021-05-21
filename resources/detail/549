@@ -2,9 +2,32 @@
     "id": 549,
     "name_en": "lilligant",
     "name_ja": "ドレディア",
-    "height": 1.1,
-    "weight": 16.3,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "16.3"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/549.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/21/549Lilligant.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 75,
         "speed": 90
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Essential oils made from Lilligant flowers\nhave a sublime scent, but they’re also\nstaggeringly expensive.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

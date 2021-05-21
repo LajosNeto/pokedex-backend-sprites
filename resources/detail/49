@@ -2,9 +2,32 @@
     "id": 49,
     "name_en": "venomoth",
     "name_ja": "モルフォン",
-    "height": 1.5,
-    "weight": 12.5,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/049Venomoth.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 90
     },
-    "abilities": {
-        "name": "wonder-skin",
-        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        },
+        {
+            "name": "wonder-skin",
+            "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "The powdery scales on its wings are hard to\nremove from skin. They also contain poison\nthat leaks out on contact.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

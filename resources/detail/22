@@ -2,9 +2,32 @@
     "id": 22,
     "name_en": "fearow",
     "name_ja": "オニドリル",
-    "height": 1.2,
-    "weight": 38.0,
-    "base_exp": 155,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "38.0"
+        },
+        {
+            "name": "base exp",
+            "value": "155"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/22.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a0/022Fearow.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 61,
         "speed": 100
     },
-    "abilities": {
-        "name": "sniper",
-        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +56,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "A Pokémon that dates back many years. If it\nsenses danger, it flies high and away, instantly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

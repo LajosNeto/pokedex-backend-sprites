@@ -2,9 +2,32 @@
     "id": 294,
     "name_en": "loudred",
     "name_ja": "ドゴーム",
-    "height": 1.0,
-    "weight": 40.5,
-    "base_exp": 126,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "40.5"
+        },
+        {
+            "name": "base exp",
+            "value": "126"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/294.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/294Loudred.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 43,
         "speed": 48
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "The force of this Pokémon’s loud voice isn’t just\nthe sound—it’s also the wave of air pressure that\nblows opponents away and damages them.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

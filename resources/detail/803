@@ -2,9 +2,32 @@
     "id": 803,
     "name_en": "poipole",
     "name_ja": "ベベノム",
-    "height": 0.6,
-    "weight": 1.8,
-    "base_exp": 189,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "1.8"
+        },
+        {
+            "name": "base exp",
+            "value": "189"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/803Poipole.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 67,
         "speed": 73
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "An Ultra Beast that lives in a different world, it\ncackles wildly as it sprays its opponents with\npoison from the needles on its head.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 25,
     "name_en": "pikachu",
     "name_ja": "ピカチュウ",
-    "height": 0.4,
-    "weight": 6.0,
-    "base_exp": 112,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "6.0"
+        },
+        {
+            "name": "base exp",
+            "value": "112"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/25.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0d/025Pikachu.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 90
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "When it smashes its opponents with its bolt-\nshaped tail, it delivers a surge of electricity\nequivalent to a lightning strike.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

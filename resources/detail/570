@@ -2,9 +2,32 @@
     "id": 570,
     "name_en": "zorua",
     "name_ja": "ゾロア",
-    "height": 0.7,
-    "weight": 12.5,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2b/570Zorua.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 40,
         "speed": 65
     },
-    "abilities": {
-        "name": "illusion",
-        "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "illusion",
+            "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Zorua sometimes transforms into a person and\ngoes into cities to search for food. When Zorua\ndoes this, it usually takes on the form of a child.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

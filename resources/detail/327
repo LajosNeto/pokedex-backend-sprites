@@ -2,9 +2,32 @@
     "id": 327,
     "name_en": "spinda",
     "name_ja": "パッチール",
-    "height": 1.1,
-    "weight": 5.0,
-    "base_exp": 126,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "126"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/327.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8f/327Spinda.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 60
     },
-    "abilities": {
-        "name": "contrary",
-        "description": "Inverts stat changes."
-    },
+    "abilities": [
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "tangled-feet",
+            "description": "Doubles evasion when confused."
+        },
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Each Spinda’s spot pattern is different. With its\nstumbling movements, it evades opponents’\nattacks brilliantly!",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
     "habitat": "mountain",
-    "growth_rate": "fast",
     "color": "#a8733d",
     "evolution_chain": [
         {

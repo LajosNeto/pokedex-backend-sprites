@@ -2,9 +2,32 @@
     "id": 650,
     "name_en": "chespin",
     "name_ja": "ハリマロン",
-    "height": 0.4,
-    "weight": 9.0,
-    "base_exp": 63,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "9.0"
+        },
+        {
+            "name": "base exp",
+            "value": "63"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/650Chespin.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 45,
         "speed": 38
     },
-    "abilities": {
-        "name": "bulletproof",
-        "description": "Protects against bullet, ball, and bomb-based moves."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "bulletproof",
+            "description": "Protects against bullet, ball, and bomb-based moves."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Such a thick shell of wood covers its head and back\nthat even a direct hit from a truck wouldn’t faze it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 159,
     "name_en": "croconaw",
     "name_ja": "アリゲイツ",
-    "height": 1.1,
-    "weight": 25.0,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "25.0"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/159.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/159Croconaw.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 63,
         "speed": 58
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Once Croconaw has clamped its jaws on its foe, it will\nabsolutely not let go. Because the tips of its fangs are\nforked back like barbed fishhooks, they become impossible\nto remove when they have sunk in.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

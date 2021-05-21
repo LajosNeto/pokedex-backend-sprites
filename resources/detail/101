@@ -2,9 +2,32 @@
     "id": 101,
     "name_en": "electrode",
     "name_ja": "マルマイン",
-    "height": 1.2,
-    "weight": 66.6,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "66.6"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/84/101Electrode.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 150
     },
-    "abilities": {
-        "name": "aftermath",
-        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Stores electrical energy inside its body. Even the\nslightest shock could trigger a huge explosion.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

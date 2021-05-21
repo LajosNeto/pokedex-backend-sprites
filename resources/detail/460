@@ -2,9 +2,32 @@
     "id": 460,
     "name_en": "abomasnow",
     "name_ja": "ユキノオー",
-    "height": 2.2,
-    "weight": 135.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "135.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/460Abomasnow.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 85,
         "speed": 60
     },
-    "abilities": {
-        "name": "soundproof",
-        "description": "Protects against sound-based moves."
-    },
+    "abilities": [
+        {
+            "name": "snow-warning",
+            "description": "Summons hail that lasts indefinitely upon entering battle."
+        },
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        }
+    ],
     "types": [
         "grass",
         "ice"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#8ed2d2"
     ],
-    "short_description": "This Pokémon is known to bring blizzards.\nA shake of its massive body is enough to\ncause whiteout conditions.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

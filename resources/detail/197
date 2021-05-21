@@ -2,9 +2,32 @@
     "id": 197,
     "name_en": "umbreon",
     "name_ja": "ブラッキー",
-    "height": 1.0,
-    "weight": 27.0,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "27.0"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/197.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/197Umbreon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 130,
         "speed": 65
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "On the night of a full moon, or when it gets\nexcited, the ring patterns on its body glow yellow.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 464,
     "name_en": "rhyperior",
     "name_ja": "ドサイドン",
-    "height": 2.4,
-    "weight": 282.8,
-    "base_exp": 241,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.4"
+        },
+        {
+            "name": "weight",
+            "value": "282.8"
+        },
+        {
+            "name": "base exp",
+            "value": "241"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d9/464Rhyperior.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 40
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "solid-rock",
+            "description": "Decreases damage taken from super-effective moves by 1/4."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "ground",
         "rock"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#af9539"
     ],
-    "short_description": "It relies on its carapace to deflect incoming\nattacks and throw its enemy off balance. As soon\nas that happens, it drives its drill into the foe.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

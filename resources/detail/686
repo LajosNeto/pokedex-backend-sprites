@@ -2,9 +2,32 @@
     "id": 686,
     "name_en": "inkay",
     "name_ja": "マーイーカ",
-    "height": 0.4,
-    "weight": 3.5,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "3.5"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/686.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/70/686Inkay.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 46,
         "speed": 45
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        },
+        {
+            "name": "suction-cups",
+            "description": "Prevents being forced out of battle by other Pokémon's moves."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "dark",
         "psychic"
@@ -27,11 +60,8 @@
         "#644e40",
         "#f6527e"
     ],
-    "short_description": "By exposing foes to the blinking of its\nluminescent spots, Inkay demoralizes them,\nand then it seizes the chance to flee.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

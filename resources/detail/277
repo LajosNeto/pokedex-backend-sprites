@@ -2,9 +2,32 @@
     "id": 277,
     "name_en": "swellow",
     "name_ja": "オオスバメ",
-    "height": 0.7,
-    "weight": 19.8,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "19.8"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/277.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/45/277Swellow.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 50,
         "speed": 125
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +56,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "Swellow is very conscientious about the upkeep of its glossy\nwings. Once two Swellow are gathered, they diligently take\ncare of cleaning each other’s wings.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

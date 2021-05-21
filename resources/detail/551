@@ -2,9 +2,32 @@
     "id": 551,
     "name_en": "sandile",
     "name_ja": "メグロコ",
-    "height": 0.7,
-    "weight": 15.2,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "15.2"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/26/551Sandile.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 35,
         "speed": 65
     },
-    "abilities": {
-        "name": "anger-point",
-        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        },
+        {
+            "name": "anger-point",
+            "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+        }
+    ],
     "types": [
         "ground",
         "dark"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#644e40"
     ],
-    "short_description": "Sandile is small, but its legs and lower body are\npowerful. Pushing sand aside as it goes, Sandile\nmoves through the desert as if it’s swimming.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it’s swimming.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

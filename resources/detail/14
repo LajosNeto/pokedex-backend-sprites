@@ -2,9 +2,32 @@
     "id": 14,
     "name_en": "kakuna",
     "name_ja": "コクーン",
-    "height": 0.6,
-    "weight": 10.0,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "10.0"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/14.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/014Kakuna.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 25,
         "speed": 35
     },
-    "abilities": {
-        "name": "shed-skin",
-        "description": "Has a 33% chance of curing any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +52,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "Able to move only slightly. When endangered, it\nmay stick out its stinger and poison its enemy.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

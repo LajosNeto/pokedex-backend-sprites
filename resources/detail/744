@@ -2,9 +2,32 @@
     "id": 744,
     "name_en": "rockruff",
     "name_ja": "イワンコ",
-    "height": 0.5,
-    "weight": 9.2,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "9.2"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/51/744Rockruff.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 40,
         "speed": 60
     },
-    "abilities": {
-        "name": "steadfast",
-        "description": "Raises Speed one stage upon flinching."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "steadfast",
+            "description": "Raises Speed one stage upon flinching."
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "This Pokémon intimidates opponents by striking\nthe ground with the rocks on its neck. The\nmoment an opponent flinches, Rockruff attacks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 719,
     "name_en": "diancie",
     "name_ja": "ディアンシー",
-    "height": 0.7,
-    "weight": 8.8,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "8.8"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/719.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b3/719Diancie.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 150,
         "speed": 50
     },
-    "abilities": {
-        "name": "clear-body",
-        "description": "Prevents stats from being lowered by other Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        }
+    ],
     "types": [
         "rock",
         "fairy"
@@ -27,11 +52,8 @@
         "#af9539",
         "#eb90a4"
     ],
-    "short_description": "It can instantly create many diamonds\nby compressing the carbon in the air\nbetween its hands.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

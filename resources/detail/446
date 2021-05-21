@@ -2,9 +2,32 @@
     "id": 446,
     "name_en": "munchlax",
     "name_ja": "ゴンベ",
-    "height": 0.6,
-    "weight": 105.0,
-    "base_exp": 78,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "105.0"
+        },
+        {
+            "name": "base exp",
+            "value": "78"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/446.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b2/446Munchlax.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 5
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It stores food beneath its fur. It might share\njust one bite, but only if it really trusts you.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

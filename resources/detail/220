@@ -2,9 +2,32 @@
     "id": 220,
     "name_en": "swinub",
     "name_ja": "ウリムー",
-    "height": 0.4,
-    "weight": 6.5,
-    "base_exp": 50,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "6.5"
+        },
+        {
+            "name": "base exp",
+            "value": "50"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b5/220Swinub.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 30,
         "speed": 50
     },
-    "abilities": {
-        "name": "thick-fat",
-        "description": "Halves damage from fire and ice moves."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "snow-cloak",
+            "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+        },
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        }
+    ],
     "types": [
         "ice",
         "ground"
@@ -27,11 +60,8 @@
         "#8ed2d2",
         "#dbb963"
     ],
-    "short_description": "If it smells something enticing, it dashes off\nheadlong to find the source of the aroma.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
     "habitat": "cave",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

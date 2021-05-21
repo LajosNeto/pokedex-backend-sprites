@@ -2,9 +2,32 @@
     "id": 196,
     "name_en": "espeon",
     "name_ja": "エーフィ",
-    "height": 0.9,
-    "weight": 26.5,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "26.5"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/196.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/196Espeon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 95,
         "speed": 110
     },
-    "abilities": {
-        "name": "magic-bounce",
-        "description": "Reflects most non-damaging moves back at their user."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "magic-bounce",
+            "description": "Reflects most non-damaging moves back at their user."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "It unleashes psychic power from the orb on its\nforehead. When its power is exhausted, the orb\ngrows dull and dark.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

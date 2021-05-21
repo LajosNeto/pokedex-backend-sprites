@@ -2,9 +2,32 @@
     "id": 63,
     "name_en": "abra",
     "name_ja": "ケーシィ",
-    "height": 0.9,
-    "weight": 19.5,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "19.5"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/063Abra.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 90
     },
-    "abilities": {
-        "name": "magic-guard",
-        "description": "Protects against damage not directly caused by a move."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Abra can teleport in its sleep. Apparently\nthe more deeply Abra sleeps, the farther its\nteleportations go.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
     "habitat": "urban",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 435,
     "name_en": "skuntank",
     "name_ja": "スカタンク",
-    "height": 1.0,
-    "weight": 38.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "38.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/435Skuntank.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 61,
         "speed": 84
     },
-    "abilities": {
-        "name": "keen-eye",
-        "description": "Prevents accuracy from being lowered."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        }
+    ],
     "types": [
         "poison",
         "dark"
@@ -27,11 +60,8 @@
         "#953a93",
         "#644e40"
     ],
-    "short_description": "It digs holes in the ground to make its nest.\nThe stench of the fluid it lets fly from the tip\nof its tail is extremely potent.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 315,
     "name_en": "roselia",
     "name_ja": "ロゼリア",
-    "height": 0.3,
-    "weight": 2.0,
-    "base_exp": 140,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.0"
+        },
+        {
+            "name": "base exp",
+            "value": "140"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/315Roselia.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 65
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "It uses the different poisons in each hand\nseparately when it attacks. The stronger its\naroma, the healthier it is.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

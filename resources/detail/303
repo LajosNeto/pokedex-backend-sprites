@@ -2,9 +2,32 @@
     "id": 303,
     "name_en": "mawile",
     "name_ja": "クチート",
-    "height": 0.6,
-    "weight": 11.5,
-    "base_exp": 133,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "11.5"
+        },
+        {
+            "name": "base exp",
+            "value": "133"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/303.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c0/303Mawile.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 50
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "steel",
         "fairy"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#eb90a4"
     ],
-    "short_description": "It chomps with its gaping mouth. Its huge jaws are\nactually steel horns that have been transformed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
     "habitat": "cave",
-    "growth_rate": "fast",
     "color": "#585858",
     "evolution_chain": [
         {

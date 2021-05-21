@@ -2,9 +2,32 @@
     "id": 183,
     "name_en": "marill",
     "name_ja": "マリル",
-    "height": 0.4,
-    "weight": 8.5,
-    "base_exp": 88,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "88"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/42/183Marill.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 40
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "huge-power",
+            "description": "Doubles Attack in battle."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "water",
         "fairy"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#eb90a4"
     ],
-    "short_description": "Even after Marill swims in a cold sea, its water-\nrepellent fur dries almost as soon as Marill leaves\nthe water. That’s why this Pokémon is never cold.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.",
     "habitat": "waters-edge",
-    "growth_rate": "fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

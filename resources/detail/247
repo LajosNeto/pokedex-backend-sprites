@@ -2,9 +2,32 @@
     "id": 247,
     "name_en": "pupitar",
     "name_ja": "サナギラス",
-    "height": 1.2,
-    "weight": 152.0,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "152.0"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/247Pupitar.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 70,
         "speed": 51
     },
-    "abilities": {
-        "name": "shed-skin",
-        "description": "Has a 33% chance of curing any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        }
+    ],
     "types": [
         "rock",
         "ground"
@@ -27,11 +52,8 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "It will not stay still, even while it’s a pupa.\nIt already has arms and legs under its solid shell.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

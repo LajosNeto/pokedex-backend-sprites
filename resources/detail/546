@@ -2,9 +2,32 @@
     "id": 546,
     "name_en": "cottonee",
     "name_ja": "モンメン",
-    "height": 0.3,
-    "weight": 0.6,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "0.6"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/44/546Cottonee.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 66
     },
-    "abilities": {
-        "name": "chlorophyll",
-        "description": "Doubles Speed during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        },
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        }
+    ],
     "types": [
         "grass",
         "fairy"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#eb90a4"
     ],
-    "short_description": "Weaving together the cotton of both Cottonee\nand Eldegoss produces exquisite cloth that’s\nhighly prized by many luxury brands.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

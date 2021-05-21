@@ -2,9 +2,32 @@
     "id": 45,
     "name_en": "vileplume",
     "name_ja": "ラフレシア",
-    "height": 1.2,
-    "weight": 18.6,
-    "base_exp": 221,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "18.6"
+        },
+        {
+            "name": "base exp",
+            "value": "221"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6a/045Vileplume.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 90,
         "speed": 50
     },
-    "abilities": {
-        "name": "effect-spore",
-        "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "effect-spore",
+            "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "The larger its petals, the more toxic pollen it\ncontains. Its big head is heavy and hard to hold up.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 13,
     "name_en": "weedle",
     "name_ja": "ビードル",
-    "height": 0.3,
-    "weight": 3.2,
-    "base_exp": 39,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.2"
+        },
+        {
+            "name": "base exp",
+            "value": "39"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/13.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/013Weedle.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 20,
         "speed": 50
     },
-    "abilities": {
-        "name": "run-away",
-        "description": "Ensures success fleeing from wild battles."
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "Beware of the sharp stinger on its head. It hides\nin grass and bushes where it eats leaves.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

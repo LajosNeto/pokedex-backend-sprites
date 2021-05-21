@@ -2,9 +2,32 @@
     "id": 182,
     "name_en": "bellossom",
     "name_ja": "キレイハナ",
-    "height": 0.4,
-    "weight": 5.8,
-    "base_exp": 221,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.8"
+        },
+        {
+            "name": "base exp",
+            "value": "221"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/182.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/182Bellossom.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 100,
         "speed": 50
     },
-    "abilities": {
-        "name": "healer",
-        "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Bellossom gather at times and appear to dance.\nThey say that the dance is a ritual to summon\nthe sun.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

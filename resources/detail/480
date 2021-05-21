@@ -2,9 +2,32 @@
     "id": 480,
     "name_en": "uxie",
     "name_ja": "ユクシー",
-    "height": 0.3,
-    "weight": 0.3,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "0.3"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/480Uxie.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 130,
         "speed": 95
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "It is said that its emergence gave humans the\nintelligence to improve their quality of life.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

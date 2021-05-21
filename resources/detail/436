@@ -2,9 +2,32 @@
     "id": 436,
     "name_en": "bronzor",
     "name_ja": "ドーミラー",
-    "height": 0.5,
-    "weight": 60.5,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "60.5"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/436Bronzor.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 86,
         "speed": 23
     },
-    "abilities": {
-        "name": "heavy-metal",
-        "description": "Doubles the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        },
+        {
+            "name": "heatproof",
+            "description": "Halves damage from fire moves and burns."
+        },
+        {
+            "name": "heavy-metal",
+            "description": "Doubles the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel",
         "psychic"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "Polishing Bronzor to a shine makes its surface\nreflect the truth, according to common lore.\nBe that as it may, Bronzor hates being polished.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

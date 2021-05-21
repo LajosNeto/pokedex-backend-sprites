@@ -2,9 +2,32 @@
     "id": 643,
     "name_en": "reshiram",
     "name_ja": "レシラム",
-    "height": 3.2,
-    "weight": 330.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.2"
+        },
+        {
+            "name": "weight",
+            "value": "330.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8d/643Reshiram.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 120,
         "speed": 90
     },
-    "abilities": {
-        "name": "turboblaze",
-        "description": "Bypasses targets' abilities if they could hinder or prevent moves."
-    },
+    "abilities": [
+        {
+            "name": "turboblaze",
+            "description": "Bypasses targets' abilities if they could hinder or prevent moves."
+        }
+    ],
     "types": [
         "dragon",
         "fire"
@@ -27,11 +52,8 @@
         "#6630f3",
         "#ed7835"
     ],
-    "short_description": "According to myth, if people ignore truth and\nlet themselves become consumed by greed,\nReshiram will arrive to burn their kingdoms down.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

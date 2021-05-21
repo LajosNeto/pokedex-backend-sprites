@@ -2,9 +2,32 @@
     "id": 46,
     "name_en": "paras",
     "name_ja": "パラス",
-    "height": 0.3,
-    "weight": 5.4,
-    "base_exp": 57,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "5.4"
+        },
+        {
+            "name": "base exp",
+            "value": "57"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/046Paras.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 25
     },
-    "abilities": {
-        "name": "damp",
-        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
-    },
+    "abilities": [
+        {
+            "name": "effect-spore",
+            "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+        },
+        {
+            "name": "dry-skin",
+            "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        }
+    ],
     "types": [
         "bug",
         "grass"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#6dc04c"
     ],
-    "short_description": "Burrows under the ground to gnaw on\ntree roots. The mushrooms on its back\nabsorb most of the nutrition.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

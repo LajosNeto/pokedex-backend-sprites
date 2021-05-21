@@ -2,9 +2,32 @@
     "id": 119,
     "name_en": "seaking",
     "name_ja": "アズマオウ",
-    "height": 1.3,
-    "weight": 39.0,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "39.0"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/119.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6a/119Seaking.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 68
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Using its horn, it bores holes in riverbed\nboulders, making nests to prevent its eggs from\nwashing away.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

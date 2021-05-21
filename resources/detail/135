@@ -2,9 +2,32 @@
     "id": 135,
     "name_en": "jolteon",
     "name_ja": "サンダース",
-    "height": 0.8,
-    "weight": 24.5,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "24.5"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/135.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/135Jolteon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 95,
         "speed": 130
     },
-    "abilities": {
-        "name": "quick-feet",
-        "description": "Increases Speed to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "volt-absorb",
+            "description": "Absorbs electric moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "It accumulates negative ions in the atmosphere to\nblast out 10,000-volt lightning bolts.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 824,
     "name_en": "blipbug",
     "name_ja": "サッチムシ",
-    "height": 0.4,
-    "weight": 8.0,
-    "base_exp": 36,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "8.0"
+        },
+        {
+            "name": "base exp",
+            "value": "36"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4c/824Blipbug.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 45
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "compound-eyes",
+            "description": "Increases moves' accuracy to 1.3×."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Often found in gardens, this Pokémon has hairs\non its body that it uses to assess its surroundings.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

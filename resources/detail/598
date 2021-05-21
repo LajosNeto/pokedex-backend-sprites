@@ -2,9 +2,32 @@
     "id": 598,
     "name_en": "ferrothorn",
     "name_ja": "ナットレイ",
-    "height": 1.0,
-    "weight": 110.0,
-    "base_exp": 171,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "110.0"
+        },
+        {
+            "name": "base exp",
+            "value": "171"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/598Ferrothorn.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 116,
         "speed": 20
     },
-    "abilities": {
-        "name": "anticipation",
-        "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
-    },
+    "abilities": [
+        {
+            "name": "iron-barbs",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        }
+    ],
     "types": [
         "grass",
         "steel"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#afafc9"
     ],
-    "short_description": "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

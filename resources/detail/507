@@ -2,9 +2,32 @@
     "id": 507,
     "name_en": "herdier",
     "name_ja": "ハーデリア",
-    "height": 0.9,
-    "weight": 14.7,
-    "base_exp": 130,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "14.7"
+        },
+        {
+            "name": "base exp",
+            "value": "130"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/507.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/96/507Herdier.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 60
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "sand-rush",
+            "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "The black fur that covers this Pokémon’s body\nis dense and springy. Even sharp fangs bounce\nright off.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The black fur that covers this Pokémon’s body is dense and springy. Even sharp fangs bounce right off.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

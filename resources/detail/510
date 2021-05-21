@@ -2,9 +2,32 @@
     "id": 510,
     "name_en": "liepard",
     "name_ja": "レパルダス",
-    "height": 1.1,
-    "weight": 37.5,
-    "base_exp": 156,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "37.5"
+        },
+        {
+            "name": "base exp",
+            "value": "156"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/09/510Liepard.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 106
     },
-    "abilities": {
-        "name": "prankster",
-        "description": "Raises non-damaging moves' priority by one stage."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 562,
     "name_en": "yamask",
     "name_ja": "デスマス",
-    "height": 0.5,
-    "weight": 1.5,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "1.5"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/562Yamask.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 65,
         "speed": 30
     },
-    "abilities": {
-        "name": "mummy",
-        "description": "Changes attacking Pokémon's abilities to Mummy on contact."
-    },
+    "abilities": [
+        {
+            "name": "mummy",
+            "description": "Changes attacking Pokémon's abilities to Mummy on contact."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "The spirit of a person from a bygone age became\nthis Pokémon. It rambles through ruins, searching\nfor someone who knows its face.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

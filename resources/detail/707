@@ -2,9 +2,32 @@
     "id": 707,
     "name_en": "klefki",
     "name_ja": "クレッフィ",
-    "height": 0.2,
-    "weight": 3.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "3.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/04/707Klefki.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 87,
         "speed": 75
     },
-    "abilities": {
-        "name": "magician",
-        "description": "Steals the target's held item when the bearer uses a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "magician",
+            "description": "Steals the target's held item when the bearer uses a damaging move."
+        }
+    ],
     "types": [
         "steel",
         "fairy"
@@ -27,11 +56,8 @@
         "#afafc9",
         "#eb90a4"
     ],
-    "short_description": "Klefki sucks in metal ions with the horn topping\nits head. It seems this Pokémon loves keys so\nmuch that its head needed to look like one, too.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

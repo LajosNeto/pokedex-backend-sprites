@@ -2,9 +2,32 @@
     "id": 868,
     "name_en": "milcery",
     "name_ja": "マホミル",
-    "height": 0.2,
-    "weight": 0.3,
-    "base_exp": 54,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.3"
+        },
+        {
+            "name": "base exp",
+            "value": "54"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/868.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/868Milcery.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 61,
         "speed": 34
     },
-    "abilities": {
-        "name": "aroma-veil",
-        "description": "Protects allies against moves that affect their mental state."
-    },
+    "abilities": [
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        },
+        {
+            "name": "aroma-veil",
+            "description": "Protects allies against moves that affect their mental state."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

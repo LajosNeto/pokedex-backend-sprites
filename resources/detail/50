@@ -2,9 +2,32 @@
     "id": 50,
     "name_en": "diglett",
     "name_ja": "ディグダ",
-    "height": 0.2,
-    "weight": 0.8,
-    "base_exp": 53,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.8"
+        },
+        {
+            "name": "base exp",
+            "value": "53"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/31/050Diglett.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 95
     },
-    "abilities": {
-        "name": "sand-force",
-        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "arena-trap",
+            "description": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
+        },
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Its three hairs change shape depending on\nDiglett’s mood. They’re a useful communication\ntool among these Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

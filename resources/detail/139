@@ -2,9 +2,32 @@
     "id": 139,
     "name_en": "omastar",
     "name_ja": "オムスター",
-    "height": 1.0,
-    "weight": 35.0,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "35.0"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/43/139Omastar.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 55
     },
-    "abilities": {
-        "name": "weak-armor",
-        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        }
+    ],
     "types": [
         "rock",
         "water"
@@ -27,11 +60,8 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "Its sharp beak rings its mouth. Its shell was too\nbig for it to move freely, so it became extinct.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

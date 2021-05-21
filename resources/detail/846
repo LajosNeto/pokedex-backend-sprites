@@ -2,9 +2,32 @@
     "id": 846,
     "name_en": "arrokuda",
     "name_ja": "サシカマス",
-    "height": 0.5,
-    "weight": 1.0,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "1.0"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/846.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/846Arrokuda.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 30,
         "speed": 66
     },
-    "abilities": {
-        "name": "propeller-tail",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "propeller-tail",
+            "description": ""
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "After it’s eaten its fill, its movements become\nextremely sluggish. That’s when Cramorant\nswallows it up.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

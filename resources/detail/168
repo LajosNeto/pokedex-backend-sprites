@@ -2,9 +2,32 @@
     "id": 168,
     "name_en": "ariados",
     "name_ja": "アリアドス",
-    "height": 1.1,
-    "weight": 33.5,
-    "base_exp": 140,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "33.5"
+        },
+        {
+            "name": "base exp",
+            "value": "140"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/168Ariados.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 40
     },
-    "abilities": {
-        "name": "sniper",
-        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
-    },
+    "abilities": [
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
     "habitat": "forest",
-    "growth_rate": "fast",
     "color": "#e0626a",
     "evolution_chain": [
         {

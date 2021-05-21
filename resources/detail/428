@@ -2,9 +2,32 @@
     "id": 428,
     "name_en": "lopunny",
     "name_ja": "ミミロップ",
-    "height": 1.2,
-    "weight": 33.3,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "33.3"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/428.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/428Lopunny.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 96,
         "speed": 105
     },
-    "abilities": {
-        "name": "limber",
-        "description": "Prevents paralysis."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Once hot seasons are over, Lopunny’s coat will\nbe replaced with fur that holds a lot of insulating\nair in preparation for colder weather.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 265,
     "name_en": "wurmple",
     "name_ja": "ケムッソ",
-    "height": 0.3,
-    "weight": 3.6,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.6"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/265Wurmple.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 30,
         "speed": 20
     },
-    "abilities": {
-        "name": "run-away",
-        "description": "Ensures success fleeing from wild battles."
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Wurmple is targeted by Swellow as prey. This Pokémon\nwill try to resist by pointing the spikes on its rear at the\nattacking predator. It will weaken the foe by leaking poison\nfrom the spikes.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Wurmple is targeted by Swellow as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

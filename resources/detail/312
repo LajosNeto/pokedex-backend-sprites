@@ -2,9 +2,32 @@
     "id": 312,
     "name_en": "minun",
     "name_ja": "マイナン",
-    "height": 0.4,
-    "weight": 4.2,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.2"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/312.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/312Minun.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 85,
         "speed": 95
     },
-    "abilities": {
-        "name": "volt-absorb",
-        "description": "Absorbs electric moves, healing for 1/4 max HP."
-    },
+    "abilities": [
+        {
+            "name": "minus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "volt-absorb",
+            "description": "Absorbs electric moves, healing for 1/4 max HP."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Minun loves to cheer on its partner in battle. It gives off sparks\nfrom its body while it is doing so. If its partner is in trouble,\nthis Pokémon gives off increasing amounts of sparks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

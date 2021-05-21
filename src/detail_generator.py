@@ -80,9 +80,7 @@ def build_detail_data():
         pokemon_detail['id'] = pokemon_data['id']
         pokemon_detail['name_en'] = pokemon_data['name']
         pokemon_detail['name_ja'] = extract_japanese_name(name_data)
-        pokemon_detail['height'] = float(pokemon_data['height'])/10
-        pokemon_detail['weight'] = float(pokemon_data['weight'])/10
-        pokemon_detail['base_exp'] = pokemon_data['base_experience']
+        pokemon_detail['attributes'] = extract_attributes(pokemon_data, species_data)
         pokemon_detail['sprite_url'] = BASE_SPRITE_PATH + str(id) + SPRITE_FILE_TYPE
         pokemon_detail['art_url'] = id_art_map[str(id)]
         pokemon_detail['base_stats'] = extract_base_stats(pokemon_data)
@@ -90,10 +88,7 @@ def build_detail_data():
         pokemon_detail['types'] = [type['type']['name'] for type in pokemon_data['types']]
         pokemon_detail['types_colors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
         pokemon_detail['short_description'] = extract_flavor_description(species_data)
-        pokemon_detail['is_legendary'] = species_data['is_legendary']
-        pokemon_detail['is_mythical'] = species_data['is_mythical']
         pokemon_detail['habitat'] = extract_habitat(species_data)
-        pokemon_detail['growth_rate'] = species_data['growth_rate']['name']
         pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
         pokemon_detail['evolution_chain'] = process_evolution_chain(species_data['evolution_chain']['url'])
 
@@ -140,7 +135,7 @@ def extract_flavor_description(species_data):
     short_description = ""
     for flavor in species_data['flavor_text_entries']:
         if (flavor['language']['name'] == "en"):
-            short_description = flavor['flavor_text']
+            short_description = flavor['flavor_text'].replace("\n", " ")
     return short_description
 
 def extract_base_stats(pokemon_data):
@@ -168,7 +163,7 @@ def extract_abilities(pokemon_data):
         ability_detail['description'] = ability_description
 
         abilities.append(ability_detail)
-    return ability_detail
+    return abilities
 
 def extract_habitat(species_data):
     return species_data['habitat']['name'] if species_data['habitat'] is not None else ""
@@ -179,6 +174,36 @@ def extract_japanese_name(name_data):
         if (name['language']['name'] == "ja"):
             name_japanese = name['name']
     return name_japanese
+
+def extract_attributes(pokemon_data, species_data):
+
+    attributes = [
+        {
+            'name': "height",
+            'value': str(float(pokemon_data['height'])/10)
+        },
+        {
+            'name': "weight",
+            'value': str(float(pokemon_data['weight'])/10)
+        },
+        {
+            'name': "base exp",
+            'value': str(pokemon_data['base_experience'])
+        },
+        {
+            'name': "growth rate",
+            'value': str(species_data['growth_rate']['name'])
+        },
+        {
+            'name': "legendary",
+            'value': "yes" if species_data['is_legendary'] else "no"
+        },
+        {
+            'name': "mythical",
+            'value': "yes" if species_data['is_mythical'] else "no"
+        }
+    ]
+    return attributes
 
 if __name__ == '__main__':
     filter_argparse = argparse.ArgumentParser()

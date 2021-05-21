@@ -2,9 +2,32 @@
     "id": 673,
     "name_en": "gogoat",
     "name_ja": "ゴーゴート",
-    "height": 1.7,
-    "weight": 91.0,
-    "base_exp": 186,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "91.0"
+        },
+        {
+            "name": "base exp",
+            "value": "186"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/673.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/673Gogoat.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 81,
         "speed": 68
     },
-    "abilities": {
-        "name": "grass-pelt",
-        "description": "Boosts Defense while grassy terrain is in effect."
-    },
+    "abilities": [
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "grass-pelt",
+            "description": "Boosts Defense while grassy terrain is in effect."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "They inhabit mountainous regions.\nThe leader of the herd is decided by\na battle of clashing horns.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

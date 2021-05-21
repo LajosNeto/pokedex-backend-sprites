@@ -2,9 +2,32 @@
     "id": 858,
     "name_en": "hatterene",
     "name_ja": "ブリムオン",
-    "height": 2.1,
-    "weight": 5.1,
-    "base_exp": 255,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "5.1"
+        },
+        {
+            "name": "base exp",
+            "value": "255"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/10/858Hatterene.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 103,
         "speed": 29
     },
-    "abilities": {
-        "name": "magic-bounce",
-        "description": "Reflects most non-damaging moves back at their user."
-    },
+    "abilities": [
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "magic-bounce",
+            "description": "Reflects most non-damaging moves back at their user."
+        }
+    ],
     "types": [
         "psychic",
         "fairy"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "If you’re too loud around it, you risk being torn\napart by the claws on its tentacle. This Pokémon\nis also known as the Forest Witch.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 176,
     "name_en": "togetic",
     "name_ja": "トゲチック",
-    "height": 0.6,
-    "weight": 3.2,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "3.2"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/176Togetic.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 105,
         "speed": 40
     },
-    "abilities": {
-        "name": "super-luck",
-        "description": "Raises moves' critical hit rates one stage."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        },
+        {
+            "name": "super-luck",
+            "description": "Raises moves' critical hit rates one stage."
+        }
+    ],
     "types": [
         "fairy",
         "flying"
@@ -27,11 +60,8 @@
         "#eb90a4",
         "#9e85eb"
     ],
-    "short_description": "It grows dispirited if it is not with kind people.\nIt can float in midair without moving its wings.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
     "habitat": "forest",
-    "growth_rate": "fast",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

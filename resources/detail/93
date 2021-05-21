@@ -2,9 +2,32 @@
     "id": 93,
     "name_en": "haunter",
     "name_ja": "ゴースト",
-    "height": 1.6,
-    "weight": 0.1,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "0.1"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/093Haunter.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 55,
         "speed": 95
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "ghost",
         "poison"
@@ -27,11 +52,8 @@
         "#654e8c",
         "#953a93"
     ],
-    "short_description": "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

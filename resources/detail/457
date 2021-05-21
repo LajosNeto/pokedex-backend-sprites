@@ -2,9 +2,32 @@
     "id": 457,
     "name_en": "lumineon",
     "name_ja": "ネオラント",
-    "height": 1.2,
-    "weight": 24.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "24.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/457.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/457Lumineon.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 86,
         "speed": 91
     },
-    "abilities": {
-        "name": "water-veil",
-        "description": "Prevents burns."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "storm-drain",
+            "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "They traverse the deep waters as if crawling\nover the seafloor. The fantastic lights of its\nfins shine like stars in the night sky.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

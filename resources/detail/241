@@ -2,9 +2,32 @@
     "id": 241,
     "name_en": "miltank",
     "name_ja": "ミルタンク",
-    "height": 1.2,
-    "weight": 75.5,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "75.5"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/241.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/13/241Miltank.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 70,
         "speed": 100
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This Pokémon needs to be milked every day,\nor else it will fall ill. The flavor of Miltank milk\nchanges with the seasons.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

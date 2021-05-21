@@ -2,9 +2,32 @@
     "id": 67,
     "name_en": "machoke",
     "name_ja": "ゴーリキー",
-    "height": 1.5,
-    "weight": 70.5,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "70.5"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/67.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/067Machoke.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 45
     },
-    "abilities": {
-        "name": "steadfast",
-        "description": "Raises Speed one stage upon flinching."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "no-guard",
+            "description": "Ensures all moves used by and against the Pokémon hit."
+        },
+        {
+            "name": "steadfast",
+            "description": "Raises Speed one stage upon flinching."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Its formidable body never gets tired. It helps\npeople by doing work such as the moving of\nheavy goods.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
     "habitat": "mountain",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 758,
     "name_en": "salazzle",
     "name_ja": "エンニュート",
-    "height": 1.2,
-    "weight": 22.2,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "22.2"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/758Salazzle.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 60,
         "speed": 117
     },
-    "abilities": {
-        "name": "oblivious",
-        "description": "Prevents infatuation and protects against captivate."
-    },
+    "abilities": [
+        {
+            "name": "corrosion",
+            "description": "This Pokémon can inflict poison on Poison and Steel Pokémon."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        }
+    ],
     "types": [
         "poison",
         "fire"
@@ -27,11 +56,8 @@
         "#953a93",
         "#ed7835"
     ],
-    "short_description": "The winner of competitions between Salazzle\nis decided by which one has the most male\nSalandit with it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 116,
     "name_en": "horsea",
     "name_ja": "タッツー",
-    "height": 0.4,
-    "weight": 8.0,
-    "base_exp": 59,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "8.0"
+        },
+        {
+            "name": "base exp",
+            "value": "59"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/116.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5a/116Horsea.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 25,
         "speed": 60
     },
-    "abilities": {
-        "name": "damp",
-        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "They swim with dance-like motions and cause\nwhirlpools to form. Horsea compete to see which\nof them can generate the biggest whirlpool.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

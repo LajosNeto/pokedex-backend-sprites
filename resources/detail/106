@@ -2,9 +2,32 @@
     "id": 106,
     "name_en": "hitmonlee",
     "name_ja": "サワムラー",
-    "height": 1.5,
-    "weight": 49.8,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "49.8"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/32/106Hitmonlee.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 110,
         "speed": 87
     },
-    "abilities": {
-        "name": "unburden",
-        "description": "Doubles Speed upon using or losing a held item."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "The legs freely contract and stretch. The stretchy\nlegs allow it to hit a distant foe with a rising kick.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

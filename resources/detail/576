@@ -2,9 +2,32 @@
     "id": 576,
     "name_en": "gothitelle",
     "name_ja": "ゴチルゼル",
-    "height": 1.5,
-    "weight": 44.0,
-    "base_exp": 221,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "44.0"
+        },
+        {
+            "name": "base exp",
+            "value": "221"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/576.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/38/576Gothitelle.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 110,
         "speed": 65
     },
-    "abilities": {
-        "name": "shadow-tag",
-        "description": "Prevents opponents from fleeing or switching out."
-    },
+    "abilities": [
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "competitive",
+            "description": "Raises Special Attack by two stages upon having any stat lowered."
+        },
+        {
+            "name": "shadow-tag",
+            "description": "Prevents opponents from fleeing or switching out."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "A criminal who was shown his fate by a Gothitelle\nwent missing that same day and was never\nseen again.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

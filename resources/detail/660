@@ -2,9 +2,32 @@
     "id": 660,
     "name_en": "diggersby",
     "name_ja": "ホルード",
-    "height": 1.0,
-    "weight": 42.4,
-    "base_exp": 148,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "42.4"
+        },
+        {
+            "name": "base exp",
+            "value": "148"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/34/660Diggersby.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 77,
         "speed": 78
     },
-    "abilities": {
-        "name": "huge-power",
-        "description": "Doubles Attack in battle."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "cheek-pouch",
+            "description": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+        },
+        {
+            "name": "huge-power",
+            "description": "Doubles Attack in battle."
+        }
+    ],
     "types": [
         "normal",
         "ground"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#dbb963"
     ],
-    "short_description": "The fur on its belly retains heat exceptionally\nwell. People used to make heavy winter clothing\nfrom fur shed by this Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

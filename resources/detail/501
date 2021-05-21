@@ -2,9 +2,32 @@
     "id": 501,
     "name_en": "oshawott",
     "name_ja": "ミジュマル",
-    "height": 0.5,
-    "weight": 5.9,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "5.9"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/501Oshawott.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 45,
         "speed": 45
     },
-    "abilities": {
-        "name": "shell-armor",
-        "description": "Protects against critical hits."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 212,
     "name_en": "scizor",
     "name_ja": "ハッサム",
-    "height": 1.8,
-    "weight": 118.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "118.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/55/212Scizor.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 65
     },
-    "abilities": {
-        "name": "light-metal",
-        "description": "Halves the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "light-metal",
+            "description": "Halves the Pokémon's weight."
+        }
+    ],
     "types": [
         "bug",
         "steel"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#afafc9"
     ],
-    "short_description": "Though its body is slim, Scizor has tremendous\nattacking power. Even Scizor’s muscles are made\nof metal.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

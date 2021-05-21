@@ -2,9 +2,32 @@
     "id": 291,
     "name_en": "ninjask",
     "name_ja": "テッカニン",
-    "height": 0.8,
-    "weight": 12.0,
-    "base_exp": 160,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "12.0"
+        },
+        {
+            "name": "base exp",
+            "value": "160"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/291Ninjask.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 50,
         "speed": 160
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "speed-boost",
+            "description": "Raises Speed one stage after each turn."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "bug",
         "flying"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "This Pokémon is so quick, it is said to be able to\navoid any attack. It loves to feed on tree sap.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
     "habitat": "forest",
-    "growth_rate": "slow-then-very-fast",
     "color": "#ecd061",
     "evolution_chain": [
         {

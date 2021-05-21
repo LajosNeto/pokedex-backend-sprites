@@ -2,9 +2,32 @@
     "id": 219,
     "name_en": "magcargo",
     "name_ja": "マグカルゴ",
-    "height": 0.8,
-    "weight": 55.0,
-    "base_exp": 151,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "55.0"
+        },
+        {
+            "name": "base exp",
+            "value": "151"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/219.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/65/219Magcargo.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 30
     },
-    "abilities": {
-        "name": "weak-armor",
-        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
-    },
+    "abilities": [
+        {
+            "name": "magma-armor",
+            "description": "Prevents freezing."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        }
+    ],
     "types": [
         "fire",
         "rock"
@@ -27,11 +60,8 @@
         "#ed7835",
         "#af9539"
     ],
-    "short_description": "Magcargo’s body temperature is approximately\n18,000 degrees Fahrenheit. Water is vaporized on contact.\nIf this Pokémon is caught in the rain, the raindrops instantly\nturn into steam, cloaking the area in a thick fog.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

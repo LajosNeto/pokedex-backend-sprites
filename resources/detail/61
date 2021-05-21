@@ -2,9 +2,32 @@
     "id": 61,
     "name_en": "poliwhirl",
     "name_ja": "ニョロゾ",
-    "height": 1.0,
-    "weight": 20.0,
-    "base_exp": 135,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "20.0"
+        },
+        {
+            "name": "base exp",
+            "value": "135"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/61.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/061Poliwhirl.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 90
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "This Pokémon’s sweat is a slimy mucus. When\ncaptured, Poliwhirl can slither from its enemies’\ngrasp and escape.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 361,
     "name_en": "snorunt",
     "name_ja": "ユキワラシ",
-    "height": 0.7,
-    "weight": 16.8,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "16.8"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/361Snorunt.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 50
     },
-    "abilities": {
-        "name": "moody",
-        "description": "Raises a random stat two stages and lowers another one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "moody",
+            "description": "Raises a random stat two stages and lowers another one stage after each turn."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "It can only survive in cold areas. It bounces\nhappily around, even in environments as cold as\n−150 degrees Fahrenheit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

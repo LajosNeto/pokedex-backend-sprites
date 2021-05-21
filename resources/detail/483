@@ -2,9 +2,32 @@
     "id": 483,
     "name_en": "dialga",
     "name_ja": "ディアルガ",
-    "height": 5.4,
-    "weight": 683.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "5.4"
+        },
+        {
+            "name": "weight",
+            "value": "683.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/483.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/483Dialga.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 100,
         "speed": 90
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "steel",
         "dragon"
@@ -27,11 +56,8 @@
         "#afafc9",
         "#6630f3"
     ],
-    "short_description": "It has the power to control time. It appears in\nSinnoh-region myths as an ancient deity.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

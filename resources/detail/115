@@ -2,9 +2,32 @@
     "id": 115,
     "name_en": "kangaskhan",
     "name_ja": "ガルーラ",
-    "height": 2.2,
-    "weight": 80.0,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "80.0"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/115.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/115Kangaskhan.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 90
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "There are records of a lost human child being\nraised by a childless Kangaskhan.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There are records of a lost human child being raised by a childless Kangaskhan.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 619,
     "name_en": "mienfoo",
     "name_ja": "コジョフー",
-    "height": 0.9,
-    "weight": 20.0,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "20.0"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/41/619Mienfoo.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 65
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "regenerator",
+            "description": "Heals for 1/3 max HP upon switching out."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Though small, Mienfoo’s temperament is fierce.\nAny creature that approaches Mienfoo carelessly\nwill be greeted with a flurry of graceful attacks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

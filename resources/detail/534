@@ -2,9 +2,32 @@
     "id": 534,
     "name_en": "conkeldurr",
     "name_ja": "ローブシン",
-    "height": 1.4,
-    "weight": 87.0,
-    "base_exp": 227,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "87.0"
+        },
+        {
+            "name": "base exp",
+            "value": "227"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/534.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/534Conkeldurr.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 45
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "When going all out, this Pokémon throws aside\nits concrete pillars and leaps at opponents to\npummel them with its fists.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

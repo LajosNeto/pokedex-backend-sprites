@@ -2,9 +2,32 @@
     "id": 118,
     "name_en": "goldeen",
     "name_ja": "トサキント",
-    "height": 0.6,
-    "weight": 15.0,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "15.0"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7b/118Goldeen.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 63
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its dorsal and pectoral fins are strongly developed\nlike muscles. It can swim at a speed of five knots.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

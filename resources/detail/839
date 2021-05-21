@@ -2,9 +2,32 @@
     "id": 839,
     "name_en": "coalossal",
     "name_ja": "セキタンザン",
-    "height": 2.8,
-    "weight": 310.5,
-    "base_exp": 255,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.8"
+        },
+        {
+            "name": "weight",
+            "value": "310.5"
+        },
+        {
+            "name": "base exp",
+            "value": "255"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0c/839Coalossal.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 30
     },
-    "abilities": {
-        "name": "flash-fire",
-        "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
-    },
+    "abilities": [
+        {
+            "name": "steam-engine",
+            "description": ""
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        }
+    ],
     "types": [
         "rock",
         "fire"
@@ -27,11 +60,8 @@
         "#af9539",
         "#ed7835"
     ],
-    "short_description": "While it’s engaged in battle, its mountain of coal\nwill burn bright red, sending off sparks that\nscorch the surrounding area.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

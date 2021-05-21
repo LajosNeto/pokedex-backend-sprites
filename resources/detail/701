@@ -2,9 +2,32 @@
     "id": 701,
     "name_en": "hawlucha",
     "name_ja": "ルチャブル",
-    "height": 0.8,
-    "weight": 21.5,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "21.5"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/701.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/44/701Hawlucha.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 63,
         "speed": 118
     },
-    "abilities": {
-        "name": "mold-breaker",
-        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        }
+    ],
     "types": [
         "fighting",
         "flying"
@@ -27,11 +60,8 @@
         "#b72f29",
         "#9e85eb"
     ],
-    "short_description": "It always strikes a pose before going for its\nfinishing move. Sometimes opponents take\nadvantage of that time to counterattack.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

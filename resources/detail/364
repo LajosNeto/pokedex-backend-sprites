@@ -2,9 +2,32 @@
     "id": 364,
     "name_en": "sealeo",
     "name_ja": "トドグラー",
-    "height": 1.1,
-    "weight": 87.6,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "87.6"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/364Sealeo.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 45
     },
-    "abilities": {
-        "name": "oblivious",
-        "description": "Prevents infatuation and protects against captivate."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        }
+    ],
     "types": [
         "ice",
         "water"
@@ -27,11 +60,8 @@
         "#8ed2d2",
         "#5f84ea"
     ],
-    "short_description": "Sealeo often balances and rolls things on the tip of its\nnose. While the Pokémon is rolling something, it checks\nthe object’s aroma and texture to determine whether it likes\nthe object or not.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
     "habitat": "sea",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

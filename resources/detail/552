@@ -2,9 +2,32 @@
     "id": 552,
     "name_en": "krokorok",
     "name_ja": "ワルビル",
-    "height": 1.0,
-    "weight": 33.4,
-    "base_exp": 123,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "33.4"
+        },
+        {
+            "name": "base exp",
+            "value": "123"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/552Krokorok.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 45,
         "speed": 74
     },
-    "abilities": {
-        "name": "anger-point",
-        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        },
+        {
+            "name": "anger-point",
+            "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+        }
+    ],
     "types": [
         "ground",
         "dark"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#644e40"
     ],
-    "short_description": "Although this Pokémon has specialized eyes that\nallow it to see in the dark, Krokorok won’t move\nmuch at night—the desert gets cold after sunset.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

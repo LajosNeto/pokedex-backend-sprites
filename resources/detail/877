@@ -2,9 +2,32 @@
     "id": 877,
     "name_en": "morpeko",
     "name_ja": "モルペコ",
-    "height": 0.3,
-    "weight": 3.0,
-    "base_exp": 153,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.0"
+        },
+        {
+            "name": "base exp",
+            "value": "153"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/51/877Morpeko.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 58,
         "speed": 97
     },
-    "abilities": {
-        "name": "hunger-switch",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "hunger-switch",
+            "description": ""
+        }
+    ],
     "types": [
         "electric",
         "dark"
@@ -27,11 +52,8 @@
         "#f6cb3b",
         "#644e40"
     ],
-    "short_description": "It carries electrically roasted seeds with it as if\nthey’re precious treasures. No matter how much\nit eats, it always gets hungry again in short order.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

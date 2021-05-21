@@ -2,9 +2,32 @@
     "id": 797,
     "name_en": "celesteela",
     "name_ja": "テッカグヤ",
-    "height": 9.2,
-    "weight": 999.9,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "9.2"
+        },
+        {
+            "name": "weight",
+            "value": "999.9"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/89/797Celesteela.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 101,
         "speed": 61
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "steel",
         "flying"
@@ -27,11 +52,8 @@
         "#afafc9",
         "#9e85eb"
     ],
-    "short_description": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 160,
     "name_en": "feraligatr",
     "name_ja": "オーダイル",
-    "height": 2.3,
-    "weight": 88.8,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.3"
+        },
+        {
+            "name": "weight",
+            "value": "88.8"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/160.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d5/160Feraligatr.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 83,
         "speed": 78
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Feraligatr intimidates its foes by opening its huge mouth.\nIn battle, it will kick the ground hard with its thick and powerful\nhind legs to charge at the foe at an incredible speed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

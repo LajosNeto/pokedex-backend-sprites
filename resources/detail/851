@@ -2,9 +2,32 @@
     "id": 851,
     "name_en": "centiskorch",
     "name_ja": "マルヤクデ",
-    "height": 3.0,
-    "weight": 120.0,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ed/851Centiskorch.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 65
     },
-    "abilities": {
-        "name": "flame-body",
-        "description": "Has a 30% chance of burning attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "white-smoke",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "fire",
         "bug"
@@ -27,11 +60,8 @@
         "#ed7835",
         "#9daf2b"
     ],
-    "short_description": "While its burning body is already dangerous on\nits own, this excessively hostile Pokémon also has\nlarge and very sharp fangs.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

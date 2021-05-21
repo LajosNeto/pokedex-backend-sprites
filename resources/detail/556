@@ -2,9 +2,32 @@
     "id": 556,
     "name_en": "maractus",
     "name_ja": "マラカッチ",
-    "height": 1.0,
-    "weight": 28.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/556.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/35/556Maractus.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 67,
         "speed": 60
     },
-    "abilities": {
-        "name": "storm-drain",
-        "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "storm-drain",
+            "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Once each year, this Pokémon scatters its seeds.\nThey’re jam-packed with nutrients, making them\na precious food source out in the desert.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

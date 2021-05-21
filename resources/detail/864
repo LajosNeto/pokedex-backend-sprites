@@ -2,9 +2,32 @@
     "id": 864,
     "name_en": "cursola",
     "name_ja": "サニゴーン",
-    "height": 1.0,
-    "weight": 0.4,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "0.4"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/db/864Cursola.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 130,
         "speed": 30
     },
-    "abilities": {
-        "name": "perish-body",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        },
+        {
+            "name": "perish-body",
+            "description": ""
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "Be cautious of the ectoplasmic body\nsurrounding its soul. You’ll become\nstiff as stone if you touch it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 322,
     "name_en": "numel",
     "name_ja": "ドンメル",
-    "height": 0.7,
-    "weight": 24.0,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "24.0"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/322.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c6/322Numel.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 45,
         "speed": 35
     },
-    "abilities": {
-        "name": "own-tempo",
-        "description": "Prevents confusion."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "simple",
+            "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        }
+    ],
     "types": [
         "fire",
         "ground"
@@ -27,11 +60,8 @@
         "#ed7835",
         "#dbb963"
     ],
-    "short_description": "Numel stores magma of almost 2,200 degrees Fahrenheit\nwithin its body. If it gets wet, the magma cools and hardens.\nIn that event, the Pokémon’s body grows heavy and its\nmovements become sluggish.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

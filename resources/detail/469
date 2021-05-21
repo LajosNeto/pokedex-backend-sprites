@@ -2,9 +2,32 @@
     "id": 469,
     "name_en": "yanmega",
     "name_ja": "メガヤンマ",
-    "height": 1.9,
-    "weight": 51.5,
-    "base_exp": 180,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "51.5"
+        },
+        {
+            "name": "base exp",
+            "value": "180"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e6/469Yanmega.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 56,
         "speed": 95
     },
-    "abilities": {
-        "name": "frisk",
-        "description": "Reveals an opponent's held item upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "speed-boost",
+            "description": "Raises Speed one stage after each turn."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        }
+    ],
     "types": [
         "bug",
         "flying"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "This six-legged Pokémon is easily capable of\ntransporting an adult in flight. The wings on its tail\nhelp it stay balanced.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

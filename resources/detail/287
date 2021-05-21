@@ -2,9 +2,32 @@
     "id": 287,
     "name_en": "slakoth",
     "name_ja": "ナマケロ",
-    "height": 0.8,
-    "weight": 24.0,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "24.0"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/287.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/287Slakoth.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 35,
         "speed": 30
     },
-    "abilities": {
-        "name": "truant",
-        "description": "Skips every second turn."
-    },
+    "abilities": [
+        {
+            "name": "truant",
+            "description": "Skips every second turn."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Slakoth’s heart beats just once a minute. Whatever happens,\nit is content to loaf around motionless. It is rare to see this\nPokémon in motion.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Slakoth’s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pokémon in motion.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 52,
     "name_en": "meowth",
     "name_ja": "ニャース",
-    "height": 0.4,
-    "weight": 4.2,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.2"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/52.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d6/052Meowth.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 40,
         "speed": 90
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "These daring Pokémon have coins on their\nforeheads. Darker coins are harder, and harder\ncoins garner more respect among Meowth.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

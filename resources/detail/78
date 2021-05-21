@@ -2,9 +2,32 @@
     "id": 78,
     "name_en": "rapidash",
     "name_ja": "ギャロップ",
-    "height": 1.7,
-    "weight": 95.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "95.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/78.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3f/078Rapidash.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 105
     },
-    "abilities": {
-        "name": "flame-body",
-        "description": "Has a 30% chance of burning attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "The fastest runner becomes the leader, and it\ndecides the herd’s pace and direction of travel.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

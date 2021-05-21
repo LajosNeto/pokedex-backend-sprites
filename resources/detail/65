@@ -2,9 +2,32 @@
     "id": 65,
     "name_en": "alakazam",
     "name_ja": "フーディン",
-    "height": 1.5,
-    "weight": 48.0,
-    "base_exp": 225,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "48.0"
+        },
+        {
+            "name": "base exp",
+            "value": "225"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/065Alakazam.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 95,
         "speed": 120
     },
-    "abilities": {
-        "name": "magic-guard",
-        "description": "Protects against damage not directly caused by a move."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Alakazam wields potent psychic powers. It’s said\nthat this Pokémon used these powers to create\nthe spoons it holds.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.",
     "habitat": "urban",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

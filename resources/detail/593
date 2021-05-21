@@ -2,9 +2,32 @@
     "id": 593,
     "name_en": "jellicent",
     "name_ja": "ブルンゲル",
-    "height": 2.2,
-    "weight": 135.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "135.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5c/593Jellicent.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 105,
         "speed": 60
     },
-    "abilities": {
-        "name": "damp",
-        "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        }
+    ],
     "types": [
         "water",
         "ghost"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#654e8c"
     ],
-    "short_description": "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

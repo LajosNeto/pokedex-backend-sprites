@@ -2,9 +2,32 @@
     "id": 48,
     "name_en": "venonat",
     "name_ja": "コンパン",
-    "height": 1.0,
-    "weight": 30.0,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/048Venonat.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 45
     },
-    "abilities": {
-        "name": "run-away",
-        "description": "Ensures success fleeing from wild battles."
-    },
+    "abilities": [
+        {
+            "name": "compound-eyes",
+            "description": "Increases moves' accuracy to 1.3×."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "Its large eyes act as radar. In a bright place, you\ncan see that they are clusters of many tiny eyes.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

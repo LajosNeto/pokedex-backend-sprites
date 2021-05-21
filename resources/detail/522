@@ -2,9 +2,32 @@
     "id": 522,
     "name_en": "blitzle",
     "name_ja": "シママ",
-    "height": 0.8,
-    "weight": 29.8,
-    "base_exp": 59,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "29.8"
+        },
+        {
+            "name": "base exp",
+            "value": "59"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/522.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/af/522Blitzle.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 32,
         "speed": 76
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "motor-drive",
+            "description": "Absorbs electric moves, raising Speed one stage."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

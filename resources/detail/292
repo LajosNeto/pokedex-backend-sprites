@@ -2,9 +2,32 @@
     "id": 292,
     "name_en": "shedinja",
     "name_ja": "ヌケニン",
-    "height": 0.8,
-    "weight": 1.2,
-    "base_exp": 83,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "1.2"
+        },
+        {
+            "name": "base exp",
+            "value": "83"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/59/292Shedinja.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 30,
         "speed": 40
     },
-    "abilities": {
-        "name": "wonder-guard",
-        "description": "Protects against damaging moves that are not super effective."
-    },
+    "abilities": [
+        {
+            "name": "wonder-guard",
+            "description": "Protects against damaging moves that are not super effective."
+        }
+    ],
     "types": [
         "bug",
         "ghost"
@@ -27,11 +52,8 @@
         "#9daf2b",
         "#654e8c"
     ],
-    "short_description": "A strange Pokémon—it flies without moving its\nwings, has a hollow shell for a body, and does\nnot breathe.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
     "habitat": "forest",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a8733d",
     "evolution_chain": [
         {

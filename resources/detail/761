@@ -2,9 +2,32 @@
     "id": 761,
     "name_en": "bounsweet",
     "name_ja": "アマカジ",
-    "height": 0.3,
-    "weight": 3.2,
-    "base_exp": 42,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.2"
+        },
+        {
+            "name": "base exp",
+            "value": "42"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/761Bounsweet.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 38,
         "speed": 32
     },
-    "abilities": {
-        "name": "sweet-veil",
-        "description": "Prevents friendly Pokémon from sleeping."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "When under attack, it secretes a sweet\nand delicious sweat. The scent only calls\nmore enemies to it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

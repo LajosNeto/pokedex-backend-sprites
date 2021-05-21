@@ -2,9 +2,32 @@
     "id": 669,
     "name_en": "flabebe",
     "name_ja": "フラベベ",
-    "height": 0.1,
-    "weight": 0.1,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.1"
+        },
+        {
+            "name": "weight",
+            "value": "0.1"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/52/669Flab%C3%A9b%C3%A9.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 79,
         "speed": 42
     },
-    "abilities": {
-        "name": "symbiosis",
-        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
-    },
+    "abilities": [
+        {
+            "name": "flower-veil",
+            "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
+        },
+        {
+            "name": "symbiosis",
+            "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Flabébé wears a crown made from pollen it’s\ncollected from its flower. The crown has hidden\nhealing properties.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

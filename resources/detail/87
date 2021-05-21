@@ -2,9 +2,32 @@
     "id": 87,
     "name_en": "dewgong",
     "name_ja": "ジュゴン",
-    "height": 1.7,
-    "weight": 120.0,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/87.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/087Dewgong.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 70
     },
-    "abilities": {
-        "name": "ice-body",
-        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        }
+    ],
     "types": [
         "water",
         "ice"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#8ed2d2"
     ],
-    "short_description": "Its entire body is a snowy white. Unharmed by\neven intense cold, it swims powerfully\nin icy waters.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

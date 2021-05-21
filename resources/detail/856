@@ -2,9 +2,32 @@
     "id": 856,
     "name_en": "hatenna",
     "name_ja": "ミブリム",
-    "height": 0.4,
-    "weight": 3.4,
-    "base_exp": 53,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "3.4"
+        },
+        {
+            "name": "base exp",
+            "value": "53"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/856.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/856Hatenna.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 53,
         "speed": 39
     },
-    "abilities": {
-        "name": "magic-bounce",
-        "description": "Reflects most non-damaging moves back at their user."
-    },
+    "abilities": [
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "magic-bounce",
+            "description": "Reflects most non-damaging moves back at their user."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "If this Pokémon senses a strong emotion, it\nwill run away as fast as it can. It prefers areas\nwithout people.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

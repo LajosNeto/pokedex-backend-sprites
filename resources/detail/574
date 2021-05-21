@@ -2,9 +2,32 @@
     "id": 574,
     "name_en": "gothita",
     "name_ja": "ゴチム",
-    "height": 0.4,
-    "weight": 5.8,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.8"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/574.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/574Gothita.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 45
     },
-    "abilities": {
-        "name": "shadow-tag",
-        "description": "Prevents opponents from fleeing or switching out."
-    },
+    "abilities": [
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "competitive",
+            "description": "Raises Special Attack by two stages upon having any stat lowered."
+        },
+        {
+            "name": "shadow-tag",
+            "description": "Prevents opponents from fleeing or switching out."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Even when nobody seems to be around, Gothita\ncan still be heard making a muted cry. Many believe\nit’s speaking to something only it can see.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

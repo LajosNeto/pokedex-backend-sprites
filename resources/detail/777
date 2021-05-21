@@ -2,9 +2,32 @@
     "id": 777,
     "name_en": "togedemaru",
     "name_ja": "トゲデマル",
-    "height": 0.3,
-    "weight": 3.3,
-    "base_exp": 152,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.3"
+        },
+        {
+            "name": "base exp",
+            "value": "152"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/777.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5a/777Togedemaru.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 73,
         "speed": 96
     },
-    "abilities": {
-        "name": "sturdy",
-        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
-    },
+    "abilities": [
+        {
+            "name": "iron-barbs",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        }
+    ],
     "types": [
         "electric",
         "steel"
@@ -27,11 +60,8 @@
         "#f6cb3b",
         "#afafc9"
     ],
-    "short_description": "When it’s in trouble, it curls up into a ball, makes\nits fur spikes stand on end, and then discharges\nelectricity indiscriminately.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

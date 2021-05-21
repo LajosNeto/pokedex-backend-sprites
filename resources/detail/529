@@ -2,9 +2,32 @@
     "id": 529,
     "name_en": "drilbur",
     "name_ja": "モグリュー",
-    "height": 0.3,
-    "weight": 8.5,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cf/529Drilbur.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 68
     },
-    "abilities": {
-        "name": "mold-breaker",
-        "description": "Bypasses targets' abilities if they could hinder or prevent a move."
-    },
+    "abilities": [
+        {
+            "name": "sand-rush",
+            "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "It’s a digger, using its claws to burrow through the\nground. It causes damage to vegetable crops, so\nmany farmers have little love for it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

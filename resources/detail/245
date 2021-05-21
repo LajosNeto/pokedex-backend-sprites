@@ -2,9 +2,32 @@
     "id": 245,
     "name_en": "suicune",
     "name_ja": "スイクン",
-    "height": 2.0,
-    "weight": 187.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "187.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/245.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/da/245Suicune.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 115,
         "speed": 85
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Suicune embodies the compassion of a pure spring of water.\nIt runs across the land with gracefulness. This Pokémon has\nthe power to purify dirty water.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

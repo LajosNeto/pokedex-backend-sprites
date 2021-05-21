@@ -2,9 +2,32 @@
     "id": 418,
     "name_en": "buizel",
     "name_ja": "ブイゼル",
-    "height": 0.7,
-    "weight": 29.5,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "29.5"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/418.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/83/418Buizel.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 30,
         "speed": 85
     },
-    "abilities": {
-        "name": "water-veil",
-        "description": "Prevents burns."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It inflates the flotation sac around its neck and\npokes its head out of the water to see what is\ngoing on.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

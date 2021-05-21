@@ -2,9 +2,32 @@
     "id": 381,
     "name_en": "latios",
     "name_ja": "ラティオス",
-    "height": 2.0,
-    "weight": 60.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "60.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/381.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/52/381Latios.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 110,
         "speed": 110
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "dragon",
         "psychic"
@@ -27,11 +52,8 @@
         "#6630f3",
         "#f6527e"
     ],
-    "short_description": "Latios will only open its heart to a Trainer with a\ncompassionate spirit. This Pokémon can fly faster than a\njet plane by folding its forelegs to minimize air resistance.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
     "habitat": "waters-edge",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

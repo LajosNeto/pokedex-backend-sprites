@@ -2,9 +2,32 @@
     "id": 471,
     "name_en": "glaceon",
     "name_ja": "グレイシア",
-    "height": 0.8,
-    "weight": 25.9,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "25.9"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/471.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/23/471Glaceon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 95,
         "speed": 65
     },
-    "abilities": {
-        "name": "ice-body",
-        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
-    },
+    "abilities": [
+        {
+            "name": "snow-cloak",
+            "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "The coldness emanating from Glaceon causes\npowdery snow to form, making it quite a popular\nPokémon at ski resorts.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

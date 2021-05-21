@@ -2,9 +2,32 @@
     "id": 759,
     "name_en": "stufful",
     "name_ja": "ヌイコグマ",
-    "height": 0.5,
-    "weight": 6.8,
-    "base_exp": 68,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "6.8"
+        },
+        {
+            "name": "base exp",
+            "value": "68"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/759Stufful.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 50
     },
-    "abilities": {
-        "name": "cute-charm",
-        "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "fluffy",
+            "description": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "normal",
         "fighting"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#b72f29"
     ],
-    "short_description": "The way it protects itself by flailing its arms may\nbe an adorable sight, but stay well away. This is\nflailing that can snap thick tree trunks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

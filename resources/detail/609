@@ -2,9 +2,32 @@
     "id": 609,
     "name_en": "chandelure",
     "name_ja": "シャンデラ",
-    "height": 1.0,
-    "weight": 34.3,
-    "base_exp": 234,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "34.3"
+        },
+        {
+            "name": "base exp",
+            "value": "234"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/65/609Chandelure.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 80
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "ghost",
         "fire"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#ed7835"
     ],
-    "short_description": "In homes illuminated by Chandelure instead of\nlights, funerals were a constant occurrence—\nor so it’s said.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

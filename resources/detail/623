@@ -2,9 +2,32 @@
     "id": 623,
     "name_en": "golurk",
     "name_ja": "ゴルーグ",
-    "height": 2.8,
-    "weight": 330.0,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.8"
+        },
+        {
+            "name": "weight",
+            "value": "330.0"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/68/623Golurk.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 55
     },
-    "abilities": {
-        "name": "no-guard",
-        "description": "Ensures all moves used by and against the Pokémon hit."
-    },
+    "abilities": [
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "no-guard",
+            "description": "Ensures all moves used by and against the Pokémon hit."
+        }
+    ],
     "types": [
         "ground",
         "ghost"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#654e8c"
     ],
-    "short_description": "There’s a theory that inside Golurk is a perpetual\nmotion machine that produces limitless energy,\nbut this belief hasn’t been proven.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

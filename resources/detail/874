@@ -2,9 +2,32 @@
     "id": 874,
     "name_en": "stonjourner",
     "name_ja": "イシヘンジン",
-    "height": 2.5,
-    "weight": 520.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.5"
+        },
+        {
+            "name": "weight",
+            "value": "520.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/874.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/874Stonjourner.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 20,
         "speed": 70
     },
-    "abilities": {
-        "name": "power-spot",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "power-spot",
+            "description": ""
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "Once a year, on a specific date and at a specific\ntime, they gather out of nowhere and form up in\na circle.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

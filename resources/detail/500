@@ -2,9 +2,32 @@
     "id": 500,
     "name_en": "emboar",
     "name_ja": "エンブオー",
-    "height": 1.6,
-    "weight": 150.0,
-    "base_exp": 238,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "150.0"
+        },
+        {
+            "name": "base exp",
+            "value": "238"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/18/500Emboar.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 65,
         "speed": 65
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fire",
         "fighting"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

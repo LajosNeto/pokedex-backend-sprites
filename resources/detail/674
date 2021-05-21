@@ -2,9 +2,32 @@
     "id": 674,
     "name_en": "pancham",
     "name_ja": "ヤンチャム",
-    "height": 0.6,
-    "weight": 8.0,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.0"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1c/674Pancham.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 48,
         "speed": 43
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        },
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Wanting to make sure it’s taken seriously,\nPancham’s always giving others a glare.\nBut if it’s not focusing, it ends up smiling.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

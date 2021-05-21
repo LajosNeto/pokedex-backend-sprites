@@ -2,9 +2,32 @@
     "id": 385,
     "name_en": "jirachi",
     "name_ja": "ジラーチ",
-    "height": 0.3,
-    "weight": 1.1,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "1.1"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/385.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/85/385Jirachi.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 100,
         "speed": 100
     },
-    "abilities": {
-        "name": "serene-grace",
-        "description": "Doubles the chance of moves' extra effects occurring."
-    },
+    "abilities": [
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        }
+    ],
     "types": [
         "steel",
         "psychic"
@@ -27,11 +52,8 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "It’s believed that when this Pokémon wakes from\nits 1,000-year slumber, it will grant any wishes\nwritten on the notes attached to its head.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 573,
     "name_en": "cinccino",
     "name_ja": "チラチーノ",
-    "height": 0.5,
-    "weight": 7.5,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "7.5"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/573.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/94/573Cinccino.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 115
     },
-    "abilities": {
-        "name": "skill-link",
-        "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "skill-link",
+            "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "A special oil that seeps through their fur helps\nthem avoid attacks. The oil fetches a high price\nat market.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

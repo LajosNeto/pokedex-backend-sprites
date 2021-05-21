@@ -2,9 +2,32 @@
     "id": 370,
     "name_en": "luvdisc",
     "name_ja": "ラブカス",
-    "height": 0.6,
-    "weight": 8.7,
-    "base_exp": 116,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.7"
+        },
+        {
+            "name": "base exp",
+            "value": "116"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/370.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/370Luvdisc.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 97
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Luvdisc makes its home in coral reefs in warm\nseas. It especially likes sleeping in the space\nbetween Corsola’s branches.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
     "habitat": "sea",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

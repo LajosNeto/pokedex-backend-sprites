@@ -2,9 +2,32 @@
     "id": 320,
     "name_en": "wailmer",
     "name_ja": "ホエルコ",
-    "height": 2.0,
-    "weight": 130.0,
-    "base_exp": 80,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "130.0"
+        },
+        {
+            "name": "base exp",
+            "value": "80"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/320.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/320Wailmer.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 60
     },
-    "abilities": {
-        "name": "pressure",
-        "description": "Increases the PP cost of moves targetting the Pokémon by one."
-    },
+    "abilities": [
+        {
+            "name": "water-veil",
+            "description": "Prevents burns."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "When it sucks in a large volume of seawater,\nit becomes like a big, bouncy ball. It eats a ton\nof food daily.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
     "habitat": "sea",
-    "growth_rate": "fast-then-very-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 608,
     "name_en": "lampent",
     "name_ja": "ランプラー",
-    "height": 0.6,
-    "weight": 13.0,
-    "base_exp": 130,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "13.0"
+        },
+        {
+            "name": "base exp",
+            "value": "130"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/608Lampent.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 55
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "ghost",
         "fire"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#ed7835"
     ],
-    "short_description": "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

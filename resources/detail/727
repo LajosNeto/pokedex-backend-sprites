@@ -2,9 +2,32 @@
     "id": 727,
     "name_en": "incineroar",
     "name_ja": "ガオガエン",
-    "height": 1.8,
-    "weight": 83.0,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "83.0"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/27/727Incineroar.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 90,
         "speed": 60
     },
-    "abilities": {
-        "name": "intimidate",
-        "description": "Lowers opponents' Attack one stage upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        }
+    ],
     "types": [
         "fire",
         "dark"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#644e40"
     ],
-    "short_description": "Incineroar’s rough and aggressive behavior is its\nmost notable trait, but the way it helps out small\nPokémon shows that it has a kind side as well.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

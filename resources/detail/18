@@ -2,9 +2,32 @@
     "id": 18,
     "name_en": "pidgeot",
     "name_ja": "ピジョット",
-    "height": 1.5,
-    "weight": 39.5,
-    "base_exp": 216,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "39.5"
+        },
+        {
+            "name": "base exp",
+            "value": "216"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/18.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/57/018Pidgeot.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 101
     },
-    "abilities": {
-        "name": "big-pecks",
-        "description": "Protects against Defense drops."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "tangled-feet",
+            "description": "Doubles evasion when confused."
+        },
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "With its muscular strength now greatly\nincreased, it can fly continuously for two weeks\nwithout resting.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

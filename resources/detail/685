@@ -2,9 +2,32 @@
     "id": 685,
     "name_en": "slurpuff",
     "name_ja": "ペロリーム",
-    "height": 0.8,
-    "weight": 5.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/685.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8d/685Slurpuff.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 75,
         "speed": 72
     },
-    "abilities": {
-        "name": "unburden",
-        "description": "Doubles Speed upon using or losing a held item."
-    },
+    "abilities": [
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Slurpuff’s fur contains a lot of air, making it soft\nto the touch and lighter than it looks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

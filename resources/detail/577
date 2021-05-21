@@ -2,9 +2,32 @@
     "id": 577,
     "name_en": "solosis",
     "name_ja": "ユニラン",
-    "height": 0.3,
-    "weight": 1.0,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "1.0"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/577.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1e/577Solosis.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 20
     },
-    "abilities": {
-        "name": "regenerator",
-        "description": "Heals for 1/3 max HP upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        },
+        {
+            "name": "regenerator",
+            "description": "Heals for 1/3 max HP upon switching out."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Many say that the special liquid covering this\nPokémon’s body would allow it to survive in\nthe vacuum of space.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

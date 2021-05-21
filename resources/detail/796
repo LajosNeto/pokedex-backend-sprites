@@ -2,9 +2,32 @@
     "id": 796,
     "name_en": "xurkitree",
     "name_ja": "デンジュモク",
-    "height": 3.8,
-    "weight": 100.0,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.8"
+        },
+        {
+            "name": "weight",
+            "value": "100.0"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/796.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/796Xurkitree.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 71,
         "speed": 83
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "They’ve been dubbed Ultra Beasts. Some of\nthem stand unmoving, like trees, with their\narms and legs stuck into the ground.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 443,
     "name_en": "gible",
     "name_ja": "フカマル",
-    "height": 0.7,
-    "weight": 20.5,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "20.5"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/68/443Gible.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 45,
         "speed": 42
     },
-    "abilities": {
-        "name": "rough-skin",
-        "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
-    },
+    "abilities": [
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "rough-skin",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        }
+    ],
     "types": [
         "dragon",
         "ground"
@@ -27,11 +56,8 @@
         "#6630f3",
         "#dbb963"
     ],
-    "short_description": "Its original home is an area much hotter than\nAlola. If you’re planning to live with one, your\nheating bill will soar.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its original home is an area much hotter than Alola. If you’re planning to live with one, your heating bill will soar.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

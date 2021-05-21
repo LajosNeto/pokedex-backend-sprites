@@ -2,9 +2,32 @@
     "id": 817,
     "name_en": "drizzile",
     "name_ja": "ジメレオン",
-    "height": 0.7,
-    "weight": 11.5,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "11.5"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/817.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/817Drizzile.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 90
     },
-    "abilities": {
-        "name": "sniper",
-        "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Highly intelligent but also very lazy,\nit keeps enemies out of its territory\nby laying traps everywhere.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

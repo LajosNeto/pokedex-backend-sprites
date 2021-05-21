@@ -2,9 +2,32 @@
     "id": 145,
     "name_en": "zapdos",
     "name_ja": "サンダー",
-    "height": 1.6,
-    "weight": 52.6,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "52.6"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/145.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e3/145Zapdos.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 90,
         "speed": 100
     },
-    "abilities": {
-        "name": "static",
-        "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "electric",
         "flying"
@@ -27,11 +56,8 @@
         "#f6cb3b",
         "#9e85eb"
     ],
-    "short_description": "This legendary bird Pokémon is said to\nappear when the sky turns dark and lightning\nshowers down.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
     "habitat": "rare",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

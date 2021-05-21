@@ -2,9 +2,32 @@
     "id": 565,
     "name_en": "carracosta",
     "name_ja": "アバゴーラ",
-    "height": 1.2,
-    "weight": 81.0,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "81.0"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/565Carracosta.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 65,
         "speed": 32
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "solid-rock",
+            "description": "Decreases damage taken from super-effective moves by 1/4."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water",
         "rock"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "Carracosta eats every last bit of the prey it\ncatches, even the shells and bones, to further\nstrengthen its sturdy shell.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

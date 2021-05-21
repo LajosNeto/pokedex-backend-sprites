@@ -2,9 +2,32 @@
     "id": 234,
     "name_en": "stantler",
     "name_ja": "オドシシ",
-    "height": 1.4,
-    "weight": 71.2,
-    "base_exp": 163,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "71.2"
+        },
+        {
+            "name": "base exp",
+            "value": "163"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/234.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/50/234Stantler.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 85
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Stantler’s magnificent antlers were traded at high prices as\nworks of art. As a result, this Pokémon was hunted close to\nextinction by those who were after the priceless antlers.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

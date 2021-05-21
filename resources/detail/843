@@ -2,9 +2,32 @@
     "id": 843,
     "name_en": "silicobra",
     "name_ja": "スナヘビ",
-    "height": 2.2,
-    "weight": 7.6,
-    "base_exp": 63,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "7.6"
+        },
+        {
+            "name": "base exp",
+            "value": "63"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/843.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b5/843Silicobra.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 46
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sand-spit",
+            "description": ""
+        },
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "It spews sand from its nostrils. While the enemy\nis blinded, it burrows into the ground to hide.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

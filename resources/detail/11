@@ -2,9 +2,32 @@
     "id": 11,
     "name_en": "metapod",
     "name_ja": "トランセル",
-    "height": 0.7,
-    "weight": 9.9,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "9.9"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/011Metapod.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 25,
         "speed": 30
     },
-    "abilities": {
-        "name": "shed-skin",
-        "description": "Has a 33% chance of curing any major status ailment after each turn."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Even though it is encased in a sturdy shell,\nthe body inside is tender. It can’t withstand a\nharsh attack.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

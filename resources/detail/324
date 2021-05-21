@@ -2,9 +2,32 @@
     "id": 324,
     "name_en": "torkoal",
     "name_ja": "コータス",
-    "height": 0.5,
-    "weight": 80.4,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "80.4"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/324.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/324Torkoal.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 70,
         "speed": 20
     },
-    "abilities": {
-        "name": "shell-armor",
-        "description": "Protects against critical hits."
-    },
+    "abilities": [
+        {
+            "name": "white-smoke",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "drought",
+            "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "You find abandoned coal mines full of them.\nThey dig tirelessly in search of coal.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

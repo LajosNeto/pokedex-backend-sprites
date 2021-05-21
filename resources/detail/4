@@ -2,9 +2,32 @@
     "id": 4,
     "name_en": "charmander",
     "name_ja": "ヒトカゲ",
-    "height": 0.6,
-    "weight": 8.5,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/73/004Charmander.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 65
     },
-    "abilities": {
-        "name": "solar-power",
-        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "solar-power",
+            "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "From the time it is born, a flame burns at the tip\nof its tail. Its life would end if the flame were to\ngo out.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
     "habitat": "mountain",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

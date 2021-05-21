@@ -2,9 +2,32 @@
     "id": 331,
     "name_en": "cacnea",
     "name_ja": "サボネア",
-    "height": 0.4,
-    "weight": 51.3,
-    "base_exp": 67,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "51.3"
+        },
+        {
+            "name": "base exp",
+            "value": "67"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/331Cacnea.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 40,
         "speed": 35
     },
-    "abilities": {
-        "name": "water-absorb",
-        "description": "Absorbs water moves, healing for 1/4 max HP."
-    },
+    "abilities": [
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The more arid and harsh the environment, the more pretty and\nfragrant a flower Cacnea grows. This Pokémon battles by\nwildly swinging its thorny arms.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

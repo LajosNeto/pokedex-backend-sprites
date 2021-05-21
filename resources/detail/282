@@ -2,9 +2,32 @@
     "id": 282,
     "name_en": "gardevoir",
     "name_ja": "サーナイト",
-    "height": 1.6,
-    "weight": 48.4,
-    "base_exp": 233,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "48.4"
+        },
+        {
+            "name": "base exp",
+            "value": "233"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/99/282Gardevoir.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 115,
         "speed": 80
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "trace",
+            "description": "Copies an opponent's ability upon entering battle."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "psychic",
         "fairy"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
     "habitat": "urban",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

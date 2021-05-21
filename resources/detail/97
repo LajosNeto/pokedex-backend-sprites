@@ -2,9 +2,32 @@
     "id": 97,
     "name_en": "hypno",
     "name_ja": "スリーパー",
-    "height": 1.6,
-    "weight": 75.6,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "75.6"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/97.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/097Hypno.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 115,
         "speed": 67
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "forewarn",
+            "description": "Reveals the opponents' strongest move upon entering battle."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Avoid eye contact if you come across one. It will\ntry to put you to sleep by using its pendulum.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

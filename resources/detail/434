@@ -2,9 +2,32 @@
     "id": 434,
     "name_en": "stunky",
     "name_ja": "スカンプー",
-    "height": 0.4,
-    "weight": 19.2,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "19.2"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/75/434Stunky.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 41,
         "speed": 74
     },
-    "abilities": {
-        "name": "keen-eye",
-        "description": "Prevents accuracy from being lowered."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        }
+    ],
     "types": [
         "poison",
         "dark"
@@ -27,11 +60,8 @@
         "#953a93",
         "#644e40"
     ],
-    "short_description": "If it lifts its tail and points its rear at you, beware.\nIt’s about to spray you with a fluid stinky enough\nto make you faint.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

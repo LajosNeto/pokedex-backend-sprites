@@ -2,9 +2,32 @@
     "id": 599,
     "name_en": "klink",
     "name_ja": "ギアル",
-    "height": 0.3,
-    "weight": 21.0,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "21.0"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ea/599Klink.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 30
     },
-    "abilities": {
-        "name": "clear-body",
-        "description": "Prevents stats from being lowered by other Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "minus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        }
+    ],
     "types": [
         "steel"
     ],
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "It’s suspected that Klink were the inspiration\nbehind ancient people’s invention of the\nfirst gears.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

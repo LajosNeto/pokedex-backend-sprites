@@ -2,9 +2,32 @@
     "id": 572,
     "name_en": "minccino",
     "name_ja": "チラーミィ",
-    "height": 0.4,
-    "weight": 5.8,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.8"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/572.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ec/572Minccino.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 40,
         "speed": 75
     },
-    "abilities": {
-        "name": "skill-link",
-        "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "skill-link",
+            "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "They pet each other with their tails as a form of\ngreeting. Of the two, the one whose tail is fluffier\nis a bit more boastful.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 342,
     "name_en": "crawdaunt",
     "name_ja": "シザリガー",
-    "height": 1.1,
-    "weight": 32.8,
-    "base_exp": 164,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "32.8"
+        },
+        {
+            "name": "base exp",
+            "value": "164"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/342Crawdaunt.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 55
     },
-    "abilities": {
-        "name": "adaptability",
-        "description": "Increases the same-type attack bonus from 1.5× to 2×."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        }
+    ],
     "types": [
         "water",
         "dark"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#644e40"
     ],
-    "short_description": "A brutish Pokémon that loves to battle. It will\ncrash itself into any foe that approaches its nest.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
     "habitat": "waters-edge",
-    "growth_rate": "fast-then-very-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

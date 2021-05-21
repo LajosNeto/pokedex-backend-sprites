@@ -2,9 +2,32 @@
     "id": 771,
     "name_en": "pyukumuku",
     "name_ja": "ナマコブシ",
-    "height": 0.3,
-    "weight": 1.2,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "1.2"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/771Pyukumuku.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 130,
         "speed": 5
     },
-    "abilities": {
-        "name": "unaware",
-        "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
-    },
+    "abilities": [
+        {
+            "name": "innards-out",
+            "description": "When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining."
+        },
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It’s covered in a slime that keeps its skin moist,\nallowing it to stay on land for days without\ndrying up.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#585858",
     "evolution_chain": [
         {

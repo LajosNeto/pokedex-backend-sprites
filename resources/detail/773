@@ -2,9 +2,32 @@
     "id": 773,
     "name_en": "silvally",
     "name_ja": "シルヴァディ",
-    "height": 2.3,
-    "weight": 100.5,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.3"
+        },
+        {
+            "name": "weight",
+            "value": "100.5"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/773.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/be/773Silvally.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 95,
         "speed": 95
     },
-    "abilities": {
-        "name": "rks-system",
-        "description": "Changes this Pokémon's type to match its held Memory."
-    },
+    "abilities": [
+        {
+            "name": "rks-system",
+            "description": "Changes this Pokémon's type to match its held Memory."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "The final factor needed to release this\nPokémon’s true power was a strong bond\nwith a Trainer it trusts.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

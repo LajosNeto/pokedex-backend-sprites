@@ -2,9 +2,32 @@
     "id": 368,
     "name_en": "gorebyss",
     "name_ja": "サクラビス",
-    "height": 1.8,
-    "weight": 22.6,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "22.6"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/368.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/37/368Gorebyss.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 75,
         "speed": 52
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It sucks bodily fluids out of its prey. The\nleftover meat sinks to the seafloor, where it\nbecomes food for other Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon.",
     "habitat": "sea",
-    "growth_rate": "slow-then-very-fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

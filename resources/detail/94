@@ -2,9 +2,32 @@
     "id": 94,
     "name_en": "gengar",
     "name_ja": "ゲンガー",
-    "height": 1.5,
-    "weight": 40.5,
-    "base_exp": 225,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "40.5"
+        },
+        {
+            "name": "base exp",
+            "value": "225"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c6/094Gengar.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 75,
         "speed": 110
     },
-    "abilities": {
-        "name": "cursed-body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        }
+    ],
     "types": [
         "ghost",
         "poison"
@@ -27,11 +52,8 @@
         "#654e8c",
         "#953a93"
     ],
-    "short_description": "It lays traps, hoping to steal the lives of those it\ncatches. If you stand in front of its mouth, you’ll\nhear your loved ones’ voices calling out to you.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you’ll hear your loved ones’ voices calling out to you.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

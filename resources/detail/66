@@ -2,9 +2,32 @@
     "id": 66,
     "name_en": "machop",
     "name_ja": "ワンリキー",
-    "height": 0.8,
-    "weight": 19.5,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "19.5"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/66.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/85/066Machop.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 35
     },
-    "abilities": {
-        "name": "steadfast",
-        "description": "Raises Speed one stage upon flinching."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "no-guard",
+            "description": "Ensures all moves used by and against the Pokémon hit."
+        },
+        {
+            "name": "steadfast",
+            "description": "Raises Speed one stage upon flinching."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Always brimming with power, it passes time by\nlifting boulders. Doing so makes it even stronger.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
     "habitat": "mountain",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

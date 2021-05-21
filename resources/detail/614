@@ -2,9 +2,32 @@
     "id": 614,
     "name_en": "beartic",
     "name_ja": "ツンベアー",
-    "height": 2.6,
-    "weight": 260.0,
-    "base_exp": 177,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.6"
+        },
+        {
+            "name": "weight",
+            "value": "260.0"
+        },
+        {
+            "name": "base exp",
+            "value": "177"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/614.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/40/614Beartic.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 50
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "snow-cloak",
+            "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+        },
+        {
+            "name": "slush-rush",
+            "description": "During Hail, this Pokémon has double Speed."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "It swims energetically through frigid seas.\nWhen it gets tired, it freezes the seawater\nwith its breath so it can rest on the ice.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

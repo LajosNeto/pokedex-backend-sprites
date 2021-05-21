@@ -2,9 +2,32 @@
     "id": 424,
     "name_en": "ambipom",
     "name_ja": "エテボース",
-    "height": 1.2,
-    "weight": 20.3,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "20.3"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/424.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/86/424Ambipom.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 66,
         "speed": 115
     },
-    "abilities": {
-        "name": "skill-link",
-        "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
-    },
+    "abilities": [
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "skill-link",
+            "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

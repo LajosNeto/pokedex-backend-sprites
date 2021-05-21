@@ -2,9 +2,32 @@
     "id": 892,
     "name_en": "urshifu-single-strike",
     "name_ja": "ウーラオス",
-    "height": 1.9,
-    "weight": 105.0,
-    "base_exp": 275,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "105.0"
+        },
+        {
+            "name": "base exp",
+            "value": "275"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/892Urshifu-Single_Strike.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 60,
         "speed": 97
     },
-    "abilities": {
-        "name": "unseen-fist",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "unseen-fist",
+            "description": ""
+        }
+    ],
     "types": [
         "fighting",
         "dark"
@@ -27,11 +52,8 @@
         "#b72f29",
         "#644e40"
     ],
-    "short_description": "This form of Urshifu is a strong believer in\ndefeating foes by raining many blows down on\nthem. Its strikes are nonstop, flowing like a river.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

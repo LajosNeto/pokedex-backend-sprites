@@ -2,9 +2,32 @@
     "id": 152,
     "name_en": "chikorita",
     "name_ja": "チコリータ",
-    "height": 0.9,
-    "weight": 6.4,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "6.4"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/152.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/152Chikorita.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 45
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy,\nfriendly atmosphere all around.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

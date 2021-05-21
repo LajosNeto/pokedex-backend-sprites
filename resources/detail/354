@@ -2,9 +2,32 @@
     "id": 354,
     "name_en": "banette",
     "name_ja": "ジュペッタ",
-    "height": 1.1,
-    "weight": 12.5,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/354Banette.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 63,
         "speed": 65
     },
-    "abilities": {
-        "name": "cursed-body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "Resentment at being cast off made it spring into\nbeing. Some say that treating it well will satisfy\nit, and it will once more become a stuffed toy.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
     "habitat": "urban",
-    "growth_rate": "fast",
     "color": "#585858",
     "evolution_chain": [
         {

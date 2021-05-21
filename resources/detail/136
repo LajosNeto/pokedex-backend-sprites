@@ -2,9 +2,32 @@
     "id": 136,
     "name_en": "flareon",
     "name_ja": "ブースター",
-    "height": 0.9,
-    "weight": 25.0,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "25.0"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/136.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dd/136Flareon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 110,
         "speed": 65
     },
-    "abilities": {
-        "name": "guts",
-        "description": "Increases Attack to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "It stores some of the air it inhales in its internal\nflame pouch, which heats it to over\n3,000 degrees Fahrenheit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

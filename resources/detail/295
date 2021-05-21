@@ -2,9 +2,32 @@
     "id": 295,
     "name_en": "exploud",
     "name_ja": "バクオング",
-    "height": 1.5,
-    "weight": 84.0,
-    "base_exp": 221,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "84.0"
+        },
+        {
+            "name": "base exp",
+            "value": "221"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/295.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/295Exploud.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 73,
         "speed": 68
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This Pokémon can do more than just shout. To\ncommunicate with others of its kind, it’ll emit all\nsorts of sounds from the holes in its body.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body.",
     "habitat": "cave",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

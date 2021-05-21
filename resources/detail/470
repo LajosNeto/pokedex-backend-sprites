@@ -2,9 +2,32 @@
     "id": 470,
     "name_en": "leafeon",
     "name_ja": "リーフィア",
-    "height": 1.0,
-    "weight": 25.5,
-    "base_exp": 184,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "25.5"
+        },
+        {
+            "name": "base exp",
+            "value": "184"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/470.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f5/470Leafeon.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 95
     },
-    "abilities": {
-        "name": "chlorophyll",
-        "description": "Doubles Speed during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "This Pokémon’s tail is blade sharp, with a\nfantastic cutting edge that can slice right\nthough large trees.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon’s tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

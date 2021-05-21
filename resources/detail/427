@@ -2,9 +2,32 @@
     "id": 427,
     "name_en": "buneary",
     "name_ja": "ミミロル",
-    "height": 0.4,
-    "weight": 5.5,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.5"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/427.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/427Buneary.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 56,
         "speed": 85
     },
-    "abilities": {
-        "name": "limber",
-        "description": "Prevents paralysis."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        },
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Buneary can attack by rolling up their ears and\nthen striking with the force created by unrolling\nthem. This attack becomes stronger with training.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 486,
     "name_en": "regigigas",
     "name_ja": "レジギガス",
-    "height": 3.7,
-    "weight": 420.0,
-    "base_exp": 302,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.7"
+        },
+        {
+            "name": "weight",
+            "value": "420.0"
+        },
+        {
+            "name": "base exp",
+            "value": "302"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/486.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a1/486Regigigas.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 110,
         "speed": 100
     },
-    "abilities": {
-        "name": "slow-start",
-        "description": "Halves Attack and Speed for five turns upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "slow-start",
+            "description": "Halves Attack and Speed for five turns upon entering battle."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "There is an enduring legend that states this\nPokémon towed continents with ropes.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "There is an enduring legend that states this Pokémon towed continents with ropes.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 511,
     "name_en": "pansage",
     "name_ja": "ヤナップ",
-    "height": 0.6,
-    "weight": 10.5,
-    "base_exp": 63,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "10.5"
+        },
+        {
+            "name": "base exp",
+            "value": "63"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/511.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/511Pansage.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 48,
         "speed": 64
     },
-    "abilities": {
-        "name": "overgrow",
-        "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
-    },
+    "abilities": [
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "It’s good at finding berries and gathers them from\nall over. It’s kind enough to share them\nwith friends.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

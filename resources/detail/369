@@ -2,9 +2,32 @@
     "id": 369,
     "name_en": "relicanth",
     "name_ja": "ジーランス",
-    "height": 1.0,
-    "weight": 23.4,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "23.4"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/369Relicanth.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 65,
         "speed": 55
     },
-    "abilities": {
-        "name": "sturdy",
-        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        }
+    ],
     "types": [
         "water",
         "rock"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "The reason it hasn’t changed at all in a hundred\nmillion years is that it’s apparently already a\nperfect life-form.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

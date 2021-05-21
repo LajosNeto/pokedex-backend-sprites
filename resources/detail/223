@@ -2,9 +2,32 @@
     "id": 223,
     "name_en": "remoraid",
     "name_ja": "テッポウオ",
-    "height": 0.6,
-    "weight": 12.0,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "12.0"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/223.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/95/223Remoraid.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 65
     },
-    "abilities": {
-        "name": "moody",
-        "description": "Raises a random stat two stages and lowers another one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        },
+        {
+            "name": "moody",
+            "description": "Raises a random stat two stages and lowers another one stage after each turn."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Using its dorsal fin as a suction pad, it clings to a\nMantine’s underside to scavenge for leftovers.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

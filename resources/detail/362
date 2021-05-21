@@ -2,9 +2,32 @@
     "id": 362,
     "name_en": "glalie",
     "name_ja": "オニゴーリ",
-    "height": 1.5,
-    "weight": 256.5,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "256.5"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/362Glalie.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 80
     },
-    "abilities": {
-        "name": "moody",
-        "description": "Raises a random stat two stages and lowers another one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "moody",
+            "description": "Raises a random stat two stages and lowers another one stage after each turn."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "It can instantly freeze moisture in the\natmosphere. It uses this power to freeze its foes.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

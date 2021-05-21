@@ -2,9 +2,32 @@
     "id": 487,
     "name_en": "giratina-altered",
     "name_ja": "ギラティナ",
-    "height": 4.5,
-    "weight": 750.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "4.5"
+        },
+        {
+            "name": "weight",
+            "value": "750.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c5/487Giratina-Altered.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 120,
         "speed": 90
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "ghost",
         "dragon"
@@ -27,11 +56,8 @@
         "#654e8c",
         "#6630f3"
     ],
-    "short_description": "It was banished for its violence. It silently gazed\nupon the old world from the Distortion World.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

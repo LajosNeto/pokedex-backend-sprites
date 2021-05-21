@@ -2,9 +2,32 @@
     "id": 88,
     "name_en": "grimer",
     "name_ja": "ベトベター",
-    "height": 0.9,
-    "weight": 30.0,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/88.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a0/088Grimer.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 25
     },
-    "abilities": {
-        "name": "poison-touch",
-        "description": "Has a 30% chance of poisoning target Pokémon upon contact."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "poison-touch",
+            "description": "Has a 30% chance of poisoning target Pokémon upon contact."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Made of congealed sludge. It smells too putrid\nto touch. Even weeds won’t grow in its path.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

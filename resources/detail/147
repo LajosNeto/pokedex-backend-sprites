@@ -2,9 +2,32 @@
     "id": 147,
     "name_en": "dratini",
     "name_ja": "ミニリュウ",
-    "height": 1.8,
-    "weight": 3.3,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "3.3"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/147Dratini.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 50
     },
-    "abilities": {
-        "name": "marvel-scale",
-        "description": "Increases Defense to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "marvel-scale",
+            "description": "Increases Defense to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "dragon"
     ],
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "Long thought to be a myth, this Pokémon’s\nexistence was only recently confirmed by a\nfisherman who caught one.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Long thought to be a myth, this Pokémon’s existence was only recently confirmed by a fisherman who caught one.",
     "habitat": "waters-edge",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

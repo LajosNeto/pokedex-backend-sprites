@@ -2,9 +2,32 @@
     "id": 311,
     "name_en": "plusle",
     "name_ja": "プラスル",
-    "height": 0.4,
-    "weight": 4.2,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.2"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/311.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/311Plusle.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 75,
         "speed": 95
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "When Plusle is cheering on its partner, it flashes with electric\nsparks from all over its body. If its partner loses, this Pokémon\ncries loudly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

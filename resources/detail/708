@@ -2,9 +2,32 @@
     "id": 708,
     "name_en": "phantump",
     "name_ja": "ボクレー",
-    "height": 0.4,
-    "weight": 7.0,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "7.0"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/708.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/708Phantump.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 38
     },
-    "abilities": {
-        "name": "harvest",
-        "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "harvest",
+            "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+        }
+    ],
     "types": [
         "ghost",
         "grass"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#6dc04c"
     ],
-    "short_description": "With a voice like a human child’s, it cries out to\nlure adults deep into the forest, getting them lost\namong the trees.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

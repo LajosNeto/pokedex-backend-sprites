@@ -2,9 +2,32 @@
     "id": 492,
     "name_en": "shaymin-land",
     "name_ja": "シェイミ",
-    "height": 0.2,
-    "weight": 2.1,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "2.1"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/492.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/492Shaymin-Land.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 100,
         "speed": 100
     },
-    "abilities": {
-        "name": "natural-cure",
-        "description": "Cures any major status ailment upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The blooming of Gracidea flowers confers the\npower of flight upon it. Feelings of gratitude are\nthe message it delivers.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

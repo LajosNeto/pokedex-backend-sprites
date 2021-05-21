@@ -2,9 +2,32 @@
     "id": 124,
     "name_en": "jynx",
     "name_ja": "ルージュラ",
-    "height": 1.4,
-    "weight": 40.6,
-    "base_exp": 159,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "40.6"
+        },
+        {
+            "name": "base exp",
+            "value": "159"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7c/124Jynx.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 95
     },
-    "abilities": {
-        "name": "dry-skin",
-        "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "forewarn",
+            "description": "Reveals the opponents' strongest move upon entering battle."
+        },
+        {
+            "name": "dry-skin",
+            "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+        }
+    ],
     "types": [
         "ice",
         "psychic"
@@ -27,11 +60,8 @@
         "#8ed2d2",
         "#f6527e"
     ],
-    "short_description": "Appears to move to a rhythm of its own, as if it\nwere dancing. It wiggles its hips as it walks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

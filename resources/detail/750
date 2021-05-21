@@ -2,9 +2,32 @@
     "id": 750,
     "name_en": "mudsdale",
     "name_ja": "バンバドロ",
-    "height": 2.5,
-    "weight": 920.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.5"
+        },
+        {
+            "name": "weight",
+            "value": "920.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/750.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/750Mudsdale.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 35
     },
-    "abilities": {
-        "name": "inner-focus",
-        "description": "Prevents flinching."
-    },
+    "abilities": [
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        },
+        {
+            "name": "stamina",
+            "description": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+        },
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Mudsdale has so much stamina that it could carry\nover 10 tons across the Galar region without rest\nor sleep.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

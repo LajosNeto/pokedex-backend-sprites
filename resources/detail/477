@@ -2,9 +2,32 @@
     "id": 477,
     "name_en": "dusknoir",
     "name_ja": "ヨノワール",
-    "height": 2.2,
-    "weight": 106.6,
-    "base_exp": 236,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "106.6"
+        },
+        {
+            "name": "base exp",
+            "value": "236"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/477Dusknoir.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 135,
         "speed": 45
     },
-    "abilities": {
-        "name": "frisk",
-        "description": "Reveals an opponent's held item upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        }
+    ],
     "types": [
         "ghost"
     ],
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "With the mouth on its belly, Dusknoir swallows its\ntarget whole. The soul is the only thing eaten—\nDusknoir disgorges the body before departing.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#585858",
     "evolution_chain": [
         {

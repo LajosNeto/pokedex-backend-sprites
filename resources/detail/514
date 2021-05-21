@@ -2,9 +2,32 @@
     "id": 514,
     "name_en": "simisear",
     "name_ja": "バオッキー",
-    "height": 1.0,
-    "weight": 28.0,
-    "base_exp": 174,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "174"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7c/514Simisear.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 63,
         "speed": 101
     },
-    "abilities": {
-        "name": "blaze",
-        "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
-    },
+    "abilities": [
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "When it gets excited, embers rise from its head\nand tail and it gets hot. For some reason, it\nloves sweets.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

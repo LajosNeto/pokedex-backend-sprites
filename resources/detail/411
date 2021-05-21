@@ -2,9 +2,32 @@
     "id": 411,
     "name_en": "bastiodon",
     "name_ja": "トリデプス",
-    "height": 1.3,
-    "weight": 149.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "149.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/411.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/411Bastiodon.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 138,
         "speed": 30
     },
-    "abilities": {
-        "name": "soundproof",
-        "description": "Protects against sound-based moves."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        }
+    ],
     "types": [
         "rock",
         "steel"
@@ -27,11 +56,8 @@
         "#af9539",
         "#afafc9"
     ],
-    "short_description": "This Pokémon is from roughly 100 million years\nago. Its terrifyingly tough face is harder\nthan steel.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

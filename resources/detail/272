@@ -2,9 +2,32 @@
     "id": 272,
     "name_en": "ludicolo",
     "name_ja": "ルンパッパ",
-    "height": 1.5,
-    "weight": 55.0,
-    "base_exp": 216,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "55.0"
+        },
+        {
+            "name": "base exp",
+            "value": "216"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/ff/272Ludicolo.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 100,
         "speed": 70
     },
-    "abilities": {
-        "name": "own-tempo",
-        "description": "Prevents confusion."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        }
+    ],
     "types": [
         "water",
         "grass"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#6dc04c"
     ],
-    "short_description": "If it hears festive music, it begins moving in\nrhythm in order to amplify its power.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

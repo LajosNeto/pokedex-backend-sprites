@@ -2,9 +2,32 @@
     "id": 339,
     "name_en": "barboach",
     "name_ja": "ドジョッチ",
-    "height": 0.4,
-    "weight": 1.9,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "1.9"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/339Barboach.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 41,
         "speed": 60
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "ground"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#dbb963"
     ],
-    "short_description": "It probes muddy riverbeds with its two long\nwhiskers. A slimy film protects its body.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 348,
     "name_en": "armaldo",
     "name_ja": "アーマルド",
-    "height": 1.5,
-    "weight": 68.2,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "68.2"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/348Armaldo.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 80,
         "speed": 45
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "rock",
         "bug"
@@ -27,11 +56,8 @@
         "#af9539",
         "#9daf2b"
     ],
-    "short_description": "Armaldo adapted from living in water to living on\nland. It has been determined that it is the\nancestor of some bug Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
     "habitat": "waters-edge",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 379,
     "name_en": "registeel",
     "name_ja": "レジスチル",
-    "height": 1.9,
-    "weight": 205.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "205.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/22/379Registeel.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 150,
         "speed": 50
     },
-    "abilities": {
-        "name": "light-metal",
-        "description": "Halves the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "light-metal",
+            "description": "Halves the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel"
     ],
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "Registeel was imprisoned by people in ancient times.\nThe metal composing its body is thought to be a curious\nsubstance that is not of this earth.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
     "habitat": "cave",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 208,
     "name_en": "steelix",
     "name_ja": "ハガネール",
-    "height": 9.2,
-    "weight": 400.0,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "9.2"
+        },
+        {
+            "name": "weight",
+            "value": "400.0"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/208Steelix.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 65,
         "speed": 30
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "steel",
         "ground"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#dbb963"
     ],
-    "short_description": "It is thought its body transformed as a result of\niron accumulating internally from swallowing soil.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

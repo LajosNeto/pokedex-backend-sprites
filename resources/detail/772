@@ -2,9 +2,32 @@
     "id": 772,
     "name_en": "type-null",
     "name_ja": "タイプ：ヌル",
-    "height": 1.9,
-    "weight": 120.5,
-    "base_exp": 107,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "120.5"
+        },
+        {
+            "name": "base exp",
+            "value": "107"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/772.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fd/772Type_Null.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 95,
         "speed": 59
     },
-    "abilities": {
-        "name": "battle-armor",
-        "description": "Protects against critical hits."
-    },
+    "abilities": [
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It was modeled after a mighty Pokémon of myth.\nThe mask placed upon it limits its power in order\nto keep it under control.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

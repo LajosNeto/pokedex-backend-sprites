@@ -2,9 +2,32 @@
     "id": 467,
     "name_en": "magmortar",
     "name_ja": "ブーバーン",
-    "height": 1.6,
-    "weight": 68.0,
-    "base_exp": 243,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "68.0"
+        },
+        {
+            "name": "base exp",
+            "value": "243"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/467.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/467Magmortar.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 95,
         "speed": 83
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "Magmortar takes down its enemies by shooting\nfireballs, which burn them to a blackened crisp.\nIt avoids this method when hunting prey.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

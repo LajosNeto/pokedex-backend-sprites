@@ -2,9 +2,32 @@
     "id": 642,
     "name_en": "thundurus-incarnate",
     "name_ja": "ボルトロス",
-    "height": 1.5,
-    "weight": 61.0,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "61.0"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b8/642Thundurus.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 80,
         "speed": 111
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "electric",
         "flying"
@@ -27,11 +56,8 @@
         "#f6cb3b",
         "#9e85eb"
     ],
-    "short_description": "As it flies around, it shoots lightning all over\nthe place and causes forest fires. It is\ntherefore disliked.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 56,
     "name_en": "mankey",
     "name_ja": "マンキー",
-    "height": 0.5,
-    "weight": 28.0,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/56.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/41/056Mankey.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 70
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "anger-point",
+            "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "An agile Pokémon that lives in trees. It angers\neasily and will not hesitate to attack anything.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

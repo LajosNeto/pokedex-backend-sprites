@@ -2,9 +2,32 @@
     "id": 740,
     "name_en": "crabominable",
     "name_ja": "ケケンカニ",
-    "height": 1.7,
-    "weight": 180.0,
-    "base_exp": 167,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "180.0"
+        },
+        {
+            "name": "base exp",
+            "value": "167"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/740.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/740Crabominable.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 67,
         "speed": 43
     },
-    "abilities": {
-        "name": "anger-point",
-        "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        },
+        {
+            "name": "anger-point",
+            "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+        }
+    ],
     "types": [
         "fighting",
         "ice"
@@ -27,11 +60,8 @@
         "#b72f29",
         "#8ed2d2"
     ],
-    "short_description": "Before it stops to think, it just starts pummeling.\nThere are records of its turning back\navalanches with a flurry of punches.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

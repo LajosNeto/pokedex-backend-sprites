@@ -2,9 +2,32 @@
     "id": 791,
     "name_en": "solgaleo",
     "name_ja": "ソルガレオ",
-    "height": 3.4,
-    "weight": 230.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.4"
+        },
+        {
+            "name": "weight",
+            "value": "230.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/57/791Solgaleo.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 89,
         "speed": 97
     },
-    "abilities": {
-        "name": "full-metal-body",
-        "description": "Other Pokémon cannot lower this Pokémon's stats."
-    },
+    "abilities": [
+        {
+            "name": "full-metal-body",
+            "description": "Other Pokémon cannot lower this Pokémon's stats."
+        }
+    ],
     "types": [
         "psychic",
         "steel"
@@ -27,11 +52,8 @@
         "#f6527e",
         "#afafc9"
     ],
-    "short_description": "Solgaleo was once known as the Beast That\nDevours the Sun. Energy in the form of light\nradiates boundlessly from it.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

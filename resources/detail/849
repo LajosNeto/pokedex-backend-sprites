@@ -2,9 +2,32 @@
     "id": 849,
     "name_en": "toxtricity-amped",
     "name_ja": "ストリンダー",
-    "height": 1.6,
-    "weight": 40.0,
-    "base_exp": 176,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "40.0"
+        },
+        {
+            "name": "base exp",
+            "value": "176"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/56/849Toxtricity-Amped.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 75
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "punk-rock",
+            "description": ""
+        },
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "electric",
         "poison"
@@ -27,11 +60,8 @@
         "#f6cb3b",
         "#953a93"
     ],
-    "short_description": "This short-tempered and aggressive Pokémon\nchugs stagnant water to absorb any toxins it\nmight contain.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

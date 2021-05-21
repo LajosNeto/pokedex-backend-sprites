@@ -2,9 +2,32 @@
     "id": 823,
     "name_en": "corviknight",
     "name_ja": "アーマーガア",
-    "height": 2.2,
-    "weight": 75.0,
-    "base_exp": 248,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "75.0"
+        },
+        {
+            "name": "base exp",
+            "value": "248"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0c/823Corviknight.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 85,
         "speed": 67
     },
-    "abilities": {
-        "name": "mirror-armor",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        },
+        {
+            "name": "mirror-armor",
+            "description": ""
+        }
+    ],
     "types": [
         "flying",
         "steel"
@@ -27,11 +60,8 @@
         "#9e85eb",
         "#afafc9"
     ],
-    "short_description": "With their great intellect and flying skills, these\nPokémon very successfully act as the Galar\nregion’s airborne taxi service.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

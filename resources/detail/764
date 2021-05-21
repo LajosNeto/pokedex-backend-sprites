@@ -2,9 +2,32 @@
     "id": 764,
     "name_en": "comfey",
     "name_ja": "キュワワー",
-    "height": 0.1,
-    "weight": 0.3,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.1"
+        },
+        {
+            "name": "weight",
+            "value": "0.3"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/764Comfey.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 110,
         "speed": 100
     },
-    "abilities": {
-        "name": "natural-cure",
-        "description": "Cures any major status ailment upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "flower-veil",
+            "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
+        },
+        {
+            "name": "triage",
+            "description": "This Pokémon's healing moves have their priority increased by 3."
+        },
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "These Pokémon smell very nice. All Comfey wear\ndifferent flowers, so each of these Pokémon has\nits own individual scent.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#62b570",
     "evolution_chain": [
         {

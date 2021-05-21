@@ -2,9 +2,32 @@
     "id": 169,
     "name_en": "crobat",
     "name_ja": "クロバット",
-    "height": 1.8,
-    "weight": 75.0,
-    "base_exp": 241,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "75.0"
+        },
+        {
+            "name": "base exp",
+            "value": "241"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/169Crobat.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 80,
         "speed": 130
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "poison",
         "flying"
@@ -27,11 +56,8 @@
         "#953a93",
         "#9e85eb"
     ],
-    "short_description": "It feeds on the blood of living people and\nPokémon. If it can’t drink any blood for even a\nshort while, it becomes weak and unable to fly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It feeds on the blood of living people and Pokémon. If it can’t drink any blood for even a short while, it becomes weak and unable to fly.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

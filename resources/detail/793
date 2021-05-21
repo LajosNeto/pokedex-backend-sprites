@@ -2,9 +2,32 @@
     "id": 793,
     "name_en": "nihilego",
     "name_ja": "ウツロイド",
-    "height": 1.2,
-    "weight": 55.5,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "55.5"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/793.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/793Nihilego.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 131,
         "speed": 103
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "rock",
         "poison"
@@ -27,11 +52,8 @@
         "#af9539",
         "#953a93"
     ],
-    "short_description": "It appeared in this world from an Ultra\nWormhole. Nihilego appears to be a parasite\nthat lives by feeding on people and Pokémon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

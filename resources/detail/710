@@ -2,9 +2,32 @@
     "id": 710,
     "name_en": "pumpkaboo-average",
     "name_ja": "バケッチャ",
-    "height": 0.4,
-    "weight": 5.0,
-    "base_exp": 67,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "67"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/710Pumpkaboo.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 51
     },
-    "abilities": {
-        "name": "insomnia",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "ghost",
         "grass"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#6dc04c"
     ],
-    "short_description": "The light that streams out from the holes in the\npumpkin can hypnotize and control the people\nand Pokémon that see it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

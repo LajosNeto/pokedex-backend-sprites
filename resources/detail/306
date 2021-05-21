@@ -2,9 +2,32 @@
     "id": 306,
     "name_en": "aggron",
     "name_ja": "ボスゴドラ",
-    "height": 2.1,
-    "weight": 360.0,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "360.0"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6d/306Aggron.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 50
     },
-    "abilities": {
-        "name": "heavy-metal",
-        "description": "Doubles the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "heavy-metal",
+            "description": "Doubles the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel",
         "rock"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#af9539"
     ],
-    "short_description": "Aggron is protective of its environment. If its mountain is\nravaged by a landslide or a fire, this Pokémon will haul\ntopsoil to the area, plant trees, and beautifully restore its\nown territory.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

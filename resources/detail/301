@@ -2,9 +2,32 @@
     "id": 301,
     "name_en": "delcatty",
     "name_ja": "エネコロロ",
-    "height": 1.1,
-    "weight": 32.6,
-    "base_exp": 140,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "32.6"
+        },
+        {
+            "name": "base exp",
+            "value": "140"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/301Delcatty.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 90
     },
-    "abilities": {
-        "name": "wonder-skin",
-        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "normalize",
+            "description": "Makes the Pokémon's moves all act normal-type."
+        },
+        {
+            "name": "wonder-skin",
+            "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Delcatty sleeps anywhere it wants without keeping a permanent\nnest. If other Pokémon approach it as it sleeps, this Pokémon\nwill never fight—it will just move away somewhere else.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
     "habitat": "forest",
-    "growth_rate": "fast",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

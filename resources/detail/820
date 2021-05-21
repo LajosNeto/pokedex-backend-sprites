@@ -2,9 +2,32 @@
     "id": 820,
     "name_en": "greedent",
     "name_ja": "ヨクバリス",
-    "height": 0.6,
-    "weight": 6.0,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "6.0"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/820.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/820Greedent.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 75,
         "speed": 20
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "cheek-pouch",
+            "description": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Common throughout the Galar region, this\nPokémon has strong teeth and can chew\nthrough the toughest of berry shells.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

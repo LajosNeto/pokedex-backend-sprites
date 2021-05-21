@@ -2,9 +2,32 @@
     "id": 141,
     "name_en": "kabutops",
     "name_ja": "カブトプス",
-    "height": 1.3,
-    "weight": 40.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "40.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/29/141Kabutops.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 80
     },
-    "abilities": {
-        "name": "weak-armor",
-        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        }
+    ],
     "types": [
         "rock",
         "water"
@@ -27,11 +60,8 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "A slim and fast swimmer. It sliced its prey with\nits sharp sickles and drank the body fluids.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

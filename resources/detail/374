@@ -2,9 +2,32 @@
     "id": 374,
     "name_en": "beldum",
     "name_ja": "ダンバル",
-    "height": 0.6,
-    "weight": 95.2,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "95.2"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/374Beldum.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 60,
         "speed": 30
     },
-    "abilities": {
-        "name": "light-metal",
-        "description": "Halves the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "light-metal",
+            "description": "Halves the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel",
         "psychic"
@@ -27,11 +56,8 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "If you anger it, it will do more than rampage. It\nwill also burst out strong magnetism, causing\nnearby machines to break.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

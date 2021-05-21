@@ -2,9 +2,32 @@
     "id": 317,
     "name_en": "swalot",
     "name_ja": "マルノーム",
-    "height": 1.7,
-    "weight": 80.0,
-    "base_exp": 163,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "80.0"
+        },
+        {
+            "name": "base exp",
+            "value": "163"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/317.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/317Swalot.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 83,
         "speed": 55
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "liquid-ooze",
+            "description": "Damages opponents using leeching moves for as much as they would heal."
+        },
+        {
+            "name": "sticky-hold",
+            "description": "Prevents a held item from being removed by other Pokémon."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Swalot has no teeth, so what it eats, it swallows whole, no\nmatter what. Its cavernous mouth yawns widely. An automobile\ntire could easily fit inside this Pokémon’s mouth.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
     "habitat": "grassland",
-    "growth_rate": "fast-then-very-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

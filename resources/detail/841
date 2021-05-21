@@ -2,9 +2,32 @@
     "id": 841,
     "name_en": "flapple",
     "name_ja": "アップリュー",
-    "height": 0.3,
-    "weight": 1.0,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "1.0"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/01/841Flapple.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 70
     },
-    "abilities": {
-        "name": "hustle",
-        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
-    },
+    "abilities": [
+        {
+            "name": "ripen",
+            "description": ""
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        },
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        }
+    ],
     "types": [
         "grass",
         "dragon"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#6630f3"
     ],
-    "short_description": "It flies on wings of apple skin and spits a\npowerful acid. It can also change its shape\ninto that of an apple.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#62b570",
     "evolution_chain": [
         {

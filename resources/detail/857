@@ -2,9 +2,32 @@
     "id": 857,
     "name_en": "hattrem",
     "name_ja": "テブリム",
-    "height": 0.6,
-    "weight": 4.8,
-    "base_exp": 130,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "4.8"
+        },
+        {
+            "name": "base exp",
+            "value": "130"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/19/857Hattrem.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 73,
         "speed": 49
     },
-    "abilities": {
-        "name": "magic-bounce",
-        "description": "Reflects most non-damaging moves back at their user."
-    },
+    "abilities": [
+        {
+            "name": "healer",
+            "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "magic-bounce",
+            "description": "Reflects most non-damaging moves back at their user."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Using the braids on its head, it pummels foes to\nget them to quiet down. One blow from those\nbraids would knock out a professional boxer.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

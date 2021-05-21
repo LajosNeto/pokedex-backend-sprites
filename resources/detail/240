@@ -2,9 +2,32 @@
     "id": 240,
     "name_en": "magby",
     "name_ja": "ブビィ",
-    "height": 0.7,
-    "weight": 21.4,
-    "base_exp": 73,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "21.4"
+        },
+        {
+            "name": "base exp",
+            "value": "73"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/240.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cb/240Magby.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 83
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "Its body temperature is always around 1,100\ndegrees Fahrenheit. If Magby falls into a small-\nenough pond, the whole thing will dry up.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

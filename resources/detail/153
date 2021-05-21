@@ -2,9 +2,32 @@
     "id": 153,
     "name_en": "bayleef",
     "name_ja": "ベイリーフ",
-    "height": 1.2,
-    "weight": 15.8,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "15.8"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/153.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/153Bayleef.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 80,
         "speed": 60
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Bayleef’s neck is ringed by curled-up leaves. Inside each\ntubular leaf is a small shoot of a tree. The fragrance of this\nshoot makes people peppy.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

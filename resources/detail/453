@@ -2,9 +2,32 @@
     "id": 453,
     "name_en": "croagunk",
     "name_ja": "グレッグル",
-    "height": 0.7,
-    "weight": 23.0,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "23.0"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/453Croagunk.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 50
     },
-    "abilities": {
-        "name": "poison-touch",
-        "description": "Has a 30% chance of poisoning target Pokémon upon contact."
-    },
+    "abilities": [
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "dry-skin",
+            "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "poison-touch",
+            "description": "Has a 30% chance of poisoning target Pokémon upon contact."
+        }
+    ],
     "types": [
         "poison",
         "fighting"
@@ -27,11 +60,8 @@
         "#953a93",
         "#b72f29"
     ],
-    "short_description": "Once diluted, its poison becomes medicinal.\nThis Pokémon came into popularity after a\npharmaceutical company chose it as a mascot.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

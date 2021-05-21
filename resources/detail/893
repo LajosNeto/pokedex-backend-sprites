@@ -2,9 +2,32 @@
     "id": 893,
     "name_en": "zarude",
     "name_ja": "ザルード",
-    "height": 1.8,
-    "weight": 70.0,
-    "base_exp": 300,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "70.0"
+        },
+        {
+            "name": "base exp",
+            "value": "300"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/893Zarude.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 95,
         "speed": 105
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "dark",
         "grass"
@@ -27,11 +52,8 @@
         "#644e40",
         "#6dc04c"
     ],
-    "short_description": "This Zarude’s special strength stems from its love\nand care for an orphaned human child that the\nPokémon has raised since the child’s infancy.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "This Zarude’s special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child’s infancy.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

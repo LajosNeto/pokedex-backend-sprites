@@ -2,9 +2,32 @@
     "id": 757,
     "name_en": "salandit",
     "name_ja": "ヤトウモリ",
-    "height": 0.6,
-    "weight": 4.8,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "4.8"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/27/757Salandit.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 40,
         "speed": 77
     },
-    "abilities": {
-        "name": "oblivious",
-        "description": "Prevents infatuation and protects against captivate."
-    },
+    "abilities": [
+        {
+            "name": "corrosion",
+            "description": "This Pokémon can inflict poison on Poison and Steel Pokémon."
+        },
+        {
+            "name": "oblivious",
+            "description": "Prevents infatuation and protects against captivate."
+        }
+    ],
     "types": [
         "poison",
         "fire"
@@ -27,11 +56,8 @@
         "#953a93",
         "#ed7835"
     ],
-    "short_description": "This sneaky Pokémon will slink behind its prey\nand immobilize it with poisonous gas before the\nprey even realizes Salandit is there.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

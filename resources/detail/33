@@ -2,9 +2,32 @@
     "id": 33,
     "name_en": "nidorino",
     "name_ja": "ニドリーノ",
-    "height": 0.9,
-    "weight": 19.5,
-    "base_exp": 128,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "19.5"
+        },
+        {
+            "name": "base exp",
+            "value": "128"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9f/033Nidorino.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 65
     },
-    "abilities": {
-        "name": "hustle",
-        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
-    },
+    "abilities": [
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        },
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Its horn contains venom. If it stabs an\nenemy with the horn, the impact makes\nthe poison leak out.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

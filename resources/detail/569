@@ -2,9 +2,32 @@
     "id": 569,
     "name_en": "garbodor",
     "name_ja": "ダストダス",
-    "height": 1.9,
-    "weight": 107.3,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "107.3"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c4/569Garbodor.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 82,
         "speed": 75
     },
-    "abilities": {
-        "name": "aftermath",
-        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
-    },
+    "abilities": [
+        {
+            "name": "stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        }
+    ],
     "types": [
         "poison"
     ],
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "The toxic liquid it launches from its right arm\nis so virulent that it can kill a weakened\ncreature instantly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

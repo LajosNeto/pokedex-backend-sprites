@@ -2,9 +2,32 @@
     "id": 201,
     "name_en": "unown",
     "name_ja": "アンノーン",
-    "height": 0.5,
-    "weight": 5.0,
-    "base_exp": 118,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "118"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/201.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/77/201Unown.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 48,
         "speed": 48
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "This Pokémon is shaped like ancient writing. It is a mystery as\nto which came first, the ancient writings or the various Unown.\nResearch into this topic is ongoing but nothing is known.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
     "habitat": "rare",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

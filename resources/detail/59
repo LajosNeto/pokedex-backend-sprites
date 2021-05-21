@@ -2,9 +2,32 @@
     "id": 59,
     "name_en": "arcanine",
     "name_ja": "ウインディ",
-    "height": 1.9,
-    "weight": 155.0,
-    "base_exp": 194,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "155.0"
+        },
+        {
+            "name": "base exp",
+            "value": "194"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/59.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b8/059Arcanine.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 95
     },
-    "abilities": {
-        "name": "justified",
-        "description": "Raises Attack one stage upon taking damage from a dark move."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "justified",
+            "description": "Raises Attack one stage upon taking damage from a dark move."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "A Pokémon that has long been admired for its\nbeauty. It runs agilely as if on wings.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
     "habitat": "grassland",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

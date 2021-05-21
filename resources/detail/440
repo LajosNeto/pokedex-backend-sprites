@@ -2,9 +2,32 @@
     "id": 440,
     "name_en": "happiny",
     "name_ja": "ピンプク",
-    "height": 0.6,
-    "weight": 24.4,
-    "base_exp": 110,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "24.4"
+        },
+        {
+            "name": "base exp",
+            "value": "110"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/27/440Happiny.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 30
     },
-    "abilities": {
-        "name": "friend-guard",
-        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        },
+        {
+            "name": "friend-guard",
+            "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Happiny’s willing to lend its precious round stone\nto those it’s friendly with, but if the stone isn’t\nreturned, Happiny will cry and throw a tantrum.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Happiny’s willing to lend its precious round stone to those it’s friendly with, but if the stone isn’t returned, Happiny will cry and throw a tantrum.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

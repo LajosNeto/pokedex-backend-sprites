@@ -2,9 +2,32 @@
     "id": 75,
     "name_en": "graveler",
     "name_ja": "ゴローン",
-    "height": 1.0,
-    "weight": 105.0,
-    "base_exp": 137,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "105.0"
+        },
+        {
+            "name": "base exp",
+            "value": "137"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/75/075Graveler.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 45,
         "speed": 35
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "rock",
         "ground"
@@ -27,11 +60,8 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "When it comes rolling down a mountain path,\nanything in its way gets zapped by electricity\nand sent flying.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
     "habitat": "mountain",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

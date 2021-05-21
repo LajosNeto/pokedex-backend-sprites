@@ -2,9 +2,32 @@
     "id": 278,
     "name_en": "wingull",
     "name_ja": "キャモメ",
-    "height": 0.6,
-    "weight": 9.5,
-    "base_exp": 54,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "9.5"
+        },
+        {
+            "name": "base exp",
+            "value": "54"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/278.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/39/278Wingull.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 30,
         "speed": 85
     },
-    "abilities": {
-        "name": "rain-dish",
-        "description": "Heals for 1/16 max HP after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "It soars on updrafts without flapping its wings.\nIt makes a nest on sheer cliffs at the sea’s edge.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

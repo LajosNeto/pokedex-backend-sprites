@@ -2,9 +2,32 @@
     "id": 785,
     "name_en": "tapu-koko",
     "name_ja": "カプ・コケコ",
-    "height": 1.8,
-    "weight": 20.5,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "20.5"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/785Tapu_Koko.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 75,
         "speed": 130
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "electric-surge",
+            "description": "When this Pokémon enters battle, it changes the terrain to Electric Terrain."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "electric",
         "fairy"
@@ -27,11 +56,8 @@
         "#f6cb3b",
         "#eb90a4"
     ],
-    "short_description": "The lightning-wielding guardian deity of\nMelemele, Tapu Koko is brimming with curiosity\nand appears before people from time to time.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

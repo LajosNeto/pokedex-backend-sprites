@@ -2,9 +2,32 @@
     "id": 273,
     "name_en": "seedot",
     "name_ja": "タネボー",
-    "height": 0.5,
-    "weight": 4.0,
-    "base_exp": 44,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "44"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/84/273Seedot.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 30,
         "speed": 30
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "It attaches itself to a tree branch using the top of\nits head. Strong winds can sometimes make it fall.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

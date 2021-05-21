@@ -2,9 +2,32 @@
     "id": 222,
     "name_en": "corsola",
     "name_ja": "サニーゴ",
-    "height": 0.6,
-    "weight": 5.0,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fc/222Corsola.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 95,
         "speed": 35
     },
-    "abilities": {
-        "name": "regenerator",
-        "description": "Heals for 1/3 max HP upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        },
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "regenerator",
+            "description": "Heals for 1/3 max HP upon switching out."
+        }
+    ],
     "types": [
         "water",
         "rock"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "These Pokémon live in warm seas.\nIn prehistoric times, many lived in the\noceans around the Galar region as well.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
     "habitat": "sea",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

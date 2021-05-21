@@ -2,9 +2,32 @@
     "id": 416,
     "name_en": "vespiquen",
     "name_ja": "ビークイン",
-    "height": 1.2,
-    "weight": 38.5,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "38.5"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/416Vespiquen.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 102,
         "speed": 40
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "bug",
         "flying"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "Vespiquen that give off more pheromones\nhave larger swarms of Combee attendants.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

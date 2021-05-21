@@ -2,9 +2,32 @@
     "id": 400,
     "name_en": "bibarel",
     "name_ja": "ビーダル",
-    "height": 1.0,
-    "weight": 31.5,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "31.5"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/91/400Bibarel.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 71
     },
-    "abilities": {
-        "name": "moody",
-        "description": "Raises a random stat two stages and lowers another one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "simple",
+            "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+        },
+        {
+            "name": "unaware",
+            "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+        },
+        {
+            "name": "moody",
+            "description": "Raises a random stat two stages and lowers another one stage after each turn."
+        }
+    ],
     "types": [
         "normal",
         "water"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#5f84ea"
     ],
-    "short_description": "It makes its nest by damming streams with bark and\nmud. It is known as an industrious worker.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

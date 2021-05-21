@@ -2,9 +2,32 @@
     "id": 885,
     "name_en": "dreepy",
     "name_ja": "ドラメシヤ",
-    "height": 0.5,
-    "weight": 2.0,
-    "base_exp": 54,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "2.0"
+        },
+        {
+            "name": "base exp",
+            "value": "54"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/885Dreepy.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 30,
         "speed": 82
     },
-    "abilities": {
-        "name": "cursed-body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        },
+        {
+            "name": "cursed-body",
+            "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
+        }
+    ],
     "types": [
         "dragon",
         "ghost"
@@ -27,11 +60,8 @@
         "#6630f3",
         "#654e8c"
     ],
-    "short_description": "If this weak Pokémon is by itself, a mere child\ncould defeat it. But if Dreepy has friends to help\nit train, it can evolve and become much stronger.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 646,
     "name_en": "kyurem",
     "name_ja": "キュレム",
-    "height": 3.0,
-    "weight": 325.0,
-    "base_exp": 297,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "325.0"
+        },
+        {
+            "name": "base exp",
+            "value": "297"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/646.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c3/646Kyurem.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 90,
         "speed": 95
     },
-    "abilities": {
-        "name": "pressure",
-        "description": "Increases the PP cost of moves targetting the Pokémon by one."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        }
+    ],
     "types": [
         "dragon",
         "ice"
@@ -27,11 +52,8 @@
         "#6630f3",
         "#8ed2d2"
     ],
-    "short_description": "The sameness of Zekrom’s and Kyurem’s genes\nallowed Kyurem to absorb Zekrom. Kyurem can\nnow use the power of both electricity and ice.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 425,
     "name_en": "drifloon",
     "name_ja": "フワンテ",
-    "height": 0.4,
-    "weight": 1.2,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "1.2"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/eb/425Drifloon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 44,
         "speed": 70
     },
-    "abilities": {
-        "name": "flare-boost",
-        "description": "Increases Special Attack to 1.5× when burned."
-    },
+    "abilities": [
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        },
+        {
+            "name": "flare-boost",
+            "description": "Increases Special Attack to 1.5× when burned."
+        }
+    ],
     "types": [
         "ghost",
         "flying"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#9e85eb"
     ],
-    "short_description": "The gathering of many souls gave rise to this\nPokémon. During humid seasons, they seem to\nappear in abundance.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
     "habitat": "",
-    "growth_rate": "fast-then-very-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

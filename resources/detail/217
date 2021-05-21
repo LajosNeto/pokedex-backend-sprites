@@ -2,9 +2,32 @@
     "id": 217,
     "name_en": "ursaring",
     "name_ja": "リングマ",
-    "height": 1.8,
-    "weight": 125.8,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "125.8"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/217.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e9/217Ursaring.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 75,
         "speed": 55
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "In the forests inhabited by Ursaring, it is said that there are\nmany streams and towering trees where they gather food. This\nPokémon walks through its forest gathering food every day.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 405,
     "name_en": "luxray",
     "name_ja": "レントラー",
-    "height": 1.4,
-    "weight": 42.0,
-    "base_exp": 235,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "42.0"
+        },
+        {
+            "name": "base exp",
+            "value": "235"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/405Luxray.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 79,
         "speed": 70
     },
-    "abilities": {
-        "name": "guts",
-        "description": "Increases Attack to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Seeing through solid objects uses up a lot of\nLuxray’s electricity, so the Pokémon sleeps for\nlong periods of time to store up energy.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 720,
     "name_en": "hoopa",
     "name_ja": "フーパ",
-    "height": 0.5,
-    "weight": 9.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "9.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/720.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/720Hoopa.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 130,
         "speed": 70
     },
-    "abilities": {
-        "name": "magician",
-        "description": "Steals the target's held item when the bearer uses a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "magician",
+            "description": "Steals the target's held item when the bearer uses a damaging move."
+        }
+    ],
     "types": [
         "psychic",
         "ghost"
@@ -27,11 +52,8 @@
         "#f6527e",
         "#654e8c"
     ],
-    "short_description": "It is said to be able to seize anything it desires\nwith its six rings and six huge arms. With its power\nsealed, it is transformed into a much smaller form.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

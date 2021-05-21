@@ -2,9 +2,32 @@
     "id": 132,
     "name_en": "ditto",
     "name_ja": "メタモン",
-    "height": 0.3,
-    "weight": 4.0,
-    "base_exp": 101,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "101"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/132.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/36/132Ditto.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 48,
         "speed": 48
     },
-    "abilities": {
-        "name": "imposter",
-        "description": "Transforms upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "imposter",
+            "description": "Transforms upon entering battle."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "When it encounters another Ditto, it will move\nfaster than normal to duplicate that opponent exactly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 9,
     "name_en": "blastoise",
     "name_ja": "カメックス",
-    "height": 1.6,
-    "weight": 85.5,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "85.5"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/9.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/02/009Blastoise.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 105,
         "speed": 78
     },
-    "abilities": {
-        "name": "rain-dish",
-        "description": "Heals for 1/16 max HP after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Water fired from this Pokémon’s central main\ncannon has enough power to blast a hole into\na mountain.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Water fired from this Pokémon’s central main cannon has enough power to blast a hole into a mountain.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 126,
     "name_en": "magmar",
     "name_ja": "ブーバー",
-    "height": 1.3,
-    "weight": 44.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "44.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/126.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8c/126Magmar.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 85,
         "speed": 93
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "Born in an active volcano. Its body is\nalways cloaked in flames, so it looks like\na big ball of fire.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

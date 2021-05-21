@@ -2,9 +2,32 @@
     "id": 560,
     "name_en": "scrafty",
     "name_ja": "ズルズキン",
-    "height": 1.1,
-    "weight": 30.0,
-    "base_exp": 171,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "171"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/560.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/560Scrafty.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 115,
         "speed": 58
     },
-    "abilities": {
-        "name": "intimidate",
-        "description": "Lowers opponents' Attack one stage upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        }
+    ],
     "types": [
         "dark",
         "fighting"
@@ -27,11 +60,8 @@
         "#644e40",
         "#b72f29"
     ],
-    "short_description": "While mostly known for having the temperament\nof an aggressive ruffian, this Pokémon takes very\ngood care of its family, friends, and territory.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

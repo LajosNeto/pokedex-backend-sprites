@@ -2,9 +2,32 @@
     "id": 451,
     "name_en": "skorupi",
     "name_ja": "スコルピ",
-    "height": 0.8,
-    "weight": 12.0,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "12.0"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/451Skorupi.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 65
     },
-    "abilities": {
-        "name": "keen-eye",
-        "description": "Prevents accuracy from being lowered."
-    },
+    "abilities": [
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        }
+    ],
     "types": [
         "poison",
         "bug"
@@ -27,11 +60,8 @@
         "#953a93",
         "#9daf2b"
     ],
-    "short_description": "It attacks using the claws on its tail. Once locked\nin its grip, its prey is unable to move as this\nPokémon’s poison seeps in.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

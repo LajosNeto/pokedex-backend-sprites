@@ -2,9 +2,32 @@
     "id": 697,
     "name_en": "tyrantrum",
     "name_ja": "ガチゴラス",
-    "height": 2.5,
-    "weight": 270.0,
-    "base_exp": 182,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.5"
+        },
+        {
+            "name": "weight",
+            "value": "270.0"
+        },
+        {
+            "name": "base exp",
+            "value": "182"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/697Tyrantrum.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 59,
         "speed": 71
     },
-    "abilities": {
-        "name": "rock-head",
-        "description": "Protects against recoil damage."
-    },
+    "abilities": [
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        }
+    ],
     "types": [
         "rock",
         "dragon"
@@ -27,11 +56,8 @@
         "#af9539",
         "#6630f3"
     ],
-    "short_description": "Complete restoration is impossible, allowing\nroom for theories that its entire body was\nonce covered in a feather-like coat.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

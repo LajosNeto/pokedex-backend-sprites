@@ -2,9 +2,32 @@
     "id": 769,
     "name_en": "sandygast",
     "name_ja": "スナバァ",
-    "height": 0.5,
-    "weight": 70.0,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "70.0"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/769Sandygast.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 45,
         "speed": 15
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "water-compaction",
+            "description": "Raises this Pokémon's Defense by two stages when it's hit by a Water move."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ghost",
         "ground"
@@ -27,11 +56,8 @@
         "#654e8c",
         "#dbb963"
     ],
-    "short_description": "Sandygast mainly inhabits beaches. It takes\ncontrol of anyone who puts their hand into its\nmouth, forcing them to make its body bigger.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

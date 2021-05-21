@@ -2,9 +2,32 @@
     "id": 894,
     "name_en": "regieleki",
     "name_ja": "レジエレキ",
-    "height": 1.2,
-    "weight": 145.0,
-    "base_exp": 290,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "145.0"
+        },
+        {
+            "name": "base exp",
+            "value": "290"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/894.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/894Regieleki.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 50,
         "speed": 200
     },
-    "abilities": {
-        "name": "transistor",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "transistor",
+            "description": ""
+        }
+    ],
     "types": [
         "electric"
     ],
@@ -26,10 +51,7 @@
         "#f6cb3b"
     ],
     "short_description": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar's electricity.",
-    "is_legendary": true,
-    "is_mythical": false,
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

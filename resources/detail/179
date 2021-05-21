@@ -2,9 +2,32 @@
     "id": 179,
     "name_en": "mareep",
     "name_ja": "メリープ",
-    "height": 0.6,
-    "weight": 7.8,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "7.8"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/179Mareep.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 45,
         "speed": 35
     },
-    "abilities": {
-        "name": "plus",
-        "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "plus",
+            "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Rubbing its fleece generates electricity.\nYou’ll want to pet it because it’s cute, but if you\nuse your bare hand, you’ll get a painful shock.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

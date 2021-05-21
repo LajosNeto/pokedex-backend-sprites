@@ -2,9 +2,32 @@
     "id": 547,
     "name_en": "whimsicott",
     "name_ja": "エルフーン",
-    "height": 0.7,
-    "weight": 6.6,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "6.6"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a2/547Whimsicott.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 116
     },
-    "abilities": {
-        "name": "chlorophyll",
-        "description": "Doubles Speed during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        },
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        }
+    ],
     "types": [
         "grass",
         "fairy"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#eb90a4"
     ],
-    "short_description": "As long as this Pokémon bathes in sunlight, its\ncotton keeps growing. If too much cotton fluff\nbuilds up, Whimsicott tears it off and scatters it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

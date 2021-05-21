@@ -2,9 +2,32 @@
     "id": 215,
     "name_en": "sneasel",
     "name_ja": "ニューラ",
-    "height": 0.9,
-    "weight": 28.0,
-    "base_exp": 86,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "86"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/215Sneasel.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 115
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "dark",
         "ice"
@@ -27,11 +60,8 @@
         "#644e40",
         "#8ed2d2"
     ],
-    "short_description": "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#585858",
     "evolution_chain": [
         {

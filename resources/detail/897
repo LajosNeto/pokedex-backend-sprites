@@ -2,9 +2,32 @@
     "id": 897,
     "name_en": "spectrier",
     "name_ja": "レイスポス",
-    "height": 2.0,
-    "weight": 44.5,
-    "base_exp": 290,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "44.5"
+        },
+        {
+            "name": "base exp",
+            "value": "290"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/897Spectrier.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 80,
         "speed": 130
     },
-    "abilities": {
-        "name": "grim-neigh",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "grim-neigh",
+            "description": ""
+        }
+    ],
     "types": [
         "ghost"
     ],
@@ -26,10 +51,7 @@
         "#654e8c"
     ],
     "short_description": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
-    "is_legendary": true,
-    "is_mythical": false,
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#585858",
     "evolution_chain": [
         {

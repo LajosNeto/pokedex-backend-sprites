@@ -2,9 +2,32 @@
     "id": 676,
     "name_en": "furfrou",
     "name_ja": "トリミアン",
-    "height": 1.2,
-    "weight": 28.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/676.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/49/676Furfrou.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 90,
         "speed": 102
     },
-    "abilities": {
-        "name": "fur-coat",
-        "description": "Halves damage from physical attacks."
-    },
+    "abilities": [
+        {
+            "name": "fur-coat",
+            "description": "Halves damage from physical attacks."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Left alone, its fur will grow longer and longer,\nbut it will only allow someone it trusts to cut it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

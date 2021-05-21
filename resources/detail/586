@@ -2,9 +2,32 @@
     "id": 586,
     "name_en": "sawsbuck",
     "name_ja": "メブキジカ",
-    "height": 1.9,
-    "weight": 92.5,
-    "base_exp": 166,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.9"
+        },
+        {
+            "name": "weight",
+            "value": "92.5"
+        },
+        {
+            "name": "base exp",
+            "value": "166"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/586.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8d/586Sawsbuck-Spring.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 95
     },
-    "abilities": {
-        "name": "serene-grace",
-        "description": "Doubles the chance of moves' extra effects occurring."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        }
+    ],
     "types": [
         "normal",
         "grass"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#6dc04c"
     ],
-    "short_description": "They migrate according to the seasons, so some\npeople call Sawsbuck the harbingers of spring.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

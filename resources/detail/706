@@ -2,9 +2,32 @@
     "id": 706,
     "name_en": "goodra",
     "name_ja": "ヌメルゴン",
-    "height": 2.0,
-    "weight": 150.5,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "150.5"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/706Goodra.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 150,
         "speed": 80
     },
-    "abilities": {
-        "name": "gooey",
-        "description": "Lowers attacking Pokémon's Speed by one stage on contact."
-    },
+    "abilities": [
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "gooey",
+            "description": "Lowers attacking Pokémon's Speed by one stage on contact."
+        }
+    ],
     "types": [
         "dragon"
     ],
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "Its form of offense is forcefully stretching out its\nhorns. The strikes land 100 times harder than any\nblow from a heavyweight boxer.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

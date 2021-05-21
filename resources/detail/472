@@ -2,9 +2,32 @@
     "id": 472,
     "name_en": "gliscor",
     "name_ja": "グライオン",
-    "height": 2.0,
-    "weight": 42.5,
-    "base_exp": 179,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "42.5"
+        },
+        {
+            "name": "base exp",
+            "value": "179"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/472Gliscor.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 95
     },
-    "abilities": {
-        "name": "poison-heal",
-        "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "poison-heal",
+            "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+        }
+    ],
     "types": [
         "ground",
         "flying"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#9e85eb"
     ],
-    "short_description": "Its flight is soundless. It uses its lengthy tail to\ncarry off its prey... Then its elongated fangs do\nthe rest.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

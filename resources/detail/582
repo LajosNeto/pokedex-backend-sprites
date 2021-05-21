@@ -2,9 +2,32 @@
     "id": 582,
     "name_en": "vanillite",
     "name_ja": "バニプッチ",
-    "height": 0.4,
-    "weight": 5.7,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.7"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3f/582Vanillite.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 44
     },
-    "abilities": {
-        "name": "weak-armor",
-        "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
-    },
+    "abilities": [
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        },
+        {
+            "name": "snow-cloak",
+            "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        }
+    ],
     "types": [
         "ice"
     ],
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "Supposedly, this Pokémon was born from an\nicicle. It spews out freezing air at −58 degrees\nFahrenheit to make itself more comfortable.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

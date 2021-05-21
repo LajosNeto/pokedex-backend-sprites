@@ -2,9 +2,32 @@
     "id": 271,
     "name_en": "lombre",
     "name_ja": "ハスブレロ",
-    "height": 1.2,
-    "weight": 32.5,
-    "base_exp": 119,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "32.5"
+        },
+        {
+            "name": "base exp",
+            "value": "119"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/271Lombre.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 50
     },
-    "abilities": {
-        "name": "own-tempo",
-        "description": "Prevents confusion."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        },
+        {
+            "name": "own-tempo",
+            "description": "Prevents confusion."
+        }
+    ],
     "types": [
         "water",
         "grass"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#6dc04c"
     ],
-    "short_description": "It lives at the water’s edge where it is sunny.\nIt sleeps on a bed of water grass by day and\nbecomes active at night.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 253,
     "name_en": "grovyle",
     "name_ja": "ジュプトル",
-    "height": 0.9,
-    "weight": 21.6,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "21.6"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/253.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ea/253Grovyle.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 65,
         "speed": 95
     },
-    "abilities": {
-        "name": "unburden",
-        "description": "Doubles Speed upon using or losing a held item."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "unburden",
+            "description": "Doubles Speed upon using or losing a held item."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "This Pokémon adeptly flies from branch to branch in trees.\nIn a forest, no Pokémon can ever hope to catch a fleeing\nGrovyle however fast they may be.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
     "habitat": "forest",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

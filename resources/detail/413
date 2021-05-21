@@ -2,9 +2,32 @@
     "id": 413,
     "name_en": "wormadam-plant",
     "name_ja": "ミノマダム",
-    "height": 0.5,
-    "weight": 6.5,
-    "base_exp": 148,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "6.5"
+        },
+        {
+            "name": "base exp",
+            "value": "148"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/db/413Wormadam-Plant.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 105,
         "speed": 36
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "bug",
         "grass"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#6dc04c"
     ],
-    "short_description": "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

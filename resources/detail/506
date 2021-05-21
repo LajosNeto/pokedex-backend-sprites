@@ -2,9 +2,32 @@
     "id": 506,
     "name_en": "lillipup",
     "name_ja": "ヨーテリー",
-    "height": 0.4,
-    "weight": 4.1,
-    "base_exp": 55,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.1"
+        },
+        {
+            "name": "base exp",
+            "value": "55"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/506.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/506Lillipup.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 45,
         "speed": 55
     },
-    "abilities": {
-        "name": "run-away",
-        "description": "Ensures success fleeing from wild battles."
-    },
+    "abilities": [
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This Pokémon is far brighter than the average\nchild, and Lillipup won’t forget the love it\nreceives or any abuse it suffers.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 53,
     "name_en": "persian",
     "name_ja": "ペルシアン",
-    "height": 1.0,
-    "weight": 32.0,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "32.0"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/53.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/13/053Persian.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 115
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This Pokémon is one tough opponent. Not only\ndoes it have formidable physical abilities, but it’s\nalso not above fighting dirty.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

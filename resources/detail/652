@@ -2,9 +2,32 @@
     "id": 652,
     "name_en": "chesnaught",
     "name_ja": "ブリガロン",
-    "height": 1.6,
-    "weight": 90.0,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "90.0"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/652.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/18/652Chesnaught.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 75,
         "speed": 64
     },
-    "abilities": {
-        "name": "bulletproof",
-        "description": "Protects against bullet, ball, and bomb-based moves."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "bulletproof",
+            "description": "Protects against bullet, ball, and bomb-based moves."
+        }
+    ],
     "types": [
         "grass",
         "fighting"
@@ -27,11 +56,8 @@
         "#6dc04c",
         "#b72f29"
     ],
-    "short_description": "When it takes a defensive posture with its fists\nguarding its face, it could withstand a bomb blast.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

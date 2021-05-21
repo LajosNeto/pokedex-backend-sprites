@@ -2,9 +2,32 @@
     "id": 409,
     "name_en": "rampardos",
     "name_ja": "ラムパルド",
-    "height": 1.6,
-    "weight": 102.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "102.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/409Rampardos.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 50,
         "speed": 58
     },
-    "abilities": {
-        "name": "sheer-force",
-        "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
-    },
+    "abilities": [
+        {
+            "name": "mold-breaker",
+            "description": "Bypasses targets' abilities if they could hinder or prevent a move."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "This ancient Pokémon used headbutts skillfully.\nIts brain was really small, so some theories\nsuggest that its stupidity led to its extinction.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

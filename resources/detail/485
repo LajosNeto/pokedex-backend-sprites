@@ -2,9 +2,32 @@
     "id": 485,
     "name_en": "heatran",
     "name_ja": "ヒードラン",
-    "height": 1.7,
-    "weight": 430.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "430.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/485.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b7/485Heatran.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 106,
         "speed": 77
     },
-    "abilities": {
-        "name": "flame-body",
-        "description": "Has a 30% chance of burning attacking Pokémon on contact."
-    },
+    "abilities": [
+        {
+            "name": "flash-fire",
+            "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+        },
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        }
+    ],
     "types": [
         "fire",
         "steel"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#afafc9"
     ],
-    "short_description": "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

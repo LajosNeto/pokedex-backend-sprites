@@ -2,9 +2,32 @@
     "id": 819,
     "name_en": "skwovet",
     "name_ja": "ホシガリス",
-    "height": 0.3,
-    "weight": 2.5,
-    "base_exp": 55,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.5"
+        },
+        {
+            "name": "base exp",
+            "value": "55"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/819.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/ce/819Skwovet.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 35,
         "speed": 25
     },
-    "abilities": {
-        "name": "gluttony",
-        "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
-    },
+    "abilities": [
+        {
+            "name": "cheek-pouch",
+            "description": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+        },
+        {
+            "name": "gluttony",
+            "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It eats berries nonstop—a habit that has made\nit more resilient than it looks. It’ll show up on\nfarms, searching for yet more berries.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

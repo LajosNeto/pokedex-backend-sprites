@@ -2,9 +2,32 @@
     "id": 192,
     "name_en": "sunflora",
     "name_ja": "キマワリ",
-    "height": 0.8,
-    "weight": 8.5,
-    "base_exp": 149,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "8.5"
+        },
+        {
+            "name": "base exp",
+            "value": "149"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/192.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/98/192Sunflora.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 30
     },
-    "abilities": {
-        "name": "early-bird",
-        "description": "Makes sleep pass twice as quickly."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "solar-power",
+            "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+        },
+        {
+            "name": "early-bird",
+            "description": "Makes sleep pass twice as quickly."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Sunflora converts solar energy into nutrition. It moves around\nactively in the daytime when it is warm. It stops moving as\nsoon as the sun goes down for the night.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

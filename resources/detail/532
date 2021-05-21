@@ -2,9 +2,32 @@
     "id": 532,
     "name_en": "timburr",
     "name_ja": "ドッコラー",
-    "height": 0.6,
-    "weight": 12.5,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/532.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/69/532Timburr.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 35
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "sheer-force",
+            "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Timburr that have started carrying logs that are\nabout three times their size are nearly ready\nto evolve.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

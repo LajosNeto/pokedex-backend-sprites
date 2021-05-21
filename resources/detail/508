@@ -2,9 +2,32 @@
     "id": 508,
     "name_en": "stoutland",
     "name_ja": "ムーランド",
-    "height": 1.2,
-    "weight": 61.0,
-    "base_exp": 225,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "61.0"
+        },
+        {
+            "name": "base exp",
+            "value": "225"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/508.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/508Stoutland.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 90,
         "speed": 80
     },
-    "abilities": {
-        "name": "scrappy",
-        "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "sand-rush",
+            "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "scrappy",
+            "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Stoutland is immensely proud of its impressive\nmoustache. It’s said that moustache length is what\ndetermines social standing among this species.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

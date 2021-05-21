@@ -2,9 +2,32 @@
     "id": 410,
     "name_en": "shieldon",
     "name_ja": "タテトプス",
-    "height": 0.5,
-    "weight": 57.0,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "57.0"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/410Shieldon.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 88,
         "speed": 30
     },
-    "abilities": {
-        "name": "soundproof",
-        "description": "Protects against sound-based moves."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        }
+    ],
     "types": [
         "rock",
         "steel"
@@ -27,11 +56,8 @@
         "#af9539",
         "#afafc9"
     ],
-    "short_description": "Although its fossils can be found in layers of\nprimeval rock, nothing but its face has ever\nbeen discovered.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
     "habitat": "",
-    "growth_rate": "slow-then-very-fast",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

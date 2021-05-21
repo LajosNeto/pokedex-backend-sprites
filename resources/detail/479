@@ -2,9 +2,32 @@
     "id": 479,
     "name_en": "rotom",
     "name_ja": "ロトム",
-    "height": 0.3,
-    "weight": 0.3,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "0.3"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/479.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c5/479Rotom.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 77,
         "speed": 91
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "electric",
         "ghost"
@@ -27,11 +52,8 @@
         "#f6cb3b",
         "#654e8c"
     ],
-    "short_description": "With a body made of plasma, it can inhabit all\nsorts of machines. It loves to surprise others.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

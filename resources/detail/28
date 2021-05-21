@@ -2,9 +2,32 @@
     "id": 28,
     "name_en": "sandslash",
     "name_ja": "サンドパン",
-    "height": 1.0,
-    "weight": 29.5,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "29.5"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/28.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0b/028Sandslash.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 65
     },
-    "abilities": {
-        "name": "sand-rush",
-        "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "sand-rush",
+            "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Many people climb snowy mountains, hoping to\nsee the icy spikes of these Pokémon glistening\nin the light of dawn.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

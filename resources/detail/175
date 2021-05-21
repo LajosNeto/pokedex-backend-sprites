@@ -2,9 +2,32 @@
     "id": 175,
     "name_en": "togepi",
     "name_ja": "トゲピー",
-    "height": 0.3,
-    "weight": 1.5,
-    "base_exp": 49,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "1.5"
+        },
+        {
+            "name": "base exp",
+            "value": "49"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/175Togepi.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 20
     },
-    "abilities": {
-        "name": "super-luck",
-        "description": "Raises moves' critical hit rates one stage."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        },
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        },
+        {
+            "name": "super-luck",
+            "description": "Raises moves' critical hit rates one stage."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "It is considered to be a symbol of good luck.\nIts shell is said to be filled with happiness.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
     "habitat": "forest",
-    "growth_rate": "fast",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

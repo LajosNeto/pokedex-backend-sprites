@@ -2,9 +2,32 @@
     "id": 804,
     "name_en": "naganadel",
     "name_ja": "アーゴヨン",
-    "height": 3.6,
-    "weight": 150.0,
-    "base_exp": 243,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.6"
+        },
+        {
+            "name": "weight",
+            "value": "150.0"
+        },
+        {
+            "name": "base exp",
+            "value": "243"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/de/804Naganadel.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 73,
         "speed": 121
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "poison",
         "dragon"
@@ -27,11 +52,8 @@
         "#953a93",
         "#6630f3"
     ],
-    "short_description": "One kind of Ultra Beast, it fires a glowing,\nvenomous liquid from its needles. This liquid\nis also immensely adhesive.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

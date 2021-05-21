@@ -2,9 +2,32 @@
     "id": 763,
     "name_en": "tsareena",
     "name_ja": "アマージョ",
-    "height": 1.2,
-    "weight": 21.4,
-    "base_exp": 230,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "21.4"
+        },
+        {
+            "name": "base exp",
+            "value": "230"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/23/763Tsareena.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 98,
         "speed": 72
     },
-    "abilities": {
-        "name": "sweet-veil",
-        "description": "Prevents friendly Pokémon from sleeping."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "queenly-majesty",
+            "description": "Opposing Pokémon cannot use priority attacks."
+        },
+        {
+            "name": "sweet-veil",
+            "description": "Prevents friendly Pokémon from sleeping."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "A kick from the hardened tips of this Pokémon’s\nlegs leaves a wound in the opponent’s body and\nsoul that will never heal.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

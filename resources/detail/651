@@ -2,9 +2,32 @@
     "id": 651,
     "name_en": "quilladin",
     "name_ja": "ハリボーグ",
-    "height": 0.7,
-    "weight": 29.0,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "29.0"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/651Quilladin.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 58,
         "speed": 57
     },
-    "abilities": {
-        "name": "bulletproof",
-        "description": "Protects against bullet, ball, and bomb-based moves."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "bulletproof",
+            "description": "Protects against bullet, ball, and bomb-based moves."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They strengthen their lower bodies by running into one another. They are very kind and won’t start fights.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

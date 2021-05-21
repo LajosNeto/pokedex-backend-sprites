@@ -2,9 +2,32 @@
     "id": 305,
     "name_en": "lairon",
     "name_ja": "コドラ",
-    "height": 0.9,
-    "weight": 120.0,
-    "base_exp": 151,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "151"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/305Lairon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 40
     },
-    "abilities": {
-        "name": "heavy-metal",
-        "description": "Doubles the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "heavy-metal",
+            "description": "Doubles the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel",
         "rock"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#af9539"
     ],
-    "short_description": "Lairon feeds on iron contained in rocks and water. It makes\nits nest on mountains where iron ore is buried. As a result,\nthe Pokémon often clashes with humans mining the iron ore.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

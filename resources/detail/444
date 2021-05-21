@@ -2,9 +2,32 @@
     "id": 444,
     "name_en": "gabite",
     "name_ja": "ガバイト",
-    "height": 1.4,
-    "weight": 56.0,
-    "base_exp": 144,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "56.0"
+        },
+        {
+            "name": "base exp",
+            "value": "144"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/444Gabite.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 55,
         "speed": 82
     },
-    "abilities": {
-        "name": "rough-skin",
-        "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
-    },
+    "abilities": [
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "rough-skin",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        }
+    ],
     "types": [
         "dragon",
         "ground"
@@ -27,11 +56,8 @@
         "#6630f3",
         "#dbb963"
     ],
-    "short_description": "It sheds its skin and gradually grows larger. Its\nscales can be ground into a powder and used\nas raw materials for traditional medicine.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

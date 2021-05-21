@@ -2,9 +2,32 @@
     "id": 526,
     "name_en": "gigalith",
     "name_ja": "ギガイアス",
-    "height": 1.7,
-    "weight": 260.0,
-    "base_exp": 232,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "260.0"
+        },
+        {
+            "name": "base exp",
+            "value": "232"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/526.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/59/526Gigalith.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 80,
         "speed": 25
     },
-    "abilities": {
-        "name": "sand-force",
-        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "sand-stream",
+            "description": "Summons a sandstorm that lasts indefinitely upon entering battle."
+        },
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "Although its energy blasts can blow away\na dump truck, they have a limitation—\nthey can only be fired when the sun is out.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

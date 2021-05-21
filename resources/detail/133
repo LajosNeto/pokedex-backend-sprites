@@ -2,9 +2,32 @@
     "id": 133,
     "name_en": "eevee",
     "name_ja": "イーブイ",
-    "height": 0.3,
-    "weight": 6.5,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "6.5"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/133.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/133Eevee.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 55
     },
-    "abilities": {
-        "name": "anticipation",
-        "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        },
+        {
+            "name": "anticipation",
+            "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many different\npossible evolutions.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

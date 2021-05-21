@@ -2,9 +2,32 @@
     "id": 186,
     "name_en": "politoed",
     "name_ja": "ニョロトノ",
-    "height": 1.1,
-    "weight": 33.9,
-    "base_exp": 225,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "33.9"
+        },
+        {
+            "name": "base exp",
+            "value": "225"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/186.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/186Politoed.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 100,
         "speed": 70
     },
-    "abilities": {
-        "name": "drizzle",
-        "description": "Summons rain that lasts indefinitely upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        },
+        {
+            "name": "drizzle",
+            "description": "Summons rain that lasts indefinitely upon entering battle."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "The cry of a male is louder than that of a female.\nMale Politoed with deep, menacing voices find\nmore popularity with the opposite gender.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

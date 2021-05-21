@@ -2,9 +2,32 @@
     "id": 346,
     "name_en": "cradily",
     "name_ja": "ユレイドル",
-    "height": 1.5,
-    "weight": 60.4,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "60.4"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/38/346Cradily.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 107,
         "speed": 43
     },
-    "abilities": {
-        "name": "storm-drain",
-        "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "suction-cups",
+            "description": "Prevents being forced out of battle by other Pokémon's moves."
+        },
+        {
+            "name": "storm-drain",
+            "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "rock",
         "grass"
@@ -27,11 +56,8 @@
         "#af9539",
         "#6dc04c"
     ],
-    "short_description": "This carnivorous Pokémon lived in primordial\nseas. It catches prey in its eight tentacles and\ndissolves them with digestive fluid as it eats.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
     "habitat": "sea",
-    "growth_rate": "slow-then-very-fast",
     "color": "#62b570",
     "evolution_chain": [
         {

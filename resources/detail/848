@@ -2,9 +2,32 @@
     "id": 848,
     "name_en": "toxel",
     "name_ja": "エレズン",
-    "height": 0.4,
-    "weight": 11.0,
-    "base_exp": 48,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "11.0"
+        },
+        {
+            "name": "base exp",
+            "value": "48"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d5/848Toxel.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 35,
         "speed": 40
     },
-    "abilities": {
-        "name": "klutz",
-        "description": "Prevents the Pokémon from using its held item in battle."
-    },
+    "abilities": [
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        },
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "klutz",
+            "description": "Prevents the Pokémon from using its held item in battle."
+        }
+    ],
     "types": [
         "electric",
         "poison"
@@ -27,11 +60,8 @@
         "#f6cb3b",
         "#953a93"
     ],
-    "short_description": "It manipulates the chemical makeup of its poison\nto produce electricity. The voltage is weak, but it\ncan cause a tingling paralysis.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

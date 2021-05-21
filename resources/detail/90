@@ -2,9 +2,32 @@
     "id": 90,
     "name_en": "shellder",
     "name_ja": "シェルダー",
-    "height": 0.3,
-    "weight": 4.0,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/40/090Shellder.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 25,
         "speed": 40
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "skill-link",
+            "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its hard shell repels any kind of attack. It is\nvulnerable only when its shell is open.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 735,
     "name_en": "gumshoos",
     "name_ja": "デカグース",
-    "height": 0.7,
-    "weight": 14.2,
-    "base_exp": 146,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "14.2"
+        },
+        {
+            "name": "base exp",
+            "value": "146"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/735.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/735Gumshoos.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 45
     },
-    "abilities": {
-        "name": "adaptability",
-        "description": "Increases the same-type attack bonus from 1.5× to 2×."
-    },
+    "abilities": [
+        {
+            "name": "stakeout",
+            "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+        },
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Patient by nature, this Pokémon loses control of\nitself and pounces when it spots its favorite\nmeal—Rattata!",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

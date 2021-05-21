@@ -2,9 +2,32 @@
     "id": 521,
     "name_en": "unfezant",
     "name_ja": "ケンホロウ",
-    "height": 1.2,
-    "weight": 29.0,
-    "base_exp": 220,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "29.0"
+        },
+        {
+            "name": "base exp",
+            "value": "220"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/521Unfezant.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 93
     },
-    "abilities": {
-        "name": "rivalry",
-        "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
-    },
+    "abilities": [
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        },
+        {
+            "name": "super-luck",
+            "description": "Raises moves' critical hit rates one stage."
+        },
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "This Pokémon is intelligent and intensely proud.\nPeople will sit up and take notice if you become\nthe Trainer of one.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

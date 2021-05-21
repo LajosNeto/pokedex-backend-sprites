@@ -2,9 +2,32 @@
     "id": 671,
     "name_en": "florges",
     "name_ja": "フラージェス",
-    "height": 1.1,
-    "weight": 10.0,
-    "base_exp": 248,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "10.0"
+        },
+        {
+            "name": "base exp",
+            "value": "248"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/37/671Florges.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 154,
         "speed": 75
     },
-    "abilities": {
-        "name": "symbiosis",
-        "description": "Passes the bearer's held item to an ally when the ally uses up its item."
-    },
+    "abilities": [
+        {
+            "name": "flower-veil",
+            "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
+        },
+        {
+            "name": "symbiosis",
+            "description": "Passes the bearer's held item to an ally when the ally uses up its item."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Its life can span several hundred years. It’s said\nto devote its entire life to protecting gardens.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

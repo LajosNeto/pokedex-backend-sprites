@@ -2,9 +2,32 @@
     "id": 344,
     "name_en": "claydol",
     "name_ja": "ネンドール",
-    "height": 1.5,
-    "weight": 108.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "108.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/07/344Claydol.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 120,
         "speed": 75
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "ground",
         "psychic"
@@ -27,11 +52,8 @@
         "#dbb963",
         "#f6527e"
     ],
-    "short_description": "It appears to have been born from clay dolls\nmade by ancient people. It uses telekinesis to\nfloat and move.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 861,
     "name_en": "grimmsnarl",
     "name_ja": "オーロンゲ",
-    "height": 1.5,
-    "weight": 61.0,
-    "base_exp": 255,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "61.0"
+        },
+        {
+            "name": "base exp",
+            "value": "255"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/861.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/861Grimmsnarl.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 60
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "dark",
         "fairy"
@@ -27,11 +60,8 @@
         "#644e40",
         "#eb90a4"
     ],
-    "short_description": "Its hairs work like muscle fibers. When its hairs\nunfurl, they latch on to opponents, ensnaring\nthem as tentacles would.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

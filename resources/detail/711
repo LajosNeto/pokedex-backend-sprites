@@ -2,9 +2,32 @@
     "id": 711,
     "name_en": "gourgeist-average",
     "name_ja": "パンプジン",
-    "height": 0.9,
-    "weight": 12.5,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "12.5"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/88/711Gourgeist.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 84
     },
-    "abilities": {
-        "name": "insomnia",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "pickup",
+            "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "ghost",
         "grass"
@@ -27,11 +60,8 @@
         "#654e8c",
         "#6dc04c"
     ],
-    "short_description": "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

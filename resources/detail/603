@@ -2,9 +2,32 @@
     "id": 603,
     "name_en": "eelektrik",
     "name_ja": "シビビール",
-    "height": 1.2,
-    "weight": 22.0,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "22.0"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/603Eelektrik.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 70,
         "speed": 40
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "These Pokémon have a big appetite. When they\nspot their prey, they attack it and paralyze it\nwith electricity.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

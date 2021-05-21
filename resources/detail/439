@@ -2,9 +2,32 @@
     "id": 439,
     "name_en": "mime-jr",
     "name_ja": "マネネ",
-    "height": 0.6,
-    "weight": 13.0,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "13.0"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/37/439Mime_Jr.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 60
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "filter",
+            "description": "Decreases damage taken from super-effective moves by 1/4."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "psychic",
         "fairy"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "It looks for a Mr. Rime that’s a good dancer\nand carefully copies the Mr. Rime’s steps\nlike an apprentice.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

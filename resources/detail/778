@@ -2,9 +2,32 @@
     "id": 778,
     "name_en": "mimikyu-disguised",
     "name_ja": "ミミッキュ",
-    "height": 0.2,
-    "weight": 0.7,
-    "base_exp": 167,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "0.7"
+        },
+        {
+            "name": "base exp",
+            "value": "167"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/778.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/778Mimikyu.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 105,
         "speed": 96
     },
-    "abilities": {
-        "name": "disguise",
-        "description": "Prevents the first instance of battle damage."
-    },
+    "abilities": [
+        {
+            "name": "disguise",
+            "description": "Prevents the first instance of battle damage."
+        }
+    ],
     "types": [
         "ghost",
         "fairy"
@@ -27,11 +52,8 @@
         "#654e8c",
         "#eb90a4"
     ],
-    "short_description": "There was a scientist who peeked under\nMimikyu’s old rag in the name of research.\nThe scientist died of a mysterious disease.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 232,
     "name_en": "donphan",
     "name_ja": "ドンファン",
-    "height": 1.1,
-    "weight": 120.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/232Donphan.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 50
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "If Donphan were to tackle with its hard body, even a house\ncould be destroyed. Using its massive strength, the Pokémon\nhelps clear rock and mud slides that block mountain trails.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

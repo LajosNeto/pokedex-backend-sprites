@@ -2,9 +2,32 @@
     "id": 300,
     "name_en": "skitty",
     "name_ja": "エネコ",
-    "height": 0.6,
-    "weight": 11.0,
-    "base_exp": 52,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "11.0"
+        },
+        {
+            "name": "base exp",
+            "value": "52"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/300Skitty.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 50
     },
-    "abilities": {
-        "name": "wonder-skin",
-        "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "normalize",
+            "description": "Makes the Pokémon's moves all act normal-type."
+        },
+        {
+            "name": "wonder-skin",
+            "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Skitty is known to chase around playfully after its own tail.\nIn the wild, this Pokémon lives in holes in the trees of forests.\nIt is very popular as a pet because of its adorable looks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
     "habitat": "forest",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

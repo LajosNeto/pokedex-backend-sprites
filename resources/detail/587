@@ -2,9 +2,32 @@
     "id": 587,
     "name_en": "emolga",
     "name_ja": "エモンガ",
-    "height": 0.4,
-    "weight": 5.0,
-    "base_exp": 150,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.0"
+        },
+        {
+            "name": "base exp",
+            "value": "150"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/587.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b4/587Emolga.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 60,
         "speed": 103
     },
-    "abilities": {
-        "name": "motor-drive",
-        "description": "Absorbs electric moves, raising Speed one stage."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "motor-drive",
+            "description": "Absorbs electric moves, raising Speed one stage."
+        }
+    ],
     "types": [
         "electric",
         "flying"
@@ -27,11 +56,8 @@
         "#f6cb3b",
         "#9e85eb"
     ],
-    "short_description": "This Pokémon absolutely loves sweet berries.\nSometimes it stuffs its cheeks full of so much\nfood that it can’t fly properly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

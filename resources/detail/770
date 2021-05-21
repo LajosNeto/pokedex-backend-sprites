@@ -2,9 +2,32 @@
     "id": 770,
     "name_en": "palossand",
     "name_ja": "シロデスナ",
-    "height": 1.3,
-    "weight": 250.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "250.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/770.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/32/770Palossand.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 75,
         "speed": 35
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "water-compaction",
+            "description": "Raises this Pokémon's Defense by two stages when it's hit by a Water move."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ghost",
         "ground"
@@ -27,11 +56,8 @@
         "#654e8c",
         "#dbb963"
     ],
-    "short_description": "This Pokémon lives on beaches, but it hates\nwater. Palossand can’t maintain its castle-like\nshape if it gets drenched by a heavy rain.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

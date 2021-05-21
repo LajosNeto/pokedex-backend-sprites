@@ -2,9 +2,32 @@
     "id": 695,
     "name_en": "heliolisk",
     "name_ja": "エレザード",
-    "height": 1.0,
-    "weight": 21.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "21.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/695Heliolisk.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 94,
         "speed": 109
     },
-    "abilities": {
-        "name": "solar-power",
-        "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "dry-skin",
+            "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        },
+        {
+            "name": "solar-power",
+            "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+        }
+    ],
     "types": [
         "electric",
         "normal"
@@ -27,11 +60,8 @@
         "#f6cb3b",
         "#9e9e6f"
     ],
-    "short_description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

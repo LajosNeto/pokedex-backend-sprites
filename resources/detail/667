@@ -2,9 +2,32 @@
     "id": 667,
     "name_en": "litleo",
     "name_ja": "シシコ",
-    "height": 0.6,
-    "weight": 13.5,
-    "base_exp": 74,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "13.5"
+        },
+        {
+            "name": "base exp",
+            "value": "74"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1f/667Litleo.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 54,
         "speed": 72
     },
-    "abilities": {
-        "name": "moxie",
-        "description": "Raises Attack one stage upon KOing a Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        }
+    ],
     "types": [
         "fire",
         "normal"
@@ -27,11 +60,8 @@
         "#ed7835",
         "#9e9e6f"
     ],
-    "short_description": "This hot-blooded Pokémon is filled with\ncuriosity. When it gets angry or starts\nfighting, its short mane gets hot.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

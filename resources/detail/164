@@ -2,9 +2,32 @@
     "id": 164,
     "name_en": "noctowl",
     "name_ja": "ヨルノズク",
-    "height": 1.6,
-    "weight": 40.8,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "40.8"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/164.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/164Noctowl.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 96,
         "speed": 70
     },
-    "abilities": {
-        "name": "tinted-lens",
-        "description": "Doubles damage inflicted with not-very-effective moves."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "When it needs to think, it rotates its head\n180 degrees to sharpen its intellectual power.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 636,
     "name_en": "larvesta",
     "name_ja": "メラルバ",
-    "height": 1.1,
-    "weight": 28.8,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "28.8"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/636Larvesta.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 55,
         "speed": 60
     },
-    "abilities": {
-        "name": "swarm",
-        "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
-    },
+    "abilities": [
+        {
+            "name": "flame-body",
+            "description": "Has a 30% chance of burning attacking Pokémon on contact."
+        },
+        {
+            "name": "swarm",
+            "description": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+        }
+    ],
     "types": [
         "bug",
         "fire"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#ed7835"
     ],
-    "short_description": "Larvesta’s body is warm all over. It spouts fire\nfrom the tips of its horns to intimidate predators\nand scare prey.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

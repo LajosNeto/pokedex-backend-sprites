@@ -2,9 +2,32 @@
     "id": 884,
     "name_en": "duraludon",
     "name_ja": "ジュラルドン",
-    "height": 1.8,
-    "weight": 40.0,
-    "base_exp": 187,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "40.0"
+        },
+        {
+            "name": "base exp",
+            "value": "187"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/884.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/38/884Duraludon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 85
     },
-    "abilities": {
-        "name": "stalwart",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "light-metal",
+            "description": "Halves the Pokémon's weight."
+        },
+        {
+            "name": "heavy-metal",
+            "description": "Doubles the Pokémon's weight."
+        },
+        {
+            "name": "stalwart",
+            "description": ""
+        }
+    ],
     "types": [
         "steel",
         "dragon"
@@ -27,11 +60,8 @@
         "#afafc9",
         "#6630f3"
     ],
-    "short_description": "The special metal that composes its body is very\nlight, so this Pokémon has considerable agility.\nIt lives in caves because it dislikes the rain.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

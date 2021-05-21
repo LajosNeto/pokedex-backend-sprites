@@ -2,9 +2,32 @@
     "id": 664,
     "name_en": "scatterbug",
     "name_ja": "コフキムシ",
-    "height": 0.3,
-    "weight": 2.5,
-    "base_exp": 40,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.5"
+        },
+        {
+            "name": "base exp",
+            "value": "40"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/664.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/664Scatterbug.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 25,
         "speed": 35
     },
-    "abilities": {
-        "name": "friend-guard",
-        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "compound-eyes",
+            "description": "Increases moves' accuracy to 1.3×."
+        },
+        {
+            "name": "friend-guard",
+            "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

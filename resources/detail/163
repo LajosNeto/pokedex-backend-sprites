@@ -2,9 +2,32 @@
     "id": 163,
     "name_en": "hoothoot",
     "name_ja": "ホーホー",
-    "height": 0.7,
-    "weight": 21.2,
-    "base_exp": 52,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "21.2"
+        },
+        {
+            "name": "base exp",
+            "value": "52"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/163Hoothoot.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 56,
         "speed": 50
     },
-    "abilities": {
-        "name": "tinted-lens",
-        "description": "Doubles damage inflicted with not-very-effective moves."
-    },
+    "abilities": [
+        {
+            "name": "insomnia",
+            "description": "Prevents sleep."
+        },
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        }
+    ],
     "types": [
         "normal",
         "flying"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "It begins to hoot at the same time every day.\nSome Trainers use them in place of clocks.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

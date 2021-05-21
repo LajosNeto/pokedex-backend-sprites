@@ -2,9 +2,32 @@
     "id": 148,
     "name_en": "dragonair",
     "name_ja": "ハクリュー",
-    "height": 4.0,
-    "weight": 16.5,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "4.0"
+        },
+        {
+            "name": "weight",
+            "value": "16.5"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/93/148Dragonair.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 70,
         "speed": 70
     },
-    "abilities": {
-        "name": "marvel-scale",
-        "description": "Increases Defense to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "marvel-scale",
+            "description": "Increases Defense to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "dragon"
     ],
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "According to a witness, its body was surrounded\nby a strange aura that gave it a mystical look.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
     "habitat": "waters-edge",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

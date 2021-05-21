@@ -2,9 +2,32 @@
     "id": 391,
     "name_en": "monferno",
     "name_ja": "モウカザル",
-    "height": 0.9,
-    "weight": 22.0,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "22.0"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2e/391Monferno.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 52,
         "speed": 81
     },
-    "abilities": {
-        "name": "iron-fist",
-        "description": "Strengthens punch-based moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "iron-fist",
+            "description": "Strengthens punch-based moves to 1.2× their power."
+        }
+    ],
     "types": [
         "fire",
         "fighting"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "It uses ceilings and walls to launch aerial attacks.\nIts fiery tail is but one weapon.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

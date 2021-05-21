@@ -2,9 +2,32 @@
     "id": 866,
     "name_en": "mr-rime",
     "name_ja": "バリコオル",
-    "height": 1.5,
-    "weight": 58.2,
-    "base_exp": 182,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "58.2"
+        },
+        {
+            "name": "base exp",
+            "value": "182"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/51/866Mr._Rime.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 100,
         "speed": 70
     },
-    "abilities": {
-        "name": "ice-body",
-        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
-    },
+    "abilities": [
+        {
+            "name": "tangled-feet",
+            "description": "Doubles evasion when confused."
+        },
+        {
+            "name": "screen-cleaner",
+            "description": ""
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        }
+    ],
     "types": [
         "ice",
         "psychic"
@@ -27,11 +60,8 @@
         "#8ed2d2",
         "#f6527e"
     ],
-    "short_description": "Its amusing movements make it very popular.\nIt releases its psychic power from the pattern\non its belly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

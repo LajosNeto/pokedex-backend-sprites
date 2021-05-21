@@ -2,9 +2,32 @@
     "id": 853,
     "name_en": "grapploct",
     "name_ja": "オトスパス",
-    "height": 1.6,
-    "weight": 39.0,
-    "base_exp": 168,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "39.0"
+        },
+        {
+            "name": "base exp",
+            "value": "168"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/853.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c4/853Grapploct.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 80,
         "speed": 42
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "fighting"
     ],
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "Searching for an opponent to test its skills\nagainst, it emerges onto land. Once the battle\nis over, it returns to the sea.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 206,
     "name_en": "dunsparce",
     "name_ja": "ノコッチ",
-    "height": 1.5,
-    "weight": 14.0,
-    "base_exp": 145,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "14.0"
+        },
+        {
+            "name": "base exp",
+            "value": "145"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/206.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/20/206Dunsparce.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 45
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "serene-grace",
+            "description": "Doubles the chance of moves' extra effects occurring."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "The nests Dunsparce live in are mazes of tunnels.\nThey never get lost in their own nests—they can\ntell where they are by the scent of the dirt.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.",
     "habitat": "cave",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

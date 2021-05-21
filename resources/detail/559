@@ -2,9 +2,32 @@
     "id": 559,
     "name_en": "scraggy",
     "name_ja": "ズルッグ",
-    "height": 0.6,
-    "weight": 11.8,
-    "base_exp": 70,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "11.8"
+        },
+        {
+            "name": "base exp",
+            "value": "70"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/559.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dc/559Scraggy.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 48
     },
-    "abilities": {
-        "name": "intimidate",
-        "description": "Lowers opponents' Attack one stage upon entering battle."
-    },
+    "abilities": [
+        {
+            "name": "shed-skin",
+            "description": "Has a 33% chance of curing any major status ailment after each turn."
+        },
+        {
+            "name": "moxie",
+            "description": "Raises Attack one stage upon KOing a Pokémon."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        }
+    ],
     "types": [
         "dark",
         "fighting"
@@ -27,11 +60,8 @@
         "#644e40",
         "#b72f29"
     ],
-    "short_description": "It protects itself with its durable skin. It’s thought\nthat this Pokémon will evolve once its skin has\ncompletely stretched out.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

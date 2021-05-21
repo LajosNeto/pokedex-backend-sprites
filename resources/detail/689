@@ -2,9 +2,32 @@
     "id": 689,
     "name_en": "barbaracle",
     "name_ja": "ガメノデス",
-    "height": 1.3,
-    "weight": 96.0,
-    "base_exp": 175,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "96.0"
+        },
+        {
+            "name": "base exp",
+            "value": "175"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/689.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/48/689Barbaracle.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 86,
         "speed": 68
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "tough-claws",
+            "description": "Strengthens moves that make contact to 1.33× their power."
+        },
+        {
+            "name": "sniper",
+            "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "rock",
         "water"
@@ -27,11 +60,8 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "Having an eye on each palm allows it to keep\nwatch in all directions. In a pinch, its limbs start\nto act on their own to ensure the enemy’s defeat.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy’s defeat.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

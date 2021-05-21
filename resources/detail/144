@@ -2,9 +2,32 @@
     "id": 144,
     "name_en": "articuno",
     "name_ja": "フリーザー",
-    "height": 1.7,
-    "weight": 55.4,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "55.4"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/144Articuno.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 125,
         "speed": 85
     },
-    "abilities": {
-        "name": "snow-cloak",
-        "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "snow-cloak",
+            "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+        }
+    ],
     "types": [
         "ice",
         "flying"
@@ -27,11 +56,8 @@
         "#8ed2d2",
         "#9e85eb"
     ],
-    "short_description": "A legendary bird Pokémon. It freezes water\nthat is contained in winter air and makes it snow.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
     "habitat": "rare",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

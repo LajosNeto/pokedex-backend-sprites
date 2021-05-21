@@ -2,9 +2,32 @@
     "id": 634,
     "name_en": "zweilous",
     "name_ja": "ジヘッド",
-    "height": 1.4,
-    "weight": 50.0,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "50.0"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/634Zweilous.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 70,
         "speed": 58
     },
-    "abilities": {
-        "name": "hustle",
-        "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
-    },
+    "abilities": [
+        {
+            "name": "hustle",
+            "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+        }
+    ],
     "types": [
         "dark",
         "dragon"
@@ -27,11 +52,8 @@
         "#644e40",
         "#6630f3"
     ],
-    "short_description": "Their two heads will fight each other over a\nsingle piece of food. Zweilous are covered in\nscars even without battling others.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

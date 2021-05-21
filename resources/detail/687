@@ -2,9 +2,32 @@
     "id": 687,
     "name_en": "malamar",
     "name_ja": "カラマネロ",
-    "height": 1.5,
-    "weight": 47.0,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "47.0"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/687Malamar.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 75,
         "speed": 73
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "contrary",
+            "description": "Inverts stat changes."
+        },
+        {
+            "name": "suction-cups",
+            "description": "Prevents being forced out of battle by other Pokémon's moves."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "dark",
         "psychic"
@@ -27,11 +60,8 @@
         "#644e40",
         "#f6527e"
     ],
-    "short_description": "It’s said that Malamar’s hypnotic powers played\na role in certain history-changing events.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

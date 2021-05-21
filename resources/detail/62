@@ -2,9 +2,32 @@
     "id": 62,
     "name_en": "poliwrath",
     "name_ja": "ニョロボン",
-    "height": 1.3,
-    "weight": 54.0,
-    "base_exp": 230,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.3"
+        },
+        {
+            "name": "weight",
+            "value": "54.0"
+        },
+        {
+            "name": "base exp",
+            "value": "230"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/62.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2d/062Poliwrath.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 90,
         "speed": 70
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "water-absorb",
+            "description": "Absorbs water moves, healing for 1/4 max HP."
+        },
+        {
+            "name": "damp",
+            "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water",
         "fighting"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#b72f29"
     ],
-    "short_description": "Poliwrath is skilled at both swimming and martial\narts. It uses its well-trained arms to dish out\npowerful punches.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
     "habitat": "waters-edge",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

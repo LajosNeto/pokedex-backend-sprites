@@ -2,9 +2,32 @@
     "id": 210,
     "name_en": "granbull",
     "name_ja": "グランブル",
-    "height": 1.4,
-    "weight": 48.7,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "48.7"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/210.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/210Granbull.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 45
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Although it’s popular with young people,\nGranbull is timid and sensitive, so it’s totally\nincompetent as a watchdog.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog.",
     "habitat": "urban",
-    "growth_rate": "fast",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

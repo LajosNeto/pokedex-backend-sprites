@@ -2,9 +2,32 @@
     "id": 626,
     "name_en": "bouffalant",
     "name_ja": "バッフロン",
-    "height": 1.6,
-    "weight": 94.6,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "94.6"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/626.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/626Bouffalant.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 95,
         "speed": 55
     },
-    "abilities": {
-        "name": "soundproof",
-        "description": "Protects against sound-based moves."
-    },
+    "abilities": [
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        },
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "These Pokémon live in herds of about 20\nindividuals. Bouffalant that betray the herd will\nlose the hair on their heads for some reason.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

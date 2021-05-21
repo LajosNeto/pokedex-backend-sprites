@@ -2,9 +2,32 @@
     "id": 172,
     "name_en": "pichu",
     "name_ja": "ピチュー",
-    "height": 0.3,
-    "weight": 2.0,
-    "base_exp": 41,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "2.0"
+        },
+        {
+            "name": "base exp",
+            "value": "41"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/172.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b9/172Pichu.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 35,
         "speed": 60
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "The electric sacs in its cheeks are small. If even a\nlittle electricity leaks, it becomes shocked.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

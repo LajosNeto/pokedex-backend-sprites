@@ -2,9 +2,32 @@
     "id": 862,
     "name_en": "obstagoon",
     "name_ja": "タチフサグマ",
-    "height": 1.6,
-    "weight": 46.0,
-    "base_exp": 260,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "46.0"
+        },
+        {
+            "name": "base exp",
+            "value": "260"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/08/862Obstagoon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 81,
         "speed": 95
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        },
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "dark",
         "normal"
@@ -27,11 +60,8 @@
         "#644e40",
         "#9e9e6f"
     ],
-    "short_description": "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

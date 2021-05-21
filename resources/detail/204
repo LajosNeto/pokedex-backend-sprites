@@ -2,9 +2,32 @@
     "id": 204,
     "name_en": "pineco",
     "name_ja": "クヌギダマ",
-    "height": 0.6,
-    "weight": 7.2,
-    "base_exp": 58,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "7.2"
+        },
+        {
+            "name": "base exp",
+            "value": "58"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/204.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0b/204Pineco.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 35,
         "speed": 15
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "It sticks tree bark to itself with its saliva,\nmaking itself thicker and larger. Elderly Pineco\nare ridiculously huge.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

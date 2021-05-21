@@ -2,9 +2,32 @@
     "id": 330,
     "name_en": "flygon",
     "name_ja": "フライゴン",
-    "height": 2.0,
-    "weight": 82.0,
-    "base_exp": 234,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "82.0"
+        },
+        {
+            "name": "base exp",
+            "value": "234"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/330Flygon.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 80,
         "speed": 100
     },
-    "abilities": {
-        "name": "levitate",
-        "description": "Evades ground moves."
-    },
+    "abilities": [
+        {
+            "name": "levitate",
+            "description": "Evades ground moves."
+        }
+    ],
     "types": [
         "ground",
         "dragon"
@@ -27,11 +52,8 @@
         "#dbb963",
         "#6630f3"
     ],
-    "short_description": "It is nicknamed the Desert Spirit because the\nflapping of its wings sounds like a woman singing.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
     "habitat": "rough-terrain",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

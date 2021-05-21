@@ -2,9 +2,32 @@
     "id": 806,
     "name_en": "blacephalon",
     "name_ja": "ズガドーン",
-    "height": 1.8,
-    "weight": 13.0,
-    "base_exp": 257,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "13.0"
+        },
+        {
+            "name": "base exp",
+            "value": "257"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/806Blacephalon.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 79,
         "speed": 107
     },
-    "abilities": {
-        "name": "beast-boost",
-        "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "beast-boost",
+            "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+        }
+    ],
     "types": [
         "fire",
         "ghost"
@@ -27,11 +52,8 @@
         "#ed7835",
         "#654e8c"
     ],
-    "short_description": "A UB that appeared from an Ultra Wormhole, it\ncauses explosions, then takes advantage of\nopponents’ surprise to rob them of their vitality.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

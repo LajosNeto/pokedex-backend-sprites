@@ -2,9 +2,32 @@
     "id": 524,
     "name_en": "roggenrola",
     "name_ja": "ダンゴロ",
-    "height": 0.4,
-    "weight": 18.0,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "18.0"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/524.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/69/524Roggenrola.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 25,
         "speed": 15
     },
-    "abilities": {
-        "name": "sand-force",
-        "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "weak-armor",
+            "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+        },
+        {
+            "name": "sand-force",
+            "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "rock"
     ],
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "When it detects a noise, it starts to move.\nThe energy core inside it makes this Pokémon\nslightly warm to the touch.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

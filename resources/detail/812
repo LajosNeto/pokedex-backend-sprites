@@ -2,9 +2,32 @@
     "id": 812,
     "name_en": "rillaboom",
     "name_ja": "ゴリランダー",
-    "height": 2.1,
-    "weight": 90.0,
-    "base_exp": 265,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.1"
+        },
+        {
+            "name": "weight",
+            "value": "90.0"
+        },
+        {
+            "name": "base exp",
+            "value": "265"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/812.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/812Rillaboom.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 70,
         "speed": 85
     },
-    "abilities": {
-        "name": "grassy-surge",
-        "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "grassy-surge",
+            "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The one with the best drumming techniques\nbecomes the boss of the troop. It has a gentle\ndisposition and values harmony among its group.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 406,
     "name_en": "budew",
     "name_ja": "スボミー",
-    "height": 0.2,
-    "weight": 1.2,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "1.2"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/406Budew.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 55
     },
-    "abilities": {
-        "name": "leaf-guard",
-        "description": "Protects against major status ailments during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "poison-point",
+            "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        }
+    ],
     "types": [
         "grass",
         "poison"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "This Pokémon is highly sensitive to temperature\nchanges. When its bud starts to open, that means\nspring is right around the corner.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

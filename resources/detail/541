@@ -2,9 +2,32 @@
     "id": 541,
     "name_en": "swadloon",
     "name_ja": "クルマユ",
-    "height": 0.5,
-    "weight": 7.3,
-    "base_exp": 133,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "7.3"
+        },
+        {
+            "name": "base exp",
+            "value": "133"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2b/541Swadloon.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 42
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "bug",
         "grass"
@@ -27,11 +60,8 @@
         "#9daf2b",
         "#6dc04c"
     ],
-    "short_description": "It protects itself from the cold by wrapping up in\nleaves. It stays on the move, eating leaves\nin forests.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

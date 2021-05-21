@@ -2,9 +2,32 @@
     "id": 580,
     "name_en": "ducklett",
     "name_ja": "コアルヒー",
-    "height": 0.5,
-    "weight": 5.5,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "5.5"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/580Ducklett.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 50,
         "speed": 55
     },
-    "abilities": {
-        "name": "hydration",
-        "description": "Cures any major status ailment after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "big-pecks",
+            "description": "Protects against Defense drops."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "They are better at swimming than flying, and they\nhappily eat their favorite food, peat moss, as they\ndive underwater.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

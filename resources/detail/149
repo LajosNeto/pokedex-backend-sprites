@@ -2,9 +2,32 @@
     "id": 149,
     "name_en": "dragonite",
     "name_ja": "カイリュー",
-    "height": 2.2,
-    "weight": 210.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.2"
+        },
+        {
+            "name": "weight",
+            "value": "210.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/149Dragonite.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 100,
         "speed": 80
     },
-    "abilities": {
-        "name": "multiscale",
-        "description": "Halves damage taken from full HP."
-    },
+    "abilities": [
+        {
+            "name": "inner-focus",
+            "description": "Prevents flinching."
+        },
+        {
+            "name": "multiscale",
+            "description": "Halves damage taken from full HP."
+        }
+    ],
     "types": [
         "dragon",
         "flying"
@@ -27,11 +56,8 @@
         "#6630f3",
         "#9e85eb"
     ],
-    "short_description": "It is said that this Pokémon lives somewhere\nin the sea and that it flies. However, these are\nonly rumors.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
     "habitat": "waters-edge",
-    "growth_rate": "slow",
     "color": "#a8733d",
     "evolution_chain": [
         {

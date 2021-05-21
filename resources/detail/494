@@ -2,9 +2,32 @@
     "id": 494,
     "name_en": "victini",
     "name_ja": "ビクティニ",
-    "height": 0.4,
-    "weight": 4.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/494.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/494Victini.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 100,
         "speed": 100
     },
-    "abilities": {
-        "name": "victory-star",
-        "description": "Increases moves' accuracy to 1.1× for friendly Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "victory-star",
+            "description": "Increases moves' accuracy to 1.1× for friendly Pokémon."
+        }
+    ],
     "types": [
         "psychic",
         "fire"
@@ -27,11 +52,8 @@
         "#f6527e",
         "#ed7835"
     ],
-    "short_description": "When it shares the infinite energy it creates,\nthat being’s entire body will be overflowing\nwith power.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

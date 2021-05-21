@@ -2,9 +2,32 @@
     "id": 100,
     "name_en": "voltorb",
     "name_ja": "ビリリダマ",
-    "height": 0.5,
-    "weight": 10.4,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "10.4"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/100.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/da/100Voltorb.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 100
     },
-    "abilities": {
-        "name": "aftermath",
-        "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
-    },
+    "abilities": [
+        {
+            "name": "soundproof",
+            "description": "Protects against sound-based moves."
+        },
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "aftermath",
+            "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "It is said to camouflage itself as a Poké Ball.\nIt will self-destruct with very little stimulus.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

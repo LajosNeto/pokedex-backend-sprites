@@ -2,9 +2,32 @@
     "id": 375,
     "name_en": "metang",
     "name_ja": "メタング",
-    "height": 1.2,
-    "weight": 202.5,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "202.5"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/375Metang.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 80,
         "speed": 50
     },
-    "abilities": {
-        "name": "light-metal",
-        "description": "Halves the Pokémon's weight."
-    },
+    "abilities": [
+        {
+            "name": "clear-body",
+            "description": "Prevents stats from being lowered by other Pokémon."
+        },
+        {
+            "name": "light-metal",
+            "description": "Halves the Pokémon's weight."
+        }
+    ],
     "types": [
         "steel",
         "psychic"
@@ -27,11 +56,8 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "It flies at high speeds around the skies. When it\nfinds its prey, Metang takes a firm grip with its\nsharp claws and never lets go.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

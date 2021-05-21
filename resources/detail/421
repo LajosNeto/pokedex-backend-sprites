@@ -2,9 +2,32 @@
     "id": 421,
     "name_en": "cherrim",
     "name_ja": "チェリム",
-    "height": 0.5,
-    "weight": 9.3,
-    "base_exp": 158,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "9.3"
+        },
+        {
+            "name": "base exp",
+            "value": "158"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/421.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/25/421Cherrim-Overcast.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 78,
         "speed": 85
     },
-    "abilities": {
-        "name": "flower-gift",
-        "description": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "flower-gift",
+            "description": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The faint scent that emanates from its full\nblossom entices bug Pokémon to it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The faint scent that emanates from its full blossom entices bug Pokémon to it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

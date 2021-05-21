@@ -2,9 +2,32 @@
     "id": 26,
     "name_en": "raichu",
     "name_ja": "ライチュウ",
-    "height": 0.8,
-    "weight": 30.0,
-    "base_exp": 218,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "30.0"
+        },
+        {
+            "name": "base exp",
+            "value": "218"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/26.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/88/026Raichu.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 80,
         "speed": 110
     },
-    "abilities": {
-        "name": "lightning-rod",
-        "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "This Pokémon rides on its tail while it uses\nits psychic powers to levitate. It attacks with\nstar-shaped thunderbolts.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

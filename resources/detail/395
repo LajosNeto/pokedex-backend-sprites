@@ -2,9 +2,32 @@
     "id": 395,
     "name_en": "empoleon",
     "name_ja": "エンペルト",
-    "height": 1.7,
-    "weight": 84.5,
-    "base_exp": 239,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.7"
+        },
+        {
+            "name": "weight",
+            "value": "84.5"
+        },
+        {
+            "name": "base exp",
+            "value": "239"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7f/395Empoleon.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 101,
         "speed": 60
     },
-    "abilities": {
-        "name": "defiant",
-        "description": "Raises Attack two stages upon having any stat lowered."
-    },
+    "abilities": [
+        {
+            "name": "torrent",
+            "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "defiant",
+            "description": "Raises Attack two stages upon having any stat lowered."
+        }
+    ],
     "types": [
         "water",
         "steel"
@@ -27,11 +56,8 @@
         "#5f84ea",
         "#afafc9"
     ],
-    "short_description": "The three horns that extend from its beak attest to\nits power. The leader has the biggest horns.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

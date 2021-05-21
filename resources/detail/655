@@ -2,9 +2,32 @@
     "id": 655,
     "name_en": "delphox",
     "name_ja": "マフォクシー",
-    "height": 1.5,
-    "weight": 39.0,
-    "base_exp": 240,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.5"
+        },
+        {
+            "name": "weight",
+            "value": "39.0"
+        },
+        {
+            "name": "base exp",
+            "value": "240"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/655.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/21/655Delphox.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 100,
         "speed": 104
     },
-    "abilities": {
-        "name": "magician",
-        "description": "Steals the target's held item when the bearer uses a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "magician",
+            "description": "Steals the target's held item when the bearer uses a damaging move."
+        }
+    ],
     "types": [
         "fire",
         "psychic"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#f6527e"
     ],
-    "short_description": "Using psychic power, it generates a\nfiery vortex of 5,400 degrees Fahrenheit,\nincinerating foes swept into this whirl of flame.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

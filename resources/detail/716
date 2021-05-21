@@ -2,9 +2,32 @@
     "id": 716,
     "name_en": "xerneas",
     "name_ja": "ゼルネアス",
-    "height": 3.0,
-    "weight": 215.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "3.0"
+        },
+        {
+            "name": "weight",
+            "value": "215.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/716.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/13/716Xerneas.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 98,
         "speed": 99
     },
-    "abilities": {
-        "name": "fairy-aura",
-        "description": "Strengthens fairy moves to 1.33× their power for all friendly and opposing Pokémon."
-    },
+    "abilities": [
+        {
+            "name": "fairy-aura",
+            "description": "Strengthens fairy moves to 1.33× their power for all friendly and opposing Pokémon."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "When the horns on its head shine\nin seven colors, it is said to be\nsharing everlasting life.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 618,
     "name_en": "stunfisk",
     "name_ja": "マッギョ",
-    "height": 0.7,
-    "weight": 11.0,
-    "base_exp": 165,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "11.0"
+        },
+        {
+            "name": "base exp",
+            "value": "165"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/618Stunfisk.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 99,
         "speed": 32
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "static",
+            "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+        },
+        {
+            "name": "limber",
+            "description": "Prevents paralysis."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "ground",
         "electric"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#f6cb3b"
     ],
-    "short_description": "Its conspicuous lips lure prey in as it lies in wait in\nthe mud. When prey gets close, Stunfisk clamps\nits jagged steel fins down on them.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

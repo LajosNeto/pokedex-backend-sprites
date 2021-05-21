@@ -2,9 +2,32 @@
     "id": 561,
     "name_en": "sigilyph",
     "name_ja": "シンボラー",
-    "height": 1.4,
-    "weight": 14.0,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "14.0"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/561.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/561Sigilyph.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 80,
         "speed": 97
     },
-    "abilities": {
-        "name": "tinted-lens",
-        "description": "Doubles damage inflicted with not-very-effective moves."
-    },
+    "abilities": [
+        {
+            "name": "wonder-skin",
+            "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        },
+        {
+            "name": "tinted-lens",
+            "description": "Doubles damage inflicted with not-very-effective moves."
+        }
+    ],
     "types": [
         "psychic",
         "flying"
@@ -27,11 +60,8 @@
         "#f6527e",
         "#9e85eb"
     ],
-    "short_description": "A discovery was made in the desert where\nSigilyph fly. The ruins of what may have been\nan ancient city were found beneath the sands.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#585858",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 269,
     "name_en": "dustox",
     "name_ja": "ドクケイル",
-    "height": 1.2,
-    "weight": 31.6,
-    "base_exp": 173,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "31.6"
+        },
+        {
+            "name": "base exp",
+            "value": "173"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/269.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/34/269Dustox.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 90,
         "speed": 65
     },
-    "abilities": {
-        "name": "compound-eyes",
-        "description": "Increases moves' accuracy to 1.3×."
-    },
+    "abilities": [
+        {
+            "name": "shield-dust",
+            "description": "Protects against incoming moves' extra effects."
+        },
+        {
+            "name": "compound-eyes",
+            "description": "Increases moves' accuracy to 1.3×."
+        }
+    ],
     "types": [
         "bug",
         "poison"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#953a93"
     ],
-    "short_description": "When Dustox flaps its wings, a fine dust is scattered all over.\nThis dust is actually a powerful poison that will even make a\npro wrestler sick. This Pokémon searches for food using its\nantennae like radar.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
     "habitat": "forest",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

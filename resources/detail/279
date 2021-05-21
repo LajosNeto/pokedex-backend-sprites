@@ -2,9 +2,32 @@
     "id": 279,
     "name_en": "pelipper",
     "name_ja": "ペリッパー",
-    "height": 1.2,
-    "weight": 28.0,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "28.0"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/279.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f2/279Pelipper.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 70,
         "speed": 65
     },
-    "abilities": {
-        "name": "rain-dish",
-        "description": "Heals for 1/16 max HP after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "keen-eye",
+            "description": "Prevents accuracy from being lowered."
+        },
+        {
+            "name": "drizzle",
+            "description": "Summons rain that lasts indefinitely upon entering battle."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        }
+    ],
     "types": [
         "water",
         "flying"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "Skimming the water’s surface, it dips its large bill\nin the sea, scoops up food and water, and\ncarries it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#ecd061",
     "evolution_chain": [
         {

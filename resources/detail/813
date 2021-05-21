@@ -2,9 +2,32 @@
     "id": 813,
     "name_en": "scorbunny",
     "name_ja": "ヒバニー",
-    "height": 0.3,
-    "weight": 4.5,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "4.5"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/813.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/06/813Scorbunny.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 40,
         "speed": 69
     },
-    "abilities": {
-        "name": "libero",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "libero",
+            "description": ""
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "It has special pads on the backs of its feet, and\none on its nose. Once it’s raring to fight, these\npads radiate tremendous heat.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

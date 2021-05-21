@@ -2,9 +2,32 @@
     "id": 307,
     "name_en": "meditite",
     "name_ja": "アサナン",
-    "height": 0.6,
-    "weight": 11.2,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "11.2"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/307Meditite.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 55,
         "speed": 60
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "pure-power",
+            "description": "Doubles Attack in battle."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "fighting",
         "psychic"
@@ -27,11 +56,8 @@
         "#b72f29",
         "#f6527e"
     ],
-    "short_description": "Meditite heightens its inner energy through meditation.\nIt survives on just one berry a day. Minimal eating is another\naspect of this Pokémon’s training.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

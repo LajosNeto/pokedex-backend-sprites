@@ -2,9 +2,32 @@
     "id": 564,
     "name_en": "tirtouga",
     "name_ja": "プロトーガ",
-    "height": 0.7,
-    "weight": 16.5,
-    "base_exp": 71,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "16.5"
+        },
+        {
+            "name": "base exp",
+            "value": "71"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1a/564Tirtouga.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 45,
         "speed": 22
     },
-    "abilities": {
-        "name": "swift-swim",
-        "description": "Doubles Speed during rain."
-    },
+    "abilities": [
+        {
+            "name": "solid-rock",
+            "description": "Decreases damage taken from super-effective moves by 1/4."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        },
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        }
+    ],
     "types": [
         "water",
         "rock"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "Its hunting grounds encompassed a broad area,\nfrom the land to more than half a mile deep in\nthe ocean.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

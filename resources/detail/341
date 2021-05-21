@@ -2,9 +2,32 @@
     "id": 341,
     "name_en": "corphish",
     "name_ja": "ヘイガニ",
-    "height": 0.6,
-    "weight": 11.5,
-    "base_exp": 62,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "11.5"
+        },
+        {
+            "name": "base exp",
+            "value": "62"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/341Corphish.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 35,
         "speed": 35
     },
-    "abilities": {
-        "name": "adaptability",
-        "description": "Increases the same-type attack bonus from 1.5× to 2×."
-    },
+    "abilities": [
+        {
+            "name": "hyper-cutter",
+            "description": "Prevents Attack from being lowered by other Pokémon."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "adaptability",
+            "description": "Increases the same-type attack bonus from 1.5× to 2×."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It was originally a Pokémon from afar that escaped\nto the wild. It can adapt to the dirtiest river.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river.",
     "habitat": "waters-edge",
-    "growth_rate": "fast-then-very-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

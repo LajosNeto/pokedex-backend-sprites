@@ -2,9 +2,32 @@
     "id": 298,
     "name_en": "azurill",
     "name_ja": "ルリリ",
-    "height": 0.2,
-    "weight": 2.0,
-    "base_exp": 38,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.2"
+        },
+        {
+            "name": "weight",
+            "value": "2.0"
+        },
+        {
+            "name": "base exp",
+            "value": "38"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/298Azurill.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 20
     },
-    "abilities": {
-        "name": "sap-sipper",
-        "description": "Absorbs grass moves, raising Attack one stage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "huge-power",
+            "description": "Doubles Attack in battle."
+        },
+        {
+            "name": "sap-sipper",
+            "description": "Absorbs grass moves, raising Attack one stage."
+        }
+    ],
     "types": [
         "normal",
         "fairy"
@@ -27,11 +60,8 @@
         "#9e9e6f",
         "#eb90a4"
     ],
-    "short_description": "Although Azurill are normally docile, an angry\none will swing around the big ball on its tail and\ntry to smash its opponents.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
     "habitat": "waters-edge",
-    "growth_rate": "fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

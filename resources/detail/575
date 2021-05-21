@@ -2,9 +2,32 @@
     "id": 575,
     "name_en": "gothorita",
     "name_ja": "ゴチミル",
-    "height": 0.7,
-    "weight": 18.0,
-    "base_exp": 137,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "18.0"
+        },
+        {
+            "name": "base exp",
+            "value": "137"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/575.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/575Gothorita.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 85,
         "speed": 55
     },
-    "abilities": {
-        "name": "shadow-tag",
-        "description": "Prevents opponents from fleeing or switching out."
-    },
+    "abilities": [
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "competitive",
+            "description": "Raises Special Attack by two stages upon having any stat lowered."
+        },
+        {
+            "name": "shadow-tag",
+            "description": "Prevents opponents from fleeing or switching out."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "On nights when the stars shine, this Pokémon’s\npsychic power is at its strongest. It’s unknown just\nwhat link Gothorita has to the greater universe.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

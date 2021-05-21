@@ -2,9 +2,32 @@
     "id": 465,
     "name_en": "tangrowth",
     "name_ja": "モジャンボ",
-    "height": 2.0,
-    "weight": 128.6,
-    "base_exp": 187,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "128.6"
+        },
+        {
+            "name": "base exp",
+            "value": "187"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/465.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/32/465Tangrowth.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 50
     },
-    "abilities": {
-        "name": "regenerator",
-        "description": "Heals for 1/3 max HP upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "regenerator",
+            "description": "Heals for 1/3 max HP upon switching out."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "Vine growth is accelerated for Tangrowth living in\nwarm climates. If the vines grow long, Tangrowth\nshortens them by tearing parts of them off.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

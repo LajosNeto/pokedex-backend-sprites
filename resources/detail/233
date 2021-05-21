@@ -2,9 +2,32 @@
     "id": 233,
     "name_en": "porygon2",
     "name_ja": "ポリゴン２",
-    "height": 0.6,
-    "weight": 32.5,
-    "base_exp": 180,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "32.5"
+        },
+        {
+            "name": "base exp",
+            "value": "180"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/233.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/99/233Porygon2.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 95,
         "speed": 60
     },
-    "abilities": {
-        "name": "analytic",
-        "description": "Strengthens moves to 1.3× their power when moving last."
-    },
+    "abilities": [
+        {
+            "name": "trace",
+            "description": "Copies an opponent's ability upon entering battle."
+        },
+        {
+            "name": "download",
+            "description": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
+        },
+        {
+            "name": "analytic",
+            "description": "Strengthens moves to 1.3× their power when moving last."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "After artificial intelligence was implemented in\nPorygon2, the Pokémon began using a strange\nlanguage that only other Porygon2 understand.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
     "habitat": "urban",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

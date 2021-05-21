@@ -2,9 +2,32 @@
     "id": 518,
     "name_en": "musharna",
     "name_ja": "ムシャーナ",
-    "height": 1.1,
-    "weight": 60.5,
-    "base_exp": 170,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "60.5"
+        },
+        {
+            "name": "base exp",
+            "value": "170"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2d/518Musharna.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 95,
         "speed": 29
     },
-    "abilities": {
-        "name": "telepathy",
-        "description": "Protects against friendly Pokémon's damaging moves."
-    },
+    "abilities": [
+        {
+            "name": "forewarn",
+            "description": "Reveals the opponents' strongest move upon entering battle."
+        },
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        },
+        {
+            "name": "telepathy",
+            "description": "Protects against friendly Pokémon's damaging moves."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "It drowses and dreams all the time. It’s best to\nleave it be if it’s just woken up, as it’s a terrible\ngrump when freshly roused from sleep.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.",
     "habitat": "",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

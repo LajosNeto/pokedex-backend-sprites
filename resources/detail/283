@@ -2,9 +2,32 @@
     "id": 283,
     "name_en": "surskit",
     "name_ja": "アメタマ",
-    "height": 0.5,
-    "weight": 1.7,
-    "base_exp": 54,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "1.7"
+        },
+        {
+            "name": "base exp",
+            "value": "54"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/283Surskit.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 52,
         "speed": 65
     },
-    "abilities": {
-        "name": "rain-dish",
-        "description": "Heals for 1/16 max HP after each turn during rain."
-    },
+    "abilities": [
+        {
+            "name": "swift-swim",
+            "description": "Doubles Speed during rain."
+        },
+        {
+            "name": "rain-dish",
+            "description": "Heals for 1/16 max HP after each turn during rain."
+        }
+    ],
     "types": [
         "bug",
         "water"
@@ -27,11 +56,8 @@
         "#9daf2b",
         "#5f84ea"
     ],
-    "short_description": "It lives in ponds and marshes that feature lots\nof plant life. It often fights with Dewpider,\nwhose habitat and diet are similar.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
     "habitat": "waters-edge",
-    "growth_rate": "medium",
     "color": "#4589e9",
     "evolution_chain": [
         {

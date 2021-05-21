@@ -2,9 +2,32 @@
     "id": 403,
     "name_en": "shinx",
     "name_ja": "コリンク",
-    "height": 0.5,
-    "weight": 9.5,
-    "base_exp": 53,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "9.5"
+        },
+        {
+            "name": "base exp",
+            "value": "53"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/403.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/32/403Shinx.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 34,
         "speed": 45
     },
-    "abilities": {
-        "name": "guts",
-        "description": "Increases Attack to 1.5× with a major status ailment."
-    },
+    "abilities": [
+        {
+            "name": "rivalry",
+            "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+        },
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        }
+    ],
     "types": [
         "electric"
     ],
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Electricity makes this Pokémon’s fur glow. Shinx\nsends signals to others of its kind by shaking the\ntip of its tail while the tail tip is shining brightly.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

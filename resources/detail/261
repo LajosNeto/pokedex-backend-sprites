@@ -2,9 +2,32 @@
     "id": 261,
     "name_en": "poochyena",
     "name_ja": "ポチエナ",
-    "height": 0.5,
-    "weight": 13.6,
-    "base_exp": 56,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "13.6"
+        },
+        {
+            "name": "base exp",
+            "value": "56"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/261.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fc/261Poochyena.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 30,
         "speed": 35
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "quick-feet",
+            "description": "Increases Speed to 1.5× with a major status ailment."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "dark"
     ],
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Poochyena is an omnivore—it will eat anything. A distinguishing\nfeature is how large its fangs are compared to its body. This\nPokémon tries to intimidate its foes by making the hair on its\ntail bristle out.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
     "habitat": "grassland",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

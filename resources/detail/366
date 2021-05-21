@@ -2,9 +2,32 @@
     "id": 366,
     "name_en": "clamperl",
     "name_ja": "パールル",
-    "height": 0.4,
-    "weight": 52.5,
-    "base_exp": 69,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "52.5"
+        },
+        {
+            "name": "base exp",
+            "value": "69"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/366.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/366Clamperl.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 55,
         "speed": 32
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Clamperl’s pearls are exceedingly precious.\nThey can be more than 10 times as costly\nas Shellder’s pearls.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls.",
     "habitat": "sea",
-    "growth_rate": "slow-then-very-fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

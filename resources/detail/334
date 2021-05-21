@@ -2,9 +2,32 @@
     "id": 334,
     "name_en": "altaria",
     "name_ja": "チルタリス",
-    "height": 1.1,
-    "weight": 20.6,
-    "base_exp": 172,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "20.6"
+        },
+        {
+            "name": "base exp",
+            "value": "172"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow-then-very-fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/334.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/da/334Altaria.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 105,
         "speed": 80
     },
-    "abilities": {
-        "name": "cloud-nine",
-        "description": "Negates all effects of weather, but does not prevent the weather itself."
-    },
+    "abilities": [
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "cloud-nine",
+            "description": "Negates all effects of weather, but does not prevent the weather itself."
+        }
+    ],
     "types": [
         "dragon",
         "flying"
@@ -27,11 +56,8 @@
         "#6630f3",
         "#9e85eb"
     ],
-    "short_description": "Altaria sings in a gorgeous soprano. Its wings are like cotton\nclouds. This Pokémon catches updrafts with its buoyant wings\nand soars way up into the wild blue yonder.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
     "habitat": "forest",
-    "growth_rate": "slow-then-very-fast",
     "color": "#4589e9",
     "evolution_chain": [
         {

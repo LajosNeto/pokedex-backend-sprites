@@ -2,9 +2,32 @@
     "id": 647,
     "name_en": "keldeo-ordinary",
     "name_ja": "ケルディオ",
-    "height": 1.4,
-    "weight": 48.5,
-    "base_exp": 261,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "48.5"
+        },
+        {
+            "name": "base exp",
+            "value": "261"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/647.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/50/647Keldeo.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 90,
         "speed": 108
     },
-    "abilities": {
-        "name": "justified",
-        "description": "Raises Attack one stage upon taking damage from a dark move."
-    },
+    "abilities": [
+        {
+            "name": "justified",
+            "description": "Raises Attack one stage upon taking damage from a dark move."
+        }
+    ],
     "types": [
         "water",
         "fighting"
@@ -27,11 +52,8 @@
         "#5f84ea",
         "#b72f29"
     ],
-    "short_description": "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#ecd061",
     "evolution_chain": [
         {

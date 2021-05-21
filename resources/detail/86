@@ -2,9 +2,32 @@
     "id": 86,
     "name_en": "seel",
     "name_ja": "パウワウ",
-    "height": 1.1,
-    "weight": 90.0,
-    "base_exp": 65,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "90.0"
+        },
+        {
+            "name": "base exp",
+            "value": "65"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/86.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1f/086Seel.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 70,
         "speed": 45
     },
-    "abilities": {
-        "name": "ice-body",
-        "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
-    },
+    "abilities": [
+        {
+            "name": "thick-fat",
+            "description": "Halves damage from fire and ice moves."
+        },
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "ice-body",
+            "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Loves freezing-cold conditions.\nRelishes swimming in a frigid climate\nof around 14 degrees Fahrenheit.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
     "habitat": "sea",
-    "growth_rate": "medium",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

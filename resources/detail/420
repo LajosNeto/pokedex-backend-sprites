@@ -2,9 +2,32 @@
     "id": 420,
     "name_en": "cherubi",
     "name_ja": "チェリンボ",
-    "height": 0.4,
-    "weight": 3.3,
-    "base_exp": 55,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "3.3"
+        },
+        {
+            "name": "base exp",
+            "value": "55"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/420.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/420Cherubi.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 53,
         "speed": 35
     },
-    "abilities": {
-        "name": "chlorophyll",
-        "description": "Doubles Speed during strong sunlight."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The deeper a Cherubi’s red, the more nutrients it\nhas stockpiled in its body. And the sweeter and\ntastier its small ball!",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

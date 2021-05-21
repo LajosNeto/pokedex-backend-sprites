@@ -2,9 +2,32 @@
     "id": 288,
     "name_en": "vigoroth",
     "name_ja": "ヤルキモノ",
-    "height": 1.4,
-    "weight": 46.5,
-    "base_exp": 154,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.4"
+        },
+        {
+            "name": "weight",
+            "value": "46.5"
+        },
+        {
+            "name": "base exp",
+            "value": "154"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/288.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/61/288Vigoroth.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 55,
         "speed": 90
     },
-    "abilities": {
-        "name": "vital-spirit",
-        "description": "Prevents sleep."
-    },
+    "abilities": [
+        {
+            "name": "vital-spirit",
+            "description": "Prevents sleep."
+        }
+    ],
     "types": [
         "normal"
     ],
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "Vigoroth is simply incapable of remaining still. Even when it\ntries to sleep, the blood in its veins grows agitated, compelling\nthis Pokémon to run wild throughout the jungle before it can\nsettle down.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
     "habitat": "forest",
-    "growth_rate": "slow",
     "color": "#f0f0f0",
     "evolution_chain": [
         {

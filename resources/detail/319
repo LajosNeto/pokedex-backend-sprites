@@ -2,9 +2,32 @@
     "id": 319,
     "name_en": "sharpedo",
     "name_ja": "サメハダー",
-    "height": 1.8,
-    "weight": 88.8,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.8"
+        },
+        {
+            "name": "weight",
+            "value": "88.8"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a8/319Sharpedo.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 40,
         "speed": 95
     },
-    "abilities": {
-        "name": "speed-boost",
-        "description": "Raises Speed one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "rough-skin",
+            "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
+        },
+        {
+            "name": "speed-boost",
+            "description": "Raises Speed one stage after each turn."
+        }
+    ],
     "types": [
         "water",
         "dark"
@@ -27,11 +56,8 @@
         "#5f84ea",
         "#644e40"
     ],
-    "short_description": "This Pokémon is known as the Bully of the Sea.\nAny ship entering the waters Sharpedo calls\nhome will be attacked—no exceptions.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

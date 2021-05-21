@@ -2,9 +2,32 @@
     "id": 616,
     "name_en": "shelmet",
     "name_ja": "チョボマキ",
-    "height": 0.4,
-    "weight": 7.7,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "7.7"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/616.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/616Shelmet.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 25
     },
-    "abilities": {
-        "name": "overcoat",
-        "description": "Protects against damage from weather."
-    },
+    "abilities": [
+        {
+            "name": "hydration",
+            "description": "Cures any major status ailment after each turn during rain."
+        },
+        {
+            "name": "shell-armor",
+            "description": "Protects against critical hits."
+        },
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        }
+    ],
     "types": [
         "bug"
     ],
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "It has a strange physiology that responds to\nelectricity. When together with Karrablast,\nShelmet evolves for some reason.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#e0626a",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 173,
     "name_en": "cleffa",
     "name_ja": "ピィ",
-    "height": 0.3,
-    "weight": 3.0,
-    "base_exp": 44,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.3"
+        },
+        {
+            "name": "weight",
+            "value": "3.0"
+        },
+        {
+            "name": "base exp",
+            "value": "44"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/173Cleffa.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 55,
         "speed": 15
     },
-    "abilities": {
-        "name": "friend-guard",
-        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        },
+        {
+            "name": "friend-guard",
+            "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Because of its unusual, starlike silhouette, people\nbelieve that it came here on a meteor.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
     "habitat": "mountain",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

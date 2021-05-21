@@ -2,9 +2,32 @@
     "id": 121,
     "name_en": "starmie",
     "name_ja": "スターミー",
-    "height": 1.1,
-    "weight": 80.0,
-    "base_exp": 182,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.1"
+        },
+        {
+            "name": "weight",
+            "value": "80.0"
+        },
+        {
+            "name": "base exp",
+            "value": "182"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/121Starmie.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 85,
         "speed": 115
     },
-    "abilities": {
-        "name": "analytic",
-        "description": "Strengthens moves to 1.3× their power when moving last."
-    },
+    "abilities": [
+        {
+            "name": "illuminate",
+            "description": "Doubles the wild encounter rate."
+        },
+        {
+            "name": "natural-cure",
+            "description": "Cures any major status ailment upon switching out."
+        },
+        {
+            "name": "analytic",
+            "description": "Strengthens moves to 1.3× their power when moving last."
+        }
+    ],
     "types": [
         "water",
         "psychic"
@@ -27,11 +60,8 @@
         "#5f84ea",
         "#f6527e"
     ],
-    "short_description": "Starmie swims by spinning its body at high speed.\nAs this Pokémon cruises through the ocean, it\nabsorbs tiny plankton.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
     "habitat": "sea",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

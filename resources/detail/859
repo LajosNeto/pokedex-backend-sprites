@@ -2,9 +2,32 @@
     "id": 859,
     "name_en": "impidimp",
     "name_ja": "ベロバー",
-    "height": 0.4,
-    "weight": 5.5,
-    "base_exp": 53,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "5.5"
+        },
+        {
+            "name": "base exp",
+            "value": "53"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/859Impidimp.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 40,
         "speed": 50
     },
-    "abilities": {
-        "name": "pickpocket",
-        "description": "Steals attacking Pokémon's held items on contact."
-    },
+    "abilities": [
+        {
+            "name": "prankster",
+            "description": "Raises non-damaging moves' priority by one stage."
+        },
+        {
+            "name": "frisk",
+            "description": "Reveals an opponent's held item upon entering battle."
+        },
+        {
+            "name": "pickpocket",
+            "description": "Steals attacking Pokémon's held items on contact."
+        }
+    ],
     "types": [
         "dark",
         "fairy"
@@ -27,11 +60,8 @@
         "#644e40",
         "#eb90a4"
     ],
-    "short_description": "It sneaks into people’s homes, stealing things\nand feasting on the negative energy of the\nfrustrated occupants.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#eb96c6",
     "evolution_chain": [
         {

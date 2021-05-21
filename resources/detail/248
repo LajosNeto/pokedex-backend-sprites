@@ -2,9 +2,32 @@
     "id": 248,
     "name_en": "tyranitar",
     "name_ja": "バンギラス",
-    "height": 2.0,
-    "weight": 202.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "202.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/82/248Tyranitar.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 100,
         "speed": 61
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "sand-stream",
+            "description": "Summons a sandstorm that lasts indefinitely upon entering battle."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "rock",
         "dark"
@@ -27,11 +56,8 @@
         "#af9539",
         "#644e40"
     ],
-    "short_description": "The quakes caused when it walks make even\ngreat mountains crumble and change\nthe surrounding terrain.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

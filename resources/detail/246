@@ -2,9 +2,32 @@
     "id": 246,
     "name_en": "larvitar",
     "name_ja": "ヨーギラス",
-    "height": 0.6,
-    "weight": 72.0,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "72.0"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/70/246Larvitar.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 50,
         "speed": 41
     },
-    "abilities": {
-        "name": "sand-veil",
-        "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
-    },
+    "abilities": [
+        {
+            "name": "guts",
+            "description": "Increases Attack to 1.5× with a major status ailment."
+        },
+        {
+            "name": "sand-veil",
+            "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+        }
+    ],
     "types": [
         "rock",
         "ground"
@@ -27,11 +56,8 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "It feeds on soil. After it has eaten a large\nmountain, it will fall asleep so it can grow.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
     "habitat": "mountain",
-    "growth_rate": "slow",
     "color": "#62b570",
     "evolution_chain": [
         {

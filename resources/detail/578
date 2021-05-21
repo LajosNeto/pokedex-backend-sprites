@@ -2,9 +2,32 @@
     "id": 578,
     "name_en": "duosion",
     "name_ja": "ダブラン",
-    "height": 0.6,
-    "weight": 8.0,
-    "base_exp": 130,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "8.0"
+        },
+        {
+            "name": "base exp",
+            "value": "130"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/578.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/83/578Duosion.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 60,
         "speed": 30
     },
-    "abilities": {
-        "name": "regenerator",
-        "description": "Heals for 1/3 max HP upon switching out."
-    },
+    "abilities": [
+        {
+            "name": "overcoat",
+            "description": "Protects against damage from weather."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        },
+        {
+            "name": "regenerator",
+            "description": "Heals for 1/3 max HP upon switching out."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Its brain has split into two, and the two\nhalves rarely think alike. Its actions are\nutterly unpredictable.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

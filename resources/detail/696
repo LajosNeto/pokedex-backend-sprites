@@ -2,9 +2,32 @@
     "id": 696,
     "name_en": "tyrunt",
     "name_ja": "チゴラス",
-    "height": 0.8,
-    "weight": 26.0,
-    "base_exp": 72,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.8"
+        },
+        {
+            "name": "weight",
+            "value": "26.0"
+        },
+        {
+            "name": "base exp",
+            "value": "72"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c3/696Tyrunt.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 45,
         "speed": 48
     },
-    "abilities": {
-        "name": "sturdy",
-        "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
-    },
+    "abilities": [
+        {
+            "name": "strong-jaw",
+            "description": "Strengthens biting moves to 1.5× their power."
+        },
+        {
+            "name": "sturdy",
+            "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+        }
+    ],
     "types": [
         "rock",
         "dragon"
@@ -27,11 +56,8 @@
         "#af9539",
         "#6630f3"
     ],
-    "short_description": "Tyrunt is spoiled and selfish. It may just be\ntrying to frolic, but sometimes the ones it’s\ntrying to frolic with are gravely injured.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

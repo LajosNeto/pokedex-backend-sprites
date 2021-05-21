@@ -2,9 +2,32 @@
     "id": 256,
     "name_en": "combusken",
     "name_ja": "ワカシャモ",
-    "height": 0.9,
-    "weight": 19.5,
-    "base_exp": 142,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.9"
+        },
+        {
+            "name": "weight",
+            "value": "19.5"
+        },
+        {
+            "name": "base exp",
+            "value": "142"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/29/256Combusken.png",
     "base_stats": {
@@ -15,10 +38,16 @@
         "special-defense": 60,
         "speed": 55
     },
-    "abilities": {
-        "name": "speed-boost",
-        "description": "Raises Speed one stage after each turn."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "speed-boost",
+            "description": "Raises Speed one stage after each turn."
+        }
+    ],
     "types": [
         "fire",
         "fighting"
@@ -27,11 +56,8 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "Combusken battles with the intensely hot flames it spews from\nits beak and with outstandingly destructive kicks. This\nPokémon’s cry is very loud and distracting.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

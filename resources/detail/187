@@ -2,9 +2,32 @@
     "id": 187,
     "name_en": "hoppip",
     "name_ja": "ハネッコ",
-    "height": 0.4,
-    "weight": 0.5,
-    "base_exp": 50,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "0.5"
+        },
+        {
+            "name": "base exp",
+            "value": "50"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/187Hoppip.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 55,
         "speed": 50
     },
-    "abilities": {
-        "name": "infiltrator",
-        "description": "Bypasses light screen, reflect, and safeguard."
-    },
+    "abilities": [
+        {
+            "name": "chlorophyll",
+            "description": "Doubles Speed during strong sunlight."
+        },
+        {
+            "name": "leaf-guard",
+            "description": "Protects against major status ailments during strong sunlight."
+        },
+        {
+            "name": "infiltrator",
+            "description": "Bypasses light screen, reflect, and safeguard."
+        }
+    ],
     "types": [
         "grass",
         "flying"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#9e85eb"
     ],
-    "short_description": "This Pokémon drifts and floats with the wind. If it senses the\napproach of strong winds, Hoppip links its leaves with other\nHoppip to prepare against being blown away.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
     "habitat": "grassland",
-    "growth_rate": "medium-slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

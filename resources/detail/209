@@ -2,9 +2,32 @@
     "id": 209,
     "name_en": "snubbull",
     "name_ja": "ブルー",
-    "height": 0.6,
-    "weight": 7.8,
-    "base_exp": 60,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "7.8"
+        },
+        {
+            "name": "base exp",
+            "value": "60"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/209.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7f/209Snubbull.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 40,
         "speed": 30
     },
-    "abilities": {
-        "name": "rattled",
-        "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
-    },
+    "abilities": [
+        {
+            "name": "intimidate",
+            "description": "Lowers opponents' Attack one stage upon entering battle."
+        },
+        {
+            "name": "run-away",
+            "description": "Ensures success fleeing from wild battles."
+        },
+        {
+            "name": "rattled",
+            "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "In contrast to its appearance, it’s quite\ntimid. When playing with other puppy\nPokémon, it sometimes gets bullied.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.",
     "habitat": "urban",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

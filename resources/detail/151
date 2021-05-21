@@ -2,9 +2,32 @@
     "id": 151,
     "name_en": "mew",
     "name_ja": "ミュウ",
-    "height": 0.4,
-    "weight": 4.0,
-    "base_exp": 270,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "4.0"
+        },
+        {
+            "name": "base exp",
+            "value": "270"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "yes"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/151.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/151Mew.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 100,
         "speed": 100
     },
-    "abilities": {
-        "name": "synchronize",
-        "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
-    },
+    "abilities": [
+        {
+            "name": "synchronize",
+            "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "When viewed through a microscope, this\nPokémon’s short, fine, delicate hair can be seen.",
-    "is_legendary": false,
-    "is_mythical": true,
+    "short_description": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
     "habitat": "rare",
-    "growth_rate": "medium-slow",
     "color": "#eb96c6",
     "evolution_chain": [
         {

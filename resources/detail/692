@@ -2,9 +2,32 @@
     "id": 692,
     "name_en": "clauncher",
     "name_ja": "ウデッポウ",
-    "height": 0.5,
-    "weight": 8.3,
-    "base_exp": 66,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "8.3"
+        },
+        {
+            "name": "base exp",
+            "value": "66"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/692.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/692Clauncher.png",
     "base_stats": {
@@ -15,21 +38,20 @@
         "special-defense": 63,
         "speed": 44
     },
-    "abilities": {
-        "name": "mega-launcher",
-        "description": "Strengthens aura and pulse moves to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "mega-launcher",
+            "description": "Strengthens aura and pulse moves to 1.5× their power."
+        }
+    ],
     "types": [
         "water"
     ],
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "By detonating gas that accumulates in its right\nclaw, this Pokémon launches water like a bullet.\nThis is how Clauncher defeats its enemies.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#4589e9",
     "evolution_chain": [
         {

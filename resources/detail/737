@@ -2,9 +2,32 @@
     "id": 737,
     "name_en": "charjabug",
     "name_ja": "デンヂムシ",
-    "height": 0.5,
-    "weight": 10.5,
-    "base_exp": 140,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.5"
+        },
+        {
+            "name": "weight",
+            "value": "10.5"
+        },
+        {
+            "name": "base exp",
+            "value": "140"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/737.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ec/737Charjabug.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 75,
         "speed": 36
     },
-    "abilities": {
-        "name": "battery",
-        "description": "Ally Pokémon's moves have their power increased to 1.3×."
-    },
+    "abilities": [
+        {
+            "name": "battery",
+            "description": "Ally Pokémon's moves have their power increased to 1.3×."
+        }
+    ],
     "types": [
         "bug",
         "electric"
@@ -27,11 +52,8 @@
         "#9daf2b",
         "#f6cb3b"
     ],
-    "short_description": "Its digestive processes convert the leaves it eats\ninto electricity. An electric sac in its belly stores\nthe electricity for later use.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#62b570",
     "evolution_chain": [
         {

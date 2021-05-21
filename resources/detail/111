@@ -2,9 +2,32 @@
     "id": 111,
     "name_en": "rhyhorn",
     "name_ja": "サイホーン",
-    "height": 1.0,
-    "weight": 115.0,
-    "base_exp": 69,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.0"
+        },
+        {
+            "name": "weight",
+            "value": "115.0"
+        },
+        {
+            "name": "base exp",
+            "value": "69"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/111Rhyhorn.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 30,
         "speed": 25
     },
-    "abilities": {
-        "name": "reckless",
-        "description": "Strengthens recoil moves to 1.2× their power."
-    },
+    "abilities": [
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "reckless",
+            "description": "Strengthens recoil moves to 1.2× their power."
+        }
+    ],
     "types": [
         "ground",
         "rock"
@@ -27,11 +60,8 @@
         "#dbb963",
         "#af9539"
     ],
-    "short_description": "It can remember only one thing at a time. Once it\nstarts rushing, it forgets why it started.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
     "habitat": "rough-terrain",
-    "growth_rate": "slow",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

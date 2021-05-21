@@ -2,9 +2,32 @@
     "id": 286,
     "name_en": "breloom",
     "name_ja": "キノガッサ",
-    "height": 1.2,
-    "weight": 39.2,
-    "base_exp": 161,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.2"
+        },
+        {
+            "name": "weight",
+            "value": "39.2"
+        },
+        {
+            "name": "base exp",
+            "value": "161"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast-then-very-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/de/286Breloom.png",
     "base_stats": {
@@ -15,10 +38,20 @@
         "special-defense": 60,
         "speed": 70
     },
-    "abilities": {
-        "name": "technician",
-        "description": "Strengthens moves of 60 base power or less to 1.5× their power."
-    },
+    "abilities": [
+        {
+            "name": "effect-spore",
+            "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+        },
+        {
+            "name": "poison-heal",
+            "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+        },
+        {
+            "name": "technician",
+            "description": "Strengthens moves of 60 base power or less to 1.5× their power."
+        }
+    ],
     "types": [
         "grass",
         "fighting"
@@ -27,11 +60,8 @@
         "#6dc04c",
         "#b72f29"
     ],
-    "short_description": "The seeds ringing Breloom’s tail are made of hardened toxic\nspores. It is horrible to eat the seeds. Just taking a bite of this\nPokémon’s seed will cause your stomach to rumble.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
     "habitat": "forest",
-    "growth_rate": "fast-then-very-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 35,
     "name_en": "clefairy",
     "name_ja": "ピッピ",
-    "height": 0.6,
-    "weight": 7.5,
-    "base_exp": 113,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.6"
+        },
+        {
+            "name": "weight",
+            "value": "7.5"
+        },
+        {
+            "name": "base exp",
+            "value": "113"
+        },
+        {
+            "name": "growth rate",
+            "value": "fast"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/035Clefairy.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 65,
         "speed": 35
     },
-    "abilities": {
-        "name": "friend-guard",
-        "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
-    },
+    "abilities": [
+        {
+            "name": "cute-charm",
+            "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
+        },
+        {
+            "name": "magic-guard",
+            "description": "Protects against damage not directly caused by a move."
+        },
+        {
+            "name": "friend-guard",
+            "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+        }
+    ],
     "types": [
         "fairy"
     ],
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Its adorable behavior and cry make it highly popular.\nHowever, this cute Pokémon is rarely found.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
     "habitat": "mountain",
-    "growth_rate": "fast",
     "color": "#eb96c6",
     "evolution_chain": [
         {

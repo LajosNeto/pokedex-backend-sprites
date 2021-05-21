@@ -2,9 +2,32 @@
     "id": 104,
     "name_en": "cubone",
     "name_ja": "カラカラ",
-    "height": 0.4,
-    "weight": 6.5,
-    "base_exp": 64,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "6.5"
+        },
+        {
+            "name": "base exp",
+            "value": "64"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2a/104Cubone.png",
     "base_stats": {
@@ -15,21 +38,28 @@
         "special-defense": 50,
         "speed": 35
     },
-    "abilities": {
-        "name": "battle-armor",
-        "description": "Protects against critical hits."
-    },
+    "abilities": [
+        {
+            "name": "rock-head",
+            "description": "Protects against recoil damage."
+        },
+        {
+            "name": "lightning-rod",
+            "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+        },
+        {
+            "name": "battle-armor",
+            "description": "Protects against critical hits."
+        }
+    ],
     "types": [
         "ground"
     ],
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "This Pokémon wears the skull of its deceased\nmother. Sometimes Cubone’s dreams make it cry,\nbut each tear Cubone sheds makes it stronger.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
     "habitat": "mountain",
-    "growth_rate": "medium",
     "color": "#a8733d",
     "evolution_chain": [
         {

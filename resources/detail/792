@@ -2,9 +2,32 @@
     "id": 792,
     "name_en": "lunala",
     "name_ja": "ルナアーラ",
-    "height": 4.0,
-    "weight": 120.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "4.0"
+        },
+        {
+            "name": "weight",
+            "value": "120.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/792.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/792Lunala.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 107,
         "speed": 97
     },
-    "abilities": {
-        "name": "shadow-shield",
-        "description": "When this Pokémon has full HP, regular damage from moves is halved."
-    },
+    "abilities": [
+        {
+            "name": "shadow-shield",
+            "description": "When this Pokémon has full HP, regular damage from moves is halved."
+        }
+    ],
     "types": [
         "psychic",
         "ghost"
@@ -27,11 +52,8 @@
         "#f6527e",
         "#654e8c"
     ],
-    "short_description": "It steals the light from its surroundings and then\nbecomes the full moon, showering its own light\nacross the night sky.",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
     "habitat": "",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {

@@ -2,9 +2,32 @@
     "id": 867,
     "name_en": "runerigus",
     "name_ja": "デスバーン",
-    "height": 1.6,
-    "weight": 66.6,
-    "base_exp": 169,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "1.6"
+        },
+        {
+            "name": "weight",
+            "value": "66.6"
+        },
+        {
+            "name": "base exp",
+            "value": "169"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/867.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/867Runerigus.png",
     "base_stats": {
@@ -15,10 +38,12 @@
         "special-defense": 105,
         "speed": 30
     },
-    "abilities": {
-        "name": "wandering-spirit",
-        "description": ""
-    },
+    "abilities": [
+        {
+            "name": "wandering-spirit",
+            "description": ""
+        }
+    ],
     "types": [
         "ground",
         "ghost"
@@ -27,11 +52,8 @@
         "#dbb963",
         "#654e8c"
     ],
-    "short_description": "Never touch its shadowlike body, or you’ll be\nshown the horrific memories behind the picture\ncarved into it.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
     "habitat": "",
-    "growth_rate": "medium",
     "color": "#a0a0a0",
     "evolution_chain": [
         {

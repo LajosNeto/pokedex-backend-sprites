@@ -2,9 +2,32 @@
     "id": 653,
     "name_en": "fennekin",
     "name_ja": "フォッコ",
-    "height": 0.4,
-    "weight": 9.4,
-    "base_exp": 61,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.4"
+        },
+        {
+            "name": "weight",
+            "value": "9.4"
+        },
+        {
+            "name": "base exp",
+            "value": "61"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/653Fennekin.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 60
     },
-    "abilities": {
-        "name": "magician",
-        "description": "Steals the target's held item when the bearer uses a damaging move."
-    },
+    "abilities": [
+        {
+            "name": "blaze",
+            "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "magician",
+            "description": "Steals the target's held item when the bearer uses a damaging move."
+        }
+    ],
     "types": [
         "fire"
     ],
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "As it walks, it munches on a twig in place\nof a snack. It intimidates opponents\nby puffing hot air out of its ears.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#e0626a",
     "evolution_chain": [
         {

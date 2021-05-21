@@ -2,9 +2,32 @@
     "id": 811,
     "name_en": "thwackey",
     "name_ja": "バチンキー",
-    "height": 0.7,
-    "weight": 14.0,
-    "base_exp": 147,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "0.7"
+        },
+        {
+            "name": "weight",
+            "value": "14.0"
+        },
+        {
+            "name": "base exp",
+            "value": "147"
+        },
+        {
+            "name": "growth rate",
+            "value": "medium-slow"
+        },
+        {
+            "name": "legendary",
+            "value": "no"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/811.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8f/811Thwackey.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 60,
         "speed": 80
     },
-    "abilities": {
-        "name": "grassy-surge",
-        "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
-    },
+    "abilities": [
+        {
+            "name": "overgrow",
+            "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+        },
+        {
+            "name": "grassy-surge",
+            "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+        }
+    ],
     "types": [
         "grass"
     ],
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "When it’s drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won’t even\nnotice that it’s already knocked out its opponent.",
-    "is_legendary": false,
-    "is_mythical": false,
+    "short_description": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.",
     "habitat": "",
-    "growth_rate": "medium-slow",
     "color": "#62b570",
     "evolution_chain": [
         {

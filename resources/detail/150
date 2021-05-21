@@ -2,9 +2,32 @@
     "id": 150,
     "name_en": "mewtwo",
     "name_ja": "ミュウツー",
-    "height": 2.0,
-    "weight": 122.0,
-    "base_exp": 306,
+    "attributes": [
+        {
+            "name": "height",
+            "value": "2.0"
+        },
+        {
+            "name": "weight",
+            "value": "122.0"
+        },
+        {
+            "name": "base exp",
+            "value": "306"
+        },
+        {
+            "name": "growth rate",
+            "value": "slow"
+        },
+        {
+            "name": "legendary",
+            "value": "yes"
+        },
+        {
+            "name": "mythical",
+            "value": "no"
+        }
+    ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/150.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/150Mewtwo.png",
     "base_stats": {
@@ -15,21 +38,24 @@
         "special-defense": 90,
         "speed": 130
     },
-    "abilities": {
-        "name": "unnerve",
-        "description": "Prevents opposing Pokémon from eating held Berries."
-    },
+    "abilities": [
+        {
+            "name": "pressure",
+            "description": "Increases the PP cost of moves targetting the Pokémon by one."
+        },
+        {
+            "name": "unnerve",
+            "description": "Prevents opposing Pokémon from eating held Berries."
+        }
+    ],
     "types": [
         "psychic"
     ],
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "Psychic power has augmented its muscles.\nIt has a grip strength of one ton and can sprint\na hundred meters in two seconds flat!",
-    "is_legendary": true,
-    "is_mythical": false,
+    "short_description": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
     "habitat": "rare",
-    "growth_rate": "slow",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
