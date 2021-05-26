@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "7.7"
+            "value": "7.7 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         }
     ],

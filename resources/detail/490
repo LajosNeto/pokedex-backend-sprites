@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "1.4"
+            "value": "1.4 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         }
     ],

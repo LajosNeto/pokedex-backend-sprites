@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "35.0"
+            "value": "35.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "magma-armor",
+            "name": "Magma Armor",
             "description": "Prevents freezing."
         },
         {
-            "name": "flame-body",
+            "name": "Flame Body",
             "description": "Has a 30% chance of burning attacking Pokémon on contact."
         },
         {
-            "name": "weak-armor",
+            "name": "Weak Armor",
             "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "40.0"
+            "value": "40.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "light-metal",
+            "name": "Light Metal",
             "description": "Halves the Pokémon's weight."
         },
         {
-            "name": "heavy-metal",
+            "name": "Heavy Metal",
             "description": "Doubles the Pokémon's weight."
         },
         {
-            "name": "stalwart",
+            "name": "Stalwart",
             "description": ""
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.1"
+            "value": "2.1 m"
         },
         {
             "name": "weight",
-            "value": "136.0"
+            "value": "136.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "iron-fist",
+            "name": "Iron Fist",
             "description": "Strengthens punch-based moves to 1.2× their power."
         },
         {
-            "name": "mold-breaker",
+            "name": "Mold Breaker",
             "description": "Bypasses targets' abilities if they could hinder or prevent a move."
         },
         {
-            "name": "scrappy",
+            "name": "Scrappy",
             "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
         }
     ],

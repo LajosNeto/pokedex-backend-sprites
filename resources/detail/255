@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "2.5"
+            "value": "2.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "blaze",
+            "name": "Blaze",
             "description": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
         },
         {
-            "name": "speed-boost",
+            "name": "Speed Boost",
             "description": "Raises Speed one stage after each turn."
         }
     ],

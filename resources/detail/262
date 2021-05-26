@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "37.0"
+            "value": "37.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "quick-feet",
+            "name": "Quick Feet",
             "description": "Increases Speed to 1.5× with a major status ailment."
         },
         {
-            "name": "moxie",
+            "name": "Moxie",
             "description": "Raises Attack one stage upon KOing a Pokémon."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "3.6"
+            "value": "3.6 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         }
     ],

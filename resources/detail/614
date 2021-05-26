@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.6"
+            "value": "2.6 m"
         },
         {
             "name": "weight",
-            "value": "260.0"
+            "value": "260.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "snow-cloak",
+            "name": "Snow Cloak",
             "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
         },
         {
-            "name": "slush-rush",
+            "name": "Slush Rush",
             "description": "During Hail, this Pokémon has double Speed."
         },
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         }
     ],

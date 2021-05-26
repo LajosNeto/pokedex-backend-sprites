@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "19.2"
+            "value": "19.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "stench",
+            "name": "Stench",
             "description": "Has a 10% chance of making target Pokémon flinch with each hit."
         },
         {
-            "name": "aftermath",
+            "name": "Aftermath",
             "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         }
     ],

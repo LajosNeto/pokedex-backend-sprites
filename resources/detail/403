@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "9.5"
+            "value": "9.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "rivalry",
+            "name": "Rivalry",
             "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
         },
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "guts",
+            "name": "Guts",
             "description": "Increases Attack to 1.5× with a major status ailment."
         }
     ],

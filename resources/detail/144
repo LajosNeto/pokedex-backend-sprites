@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.7"
+            "value": "1.7 m"
         },
         {
             "name": "weight",
-            "value": "55.4"
+            "value": "55.4 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "snow-cloak",
+            "name": "Snow Cloak",
             "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
         }
     ],

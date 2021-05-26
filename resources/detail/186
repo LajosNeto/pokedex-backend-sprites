@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "33.9"
+            "value": "33.9 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "water-absorb",
+            "name": "Water Absorb",
             "description": "Absorbs water moves, healing for 1/4 max HP."
         },
         {
-            "name": "damp",
+            "name": "Damp",
             "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
         },
         {
-            "name": "drizzle",
+            "name": "Drizzle",
             "description": "Summons rain that lasts indefinitely upon entering battle."
         }
     ],

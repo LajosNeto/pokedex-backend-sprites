@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.5"
+            "value": "2.5 m"
         },
         {
             "name": "weight",
-            "value": "291.0"
+            "value": "291.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "oblivious",
+            "name": "Oblivious",
             "description": "Prevents infatuation and protects against captivate."
         },
         {
-            "name": "snow-cloak",
+            "name": "Snow Cloak",
             "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
         },
         {
-            "name": "thick-fat",
+            "name": "Thick Fat",
             "description": "Halves damage from fire and ice moves."
         }
     ],

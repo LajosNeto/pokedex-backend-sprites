@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "18.6"
+            "value": "18.6 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "chlorophyll",
+            "name": "Chlorophyll",
             "description": "Doubles Speed during strong sunlight."
         },
         {
-            "name": "effect-spore",
+            "name": "Effect Spore",
             "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
         }
     ],

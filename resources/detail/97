@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "75.6"
+            "value": "75.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         },
         {
-            "name": "forewarn",
+            "name": "Forewarn",
             "description": "Reveals the opponents' strongest move upon entering battle."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         }
     ],

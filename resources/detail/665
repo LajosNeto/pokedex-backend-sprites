@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "8.4"
+            "value": "8.4 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "shed-skin",
+            "name": "Shed Skin",
             "description": "Has a 33% chance of curing any major status ailment after each turn."
         },
         {
-            "name": "friend-guard",
+            "name": "Friend Guard",
             "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
         }
     ],

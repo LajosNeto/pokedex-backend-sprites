@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "11.8"
+            "value": "11.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "shed-skin",
+            "name": "Shed Skin",
             "description": "Has a 33% chance of curing any major status ailment after each turn."
         },
         {
-            "name": "moxie",
+            "name": "Moxie",
             "description": "Raises Attack one stage upon KOing a Pokémon."
         },
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         }
     ],

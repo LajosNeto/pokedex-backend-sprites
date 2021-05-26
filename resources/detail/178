@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "15.0"
+            "value": "15.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "synchronize",
+            "name": "Synchronize",
             "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
         },
         {
-            "name": "early-bird",
+            "name": "Early Bird",
             "description": "Makes sleep pass twice as quickly."
         },
         {
-            "name": "magic-bounce",
+            "name": "Magic Bounce",
             "description": "Reflects most non-damaging moves back at their user."
         }
     ],

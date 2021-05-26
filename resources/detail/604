@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.1"
+            "value": "2.1 m"
         },
         {
             "name": "weight",
-            "value": "80.5"
+            "value": "80.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "levitate",
+            "name": "Levitate",
             "description": "Evades ground moves."
         }
     ],

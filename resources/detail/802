@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "22.2"
+            "value": "22.2 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "technician",
+            "name": "Technician",
             "description": "Strengthens moves of 60 base power or less to 1.5× their power."
         }
     ],

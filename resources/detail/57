@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "32.0"
+            "value": "32.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "vital-spirit",
+            "name": "Vital Spirit",
             "description": "Prevents sleep."
         },
         {
-            "name": "anger-point",
+            "name": "Anger Point",
             "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

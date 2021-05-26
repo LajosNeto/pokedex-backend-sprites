@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "11.2"
+            "value": "11.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pure-power",
+            "name": "Pure Power",
             "description": "Doubles Attack in battle."
         },
         {
-            "name": "telepathy",
+            "name": "Telepathy",
             "description": "Protects against friendly Pokémon's damaging moves."
         }
     ],

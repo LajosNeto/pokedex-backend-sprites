@@ -159,7 +159,7 @@ def extract_abilities(pokemon_data):
         for entry in ability_data['effect_entries']:
             if (entry['language']['name'] == "en"):
                 ability_description = entry['short_effect']
-        ability_detail['name'] = ability['ability']['name']
+        ability_detail['name'] = ability['ability']['name'].replace("-"," ").title()
         ability_detail['description'] = ability_description
 
         abilities.append(ability_detail)
@@ -180,11 +180,11 @@ def extract_attributes(pokemon_data, species_data):
     attributes = [
         {
             'name': "height",
-            'value': str(float(pokemon_data['height'])/10)
+            'value': str(float(pokemon_data['height'])/10) + " m"
         },
         {
             'name': "weight",
-            'value': str(float(pokemon_data['weight'])/10)
+            'value': str(float(pokemon_data['weight'])/10) + " kg"
         },
         {
             'name': "base exp",

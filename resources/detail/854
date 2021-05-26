@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.1"
+            "value": "0.1 m"
         },
         {
             "name": "weight",
-            "value": "0.2"
+            "value": "0.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "weak-armor",
+            "name": "Weak Armor",
             "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
         },
         {
-            "name": "cursed-body",
+            "name": "Cursed Body",
             "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
         }
     ],

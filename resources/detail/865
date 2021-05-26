@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "117.0"
+            "value": "117.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         },
         {
-            "name": "scrappy",
+            "name": "Scrappy",
             "description": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "34.5"
+            "value": "34.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "illuminate",
+            "name": "Illuminate",
             "description": "Doubles the wild encounter rate."
         },
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "analytic",
+            "name": "Analytic",
             "description": "Strengthens moves to 1.3× their power when moving last."
         }
     ],

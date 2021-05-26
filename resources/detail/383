@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.5"
+            "value": "3.5 m"
         },
         {
             "name": "weight",
-            "value": "950.0"
+            "value": "950.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "drought",
+            "name": "Drought",
             "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
         }
     ],

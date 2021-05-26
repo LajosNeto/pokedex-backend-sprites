@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "8.0"
+            "value": "8.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         },
         {
-            "name": "magic-guard",
+            "name": "Magic Guard",
             "description": "Protects against damage not directly caused by a move."
         },
         {
-            "name": "regenerator",
+            "name": "Regenerator",
             "description": "Heals for 1/3 max HP upon switching out."
         }
     ],

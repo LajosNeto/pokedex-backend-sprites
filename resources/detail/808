@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "8.0"
+            "value": "8.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "magnet-pull",
+            "name": "Magnet Pull",
             "description": "Prevents steel opponents from fleeing or switching out."
         }
     ],

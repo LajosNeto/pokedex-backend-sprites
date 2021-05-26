@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "9.2"
+            "value": "9.2 m"
         },
         {
             "name": "weight",
-            "value": "400.0"
+            "value": "400.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "rock-head",
+            "name": "Rock Head",
             "description": "Protects against recoil damage."
         },
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         },
         {
-            "name": "sheer-force",
+            "name": "Sheer Force",
             "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "7.0"
+            "value": "7.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "torrent",
+            "name": "Torrent",
             "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
         },
         {
-            "name": "protean",
+            "name": "Protean",
             "description": "Changes the bearer's type to match each move it uses."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.2"
+            "value": "2.2 m"
         },
         {
             "name": "weight",
-            "value": "310.0"
+            "value": "310.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "overgrow",
+            "name": "Overgrow",
             "description": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         }
     ],

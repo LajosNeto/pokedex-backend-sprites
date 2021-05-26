@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "64.8"
+            "value": "64.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hyper-cutter",
+            "name": "Hyper Cutter",
             "description": "Prevents Attack from being lowered by other Pokémon."
         },
         {
-            "name": "sand-veil",
+            "name": "Sand Veil",
             "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
         },
         {
-            "name": "immunity",
+            "name": "Immunity",
             "description": "Prevents poison."
         }
     ],

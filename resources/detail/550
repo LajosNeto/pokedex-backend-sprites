@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "18.0"
+            "value": "18.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "reckless",
+            "name": "Reckless",
             "description": "Strengthens recoil moves to 1.2× their power."
         },
         {
-            "name": "adaptability",
+            "name": "Adaptability",
             "description": "Increases the same-type attack bonus from 1.5× to 2×."
         },
         {
-            "name": "mold-breaker",
+            "name": "Mold Breaker",
             "description": "Bypasses targets' abilities if they could hinder or prevent a move."
         }
     ],

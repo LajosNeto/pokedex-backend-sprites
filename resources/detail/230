@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "152.0"
+            "value": "152.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         },
         {
-            "name": "sniper",
+            "name": "Sniper",
             "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
         },
         {
-            "name": "damp",
+            "name": "Damp",
             "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "32.0"
+            "value": "32.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "compound-eyes",
+            "name": "Compound Eyes",
             "description": "Increases moves' accuracy to 1.3×."
         },
         {
-            "name": "tinted-lens",
+            "name": "Tinted Lens",
             "description": "Doubles damage inflicted with not-very-effective moves."
         }
     ],

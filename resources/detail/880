@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "190.0"
+            "value": "190.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "volt-absorb",
+            "name": "Volt Absorb",
             "description": "Absorbs electric moves, healing for 1/4 max HP."
         },
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "sand-rush",
+            "name": "Sand Rush",
             "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
         }
     ],

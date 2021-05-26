@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "39.5"
+            "value": "39.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "big-pecks",
+            "name": "Big Pecks",
             "description": "Protects against Defense drops."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         },
         {
-            "name": "weak-armor",
+            "name": "Weak Armor",
             "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
         }
     ],

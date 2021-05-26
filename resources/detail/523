@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "79.5"
+            "value": "79.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "lightning-rod",
+            "name": "Lightning Rod",
             "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
         },
         {
-            "name": "motor-drive",
+            "name": "Motor Drive",
             "description": "Absorbs electric moves, raising Speed one stage."
         },
         {
-            "name": "sap-sipper",
+            "name": "Sap Sipper",
             "description": "Absorbs grass moves, raising Attack one stage."
         }
     ],

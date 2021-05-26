@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.0"
+            "value": "2.0 m"
         },
         {
             "name": "weight",
-            "value": "150.5"
+            "value": "150.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "sap-sipper",
+            "name": "Sap Sipper",
             "description": "Absorbs grass moves, raising Attack one stage."
         },
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         },
         {
-            "name": "gooey",
+            "name": "Gooey",
             "description": "Lowers attacking Pokémon's Speed by one stage on contact."
         }
     ],

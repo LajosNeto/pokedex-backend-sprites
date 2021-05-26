@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.7"
+            "value": "1.7 m"
         },
         {
             "name": "weight",
-            "value": "195.0"
+            "value": "195.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "water-absorb",
+            "name": "Water Absorb",
             "description": "Absorbs water moves, healing for 1/4 max HP."
         }
     ],

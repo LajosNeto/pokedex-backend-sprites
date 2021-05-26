@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "13.0"
+            "value": "13.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "ripen",
+            "name": "Ripen",
             "description": ""
         },
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         },
         {
-            "name": "thick-fat",
+            "name": "Thick Fat",
             "description": "Halves damage from fire and ice moves."
         }
     ],

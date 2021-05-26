@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "35.0"
+            "value": "35.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "weak-armor",
+            "name": "Weak Armor",
             "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
         }
     ],

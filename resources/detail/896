@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.2"
+            "value": "2.2 m"
         },
         {
             "name": "weight",
-            "value": "800.0"
+            "value": "800.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "chilling-neigh",
+            "name": "Chilling Neigh",
             "description": ""
         }
     ],

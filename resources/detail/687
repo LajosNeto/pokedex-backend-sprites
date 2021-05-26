@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "47.0"
+            "value": "47.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "contrary",
+            "name": "Contrary",
             "description": "Inverts stat changes."
         },
         {
-            "name": "suction-cups",
+            "name": "Suction Cups",
             "description": "Prevents being forced out of battle by other Pokémon's moves."
         },
         {
-            "name": "infiltrator",
+            "name": "Infiltrator",
             "description": "Bypasses light screen, reflect, and safeguard."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "70.0"
+            "value": "70.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "leaf-guard",
+            "name": "Leaf Guard",
             "description": "Protects against major status ailments during strong sunlight."
         }
     ],

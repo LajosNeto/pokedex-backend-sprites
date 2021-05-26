@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "45.5"
+            "value": "45.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "grassy-surge",
+            "name": "Grassy Surge",
             "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
         },
         {
-            "name": "telepathy",
+            "name": "Telepathy",
             "description": "Protects against friendly Pokémon's damaging moves."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "3.2"
+            "value": "3.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "serene-grace",
+            "name": "Serene Grace",
             "description": "Doubles the chance of moves' extra effects occurring."
         },
         {
-            "name": "super-luck",
+            "name": "Super Luck",
             "description": "Raises moves' critical hit rates one stage."
         }
     ],

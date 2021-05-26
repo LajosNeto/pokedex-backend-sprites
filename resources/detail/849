@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "40.0"
+            "value": "40.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "punk-rock",
+            "name": "Punk Rock",
             "description": ""
         },
         {
-            "name": "plus",
+            "name": "Plus",
             "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
         },
         {
-            "name": "technician",
+            "name": "Technician",
             "description": "Strengthens moves of 60 base power or less to 1.5× their power."
         }
     ],

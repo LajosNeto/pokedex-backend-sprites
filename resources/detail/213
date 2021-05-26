@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "20.5"
+            "value": "20.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         },
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         },
         {
-            "name": "contrary",
+            "name": "Contrary",
             "description": "Inverts stat changes."
         }
     ],

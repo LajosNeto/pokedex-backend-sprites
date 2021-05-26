@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "11.6"
+            "value": "11.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "analytic",
+            "name": "Analytic",
             "description": "Strengthens moves to 1.3× their power when moving last."
         }
     ],

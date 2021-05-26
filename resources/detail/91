@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "132.5"
+            "value": "132.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "skill-link",
+            "name": "Skill Link",
             "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         }
     ],

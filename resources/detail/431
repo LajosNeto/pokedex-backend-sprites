@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "3.9"
+            "value": "3.9 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         },
         {
-            "name": "own-tempo",
+            "name": "Own Tempo",
             "description": "Prevents confusion."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         }
     ],

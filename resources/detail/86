@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "90.0"
+            "value": "90.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "thick-fat",
+            "name": "Thick Fat",
             "description": "Halves damage from fire and ice moves."
         },
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         },
         {
-            "name": "ice-body",
+            "name": "Ice Body",
             "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
         }
     ],

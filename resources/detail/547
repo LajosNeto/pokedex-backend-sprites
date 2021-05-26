@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "6.6"
+            "value": "6.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         },
         {
-            "name": "infiltrator",
+            "name": "Infiltrator",
             "description": "Bypasses light screen, reflect, and safeguard."
         },
         {
-            "name": "chlorophyll",
+            "name": "Chlorophyll",
             "description": "Doubles Speed during strong sunlight."
         }
     ],

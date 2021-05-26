@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "1.2"
+            "value": "1.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "cloud-nine",
+            "name": "Cloud Nine",
             "description": "Negates all effects of weather, but does not prevent the weather itself."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "9.5"
+            "value": "9.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "defeatist",
+            "name": "Defeatist",
             "description": "Halves Attack and Special Attack at 50% max HP or less."
         }
     ],

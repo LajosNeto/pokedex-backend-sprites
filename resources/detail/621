@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "139.0"
+            "value": "139.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "rough-skin",
+            "name": "Rough Skin",
             "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
         },
         {
-            "name": "sheer-force",
+            "name": "Sheer Force",
             "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
         },
         {
-            "name": "mold-breaker",
+            "name": "Mold Breaker",
             "description": "Bypasses targets' abilities if they could hinder or prevent a move."
         }
     ],

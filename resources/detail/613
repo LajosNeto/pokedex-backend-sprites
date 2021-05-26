@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "8.5"
+            "value": "8.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "snow-cloak",
+            "name": "Snow Cloak",
             "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
         },
         {
-            "name": "slush-rush",
+            "name": "Slush Rush",
             "description": "During Hail, this Pokémon has double Speed."
         },
         {
-            "name": "rattled",
+            "name": "Rattled",
             "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
         }
     ],

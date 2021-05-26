@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "80.4"
+            "value": "80.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "white-smoke",
+            "name": "White Smoke",
             "description": "Prevents stats from being lowered by other Pokémon."
         },
         {
-            "name": "drought",
+            "name": "Drought",
             "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         }
     ],

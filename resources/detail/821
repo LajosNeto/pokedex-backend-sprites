@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "1.8"
+            "value": "1.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         },
         {
-            "name": "big-pecks",
+            "name": "Big Pecks",
             "description": "Protects against Defense drops."
         }
     ],

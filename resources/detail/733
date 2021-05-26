@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "26.0"
+            "value": "26.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "skill-link",
+            "name": "Skill Link",
             "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
         },
         {
-            "name": "sheer-force",
+            "name": "Sheer Force",
             "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
         }
     ],

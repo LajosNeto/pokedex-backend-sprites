@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "1.1"
+            "value": "1.1 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "serene-grace",
+            "name": "Serene Grace",
             "description": "Doubles the chance of moves' extra effects occurring."
         }
     ],

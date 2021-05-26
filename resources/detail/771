@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "1.2"
+            "value": "1.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "innards-out",
+            "name": "Innards Out",
             "description": "When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining."
         },
         {
-            "name": "unaware",
+            "name": "Unaware",
             "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
         }
     ],

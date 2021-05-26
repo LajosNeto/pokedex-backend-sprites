@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "81.5"
+            "value": "81.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "rivalry",
+            "name": "Rivalry",
             "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         },
         {
-            "name": "moxie",
+            "name": "Moxie",
             "description": "Raises Attack one stage upon KOing a Pokémon."
         }
     ],

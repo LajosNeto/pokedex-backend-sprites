@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "14.5"
+            "value": "14.5 m"
         },
         {
             "name": "weight",
-            "value": "398.0"
+            "value": "398.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "water-veil",
+            "name": "Water Veil",
             "description": "Prevents burns."
         },
         {
-            "name": "oblivious",
+            "name": "Oblivious",
             "description": "Prevents infatuation and protects against captivate."
         },
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         }
     ],

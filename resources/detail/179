@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "7.8"
+            "value": "7.8 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "static",
+            "name": "Static",
             "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
         },
         {
-            "name": "plus",
+            "name": "Plus",
             "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
         }
     ],

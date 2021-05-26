@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "19.6"
+            "value": "19.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "damp",
+            "name": "Damp",
             "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
         },
         {
-            "name": "cloud-nine",
+            "name": "Cloud Nine",
             "description": "Negates all effects of weather, but does not prevent the weather itself."
         },
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         }
     ],

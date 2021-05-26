@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "96.3"
+            "value": "96.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "moxie",
+            "name": "Moxie",
             "description": "Raises Attack one stage upon KOing a Pokémon."
         },
         {
-            "name": "anger-point",
+            "name": "Anger Point",
             "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
         }
     ],

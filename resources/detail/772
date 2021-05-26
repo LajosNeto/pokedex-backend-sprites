@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "120.5"
+            "value": "120.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "battle-armor",
+            "name": "Battle Armor",
             "description": "Protects against critical hits."
         }
     ],

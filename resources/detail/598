@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "110.0"
+            "value": "110.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "iron-barbs",
+            "name": "Iron Barbs",
             "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
         },
         {
-            "name": "anticipation",
+            "name": "Anticipation",
             "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
         }
     ],

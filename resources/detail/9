@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "85.5"
+            "value": "85.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "torrent",
+            "name": "Torrent",
             "description": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
         },
         {
-            "name": "rain-dish",
+            "name": "Rain Dish",
             "description": "Heals for 1/16 max HP after each turn during rain."
         }
     ],

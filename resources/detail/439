@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "13.0"
+            "value": "13.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "soundproof",
+            "name": "Soundproof",
             "description": "Protects against sound-based moves."
         },
         {
-            "name": "filter",
+            "name": "Filter",
             "description": "Decreases damage taken from super-effective moves by 1/4."
         },
         {
-            "name": "technician",
+            "name": "Technician",
             "description": "Strengthens moves of 60 base power or less to 1.5× their power."
         }
     ],

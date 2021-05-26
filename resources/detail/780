@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.0"
+            "value": "3.0 m"
         },
         {
             "name": "weight",
-            "value": "185.0"
+            "value": "185.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "berserk",
+            "name": "Berserk",
             "description": "Raises this Pokémon's Special Attack by one stage every time its HP drops below half."
         },
         {
-            "name": "sap-sipper",
+            "name": "Sap Sipper",
             "description": "Absorbs grass moves, raising Attack one stage."
         },
         {
-            "name": "cloud-nine",
+            "name": "Cloud Nine",
             "description": "Negates all effects of weather, but does not prevent the weather itself."
         }
     ],

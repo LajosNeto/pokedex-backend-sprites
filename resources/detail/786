@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "18.6"
+            "value": "18.6 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "psychic-surge",
+            "name": "Psychic Surge",
             "description": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
         },
         {
-            "name": "telepathy",
+            "name": "Telepathy",
             "description": "Protects against friendly Pokémon's damaging moves."
         }
     ],

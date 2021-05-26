@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.0"
+            "value": "3.0 m"
         },
         {
             "name": "weight",
-            "value": "62.0"
+            "value": "62.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "battle-armor",
+            "name": "Battle Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

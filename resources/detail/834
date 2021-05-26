@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "115.5"
+            "value": "115.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "strong-jaw",
+            "name": "Strong Jaw",
             "description": "Strengthens biting moves to 1.5× their power."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         }
     ],

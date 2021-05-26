@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "5.0"
+            "value": "5.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "regenerator",
+            "name": "Regenerator",
             "description": "Heals for 1/3 max HP upon switching out."
         }
     ],

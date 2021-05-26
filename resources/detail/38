@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "19.9"
+            "value": "19.9 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "flash-fire",
+            "name": "Flash Fire",
             "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
         },
         {
-            "name": "drought",
+            "name": "Drought",
             "description": "Summons strong sunlight that lasts indefinitely upon entering battle."
         }
     ],

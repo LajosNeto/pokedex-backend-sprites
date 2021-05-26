@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "32.5"
+            "value": "32.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         }
     ],

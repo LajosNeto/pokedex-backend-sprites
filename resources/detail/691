@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "81.5"
+            "value": "81.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "poison-point",
+            "name": "Poison Point",
             "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
         },
         {
-            "name": "poison-touch",
+            "name": "Poison Touch",
             "description": "Has a 30% chance of poisoning target Pokémon upon contact."
         },
         {
-            "name": "adaptability",
+            "name": "Adaptability",
             "description": "Increases the same-type attack bonus from 1.5× to 2×."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.7"
+            "value": "3.7 m"
         },
         {
             "name": "weight",
-            "value": "420.0"
+            "value": "420.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "slow-start",
+            "name": "Slow Start",
             "description": "Halves Attack and Speed for five turns upon entering battle."
         }
     ],

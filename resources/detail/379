@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "205.0"
+            "value": "205.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "clear-body",
+            "name": "Clear Body",
             "description": "Prevents stats from being lowered by other Pokémon."
         },
         {
-            "name": "light-metal",
+            "name": "Light Metal",
             "description": "Halves the Pokémon's weight."
         }
     ],

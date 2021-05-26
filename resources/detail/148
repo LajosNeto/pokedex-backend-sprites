@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "4.0"
+            "value": "4.0 m"
         },
         {
             "name": "weight",
-            "value": "16.5"
+            "value": "16.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "shed-skin",
+            "name": "Shed Skin",
             "description": "Has a 33% chance of curing any major status ailment after each turn."
         },
         {
-            "name": "marvel-scale",
+            "name": "Marvel Scale",
             "description": "Increases Defense to 1.5× with a major status ailment."
         }
     ],

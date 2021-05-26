@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "1.2"
+            "value": "1.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "skill-link",
+            "name": "Skill Link",
             "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
         },
         {
-            "name": "pickup",
+            "name": "Pickup",
             "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
         }
     ],

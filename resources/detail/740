@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.7"
+            "value": "1.7 m"
         },
         {
             "name": "weight",
-            "value": "180.0"
+            "value": "180.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hyper-cutter",
+            "name": "Hyper Cutter",
             "description": "Prevents Attack from being lowered by other Pokémon."
         },
         {
-            "name": "iron-fist",
+            "name": "Iron Fist",
             "description": "Strengthens punch-based moves to 1.2× their power."
         },
         {
-            "name": "anger-point",
+            "name": "Anger Point",
             "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
         }
     ],

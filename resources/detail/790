@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.1"
+            "value": "0.1 m"
         },
         {
             "name": "weight",
-            "value": "999.9"
+            "value": "999.9 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         }
     ],

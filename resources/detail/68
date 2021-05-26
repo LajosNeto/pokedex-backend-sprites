@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "130.0"
+            "value": "130.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "guts",
+            "name": "Guts",
             "description": "Increases Attack to 1.5× with a major status ailment."
         },
         {
-            "name": "no-guard",
+            "name": "No Guard",
             "description": "Ensures all moves used by and against the Pokémon hit."
         },
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         }
     ],

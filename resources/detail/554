@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "37.5"
+            "value": "37.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         }
     ],

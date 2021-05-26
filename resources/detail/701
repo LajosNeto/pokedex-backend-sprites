@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "21.5"
+            "value": "21.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         },
         {
-            "name": "unburden",
+            "name": "Unburden",
             "description": "Doubles Speed upon using or losing a held item."
         },
         {
-            "name": "mold-breaker",
+            "name": "Mold Breaker",
             "description": "Bypasses targets' abilities if they could hinder or prevent a move."
         }
     ],

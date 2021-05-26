@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.4"
+            "value": "1.4 m"
         },
         {
             "name": "weight",
-            "value": "88.4"
+            "value": "88.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "anger-point",
+            "name": "Anger Point",
             "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
         },
         {
-            "name": "sheer-force",
+            "name": "Sheer Force",
             "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
         }
     ],

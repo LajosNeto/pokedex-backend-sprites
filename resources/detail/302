@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "11.0"
+            "value": "11.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "stall",
+            "name": "Stall",
             "description": "Makes the Pokémon move last within its move's priority bracket."
         },
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         }
     ],

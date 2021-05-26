@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "47.0"
+            "value": "47.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "super-luck",
+            "name": "Super Luck",
             "description": "Raises moves' critical hit rates one stage."
         },
         {
-            "name": "justified",
+            "name": "Justified",
             "description": "Raises Attack one stage upon taking damage from a dark move."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "6.8"
+            "value": "6.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "fluffy",
+            "name": "Fluffy",
             "description": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "105.0"
+            "value": "105.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "unseen-fist",
+            "name": "Unseen Fist",
             "description": ""
         }
     ],

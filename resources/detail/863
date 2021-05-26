@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "28.0"
+            "value": "28.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "battle-armor",
+            "name": "Battle Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "tough-claws",
+            "name": "Tough Claws",
             "description": "Strengthens moves that make contact to 1.33× their power."
         },
         {
-            "name": "steely-spirit",
+            "name": "Steely Spirit",
             "description": ""
         }
     ],

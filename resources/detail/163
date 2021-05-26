@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "21.2"
+            "value": "21.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "tinted-lens",
+            "name": "Tinted Lens",
             "description": "Doubles damage inflicted with not-very-effective moves."
         }
     ],

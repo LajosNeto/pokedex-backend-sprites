@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "17.7"
+            "value": "17.7 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "oblivious",
+            "name": "Oblivious",
             "description": "Prevents infatuation and protects against captivate."
         },
         {
-            "name": "tinted-lens",
+            "name": "Tinted Lens",
             "description": "Doubles damage inflicted with not-very-effective moves."
         },
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "99.5"
+            "value": "99.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "own-tempo",
+            "name": "Own Tempo",
             "description": "Prevents confusion."
         },
         {
-            "name": "ice-body",
+            "name": "Ice Body",
             "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
         },
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         }
     ],

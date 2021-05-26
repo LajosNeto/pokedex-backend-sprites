@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "7.3"
+            "value": "7.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "leaf-guard",
+            "name": "Leaf Guard",
             "description": "Protects against major status ailments during strong sunlight."
         },
         {
-            "name": "chlorophyll",
+            "name": "Chlorophyll",
             "description": "Doubles Speed during strong sunlight."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "27.3"
+            "value": "27.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         },
         {
-            "name": "super-luck",
+            "name": "Super Luck",
             "description": "Raises moves' critical hit rates one stage."
         },
         {
-            "name": "moxie",
+            "name": "Moxie",
             "description": "Raises Attack one stage upon KOing a Pokémon."
         }
     ],

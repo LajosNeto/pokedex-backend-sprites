@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "31.6"
+            "value": "31.6 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "shield-dust",
+            "name": "Shield Dust",
             "description": "Protects against incoming moves' extra effects."
         },
         {
-            "name": "compound-eyes",
+            "name": "Compound Eyes",
             "description": "Increases moves' accuracy to 1.3×."
         }
     ],

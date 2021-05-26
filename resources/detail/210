@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.4"
+            "value": "1.4 m"
         },
         {
             "name": "weight",
-            "value": "48.7"
+            "value": "48.7 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "quick-feet",
+            "name": "Quick Feet",
             "description": "Increases Speed to 1.5× with a major status ailment."
         },
         {
-            "name": "rattled",
+            "name": "Rattled",
             "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
         }
     ],

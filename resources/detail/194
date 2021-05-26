@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "8.5"
+            "value": "8.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "damp",
+            "name": "Damp",
             "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
         },
         {
-            "name": "water-absorb",
+            "name": "Water Absorb",
             "description": "Absorbs water moves, healing for 1/4 max HP."
         },
         {
-            "name": "unaware",
+            "name": "Unaware",
             "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
         }
     ],

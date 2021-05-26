@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "50.5"
+            "value": "50.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "bad-dreams",
+            "name": "Bad Dreams",
             "description": "Damages sleeping opponents for 1/8 their max HP after each turn."
         }
     ],

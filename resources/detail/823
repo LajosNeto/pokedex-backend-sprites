@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.2"
+            "value": "2.2 m"
         },
         {
             "name": "weight",
-            "value": "75.0"
+            "value": "75.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         },
         {
-            "name": "mirror-armor",
+            "name": "Mirror Armor",
             "description": ""
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "256.5"
+            "value": "256.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "ice-body",
+            "name": "Ice Body",
             "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
         },
         {
-            "name": "moody",
+            "name": "Moody",
             "description": "Raises a random stat two stages and lowers another one stage after each turn."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.1"
+            "value": "2.1 m"
         },
         {
             "name": "weight",
-            "value": "135.0"
+            "value": "135.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "fluffy",
+            "name": "Fluffy",
             "description": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         }
     ],

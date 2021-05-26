@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "1.2"
+            "value": "1.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "poison-point",
+            "name": "Poison Point",
             "description": "Has a 30% chance of poisoning attacking Pokémon on contact."
         },
         {
-            "name": "leaf-guard",
+            "name": "Leaf Guard",
             "description": "Protects against major status ailments during strong sunlight."
         }
     ],

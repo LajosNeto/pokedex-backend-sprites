@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "7.5"
+            "value": "7.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         },
         {
-            "name": "technician",
+            "name": "Technician",
             "description": "Strengthens moves of 60 base power or less to 1.5× their power."
         },
         {
-            "name": "skill-link",
+            "name": "Skill Link",
             "description": "Extends two-to-five-hit moves and triple kick to their full length every time."
         }
     ],

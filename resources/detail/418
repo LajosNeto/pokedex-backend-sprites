@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "29.5"
+            "value": "29.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         },
         {
-            "name": "water-veil",
+            "name": "Water Veil",
             "description": "Prevents burns."
         }
     ],

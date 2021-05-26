@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "6.0"
+            "value": "6.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "magnet-pull",
+            "name": "Magnet Pull",
             "description": "Prevents steel opponents from fleeing or switching out."
         },
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         },
         {
-            "name": "analytic",
+            "name": "Analytic",
             "description": "Strengthens moves to 1.3× their power when moving last."
         }
     ],

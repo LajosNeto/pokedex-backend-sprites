@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "33.5"
+            "value": "33.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pickup",
+            "name": "Pickup",
             "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
         },
         {
-            "name": "sand-veil",
+            "name": "Sand Veil",
             "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
         }
     ],

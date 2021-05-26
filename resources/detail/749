@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "110.0"
+            "value": "110.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "own-tempo",
+            "name": "Own Tempo",
             "description": "Prevents confusion."
         },
         {
-            "name": "stamina",
+            "name": "Stamina",
             "description": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         }
     ],

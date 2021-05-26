@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "220.0"
+            "value": "220.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "magma-armor",
+            "name": "Magma Armor",
             "description": "Prevents freezing."
         },
         {
-            "name": "solid-rock",
+            "name": "Solid Rock",
             "description": "Decreases damage taken from super-effective moves by 1/4."
         },
         {
-            "name": "anger-point",
+            "name": "Anger Point",
             "description": "Raises Attack to the maximum of six stages upon receiving a critical hit."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "24.4"
+            "value": "24.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "serene-grace",
+            "name": "Serene Grace",
             "description": "Doubles the chance of moves' extra effects occurring."
         },
         {
-            "name": "friend-guard",
+            "name": "Friend Guard",
             "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
         }
     ],

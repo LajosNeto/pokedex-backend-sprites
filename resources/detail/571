@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "81.1"
+            "value": "81.1 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "illusion",
+            "name": "Illusion",
             "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
         }
     ],

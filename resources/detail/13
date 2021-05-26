@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "3.2"
+            "value": "3.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "shield-dust",
+            "name": "Shield Dust",
             "description": "Protects against incoming moves' extra effects."
         },
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         }
     ],

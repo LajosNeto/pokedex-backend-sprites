@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "2.3"
+            "value": "2.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         },
         {
-            "name": "cursed-body",
+            "name": "Cursed Body",
             "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
         }
     ],

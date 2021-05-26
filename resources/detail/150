@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.0"
+            "value": "2.0 m"
         },
         {
             "name": "weight",
-            "value": "122.0"
+            "value": "122.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "unnerve",
+            "name": "Unnerve",
             "description": "Prevents opposing Pokémon from eating held Berries."
         }
     ],

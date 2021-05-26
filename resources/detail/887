@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.0"
+            "value": "3.0 m"
         },
         {
             "name": "weight",
-            "value": "50.0"
+            "value": "50.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "clear-body",
+            "name": "Clear Body",
             "description": "Prevents stats from being lowered by other Pokémon."
         },
         {
-            "name": "infiltrator",
+            "name": "Infiltrator",
             "description": "Bypasses light screen, reflect, and safeguard."
         },
         {
-            "name": "cursed-body",
+            "name": "Cursed Body",
             "description": "Has a 30% chance of Disabling any move that hits the Pokémon."
         }
     ],

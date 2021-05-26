@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "76.0"
+            "value": "76.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "telepathy",
+            "name": "Telepathy",
             "description": "Protects against friendly Pokémon's damaging moves."
         },
         {
-            "name": "symbiosis",
+            "name": "Symbiosis",
             "description": "Passes the bearer's held item to an ally when the ally uses up its item."
         }
     ],

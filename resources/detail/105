@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "45.0"
+            "value": "45.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "rock-head",
+            "name": "Rock Head",
             "description": "Protects against recoil damage."
         },
         {
-            "name": "lightning-rod",
+            "name": "Lightning Rod",
             "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
         },
         {
-            "name": "battle-armor",
+            "name": "Battle Armor",
             "description": "Protects against critical hits."
         }
     ],

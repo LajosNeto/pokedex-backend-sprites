@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "12.5"
+            "value": "12.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "shield-dust",
+            "name": "Shield Dust",
             "description": "Protects against incoming moves' extra effects."
         },
         {
-            "name": "tinted-lens",
+            "name": "Tinted Lens",
             "description": "Doubles damage inflicted with not-very-effective moves."
         },
         {
-            "name": "wonder-skin",
+            "name": "Wonder Skin",
             "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
         }
     ],

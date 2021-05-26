@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "1.5"
+            "value": "1.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "illuminate",
+            "name": "Illuminate",
             "description": "Doubles the wild encounter rate."
         },
         {
-            "name": "effect-spore",
+            "name": "Effect Spore",
             "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
         },
         {
-            "name": "rain-dish",
+            "name": "Rain Dish",
             "description": "Heals for 1/16 max HP after each turn during rain."
         }
     ],

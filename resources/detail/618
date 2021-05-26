@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "11.0"
+            "value": "11.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "static",
+            "name": "Static",
             "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
         },
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         },
         {
-            "name": "sand-veil",
+            "name": "Sand Veil",
             "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
         }
     ],

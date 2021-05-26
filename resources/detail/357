@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.0"
+            "value": "2.0 m"
         },
         {
             "name": "weight",
-            "value": "100.0"
+            "value": "100.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "chlorophyll",
+            "name": "Chlorophyll",
             "description": "Doubles Speed during strong sunlight."
         },
         {
-            "name": "solar-power",
+            "name": "Solar Power",
             "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
         },
         {
-            "name": "harvest",
+            "name": "Harvest",
             "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
         }
     ],

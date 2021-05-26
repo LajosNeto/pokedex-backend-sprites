@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "10.3"
+            "value": "10.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "liquid-ooze",
+            "name": "Liquid Ooze",
             "description": "Damages opponents using leeching moves for as much as they would heal."
         },
         {
-            "name": "sticky-hold",
+            "name": "Sticky Hold",
             "description": "Prevents a held item from being removed by other Pokémon."
         },
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         }
     ],

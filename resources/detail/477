@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.2"
+            "value": "2.2 m"
         },
         {
             "name": "weight",
-            "value": "106.6"
+            "value": "106.6 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         }
     ],

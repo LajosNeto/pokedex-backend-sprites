@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.4"
+            "value": "2.4 m"
         },
         {
             "name": "weight",
-            "value": "282.8"
+            "value": "282.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "lightning-rod",
+            "name": "Lightning Rod",
             "description": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
         },
         {
-            "name": "solid-rock",
+            "name": "Solid Rock",
             "description": "Decreases damage taken from super-effective moves by 1/4."
         },
         {
-            "name": "reckless",
+            "name": "Reckless",
             "description": "Strengthens recoil moves to 1.2× their power."
         }
     ],

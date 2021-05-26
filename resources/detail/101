@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "66.6"
+            "value": "66.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "soundproof",
+            "name": "Soundproof",
             "description": "Protects against sound-based moves."
         },
         {
-            "name": "static",
+            "name": "Static",
             "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
         },
         {
-            "name": "aftermath",
+            "name": "Aftermath",
             "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
         }
     ],

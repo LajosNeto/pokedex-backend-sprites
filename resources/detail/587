@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "5.0"
+            "value": "5.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "static",
+            "name": "Static",
             "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
         },
         {
-            "name": "motor-drive",
+            "name": "Motor Drive",
             "description": "Absorbs electric moves, raising Speed one stage."
         }
     ],

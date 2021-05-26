@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "71.0"
+            "value": "71.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         },
         {
-            "name": "harvest",
+            "name": "Harvest",
             "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
         }
     ],

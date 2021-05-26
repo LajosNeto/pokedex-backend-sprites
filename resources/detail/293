@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "16.3"
+            "value": "16.3 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "soundproof",
+            "name": "Soundproof",
             "description": "Protects against sound-based moves."
         },
         {
-            "name": "rattled",
+            "name": "Rattled",
             "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
         }
     ],

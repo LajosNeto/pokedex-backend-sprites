@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "39.0"
+            "value": "39.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         },
         {
-            "name": "technician",
+            "name": "Technician",
             "description": "Strengthens moves of 60 base power or less to 1.5× their power."
         }
     ],

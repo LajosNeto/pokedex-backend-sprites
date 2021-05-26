@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "4.5"
+            "value": "4.5 m"
         },
         {
             "name": "weight",
-            "value": "352.0"
+            "value": "352.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "drizzle",
+            "name": "Drizzle",
             "description": "Summons rain that lasts indefinitely upon entering battle."
         }
     ],

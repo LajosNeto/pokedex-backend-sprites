@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "27.0"
+            "value": "27.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "illuminate",
+            "name": "Illuminate",
             "description": "Doubles the wild encounter rate."
         },
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "analytic",
+            "name": "Analytic",
             "description": "Strengthens moves to 1.3× their power when moving last."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.1"
+            "value": "2.1 m"
         },
         {
             "name": "weight",
-            "value": "220.0"
+            "value": "220.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         },
         {
-            "name": "water-absorb",
+            "name": "Water Absorb",
             "description": "Absorbs water moves, healing for 1/4 max HP."
         },
         {
-            "name": "water-veil",
+            "name": "Water Veil",
             "description": "Prevents burns."
         }
     ],

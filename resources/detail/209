@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "7.8"
+            "value": "7.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "intimidate",
+            "name": "Intimidate",
             "description": "Lowers opponents' Attack one stage upon entering battle."
         },
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "rattled",
+            "name": "Rattled",
             "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
         }
     ],

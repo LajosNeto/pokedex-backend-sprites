@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "12.0"
+            "value": "12.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "wimp-out",
+            "name": "Wimp Out",
             "description": "This Pokémon automatically switches out when its HP drops below half."
         }
     ],

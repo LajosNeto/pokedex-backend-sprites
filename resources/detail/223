@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "12.0"
+            "value": "12.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "sniper",
+            "name": "Sniper",
             "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
         },
         {
-            "name": "moody",
+            "name": "Moody",
             "description": "Raises a random stat two stages and lowers another one stage after each turn."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "32.5"
+            "value": "32.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "trace",
+            "name": "Trace",
             "description": "Copies an opponent's ability upon entering battle."
         },
         {
-            "name": "download",
+            "name": "Download",
             "description": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
         },
         {
-            "name": "analytic",
+            "name": "Analytic",
             "description": "Strengthens moves to 1.3× their power when moving last."
         }
     ],

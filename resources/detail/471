@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "25.9"
+            "value": "25.9 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "snow-cloak",
+            "name": "Snow Cloak",
             "description": "Increases evasion to 1.25× during hail.  Protects against hail damage."
         },
         {
-            "name": "ice-body",
+            "name": "Ice Body",
             "description": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
         }
     ],

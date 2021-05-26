@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "41.0"
+            "value": "41.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "sheer-force",
+            "name": "Sheer Force",
             "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

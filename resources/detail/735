@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "14.2"
+            "value": "14.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "stakeout",
+            "name": "Stakeout",
             "description": "This Pokémon's moves have double power against Pokémon that switched in this turn."
         },
         {
-            "name": "strong-jaw",
+            "name": "Strong Jaw",
             "description": "Strengthens biting moves to 1.5× their power."
         },
         {
-            "name": "adaptability",
+            "name": "Adaptability",
             "description": "Increases the same-type attack bonus from 1.5× to 2×."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "40.4"
+            "value": "40.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "sand-rush",
+            "name": "Sand Rush",
             "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
         },
         {
-            "name": "sand-force",
+            "name": "Sand Force",
             "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
         },
         {
-            "name": "mold-breaker",
+            "name": "Mold Breaker",
             "description": "Bypasses targets' abilities if they could hinder or prevent a move."
         }
     ],

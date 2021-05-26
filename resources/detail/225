@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "16.0"
+            "value": "16.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "vital-spirit",
+            "name": "Vital Spirit",
             "description": "Prevents sleep."
         },
         {
-            "name": "hustle",
+            "name": "Hustle",
             "description": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
         },
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         }
     ],

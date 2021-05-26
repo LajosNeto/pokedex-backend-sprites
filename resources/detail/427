@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "5.5"
+            "value": "5.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         }
     ],

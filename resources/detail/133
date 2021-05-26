@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "6.5"
+            "value": "6.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "adaptability",
+            "name": "Adaptability",
             "description": "Increases the same-type attack bonus from 1.5× to 2×."
         },
         {
-            "name": "anticipation",
+            "name": "Anticipation",
             "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
         }
     ],

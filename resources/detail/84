@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.4"
+            "value": "1.4 m"
         },
         {
             "name": "weight",
-            "value": "39.2"
+            "value": "39.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "run-away",
+            "name": "Run Away",
             "description": "Ensures success fleeing from wild battles."
         },
         {
-            "name": "early-bird",
+            "name": "Early Bird",
             "description": "Makes sleep pass twice as quickly."
         },
         {
-            "name": "tangled-feet",
+            "name": "Tangled Feet",
             "description": "Doubles evasion when confused."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "43.8"
+            "value": "43.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "thick-fat",
+            "name": "Thick Fat",
             "description": "Halves damage from fire and ice moves."
         },
         {
-            "name": "own-tempo",
+            "name": "Own Tempo",
             "description": "Prevents confusion."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

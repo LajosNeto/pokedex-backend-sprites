@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "82.5"
+            "value": "82.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "download",
+            "name": "Download",
             "description": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "5.0"
+            "value": "5.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "pickup",
+            "name": "Pickup",
             "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         },
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         }
     ],

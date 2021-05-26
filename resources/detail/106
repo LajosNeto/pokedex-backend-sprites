@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "49.8"
+            "value": "49.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         },
         {
-            "name": "reckless",
+            "name": "Reckless",
             "description": "Strengthens recoil moves to 1.2× their power."
         },
         {
-            "name": "unburden",
+            "name": "Unburden",
             "description": "Doubles Speed upon using or losing a held item."
         }
     ],

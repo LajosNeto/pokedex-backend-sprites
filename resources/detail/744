@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "9.2"
+            "value": "9.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "vital-spirit",
+            "name": "Vital Spirit",
             "description": "Prevents sleep."
         },
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         }
     ],

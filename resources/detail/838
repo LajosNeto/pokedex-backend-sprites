@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "78.0"
+            "value": "78.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "steam-engine",
+            "name": "Steam Engine",
             "description": ""
         },
         {
-            "name": "flame-body",
+            "name": "Flame Body",
             "description": "Has a 30% chance of burning attacking Pokémon on contact."
         },
         {
-            "name": "flash-fire",
+            "name": "Flash Fire",
             "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "3.4"
+            "value": "3.4 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "shed-skin",
+            "name": "Shed Skin",
             "description": "Has a 33% chance of curing any major status ailment after each turn."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         }
     ],

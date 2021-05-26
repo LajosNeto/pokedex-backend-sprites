@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "12.0"
+            "value": "12.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         },
         {
-            "name": "competitive",
+            "name": "Competitive",
             "description": "Raises Special Attack by two stages upon having any stat lowered."
         },
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         }
     ],

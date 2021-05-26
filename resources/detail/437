@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.3"
+            "value": "1.3 m"
         },
         {
             "name": "weight",
-            "value": "187.0"
+            "value": "187.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "levitate",
+            "name": "Levitate",
             "description": "Evades ground moves."
         },
         {
-            "name": "heatproof",
+            "name": "Heatproof",
             "description": "Halves damage from fire moves and burns."
         },
         {
-            "name": "heavy-metal",
+            "name": "Heavy Metal",
             "description": "Doubles the Pokémon's weight."
         }
     ],

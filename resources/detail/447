@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "20.2"
+            "value": "20.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         }
     ],

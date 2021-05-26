@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "42.4"
+            "value": "42.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "pickup",
+            "name": "Pickup",
             "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
         },
         {
-            "name": "cheek-pouch",
+            "name": "Cheek Pouch",
             "description": "Restores HP upon eating a Berry, in addition to the Berry's effect."
         },
         {
-            "name": "huge-power",
+            "name": "Huge Power",
             "description": "Doubles Attack in battle."
         }
     ],

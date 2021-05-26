@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.0"
+            "value": "3.0 m"
         },
         {
             "name": "weight",
-            "value": "120.0"
+            "value": "120.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "flash-fire",
+            "name": "Flash Fire",
             "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
         },
         {
-            "name": "white-smoke",
+            "name": "White Smoke",
             "description": "Prevents stats from being lowered by other Pokémon."
         },
         {
-            "name": "flame-body",
+            "name": "Flame Body",
             "description": "Has a 30% chance of burning attacking Pokémon on contact."
         }
     ],

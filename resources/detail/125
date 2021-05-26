@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "30.0"
+            "value": "30.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "static",
+            "name": "Static",
             "description": "Has a 30% chance of paralyzing attacking Pokémon on contact."
         },
         {
-            "name": "vital-spirit",
+            "name": "Vital Spirit",
             "description": "Prevents sleep."
         }
     ],

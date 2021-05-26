@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "63.0"
+            "value": "63.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

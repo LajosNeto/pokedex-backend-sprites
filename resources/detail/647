@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.4"
+            "value": "1.4 m"
         },
         {
             "name": "weight",
-            "value": "48.5"
+            "value": "48.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "justified",
+            "name": "Justified",
             "description": "Raises Attack one stage upon taking damage from a dark move."
         }
     ],

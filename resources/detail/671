@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "10.0"
+            "value": "10.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "flower-veil",
+            "name": "Flower Veil",
             "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
         },
         {
-            "name": "symbiosis",
+            "name": "Symbiosis",
             "description": "Passes the bearer's held item to an ally when the ally uses up its item."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "10.5"
+            "value": "10.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "unaware",
+            "name": "Unaware",
             "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "simple",
+            "name": "Simple",
             "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
         }
     ],

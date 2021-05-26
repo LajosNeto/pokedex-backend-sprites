@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.0"
+            "value": "2.0 m"
         },
         {
             "name": "weight",
-            "value": "44.5"
+            "value": "44.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "grim-neigh",
+            "name": "Grim Neigh",
             "description": ""
         }
     ],

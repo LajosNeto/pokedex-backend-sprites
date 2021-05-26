@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.6"
+            "value": "1.6 m"
         },
         {
             "name": "weight",
-            "value": "46.0"
+            "value": "46.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "reckless",
+            "name": "Reckless",
             "description": "Strengthens recoil moves to 1.2× their power."
         },
         {
-            "name": "guts",
+            "name": "Guts",
             "description": "Increases Attack to 1.5× with a major status ailment."
         },
         {
-            "name": "defiant",
+            "name": "Defiant",
             "description": "Raises Attack two stages upon having any stat lowered."
         }
     ],

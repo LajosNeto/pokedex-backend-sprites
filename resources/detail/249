@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "5.2"
+            "value": "5.2 m"
         },
         {
             "name": "weight",
-            "value": "216.0"
+            "value": "216.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "pressure",
+            "name": "Pressure",
             "description": "Increases the PP cost of moves targetting the Pokémon by one."
         },
         {
-            "name": "multiscale",
+            "name": "Multiscale",
             "description": "Halves damage taken from full HP."
         }
     ],

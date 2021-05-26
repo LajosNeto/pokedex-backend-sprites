@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.1"
+            "value": "1.1 m"
         },
         {
             "name": "weight",
-            "value": "32.8"
+            "value": "32.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hyper-cutter",
+            "name": "Hyper Cutter",
             "description": "Prevents Attack from being lowered by other Pokémon."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "adaptability",
+            "name": "Adaptability",
             "description": "Increases the same-type attack bonus from 1.5× to 2×."
         }
     ],

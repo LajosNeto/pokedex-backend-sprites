@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "22.0"
+            "value": "22.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "color-change",
+            "name": "Color Change",
             "description": "Changes type to match when hit by a damaging move."
         },
         {
-            "name": "protean",
+            "name": "Protean",
             "description": "Changes the bearer's type to match each move it uses."
         }
     ],

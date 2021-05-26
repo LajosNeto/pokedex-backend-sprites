@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "10.0"
+            "value": "10.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "swift-swim",
+            "name": "Swift Swim",
             "description": "Doubles Speed during rain."
         },
         {
-            "name": "rattled",
+            "name": "Rattled",
             "description": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.5"
+            "value": "2.5 m"
         },
         {
             "name": "weight",
-            "value": "220.0"
+            "value": "220.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "water-absorb",
+            "name": "Water Absorb",
             "description": "Absorbs water moves, healing for 1/4 max HP."
         },
         {
-            "name": "shell-armor",
+            "name": "Shell Armor",
             "description": "Protects against critical hits."
         },
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         }
     ],

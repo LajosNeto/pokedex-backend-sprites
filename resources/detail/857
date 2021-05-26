@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "4.8"
+            "value": "4.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "healer",
+            "name": "Healer",
             "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
         },
         {
-            "name": "anticipation",
+            "name": "Anticipation",
             "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
         },
         {
-            "name": "magic-bounce",
+            "name": "Magic Bounce",
             "description": "Reflects most non-damaging moves back at their user."
         }
     ],

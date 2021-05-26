@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.3"
+            "value": "2.3 m"
         },
         {
             "name": "weight",
-            "value": "100.5"
+            "value": "100.5 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "rks-system",
+            "name": "Rks System",
             "description": "Changes this Pokémon's type to match its held Memory."
         }
     ],

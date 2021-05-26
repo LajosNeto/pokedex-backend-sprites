@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "33.3"
+            "value": "33.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "limber",
+            "name": "Limber",
             "description": "Prevents paralysis."
         }
     ],

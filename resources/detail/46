@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.3"
+            "value": "0.3 m"
         },
         {
             "name": "weight",
-            "value": "5.4"
+            "value": "5.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "effect-spore",
+            "name": "Effect Spore",
             "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
         },
         {
-            "name": "dry-skin",
+            "name": "Dry Skin",
             "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
         },
         {
-            "name": "damp",
+            "name": "Damp",
             "description": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "54.0"
+            "value": "54.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "justified",
+            "name": "Justified",
             "description": "Raises Attack one stage upon taking damage from a dark move."
         }
     ],

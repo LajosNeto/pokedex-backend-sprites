@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.4"
+            "value": "1.4 m"
         },
         {
             "name": "weight",
-            "value": "58.0"
+            "value": "58.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         },
         {
-            "name": "flash-fire",
+            "name": "Flash Fire",
             "description": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
         },
         {
-            "name": "white-smoke",
+            "name": "White Smoke",
             "description": "Prevents stats from being lowered by other Pokémon."
         }
     ],

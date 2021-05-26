@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "0.5"
+            "value": "0.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "healer",
+            "name": "Healer",
             "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
         },
         {
-            "name": "aroma-veil",
+            "name": "Aroma Veil",
             "description": "Protects allies against moves that affect their mental state."
         }
     ],

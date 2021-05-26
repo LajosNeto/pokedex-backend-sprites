@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "21.0"
+            "value": "21.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "guts",
+            "name": "Guts",
             "description": "Increases Attack to 1.5× with a major status ailment."
         },
         {
-            "name": "steadfast",
+            "name": "Steadfast",
             "description": "Raises Speed one stage upon flinching."
         },
         {
-            "name": "vital-spirit",
+            "name": "Vital Spirit",
             "description": "Prevents sleep."
         }
     ],

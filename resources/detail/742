@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.1"
+            "value": "0.1 m"
         },
         {
             "name": "weight",
-            "value": "0.2"
+            "value": "0.2 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "honey-gather",
+            "name": "Honey Gather",
             "description": "The Pokémon may pick up honey after battle."
         },
         {
-            "name": "shield-dust",
+            "name": "Shield Dust",
             "description": "Protects against incoming moves' extra effects."
         },
         {
-            "name": "sweet-veil",
+            "name": "Sweet Veil",
             "description": "Prevents friendly Pokémon from sleeping."
         }
     ],

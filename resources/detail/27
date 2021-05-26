@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "12.0"
+            "value": "12.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "sand-veil",
+            "name": "Sand Veil",
             "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
         },
         {
-            "name": "sand-rush",
+            "name": "Sand Rush",
             "description": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
         }
     ],

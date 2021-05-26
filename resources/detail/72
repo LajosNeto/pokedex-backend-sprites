@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "45.5"
+            "value": "45.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "clear-body",
+            "name": "Clear Body",
             "description": "Prevents stats from being lowered by other Pokémon."
         },
         {
-            "name": "liquid-ooze",
+            "name": "Liquid Ooze",
             "description": "Damages opponents using leeching moves for as much as they would heal."
         },
         {
-            "name": "rain-dish",
+            "name": "Rain Dish",
             "description": "Heals for 1/16 max HP after each turn during rain."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "21.4"
+            "value": "21.4 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "leaf-guard",
+            "name": "Leaf Guard",
             "description": "Protects against major status ailments during strong sunlight."
         },
         {
-            "name": "queenly-majesty",
+            "name": "Queenly Majesty",
             "description": "Opposing Pokémon cannot use priority attacks."
         },
         {
-            "name": "sweet-veil",
+            "name": "Sweet Veil",
             "description": "Prevents friendly Pokémon from sleeping."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.1"
+            "value": "0.1 m"
         },
         {
             "name": "weight",
-            "value": "0.3"
+            "value": "0.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "flower-veil",
+            "name": "Flower Veil",
             "description": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
         },
         {
-            "name": "triage",
+            "name": "Triage",
             "description": "This Pokémon's healing moves have their priority increased by 3."
         },
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         }
     ],

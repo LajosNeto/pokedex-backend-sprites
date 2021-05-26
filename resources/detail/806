@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "13.0"
+            "value": "13.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "beast-boost",
+            "name": "Beast Boost",
             "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "8.3"
+            "value": "8.3 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "mega-launcher",
+            "name": "Mega Launcher",
             "description": "Strengthens aura and pulse moves to 1.5× their power."
         }
     ],

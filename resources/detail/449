@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "49.5"
+            "value": "49.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "sand-stream",
+            "name": "Sand Stream",
             "description": "Summons a sandstorm that lasts indefinitely upon entering battle."
         },
         {
-            "name": "sand-force",
+            "name": "Sand Force",
             "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
         }
     ],

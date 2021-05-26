@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "31.5"
+            "value": "31.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "simple",
+            "name": "Simple",
             "description": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
         },
         {
-            "name": "unaware",
+            "name": "Unaware",
             "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
         },
         {
-            "name": "moody",
+            "name": "Moody",
             "description": "Raises a random stat two stages and lowers another one stage after each turn."
         }
     ],

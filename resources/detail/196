@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "26.5"
+            "value": "26.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "synchronize",
+            "name": "Synchronize",
             "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
         },
         {
-            "name": "magic-bounce",
+            "name": "Magic Bounce",
             "description": "Reflects most non-damaging moves back at their user."
         }
     ],

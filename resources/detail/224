@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "28.5"
+            "value": "28.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "suction-cups",
+            "name": "Suction Cups",
             "description": "Prevents being forced out of battle by other Pokémon's moves."
         },
         {
-            "name": "sniper",
+            "name": "Sniper",
             "description": "Strengthens critical hits to inflict 3× damage rather than 2×."
         },
         {
-            "name": "moody",
+            "name": "Moody",
             "description": "Raises a random stat two stages and lowers another one stage after each turn."
         }
     ],

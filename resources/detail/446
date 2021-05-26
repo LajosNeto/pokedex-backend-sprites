@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "105.0"
+            "value": "105.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "pickup",
+            "name": "Pickup",
             "description": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
         },
         {
-            "name": "thick-fat",
+            "name": "Thick Fat",
             "description": "Halves damage from fire and ice moves."
         },
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         }
     ],

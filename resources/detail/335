@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.3"
+            "value": "1.3 m"
         },
         {
             "name": "weight",
-            "value": "40.3"
+            "value": "40.3 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "immunity",
+            "name": "Immunity",
             "description": "Prevents poison."
         },
         {
-            "name": "toxic-boost",
+            "name": "Toxic Boost",
             "description": "Increases Attack to 1.5× when poisoned."
         }
     ],

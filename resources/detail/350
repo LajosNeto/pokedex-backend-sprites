@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "6.2"
+            "value": "6.2 m"
         },
         {
             "name": "weight",
-            "value": "162.0"
+            "value": "162.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "marvel-scale",
+            "name": "Marvel Scale",
             "description": "Increases Defense to 1.5× with a major status ailment."
         },
         {
-            "name": "competitive",
+            "name": "Competitive",
             "description": "Raises Special Attack by two stages upon having any stat lowered."
         },
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         }
     ],

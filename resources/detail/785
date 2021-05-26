@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.8"
+            "value": "1.8 m"
         },
         {
             "name": "weight",
-            "value": "20.5"
+            "value": "20.5 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "electric-surge",
+            "name": "Electric Surge",
             "description": "When this Pokémon enters battle, it changes the terrain to Electric Terrain."
         },
         {
-            "name": "telepathy",
+            "name": "Telepathy",
             "description": "Protects against friendly Pokémon's damaging moves."
         }
     ],

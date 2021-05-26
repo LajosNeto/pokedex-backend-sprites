@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.9"
+            "value": "1.9 m"
         },
         {
             "name": "weight",
-            "value": "107.3"
+            "value": "107.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "stench",
+            "name": "Stench",
             "description": "Has a 10% chance of making target Pokémon flinch with each hit."
         },
         {
-            "name": "weak-armor",
+            "name": "Weak Armor",
             "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
         },
         {
-            "name": "aftermath",
+            "name": "Aftermath",
             "description": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
         }
     ],

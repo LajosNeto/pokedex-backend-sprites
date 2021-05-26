@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "39.5"
+            "value": "39.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "tangled-feet",
+            "name": "Tangled Feet",
             "description": "Doubles evasion when confused."
         },
         {
-            "name": "big-pecks",
+            "name": "Big Pecks",
             "description": "Protects against Defense drops."
         }
     ],

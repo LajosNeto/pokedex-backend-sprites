@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.3"
+            "value": "1.3 m"
         },
         {
             "name": "weight",
-            "value": "59.6"
+            "value": "59.6 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "chlorophyll",
+            "name": "Chlorophyll",
             "description": "Doubles Speed during strong sunlight."
         },
         {
-            "name": "early-bird",
+            "name": "Early Bird",
             "description": "Makes sleep pass twice as quickly."
         },
         {
-            "name": "pickpocket",
+            "name": "Pickpocket",
             "description": "Steals attacking Pokémon's held items on contact."
         }
     ],

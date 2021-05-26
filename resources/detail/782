@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "29.7"
+            "value": "29.7 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "bulletproof",
+            "name": "Bulletproof",
             "description": "Protects against bullet, ball, and bomb-based moves."
         },
         {
-            "name": "soundproof",
+            "name": "Soundproof",
             "description": "Protects against sound-based moves."
         },
         {
-            "name": "overcoat",
+            "name": "Overcoat",
             "description": "Protects against damage from weather."
         }
     ],

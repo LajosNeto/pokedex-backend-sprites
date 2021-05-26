@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.2"
+            "value": "2.2 m"
         },
         {
             "name": "weight",
-            "value": "210.0"
+            "value": "210.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "multiscale",
+            "name": "Multiscale",
             "description": "Halves damage taken from full HP."
         }
     ],

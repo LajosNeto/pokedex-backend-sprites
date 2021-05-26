@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.0"
+            "value": "3.0 m"
         },
         {
             "name": "weight",
-            "value": "215.0"
+            "value": "215.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "fairy-aura",
+            "name": "Fairy Aura",
             "description": "Strengthens fairy moves to 1.33× their power for all friendly and opposing Pokémon."
         }
     ],

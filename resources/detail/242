@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "46.8"
+            "value": "46.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "natural-cure",
+            "name": "Natural Cure",
             "description": "Cures any major status ailment upon switching out."
         },
         {
-            "name": "serene-grace",
+            "name": "Serene Grace",
             "description": "Doubles the chance of moves' extra effects occurring."
         },
         {
-            "name": "healer",
+            "name": "Healer",
             "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
         }
     ],

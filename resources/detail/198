@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.5"
+            "value": "0.5 m"
         },
         {
             "name": "weight",
-            "value": "2.1"
+            "value": "2.1 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "insomnia",
+            "name": "Insomnia",
             "description": "Prevents sleep."
         },
         {
-            "name": "super-luck",
+            "name": "Super Luck",
             "description": "Raises moves' critical hit rates one stage."
         },
         {
-            "name": "prankster",
+            "name": "Prankster",
             "description": "Raises non-damaging moves' priority by one stage."
         }
     ],

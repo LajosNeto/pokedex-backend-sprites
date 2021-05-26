@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.5"
+            "value": "1.5 m"
         },
         {
             "name": "weight",
-            "value": "60.4"
+            "value": "60.4 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "suction-cups",
+            "name": "Suction Cups",
             "description": "Prevents being forced out of battle by other Pokémon's moves."
         },
         {
-            "name": "storm-drain",
+            "name": "Storm Drain",
             "description": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
         }
     ],

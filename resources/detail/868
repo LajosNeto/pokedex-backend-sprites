@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "0.3"
+            "value": "0.3 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "sweet-veil",
+            "name": "Sweet Veil",
             "description": "Prevents friendly Pokémon from sleeping."
         },
         {
-            "name": "aroma-veil",
+            "name": "Aroma Veil",
             "description": "Protects allies against moves that affect their mental state."
         }
     ],

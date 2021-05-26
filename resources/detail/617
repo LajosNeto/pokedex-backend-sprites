@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "25.3"
+            "value": "25.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "hydration",
+            "name": "Hydration",
             "description": "Cures any major status ailment after each turn during rain."
         },
         {
-            "name": "sticky-hold",
+            "name": "Sticky Hold",
             "description": "Prevents a held item from being removed by other Pokémon."
         },
         {
-            "name": "unburden",
+            "name": "Unburden",
             "description": "Doubles Speed upon using or losing a held item."
         }
     ],

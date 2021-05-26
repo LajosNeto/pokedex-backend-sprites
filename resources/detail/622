@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.0"
+            "value": "1.0 m"
         },
         {
             "name": "weight",
-            "value": "92.0"
+            "value": "92.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "iron-fist",
+            "name": "Iron Fist",
             "description": "Strengthens punch-based moves to 1.2× their power."
         },
         {
-            "name": "klutz",
+            "name": "Klutz",
             "description": "Prevents the Pokémon from using its held item in battle."
         },
         {
-            "name": "no-guard",
+            "name": "No Guard",
             "description": "Ensures all moves used by and against the Pokémon hit."
         }
     ],

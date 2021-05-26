@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.3"
+            "value": "1.3 m"
         },
         {
             "name": "weight",
-            "value": "40.0"
+            "value": "40.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "cute-charm",
+            "name": "Cute Charm",
             "description": "Has a 30% chance of infatuating attacking Pokémon on contact."
         },
         {
-            "name": "magic-guard",
+            "name": "Magic Guard",
             "description": "Protects against damage not directly caused by a move."
         },
         {
-            "name": "unaware",
+            "name": "Unaware",
             "description": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
         }
     ],

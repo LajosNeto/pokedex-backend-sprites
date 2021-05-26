@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.7"
+            "value": "2.7 m"
         },
         {
             "name": "weight",
-            "value": "225.0"
+            "value": "225.0 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "refrigerate",
+            "name": "Refrigerate",
             "description": "Turns the bearer's normal moves into ice moves and strengthens them to 1.3× their power."
         },
         {
-            "name": "snow-warning",
+            "name": "Snow Warning",
             "description": "Summons hail that lasts indefinitely upon entering battle."
         }
     ],

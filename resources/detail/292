@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "1.2"
+            "value": "1.2 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "wonder-guard",
+            "name": "Wonder Guard",
             "description": "Protects against damaging moves that are not super effective."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "4.2"
+            "value": "4.2 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "minus",
+            "name": "Minus",
             "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
         },
         {
-            "name": "volt-absorb",
+            "name": "Volt Absorb",
             "description": "Absorbs electric moves, healing for 1/4 max HP."
         }
     ],

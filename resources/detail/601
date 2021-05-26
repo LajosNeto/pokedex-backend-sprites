@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "81.0"
+            "value": "81.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "plus",
+            "name": "Plus",
             "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
         },
         {
-            "name": "minus",
+            "name": "Minus",
             "description": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
         },
         {
-            "name": "clear-body",
+            "name": "Clear Body",
             "description": "Prevents stats from being lowered by other Pokémon."
         }
     ],

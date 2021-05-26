@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.3"
+            "value": "1.3 m"
         },
         {
             "name": "weight",
-            "value": "56.5"
+            "value": "56.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "synchronize",
+            "name": "Synchronize",
             "description": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
         },
         {
-            "name": "inner-focus",
+            "name": "Inner Focus",
             "description": "Prevents flinching."
         },
         {
-            "name": "magic-guard",
+            "name": "Magic Guard",
             "description": "Protects against damage not directly caused by a move."
         }
     ],

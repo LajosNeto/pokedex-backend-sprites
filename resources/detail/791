@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.4"
+            "value": "3.4 m"
         },
         {
             "name": "weight",
-            "value": "230.0"
+            "value": "230.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "full-metal-body",
+            "name": "Full Metal Body",
             "description": "Other Pokémon cannot lower this Pokémon's stats."
         }
     ],

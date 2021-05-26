@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "2.5"
+            "value": "2.5 m"
         },
         {
             "name": "weight",
-            "value": "520.0"
+            "value": "520.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "power-spot",
+            "name": "Power Spot",
             "description": ""
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.2"
+            "value": "0.2 m"
         },
         {
             "name": "weight",
-            "value": "0.5"
+            "value": "0.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "ripen",
+            "name": "Ripen",
             "description": ""
         },
         {
-            "name": "gluttony",
+            "name": "Gluttony",
             "description": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
         },
         {
-            "name": "bulletproof",
+            "name": "Bulletproof",
             "description": "Protects against bullet, ball, and bomb-based moves."
         }
     ],

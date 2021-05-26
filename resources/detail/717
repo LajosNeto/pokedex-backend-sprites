@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "5.8"
+            "value": "5.8 m"
         },
         {
             "name": "weight",
-            "value": "203.0"
+            "value": "203.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "dark-aura",
+            "name": "Dark Aura",
             "description": "Strengthens dark moves to 1.33× their power for all friendly and opposing Pokémon."
         }
     ],

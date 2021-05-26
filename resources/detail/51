@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.7"
+            "value": "0.7 m"
         },
         {
             "name": "weight",
-            "value": "33.3"
+            "value": "33.3 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "sand-veil",
+            "name": "Sand Veil",
             "description": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
         },
         {
-            "name": "arena-trap",
+            "name": "Arena Trap",
             "description": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
         },
         {
-            "name": "sand-force",
+            "name": "Sand Force",
             "description": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
         }
     ],

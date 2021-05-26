@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.8"
+            "value": "0.8 m"
         },
         {
             "name": "weight",
-            "value": "20.8"
+            "value": "20.8 kg"
         },
         {
             "name": "base exp",
@@ -40,11 +40,11 @@
     },
     "abilities": [
         {
-            "name": "rough-skin",
+            "name": "Rough Skin",
             "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
         },
         {
-            "name": "speed-boost",
+            "name": "Speed Boost",
             "description": "Raises Speed one stage after each turn."
         }
     ],

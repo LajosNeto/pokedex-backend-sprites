@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "1.2"
+            "value": "1.2 m"
         },
         {
             "name": "weight",
-            "value": "28.0"
+            "value": "28.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "keen-eye",
+            "name": "Keen Eye",
             "description": "Prevents accuracy from being lowered."
         },
         {
-            "name": "drizzle",
+            "name": "Drizzle",
             "description": "Summons rain that lasts indefinitely upon entering battle."
         },
         {
-            "name": "rain-dish",
+            "name": "Rain Dish",
             "description": "Heals for 1/16 max HP after each turn during rain."
         }
     ],

@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "4.5"
+            "value": "4.5 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "effect-spore",
+            "name": "Effect Spore",
             "description": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
         },
         {
-            "name": "poison-heal",
+            "name": "Poison Heal",
             "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
         },
         {
-            "name": "quick-feet",
+            "name": "Quick Feet",
             "description": "Increases Speed to 1.5× with a major status ailment."
         }
     ],

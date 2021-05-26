@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "120.0"
+            "value": "120.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "sturdy",
+            "name": "Sturdy",
             "description": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
         },
         {
-            "name": "rock-head",
+            "name": "Rock Head",
             "description": "Protects against recoil damage."
         },
         {
-            "name": "heavy-metal",
+            "name": "Heavy Metal",
             "description": "Doubles the Pokémon's weight."
         }
     ],

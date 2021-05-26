@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.4"
+            "value": "0.4 m"
         },
         {
             "name": "weight",
-            "value": "5.8"
+            "value": "5.8 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "frisk",
+            "name": "Frisk",
             "description": "Reveals an opponent's held item upon entering battle."
         },
         {
-            "name": "competitive",
+            "name": "Competitive",
             "description": "Raises Special Attack by two stages upon having any stat lowered."
         },
         {
-            "name": "shadow-tag",
+            "name": "Shadow Tag",
             "description": "Prevents opponents from fleeing or switching out."
         }
     ],

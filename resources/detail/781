@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "3.9"
+            "value": "3.9 m"
         },
         {
             "name": "weight",
-            "value": "210.0"
+            "value": "210.0 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "steelworker",
+            "name": "Steelworker",
             "description": "This Pokémon's Steel moves have 1.5× power."
         }
     ],

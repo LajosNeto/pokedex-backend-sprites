@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.6"
+            "value": "0.6 m"
         },
         {
             "name": "weight",
-            "value": "18.8"
+            "value": "18.8 kg"
         },
         {
             "name": "base exp",
@@ -40,7 +40,7 @@
     },
     "abilities": [
         {
-            "name": "iron-barbs",
+            "name": "Iron Barbs",
             "description": "Damages attacking Pokémon for 1/8 their max HP on contact."
         }
     ],

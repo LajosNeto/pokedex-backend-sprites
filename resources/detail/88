@@ -5,11 +5,11 @@
     "attributes": [
         {
             "name": "height",
-            "value": "0.9"
+            "value": "0.9 m"
         },
         {
             "name": "weight",
-            "value": "30.0"
+            "value": "30.0 kg"
         },
         {
             "name": "base exp",
@@ -40,15 +40,15 @@
     },
     "abilities": [
         {
-            "name": "stench",
+            "name": "Stench",
             "description": "Has a 10% chance of making target Pokémon flinch with each hit."
         },
         {
-            "name": "sticky-hold",
+            "name": "Sticky Hold",
             "description": "Prevents a held item from being removed by other Pokémon."
         },
         {
-            "name": "poison-touch",
+            "name": "Poison Touch",
             "description": "Has a 30% chance of poisoning target Pokémon upon contact."
         }
     ],
