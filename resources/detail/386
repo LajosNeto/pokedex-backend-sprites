@@ -36,7 +36,8 @@
         "defense": 50,
         "special-attack": 150,
         "special-defense": 50,
-        "speed": 150
+        "speed": 150,
+        "total": 600
     },
     "abilities": [
         {

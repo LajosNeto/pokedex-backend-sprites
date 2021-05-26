@@ -146,6 +146,7 @@ def extract_base_stats(pokemon_data):
     base_stats['special-attack'] = pokemon_data['stats'][3]['base_stat']
     base_stats['special-defense'] = pokemon_data['stats'][4]['base_stat']
     base_stats['speed'] = pokemon_data['stats'][5]['base_stat']
+    base_stats['total'] = sum(base_stats.values())
     return base_stats
 
 def extract_abilities(pokemon_data):
