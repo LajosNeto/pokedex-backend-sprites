@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "227"
+            "value": "253"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/031Nidoqueen.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/31.wav",
     "base_stats": {
         "hp": 90,
         "attack": 92,
@@ -61,21 +62,41 @@
         "#953a93",
         "#dbb963"
     ],
-    "short_description": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
+    "short_description": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
     "habitat": "grassland",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "nidoran-f",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidorina",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidoqueen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#dbb963"
+            ]
         }
     ]
 }

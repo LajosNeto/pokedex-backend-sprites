@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/476Probopass.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/476.wav",
     "base_stats": {
         "hp": 60,
         "attack": 55,
@@ -61,17 +62,31 @@
         "#af9539",
         "#afafc9"
     ],
-    "short_description": "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.",
+    "short_description": "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "nosepass",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "probopass",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#afafc9"
+            ]
         }
     ]
 }

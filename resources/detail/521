@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "220"
+            "value": "244"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/521Unfezant.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/521.wav",
     "base_stats": {
         "hp": 80,
         "attack": 115,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "pidove",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "tranquill",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "unfezant",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

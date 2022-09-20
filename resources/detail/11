@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/011Metapod.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/11.wav",
     "base_stats": {
         "hp": 50,
         "attack": 20,
@@ -57,15 +58,35 @@
     "evolution_chain": [
         {
             "name": "caterpie",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "metapod",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "butterfree",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         }
     ]
 }

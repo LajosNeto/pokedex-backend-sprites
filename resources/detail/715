@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/15/715Noivern.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/715.wav",
     "base_stats": {
         "hp": 85,
         "attack": 70,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "noibat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png",
+            "types": [
+                "flying",
+                "dragon"
+            ],
+            "types_colors": [
+                "#9e85eb",
+                "#6630f3"
+            ]
         },
         {
             "name": "noivern",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png",
+            "types": [
+                "flying",
+                "dragon"
+            ],
+            "types_colors": [
+                "#9e85eb",
+                "#6630f3"
+            ]
         }
     ]
 }

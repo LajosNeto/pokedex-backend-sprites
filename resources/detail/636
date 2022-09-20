@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/636Larvesta.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/636.wav",
     "base_stats": {
         "hp": 55,
         "attack": 85,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "larvesta",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png",
+            "types": [
+                "bug",
+                "fire"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#ed7835"
+            ]
         },
         {
             "name": "volcarona",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/637.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/637.png",
+            "types": [
+                "bug",
+                "fire"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#ed7835"
+            ]
         }
     ]
 }

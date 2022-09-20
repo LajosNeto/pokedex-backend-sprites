@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/00/281Kirlia.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/281.wav",
     "base_stats": {
         "hp": 38,
         "attack": 35,
@@ -61,21 +62,45 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "It has a psychic power that enables it to distort the space around it and see into the future.",
+    "short_description": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
     "habitat": "urban",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "ralts",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "kirlia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "gardevoir",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         }
     ]
 }

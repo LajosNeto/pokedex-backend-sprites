@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/682.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/66/682Spritzee.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/682.wav",
     "base_stats": {
         "hp": 78,
         "attack": 52,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "spritzee",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/682.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/682.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "aromatisse",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/683.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/683.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

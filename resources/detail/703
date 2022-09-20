@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/703.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/703Carbink.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/703.wav",
     "base_stats": {
         "hp": 50,
         "attack": 50,
@@ -57,13 +58,21 @@
         "#af9539",
         "#eb90a4"
     ],
-    "short_description": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels.",
+    "short_description": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "carbink",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/703.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/703.png",
+            "types": [
+                "rock",
+                "fairy"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#eb90a4"
+            ]
         }
     ]
 }

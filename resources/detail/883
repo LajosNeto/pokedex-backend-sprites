@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/03/883Arctovish.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 90,
         "attack": 90,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "arctovish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#8ed2d2"
+            ]
         }
     ]
 }

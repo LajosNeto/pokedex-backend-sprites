@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/754.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/19/754Lurantis.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/754.wav",
     "base_stats": {
         "hp": 70,
         "attack": 105,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "fomantis",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/753.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/753.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "lurantis",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/754.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/754.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         }
     ]
 }

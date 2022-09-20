@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/58.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/058Growlithe.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/58.wav",
     "base_stats": {
         "hp": 55,
         "attack": 70,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+    "short_description": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.",
     "habitat": "grassland",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "growlithe",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/58.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/58.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "arcanine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/59.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/59.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         }
     ]
 }

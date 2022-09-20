@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/451Skorupi.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/451.wav",
     "base_stats": {
         "hp": 40,
         "attack": 50,
@@ -61,17 +62,33 @@
         "#953a93",
         "#9daf2b"
     ],
-    "short_description": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.",
+    "short_description": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "skorupi",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png",
+            "types": [
+                "poison",
+                "bug"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#9daf2b"
+            ]
         },
         {
             "name": "drapion",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         }
     ]
 }

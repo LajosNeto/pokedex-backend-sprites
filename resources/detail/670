@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/670Floette.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/670.wav",
     "base_stats": {
         "hp": 54,
         "attack": 45,
@@ -61,15 +62,33 @@
     "evolution_chain": [
         {
             "name": "flabebe",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "floette",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "florges",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

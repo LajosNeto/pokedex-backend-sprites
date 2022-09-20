@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/95/191Sunkern.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/191.wav",
     "base_stats": {
         "hp": 30,
         "attack": 30,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "sunkern",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/191.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "sunflora",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/192.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/192.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         }
     ]
 }

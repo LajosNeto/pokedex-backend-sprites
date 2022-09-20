@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/765.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d8/765Oranguru.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/765.wav",
     "base_stats": {
         "hp": 90,
         "attack": 60,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "oranguru",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/765.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/765.png",
+            "types": [
+                "normal",
+                "psychic"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#f6527e"
+            ]
         }
     ]
 }

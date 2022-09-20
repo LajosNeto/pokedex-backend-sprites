@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/868.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/868Milcery.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 45,
         "attack": 40,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "short_description": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "milcery",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/868.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/868.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "alcremie",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/869.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/869.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

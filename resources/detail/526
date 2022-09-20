@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "232"
+            "value": "258"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/526.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/59/526Gigalith.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/526.wav",
     "base_stats": {
         "hp": 85,
         "attack": 135,
@@ -65,15 +66,33 @@
     "evolution_chain": [
         {
             "name": "roggenrola",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/524.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/524.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "boldore",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/525.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/525.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "gigalith",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/526.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/526.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         }
     ]
 }

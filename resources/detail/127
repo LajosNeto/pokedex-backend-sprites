@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/127.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/127Pinsir.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/127.wav",
     "base_stats": {
         "hp": 65,
         "attack": 125,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "pinsir",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/127.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/127.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "234"
+            "value": "260"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/553Krookodile.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/553.wav",
     "base_stats": {
         "hp": 95,
         "attack": 117,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "sandile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         },
         {
             "name": "krokorok",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         },
         {
             "name": "krookodile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1a/564Tirtouga.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/564.wav",
     "base_stats": {
         "hp": 54,
         "attack": 78,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+    "short_description": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "tirtouga",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         },
         {
             "name": "carracosta",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         }
     ]
 }

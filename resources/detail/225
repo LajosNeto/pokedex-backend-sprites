@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/225.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3f/225Delibird.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/225.wav",
     "base_stats": {
         "hp": 45,
         "attack": 55,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "delibird",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/225.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/225.png",
+            "types": [
+                "ice",
+                "flying"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#9e85eb"
+            ]
         }
     ]
 }

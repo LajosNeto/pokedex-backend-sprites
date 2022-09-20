@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/806Blacephalon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/806.wav",
     "base_stats": {
         "hp": 53,
         "attack": 127,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "blacephalon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#654e8c"
+            ]
         }
     ]
 }

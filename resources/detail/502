@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/502Dewott.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/502.wav",
     "base_stats": {
         "hp": 75,
         "attack": 75,
@@ -55,21 +56,39 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+    "short_description": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "oshawott",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "dewott",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "samurott",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

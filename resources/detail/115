@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/115.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/115Kangaskhan.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/115.wav",
     "base_stats": {
         "hp": 105,
         "attack": 95,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "kangaskhan",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/115.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/115.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

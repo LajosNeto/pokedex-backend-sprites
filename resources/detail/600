@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/600Klang.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/600.wav",
     "base_stats": {
         "hp": 60,
         "attack": 80,
@@ -65,15 +66,33 @@
     "evolution_chain": [
         {
             "name": "klink",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png",
+            "types": [
+                "steel"
+            ],
+            "types_colors": [
+                "#afafc9"
+            ]
         },
         {
             "name": "klang",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
+            "types": [
+                "steel"
+            ],
+            "types_colors": [
+                "#afafc9"
+            ]
         },
         {
             "name": "klinklang",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png",
+            "types": [
+                "steel"
+            ],
+            "types_colors": [
+                "#afafc9"
+            ]
         }
     ]
 }

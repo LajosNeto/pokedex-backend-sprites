@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5f/450Hippowdon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/450.wav",
     "base_stats": {
         "hp": 108,
         "attack": 112,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
+    "short_description": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "hippopotas",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "hippowdon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         }
     ]
 }

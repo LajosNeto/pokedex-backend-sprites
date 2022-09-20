@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ab/449Hippopotas.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/449.wav",
     "base_stats": {
         "hp": 68,
         "attack": 72,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+    "short_description": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "hippopotas",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/449.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "hippowdon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/450.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         }
     ]
 }

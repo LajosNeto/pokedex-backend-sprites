@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/36/756Shiinotic.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/756.wav",
     "base_stats": {
         "hp": 60,
         "attack": 45,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "morelull",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#eb90a4"
+            ]
         },
         {
             "name": "shiinotic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#eb90a4"
+            ]
         }
     ]
 }

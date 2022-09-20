@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/68/623Golurk.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/623.wav",
     "base_stats": {
         "hp": 89,
         "attack": 124,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "golett",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png",
+            "types": [
+                "ground",
+                "ghost"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#654e8c"
+            ]
         },
         {
             "name": "golurk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
+            "types": [
+                "ground",
+                "ghost"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#654e8c"
+            ]
         }
     ]
 }

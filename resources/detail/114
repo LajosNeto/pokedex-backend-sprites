@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/114.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3e/114Tangela.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/114.wav",
     "base_stats": {
         "hp": 65,
         "attack": 55,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
+    "short_description": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.",
     "habitat": "grassland",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "tangela",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/114.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/114.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "tangrowth",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/465.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/465.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         }
     ]
 }

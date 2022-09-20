@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/176Togetic.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/176.wav",
     "base_stats": {
         "hp": 55,
         "attack": 40,
@@ -61,21 +62,43 @@
         "#eb90a4",
         "#9e85eb"
     ],
-    "short_description": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+    "short_description": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy.",
     "habitat": "forest",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "togepi",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "togetic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         },
         {
             "name": "togekiss",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         }
     ]
 }

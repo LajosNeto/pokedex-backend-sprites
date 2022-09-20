@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/369Relicanth.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/369.wav",
     "base_stats": {
         "hp": 100,
         "attack": 90,
@@ -61,13 +62,21 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form.",
+    "short_description": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil.",
     "habitat": "sea",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "relicanth",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/195Quagsire.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/195.wav",
     "base_stats": {
         "hp": 95,
         "attack": 85,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "wooper",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         },
         {
             "name": "quagsire",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         }
     ]
 }

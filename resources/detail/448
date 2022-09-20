@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d7/448Lucario.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/448.wav",
     "base_stats": {
         "hp": 70,
         "attack": 110,
@@ -61,17 +62,31 @@
         "#b72f29",
         "#afafc9"
     ],
-    "short_description": "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust.",
+    "short_description": "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "riolu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         },
         {
             "name": "lucario",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png",
+            "types": [
+                "fighting",
+                "steel"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#afafc9"
+            ]
         }
     ]
 }

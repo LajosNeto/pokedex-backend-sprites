@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/123Scyther.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/123.wav",
     "base_stats": {
         "hp": 70,
         "attack": 110,
@@ -61,17 +62,33 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "If you come across an area in a forest where a lot of the trees have been cut down, what you’ve found is a Scyther’s territory.",
+    "short_description": "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pokémon's nimble motions.",
     "habitat": "grassland",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "scyther",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/123.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         },
         {
             "name": "scizor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/212.png",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#afafc9"
+            ]
         }
     ]
 }

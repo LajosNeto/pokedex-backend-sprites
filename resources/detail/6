@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "240"
+            "value": "267"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/006Charizard.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/6.wav",
     "base_stats": {
         "hp": 78,
         "attack": 84,
@@ -57,21 +58,41 @@
         "#ed7835",
         "#9e85eb"
     ],
-    "short_description": "The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.",
+    "short_description": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
     "habitat": "mountain",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "charmander",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/4.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "charmeleon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/5.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "charizard",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/6.png",
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e85eb"
+            ]
         }
     ]
 }

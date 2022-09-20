@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/419.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/419Floatzel.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/419.wav",
     "base_stats": {
         "hp": 85,
         "attack": 105,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+    "short_description": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "buizel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/418.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/418.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "floatzel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/419.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/419.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

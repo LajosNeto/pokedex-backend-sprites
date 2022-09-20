@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/390Chimchar.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/390.wav",
     "base_stats": {
         "hp": 44,
         "attack": 58,
@@ -55,21 +56,43 @@
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+    "short_description": "Full of vigor and always in high spirits. It was once known by the name ”Lantern-Tail” and feared as some kind of apparition.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "chimchar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "monferno",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         },
         {
             "name": "infernape",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         }
     ]
 }

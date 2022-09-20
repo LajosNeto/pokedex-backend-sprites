@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f1/315Roselia.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/315.wav",
     "base_stats": {
         "hp": 50,
         "attack": 60,
@@ -61,21 +62,45 @@
         "#6dc04c",
         "#953a93"
     ],
-    "short_description": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+    "short_description": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel.",
     "habitat": "grassland",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "budew",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "roselia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "roserade",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         }
     ]
 }

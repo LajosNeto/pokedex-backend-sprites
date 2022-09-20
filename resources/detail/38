@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/038Ninetales.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/38.wav",
     "base_stats": {
         "hp": 73,
         "attack": 76,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature.",
+    "short_description": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
     "habitat": "grassland",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "vulpix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "ninetales",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         }
     ]
 }

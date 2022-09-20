@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/571Zoroark.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/571.wav",
     "base_stats": {
         "hp": 60,
         "attack": 105,
@@ -51,17 +52,29 @@
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them.",
+    "short_description": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "zorua",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/570.png",
+            "types": [
+                "dark"
+            ],
+            "types_colors": [
+                "#644e40"
+            ]
         },
         {
             "name": "zoroark",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/571.png",
+            "types": [
+                "dark"
+            ],
+            "types_colors": [
+                "#644e40"
+            ]
         }
     ]
 }

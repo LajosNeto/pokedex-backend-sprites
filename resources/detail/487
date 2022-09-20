@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c5/487Giratina-Altered.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/487.wav",
     "base_stats": {
         "hp": 150,
         "attack": 100,
@@ -57,13 +58,21 @@
         "#654e8c",
         "#6630f3"
     ],
-    "short_description": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+    "short_description": "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "giratina",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png",
+            "types": [
+                "ghost",
+                "dragon"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#6630f3"
+            ]
         }
     ]
 }

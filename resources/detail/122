@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ec/122Mr._Mime.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/122.wav",
     "base_stats": {
         "hp": 40,
         "attack": 45,
@@ -61,21 +62,45 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "short_description": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
     "habitat": "urban",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "mime-jr",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "mr-mime",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "mr-rime",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png",
+            "types": [
+                "ice",
+                "psychic"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#f6527e"
+            ]
         }
     ]
 }

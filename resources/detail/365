@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "239"
+            "value": "265"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/61/365Walrein.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/365.wav",
     "base_stats": {
         "hp": 110,
         "attack": 80,
@@ -61,21 +62,45 @@
         "#8ed2d2",
         "#5f84ea"
     ],
-    "short_description": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+    "short_description": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "spheal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "sealeo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "walrein",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         }
     ]
 }

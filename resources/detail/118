@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7b/118Goldeen.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/118.wav",
     "base_stats": {
         "hp": 45,
         "attack": 67,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "goldeen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/118.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "seaking",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/119.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/119.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

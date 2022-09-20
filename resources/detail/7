@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/39/007Squirtle.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/7.wav",
     "base_stats": {
         "hp": 44,
         "attack": 48,
@@ -61,15 +62,33 @@
     "evolution_chain": [
         {
             "name": "squirtle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/7.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "wartortle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/8.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/8.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "blastoise",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/9.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/9.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

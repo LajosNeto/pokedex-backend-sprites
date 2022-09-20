@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/870.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/870Falinks.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 65,
         "attack": 100,
@@ -61,7 +62,13 @@
     "evolution_chain": [
         {
             "name": "falinks",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/870.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/870.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         }
     ]
 }

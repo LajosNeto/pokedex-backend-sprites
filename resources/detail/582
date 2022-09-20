@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3f/582Vanillite.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/582.wav",
     "base_stats": {
         "hp": 36,
         "attack": 50,
@@ -65,15 +66,33 @@
     "evolution_chain": [
         {
             "name": "vanillite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/582.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "vanillish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/583.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/583.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "vanilluxe",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/584.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/584.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         }
     ]
 }

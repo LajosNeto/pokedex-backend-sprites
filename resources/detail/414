@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/18/414Mothim.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/414.wav",
     "base_stats": {
         "hp": 70,
         "attack": 94,
@@ -57,21 +58,43 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "It flutters around at night and steals honey from the Combee hive.",
+    "short_description": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.",
     "habitat": "",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "burmy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/412.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "wormadam",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/413.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         },
         {
             "name": "mothim",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/414.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/98/074Geodude.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/74.wav",
     "base_stats": {
         "hp": 40,
         "attack": 80,
@@ -61,21 +62,45 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you’ll be in for a painful shock.",
+    "short_description": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.",
     "habitat": "mountain",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "geodude",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "graveler",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "golem",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         }
     ]
 }

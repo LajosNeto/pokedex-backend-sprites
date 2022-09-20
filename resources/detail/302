@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d3/302Sableye.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/302.wav",
     "base_stats": {
         "hp": 50,
         "attack": 75,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "sableye",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
+            "types": [
+                "dark",
+                "ghost"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#654e8c"
+            ]
         }
     ]
 }

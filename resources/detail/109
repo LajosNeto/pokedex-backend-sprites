@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/109Koffing.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/109.wav",
     "base_stats": {
         "hp": 40,
         "attack": 65,
@@ -43,6 +44,14 @@
         {
             "name": "Levitate",
             "description": "Evades ground moves."
+        },
+        {
+            "name": "Neutralizing Gas",
+            "description": ""
+        },
+        {
+            "name": "Stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
         }
     ],
     "types": [
@@ -57,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "koffing",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "weezing",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         }
     ]
 }

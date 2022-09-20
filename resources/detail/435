@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/435Skuntank.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/435.wav",
     "base_stats": {
         "hp": 103,
         "attack": 93,
@@ -61,17 +62,33 @@
         "#953a93",
         "#644e40"
     ],
-    "short_description": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+    "short_description": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "stunky",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         },
         {
             "name": "skuntank",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         }
     ]
 }

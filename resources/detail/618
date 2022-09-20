@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/618Stunfisk.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/618.wav",
     "base_stats": {
         "hp": 109,
         "attack": 66,
@@ -61,13 +62,21 @@
         "#dbb963",
         "#f6cb3b"
     ],
-    "short_description": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.",
+    "short_description": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "stunfisk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/618.png",
+            "types": [
+                "ground",
+                "electric"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#f6cb3b"
+            ]
         }
     ]
 }

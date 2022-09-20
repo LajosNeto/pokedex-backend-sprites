@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/020Raticate.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/20.wav",
     "base_stats": {
         "hp": 55,
         "attack": 81,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "rattata",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/19.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/19.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "raticate",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/20.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

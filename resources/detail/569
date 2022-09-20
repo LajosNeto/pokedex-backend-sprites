@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c4/569Garbodor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/569.wav",
     "base_stats": {
         "hp": 80,
         "attack": 95,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "trubbish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/568.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/568.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "garbodor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/569.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         }
     ]
 }

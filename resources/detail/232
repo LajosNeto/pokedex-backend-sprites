@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/232Donphan.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/232.wav",
     "base_stats": {
         "hp": 90,
         "attack": 120,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "phanpy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "donphan",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         }
     ]
 }

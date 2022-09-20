@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f4/035Clefairy.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/35.wav",
     "base_stats": {
         "hp": 70,
         "attack": 45,
@@ -59,21 +60,39 @@
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+    "short_description": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.",
     "habitat": "mountain",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "cleffa",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "clefairy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "clefable",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

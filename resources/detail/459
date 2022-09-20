@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/459Snover.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/459.wav",
     "base_stats": {
         "hp": 60,
         "attack": 62,
@@ -57,17 +58,33 @@
         "#6dc04c",
         "#8ed2d2"
     ],
-    "short_description": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+    "short_description": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "snover",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png",
+            "types": [
+                "grass",
+                "ice"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#8ed2d2"
+            ]
         },
         {
             "name": "abomasnow",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png",
+            "types": [
+                "grass",
+                "ice"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#8ed2d2"
+            ]
         }
     ]
 }

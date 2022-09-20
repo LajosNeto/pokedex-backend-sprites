@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d4/374Beldum.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/374.wav",
     "base_stats": {
         "hp": 40,
         "attack": 55,
@@ -57,21 +58,45 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
+    "short_description": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.",
     "habitat": "rough-terrain",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "beldum",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png",
+            "types": [
+                "steel",
+                "psychic"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#f6527e"
+            ]
         },
         {
             "name": "metang",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png",
+            "types": [
+                "steel",
+                "psychic"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#f6527e"
+            ]
         },
         {
             "name": "metagross",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png",
+            "types": [
+                "steel",
+                "psychic"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#f6527e"
+            ]
         }
     ]
 }

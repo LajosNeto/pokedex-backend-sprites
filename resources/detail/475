@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "233"
+            "value": "259"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/475.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/58/475Gallade.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/475.wav",
     "base_stats": {
         "hp": 68,
         "attack": 125,
@@ -57,21 +58,45 @@
         "#f6527e",
         "#b72f29"
     ],
-    "short_description": "Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.",
+    "short_description": "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "ralts",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "kirlia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "gardevoir",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         }
     ]
 }

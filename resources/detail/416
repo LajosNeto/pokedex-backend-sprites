@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/416Vespiquen.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/416.wav",
     "base_stats": {
         "hp": 70,
         "attack": 80,
@@ -57,17 +58,33 @@
         "#9daf2b",
         "#9e85eb"
     ],
-    "short_description": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
+    "short_description": "Commands its subjects to build its hive. It will dispatch any interlopers who dare sneak into its nest and use them as nourishment for itself.",
     "habitat": "",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "combee",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/415.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         },
         {
             "name": "vespiquen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/416.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         }
     ]
 }

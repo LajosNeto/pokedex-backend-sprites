@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/113Chansey.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/113.wav",
     "base_stats": {
         "hp": 250,
         "attack": 5,
@@ -59,21 +60,39 @@
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
+    "short_description": "This purehearted Pokémon shares its eggs with the injured.",
     "habitat": "urban",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "happiny",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/440.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "chansey",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/113.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "blissey",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/242.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/242.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

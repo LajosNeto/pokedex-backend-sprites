@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/885Dreepy.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 28,
         "attack": 60,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "dreepy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#654e8c"
+            ]
         },
         {
             "name": "drakloak",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#654e8c"
+            ]
         },
         {
             "name": "dragapult",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#654e8c"
+            ]
         }
     ]
 }

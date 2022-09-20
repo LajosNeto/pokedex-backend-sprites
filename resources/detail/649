@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/46/649Genesect.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/649.wav",
     "base_stats": {
         "hp": 71,
         "attack": 120,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "genesect",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/649.png",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#afafc9"
+            ]
         }
     ]
 }

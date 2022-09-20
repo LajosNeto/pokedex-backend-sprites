@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/372Shelgon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/372.wav",
     "base_stats": {
         "hp": 65,
         "attack": 95,
@@ -55,21 +56,41 @@
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
+    "short_description": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
     "habitat": "rough-terrain",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "bagon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "shelgon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "salamence",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png",
+            "types": [
+                "dragon",
+                "flying"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#9e85eb"
+            ]
         }
     ]
 }

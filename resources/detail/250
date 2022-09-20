@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/250.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/250Ho-Oh.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/250.wav",
     "base_stats": {
         "hp": 106,
         "attack": 130,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "ho-oh",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/250.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/250.png",
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e85eb"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/895Regidrago.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 200,
         "attack": 100,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "regidrago",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         }
     ]
 }

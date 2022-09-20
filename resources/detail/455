@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/455.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/455Carnivine.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/455.wav",
     "base_stats": {
         "hp": 74,
         "attack": 100,
@@ -51,13 +52,19 @@
     "types_colors": [
         "#6dc04c"
     ],
-    "short_description": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+    "short_description": "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "carnivine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/455.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/455.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         }
     ]
 }

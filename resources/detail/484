@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/66/484Palkia.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/484.wav",
     "base_stats": {
         "hp": 90,
         "attack": 120,
@@ -57,13 +58,21 @@
         "#5f84ea",
         "#6630f3"
     ],
-    "short_description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "short_description": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "palkia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#6630f3"
+            ]
         }
     ]
 }

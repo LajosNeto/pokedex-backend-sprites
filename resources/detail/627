@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/627Rufflet.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/627.wav",
     "base_stats": {
         "hp": 70,
         "attack": 83,
@@ -61,17 +62,33 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries.",
+    "short_description": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "rufflet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/627.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "braviary",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/628.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/628.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

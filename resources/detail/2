@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/73/002Ivysaur.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/2.wav",
     "base_stats": {
         "hp": 60,
         "attack": 62,
@@ -63,15 +64,39 @@
     "evolution_chain": [
         {
             "name": "bulbasaur",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "ivysaur",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "venusaur",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/3.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/3.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         }
     ]
 }

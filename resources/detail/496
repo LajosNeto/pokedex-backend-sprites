@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/496.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/73/496Servine.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/496.wav",
     "base_stats": {
         "hp": 60,
         "attack": 60,
@@ -61,15 +62,33 @@
     "evolution_chain": [
         {
             "name": "snivy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/495.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/495.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "servine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/496.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/496.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "serperior",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/497.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/497.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         }
     ]
 }

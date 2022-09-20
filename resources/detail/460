@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/460Abomasnow.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/460.wav",
     "base_stats": {
         "hp": 90,
         "attack": 92,
@@ -57,17 +58,33 @@
         "#6dc04c",
         "#8ed2d2"
     ],
-    "short_description": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+    "short_description": "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "snover",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/459.png",
+            "types": [
+                "grass",
+                "ice"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#8ed2d2"
+            ]
         },
         {
             "name": "abomasnow",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/460.png",
+            "types": [
+                "grass",
+                "ice"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#8ed2d2"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "235"
+            "value": "262"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a7/405Luxray.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/405.wav",
     "base_stats": {
         "hp": 80,
         "attack": 120,
@@ -59,21 +60,39 @@
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.",
+    "short_description": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "shinx",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/403.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/403.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "luxio",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/404.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/404.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "luxray",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/34/345Lileep.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/345.wav",
     "base_stats": {
         "hp": 66,
         "attack": 41,
@@ -57,17 +58,33 @@
         "#af9539",
         "#6dc04c"
     ],
-    "short_description": "It sticks to rocks with its powerful suckers and can’t be washed away no matter how rough the surf gets.",
+    "short_description": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
     "habitat": "sea",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "lileep",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png",
+            "types": [
+                "rock",
+                "grass"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6dc04c"
+            ]
         },
         {
             "name": "cradily",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png",
+            "types": [
+                "rock",
+                "grass"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6dc04c"
+            ]
         }
     ]
 }

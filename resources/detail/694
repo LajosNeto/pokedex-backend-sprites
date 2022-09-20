@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/51/694Helioptile.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/694.wav",
     "base_stats": {
         "hp": 44,
         "attack": 38,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "helioptile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png",
+            "types": [
+                "electric",
+                "normal"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#9e9e6f"
+            ]
         },
         {
             "name": "heliolisk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png",
+            "types": [
+                "electric",
+                "normal"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#9e9e6f"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/698.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2a/698Amaura.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/698.wav",
     "base_stats": {
         "hp": 77,
         "attack": 59,
@@ -57,17 +58,33 @@
         "#af9539",
         "#8ed2d2"
     ],
-    "short_description": "Amaura was restored successfully, but it’s not expected to live long because of the heat of the current environment.",
+    "short_description": "Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "amaura",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/698.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/698.png",
+            "types": [
+                "rock",
+                "ice"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#8ed2d2"
+            ]
         },
         {
             "name": "aurorus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/699.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/699.png",
+            "types": [
+                "rock",
+                "ice"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#8ed2d2"
+            ]
         }
     ]
 }

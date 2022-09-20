@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/338.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/90/338Solrock.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/338.wav",
     "base_stats": {
         "hp": 90,
         "attack": 95,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "solrock",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/338.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/338.png",
+            "types": [
+                "rock",
+                "psychic"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#f6527e"
+            ]
         }
     ]
 }

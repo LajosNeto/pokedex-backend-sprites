@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/04/713Avalugg.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/713.wav",
     "base_stats": {
         "hp": 95,
         "attack": 117,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.",
+    "short_description": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "bergmite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/712.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/712.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "avalugg",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/713.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/436Bronzor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/436.wav",
     "base_stats": {
         "hp": 57,
         "attack": 24,
@@ -61,17 +62,33 @@
         "#afafc9",
         "#f6527e"
     ],
-    "short_description": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+    "short_description": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "bronzor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/436.png",
+            "types": [
+                "steel",
+                "psychic"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#f6527e"
+            ]
         },
         {
             "name": "bronzong",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/437.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/437.png",
+            "types": [
+                "steel",
+                "psychic"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#f6527e"
+            ]
         }
     ]
 }

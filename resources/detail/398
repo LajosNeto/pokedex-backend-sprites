@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5e/398Staraptor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/398.wav",
     "base_stats": {
         "hp": 85,
         "attack": 120,
@@ -57,21 +58,45 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+    "short_description": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "starly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/396.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/396.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "staravia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/397.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/397.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "staraptor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/398.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

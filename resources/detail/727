@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "239"
+            "value": "265"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/27/727Incineroar.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/727.wav",
     "base_stats": {
         "hp": 95,
         "attack": 115,
@@ -63,15 +64,35 @@
     "evolution_chain": [
         {
             "name": "litten",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/725.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/725.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "torracat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/726.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/726.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "incineroar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/727.png",
+            "types": [
+                "fire",
+                "dark"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#644e40"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/75/434Stunky.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/434.wav",
     "base_stats": {
         "hp": 63,
         "attack": 63,
@@ -61,17 +62,33 @@
         "#953a93",
         "#644e40"
     ],
-    "short_description": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.",
+    "short_description": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "stunky",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         },
         {
             "name": "skuntank",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         }
     ]
 }

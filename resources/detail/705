@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/95/705Sliggoo.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/705.wav",
     "base_stats": {
         "hp": 68,
         "attack": 75,
@@ -59,21 +60,39 @@
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
+    "short_description": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "goomy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "sliggoo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "goodra",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         }
     ]
 }

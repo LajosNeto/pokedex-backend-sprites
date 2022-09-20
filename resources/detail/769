@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f0/769Sandygast.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/769.wav",
     "base_stats": {
         "hp": 55,
         "attack": 55,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "sandygast",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png",
+            "types": [
+                "ghost",
+                "ground"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#dbb963"
+            ]
         },
         {
             "name": "palossand",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/770.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/770.png",
+            "types": [
+                "ghost",
+                "ground"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#dbb963"
+            ]
         }
     ]
 }

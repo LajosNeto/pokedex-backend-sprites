@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/621Druddigon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/621.wav",
     "base_stats": {
         "hp": 77,
         "attack": 120,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "druddigon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/621.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         }
     ]
 }

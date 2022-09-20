@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/876Indeedee.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 60,
         "attack": 65,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "indeedee",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/876.png",
+            "types": [
+                "psychic",
+                "normal"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#9e9e6f"
+            ]
         }
     ]
 }

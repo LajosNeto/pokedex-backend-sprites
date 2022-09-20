@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/891Kubfu.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 60,
         "attack": 90,
@@ -57,11 +58,25 @@
     "evolution_chain": [
         {
             "name": "kubfu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         },
         {
             "name": "urshifu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
+            "types": [
+                "fighting",
+                "dark"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#644e40"
+            ]
         }
     ]
 }

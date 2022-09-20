@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/364Sealeo.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/364.wav",
     "base_stats": {
         "hp": 90,
         "attack": 60,
@@ -61,21 +62,45 @@
         "#8ed2d2",
         "#5f84ea"
     ],
-    "short_description": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
+    "short_description": "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "spheal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "sealeo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "walrein",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         }
     ]
 }

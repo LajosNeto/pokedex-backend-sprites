@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/15/776Turtonator.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/776.wav",
     "base_stats": {
         "hp": 60,
         "attack": 78,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "turtonator",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png",
+            "types": [
+                "fire",
+                "dragon"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#6630f3"
+            ]
         }
     ]
 }

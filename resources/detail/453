@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fa/453Croagunk.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/453.wav",
     "base_stats": {
         "hp": 48,
         "attack": 61,
@@ -61,17 +62,33 @@
         "#953a93",
         "#b72f29"
     ],
-    "short_description": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
+    "short_description": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "croagunk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png",
+            "types": [
+                "poison",
+                "fighting"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#b72f29"
+            ]
         },
         {
             "name": "toxicroak",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png",
+            "types": [
+                "poison",
+                "fighting"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#b72f29"
+            ]
         }
     ]
 }

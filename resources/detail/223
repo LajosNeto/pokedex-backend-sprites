@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/223.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/95/223Remoraid.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/223.wav",
     "base_stats": {
         "hp": 35,
         "attack": 65,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
+    "short_description": "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle.",
     "habitat": "sea",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "remoraid",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/223.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/223.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "octillery",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/224.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/224.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

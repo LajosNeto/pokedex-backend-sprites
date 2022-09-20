@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/266Silcoon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/266.wav",
     "base_stats": {
         "hp": 50,
         "attack": 35,
@@ -51,21 +52,39 @@
     "types_colors": [
         "#9daf2b"
     ],
-    "short_description": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.",
+    "short_description": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard.",
     "habitat": "forest",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "wurmple",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "silcoon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "cascoon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         }
     ]
 }

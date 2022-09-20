@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9f/033Nidorino.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/33.wav",
     "base_stats": {
         "hp": 61,
         "attack": 72,
@@ -59,21 +60,41 @@
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
+    "short_description": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
     "habitat": "grassland",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "nidoran-m",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidorino",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidoking",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#dbb963"
+            ]
         }
     ]
 }

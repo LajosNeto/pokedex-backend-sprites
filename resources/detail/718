@@ -1,6 +1,6 @@
 {
     "id": 718,
-    "name_en": "zygarde",
+    "name_en": "zygarde-50",
     "name_ja": "ジガルデ",
     "attributes": [
         {
@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3a/718Zygarde.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/718.wav",
     "base_stats": {
         "hp": 108,
         "attack": 100,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "zygarde",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         }
     ]
 }

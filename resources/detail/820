@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/820.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/820Greedent.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 120,
         "attack": 95,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "skwovet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/819.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/819.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "greedent",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/820.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/820.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

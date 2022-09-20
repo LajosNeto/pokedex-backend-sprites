@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/432.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/432Purugly.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/432.wav",
     "base_stats": {
         "hp": 71,
         "attack": 82,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+    "short_description": "Though impudent and difficult to tame, Purugly enjoys great popularity due to its fur, the beauty of which surpasses even velveteen.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "glameow",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/431.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/431.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "purugly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/432.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/432.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

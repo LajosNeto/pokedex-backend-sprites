@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/280Ralts.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/280.wav",
     "base_stats": {
         "hp": 28,
         "attack": 25,
@@ -61,21 +62,45 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+    "short_description": "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research.",
     "habitat": "urban",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "ralts",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "kirlia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "gardevoir",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         }
     ]
 }

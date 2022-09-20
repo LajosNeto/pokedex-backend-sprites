@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/785Tapu_Koko.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/785.wav",
     "base_stats": {
         "hp": 70,
         "attack": 115,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "tapu-koko",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png",
+            "types": [
+                "electric",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#eb90a4"
+            ]
         }
     ]
 }

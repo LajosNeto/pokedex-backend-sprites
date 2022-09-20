@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "221"
+            "value": "245"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/182.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/182Bellossom.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/182.wav",
     "base_stats": {
         "hp": 75,
         "attack": 80,
@@ -61,15 +62,39 @@
     "evolution_chain": [
         {
             "name": "oddish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "gloom",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "vileplume",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         }
     ]
 }

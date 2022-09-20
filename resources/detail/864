@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/db/864Cursola.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 60,
         "attack": 95,
@@ -61,11 +62,25 @@
     "evolution_chain": [
         {
             "name": "corsola",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         },
         {
             "name": "cursola",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         }
     ]
 }

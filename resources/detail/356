@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/356Dusclops.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/356.wav",
     "base_stats": {
         "hp": 40,
         "attack": 70,
@@ -55,21 +56,39 @@
     "types_colors": [
         "#654e8c"
     ],
-    "short_description": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+    "short_description": "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify.",
     "habitat": "forest",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "duskull",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/355.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "dusclops",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/356.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "dusknoir",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/477.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/539.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a8/539Sawk.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/539.wav",
     "base_stats": {
         "hp": 75,
         "attack": 125,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "sawk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/539.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/539.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         }
     ]
 }

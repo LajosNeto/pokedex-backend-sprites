@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/080Slowbro.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/80.wav",
     "base_stats": {
         "hp": 95,
         "attack": 75,
@@ -61,21 +62,45 @@
         "#5f84ea",
         "#f6527e"
     ],
-    "short_description": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.",
+    "short_description": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
     "habitat": "waters-edge",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "slowpoke",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         },
         {
             "name": "slowbro",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         },
         {
             "name": "slowking",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         }
     ]
 }

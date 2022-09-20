@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/339Barboach.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/339.wav",
     "base_stats": {
         "hp": 50,
         "attack": 48,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#dbb963"
     ],
-    "short_description": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+    "short_description": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
     "habitat": "waters-edge",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "barboach",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         },
         {
             "name": "whiscash",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         }
     ]
 }

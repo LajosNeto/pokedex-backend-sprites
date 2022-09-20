@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/378.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fe/378Regice.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/378.wav",
     "base_stats": {
         "hp": 80,
         "attack": 50,
@@ -55,13 +56,19 @@
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+    "short_description": "This Pokémon’s body is made of solid ice. It’s said that Regice was born beneath thick ice in the ice age.",
     "habitat": "cave",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "regice",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/378.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/378.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         }
     ]
 }

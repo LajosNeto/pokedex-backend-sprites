@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/832.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9a/832Dubwool.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 72,
         "attack": 80,
@@ -45,8 +46,8 @@
             "description": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
         },
         {
-            "name": "Run Away",
-            "description": "Ensures success fleeing from wild battles."
+            "name": "Steadfast",
+            "description": "Raises Speed one stage upon flinching."
         },
         {
             "name": "Bulletproof",
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "wooloo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/831.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/831.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "dubwool",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/832.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/832.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

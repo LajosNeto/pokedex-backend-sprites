@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/ca/092Gastly.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/92.wav",
     "base_stats": {
         "hp": 30,
         "attack": 35,
@@ -53,21 +54,45 @@
         "#654e8c",
         "#953a93"
     ],
-    "short_description": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+    "short_description": "Gaseous and completely impalpable. Also highly dangerous— inhaling part of its poisonous body will cause one to faint instantly.",
     "habitat": "cave",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "gastly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         },
         {
             "name": "haunter",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         },
         {
             "name": "gengar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         }
     ]
 }

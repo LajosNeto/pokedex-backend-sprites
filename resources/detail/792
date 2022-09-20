@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/792.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/792Lunala.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/792.wav",
     "base_stats": {
         "hp": 137,
         "attack": 113,
@@ -59,15 +60,35 @@
     "evolution_chain": [
         {
             "name": "cosmog",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         },
         {
             "name": "cosmoem",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         },
         {
             "name": "solgaleo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png",
+            "types": [
+                "psychic",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#afafc9"
+            ]
         }
     ]
 }

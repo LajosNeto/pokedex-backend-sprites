@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/131.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ab/131Lapras.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/131.wav",
     "base_stats": {
         "hp": 130,
         "attack": 85,
@@ -61,13 +62,21 @@
         "#5f84ea",
         "#8ed2d2"
     ],
-    "short_description": "It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.",
+    "short_description": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "lapras",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/131.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/131.png",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#8ed2d2"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/795.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/795Pheromosa.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/795.wav",
     "base_stats": {
         "hp": 71,
         "attack": 137,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "pheromosa",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/795.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/795.png",
+            "types": [
+                "bug",
+                "fighting"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#b72f29"
+            ]
         }
     ]
 }

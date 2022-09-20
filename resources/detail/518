@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2d/518Musharna.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/518.wav",
     "base_stats": {
         "hp": 116,
         "attack": 55,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "munna",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/517.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/517.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         },
         {
             "name": "musharna",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/518.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         }
     ]
 }

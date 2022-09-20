@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/40/881Arctozolt.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 90,
         "attack": 100,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "arctozolt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
+            "types": [
+                "electric",
+                "ice"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#8ed2d2"
+            ]
         }
     ]
 }

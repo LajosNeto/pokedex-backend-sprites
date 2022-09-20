@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/00/359Absol.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/359.wav",
     "base_stats": {
         "hp": 65,
         "attack": 130,
@@ -59,13 +60,19 @@
     "types_colors": [
         "#644e40"
     ],
-    "short_description": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
+    "short_description": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
     "habitat": "mountain",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "absol",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png",
+            "types": [
+                "dark"
+            ],
+            "types_colors": [
+                "#644e40"
+            ]
         }
     ]
 }

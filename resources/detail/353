@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4b/353Shuppet.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/353.wav",
     "base_stats": {
         "hp": 44,
         "attack": 75,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "shuppet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/353.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "banette",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/354.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         }
     ]
 }

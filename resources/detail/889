@@ -1,6 +1,6 @@
 {
     "id": 889,
-    "name_en": "zamazenta-hero",
+    "name_en": "zamazenta",
     "name_ja": "ザマゼンタ",
     "attributes": [
         {
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/97/889Zamazenta-Hero.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 92,
         "attack": 130,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "zamazenta",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/46/430Honchkrow.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/430.wav",
     "base_stats": {
         "hp": 100,
         "attack": 125,
@@ -61,17 +62,33 @@
         "#644e40",
         "#9e85eb"
     ],
-    "short_description": "Its goons take care of most of the fighting for it. The only time it dirties its own hands is in delivering a final blow to finish off an opponent.",
+    "short_description": "One cry from this Pokémon, and a murder of Murkrow come flying. At such times, one would think the curtain of night had fallen, plunging the world into jet-black darkness.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "murkrow",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png",
+            "types": [
+                "dark",
+                "flying"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#9e85eb"
+            ]
         },
         {
             "name": "honchkrow",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png",
+            "types": [
+                "dark",
+                "flying"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#9e85eb"
+            ]
         }
     ]
 }

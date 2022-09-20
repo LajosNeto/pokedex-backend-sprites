@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0c/823Corviknight.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 98,
         "attack": 87,
@@ -67,15 +68,35 @@
     "evolution_chain": [
         {
             "name": "rookidee",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/821.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/821.png",
+            "types": [
+                "flying"
+            ],
+            "types_colors": [
+                "#9e85eb"
+            ]
         },
         {
             "name": "corvisquire",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/822.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/822.png",
+            "types": [
+                "flying"
+            ],
+            "types_colors": [
+                "#9e85eb"
+            ]
         },
         {
             "name": "corviknight",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/823.png",
+            "types": [
+                "flying",
+                "steel"
+            ],
+            "types_colors": [
+                "#9e85eb",
+                "#afafc9"
+            ]
         }
     ]
 }

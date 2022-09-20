@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a8/319Sharpedo.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/319.wav",
     "base_stats": {
         "hp": 70,
         "attack": 120,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "carvanha",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#644e40"
+            ]
         },
         {
             "name": "sharpedo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#644e40"
+            ]
         }
     ]
 }

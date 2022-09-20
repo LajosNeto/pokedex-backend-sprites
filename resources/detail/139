@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/43/139Omastar.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/139.wav",
     "base_stats": {
         "hp": 70,
         "attack": 60,
@@ -61,17 +62,33 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
+    "short_description": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "omanyte",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         },
         {
             "name": "omastar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         }
     ]
 }

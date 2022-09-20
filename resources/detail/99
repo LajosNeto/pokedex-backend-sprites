@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/99.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/099Kingler.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/99.wav",
     "base_stats": {
         "hp": 55,
         "attack": 130,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.",
+    "short_description": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
     "habitat": "waters-edge",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "krabby",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/98.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/98.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "kingler",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/99.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/99.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

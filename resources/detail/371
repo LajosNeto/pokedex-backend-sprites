@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/371Bagon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/371.wav",
     "base_stats": {
         "hp": 45,
         "attack": 75,
@@ -55,21 +56,41 @@
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution.",
+    "short_description": "Bagon is a solitary Pokémon that doesn’t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.",
     "habitat": "rough-terrain",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "bagon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "shelgon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "salamence",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png",
+            "types": [
+                "dragon",
+                "flying"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#9e85eb"
+            ]
         }
     ]
 }

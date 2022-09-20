@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/614.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/40/614Beartic.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/614.wav",
     "base_stats": {
         "hp": 95,
         "attack": 130,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "cubchoo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/613.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/613.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "beartic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/614.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/614.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         }
     ]
 }

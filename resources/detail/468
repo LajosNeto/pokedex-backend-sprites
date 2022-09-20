@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "245"
+            "value": "273"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/87/468Togekiss.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/468.wav",
     "base_stats": {
         "hp": 85,
         "attack": 50,
@@ -61,21 +62,43 @@
         "#eb90a4",
         "#9e85eb"
     ],
-    "short_description": "Known as a bringer of blessings, it’s been depicted on good-luck charms since ancient times.",
+    "short_description": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "togepi",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "togetic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         },
         {
             "name": "togekiss",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         }
     ]
 }

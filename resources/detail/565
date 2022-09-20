@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/565Carracosta.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/565.wav",
     "base_stats": {
         "hp": 74,
         "attack": 108,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#af9539"
     ],
-    "short_description": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
+    "short_description": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "tirtouga",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         },
         {
             "name": "carracosta",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#af9539"
+            ]
         }
     ]
 }

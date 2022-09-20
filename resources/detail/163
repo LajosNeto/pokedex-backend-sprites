@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/53/163Hoothoot.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/163.wav",
     "base_stats": {
         "hp": 60,
         "attack": 30,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "hoothoot",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/163.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "noctowl",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/164.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/164.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

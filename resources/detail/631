@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b0/631Heatmor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/631.wav",
     "base_stats": {
         "hp": 85,
         "attack": 97,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "heatmor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/631.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         }
     ]
 }

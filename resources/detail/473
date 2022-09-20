@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "239"
+            "value": "265"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d0/473Mamoswine.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/473.wav",
     "base_stats": {
         "hp": 110,
         "attack": 130,
@@ -61,21 +62,45 @@
         "#8ed2d2",
         "#dbb963"
     ],
-    "short_description": "It looks strong, and that’s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.",
+    "short_description": "This species reached its zenith during the period known as the ice age. I suspect that Hisui's frigid climate is in harmony with Mamoswine's constitution, thus awakening hidden potential.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "swinub",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#dbb963"
+            ]
         },
         {
             "name": "piloswine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#dbb963"
+            ]
         },
         {
             "name": "mamoswine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#dbb963"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/890Eternatus.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 140,
         "attack": 85,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "eternatus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#6630f3"
+            ]
         }
     ]
 }

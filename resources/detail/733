@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/78/733Toucannon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/733.wav",
     "base_stats": {
         "hp": 80,
         "attack": 120,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "pikipek",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "trumbeak",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         },
         {
             "name": "toucannon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

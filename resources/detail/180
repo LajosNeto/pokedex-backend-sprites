@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/180.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6f/180Flaaffy.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/180.wav",
     "base_stats": {
         "hp": 70,
         "attack": 55,
@@ -61,15 +62,33 @@
     "evolution_chain": [
         {
             "name": "mareep",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/179.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "flaaffy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/180.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/180.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "ampharos",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/181.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

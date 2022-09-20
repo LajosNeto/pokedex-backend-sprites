@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/458.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bc/458Mantyke.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/458.wav",
     "base_stats": {
         "hp": 45,
         "attack": 20,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "It swims along with a school of Remoraid, and they’ll all fight together to repel attackers.",
+    "short_description": "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "mantyke",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/458.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/458.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         },
         {
             "name": "mantine",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/226.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/226.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         }
     ]
 }

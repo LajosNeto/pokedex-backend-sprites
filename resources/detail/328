@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/328Trapinch.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/328.wav",
     "base_stats": {
         "hp": 45,
         "attack": 100,
@@ -65,15 +66,37 @@
     "evolution_chain": [
         {
             "name": "trapinch",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "vibrava",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/329.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/329.png",
+            "types": [
+                "ground",
+                "dragon"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#6630f3"
+            ]
         },
         {
             "name": "flygon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png",
+            "types": [
+                "ground",
+                "dragon"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#6630f3"
+            ]
         }
     ]
 }

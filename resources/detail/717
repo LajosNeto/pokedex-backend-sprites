@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/54/717Yveltal.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/717.wav",
     "base_stats": {
         "hp": 126,
         "attack": 131,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "yveltal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png",
+            "types": [
+                "dark",
+                "flying"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#9e85eb"
+            ]
         }
     ]
 }

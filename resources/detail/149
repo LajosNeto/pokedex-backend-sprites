@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/149Dragonite.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/149.wav",
     "base_stats": {
         "hp": 91,
         "attack": 134,
@@ -57,21 +58,41 @@
         "#6630f3",
         "#9e85eb"
     ],
-    "short_description": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
+    "short_description": "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
     "habitat": "waters-edge",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "dratini",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "dragonair",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "dragonite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
+            "types": [
+                "dragon",
+                "flying"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#9e85eb"
+            ]
         }
     ]
 }

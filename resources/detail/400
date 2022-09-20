@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/91/400Bibarel.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/400.wav",
     "base_stats": {
         "hp": 79,
         "attack": 85,
@@ -61,17 +62,31 @@
         "#9e9e6f",
         "#5f84ea"
     ],
-    "short_description": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+    "short_description": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "bidoof",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "bibarel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
+            "types": [
+                "normal",
+                "water"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#5f84ea"
+            ]
         }
     ]
 }

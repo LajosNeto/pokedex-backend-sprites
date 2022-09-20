@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/84/101Electrode.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/101.wav",
     "base_stats": {
         "hp": 60,
         "attack": 50,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#f6cb3b"
     ],
-    "short_description": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+    "short_description": "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.",
     "habitat": "urban",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "voltorb",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/100.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/100.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "electrode",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/101.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

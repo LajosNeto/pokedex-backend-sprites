@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/561.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/561Sigilyph.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/561.wav",
     "base_stats": {
         "hp": 72,
         "attack": 58,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "sigilyph",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/561.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/561.png",
+            "types": [
+                "psychic",
+                "flying"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#9e85eb"
+            ]
         }
     ]
 }

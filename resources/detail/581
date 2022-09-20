@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/581Swanna.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/581.wav",
     "base_stats": {
         "hp": 75,
         "attack": 87,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "ducklett",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         },
         {
             "name": "swanna",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         }
     ]
 }

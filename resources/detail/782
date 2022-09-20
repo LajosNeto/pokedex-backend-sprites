@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a0/782Jangmo-o.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/782.wav",
     "base_stats": {
         "hp": 45,
         "attack": 55,
@@ -65,15 +66,37 @@
     "evolution_chain": [
         {
             "name": "jangmo-o",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "hakamo-o",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png",
+            "types": [
+                "dragon",
+                "fighting"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#b72f29"
+            ]
         },
         {
             "name": "kommo-o",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png",
+            "types": [
+                "dragon",
+                "fighting"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#b72f29"
+            ]
         }
     ]
 }

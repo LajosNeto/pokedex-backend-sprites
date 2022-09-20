@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/563Cofagrigus.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/563.wav",
     "base_stats": {
         "hp": 58,
         "attack": 50,
@@ -57,15 +58,35 @@
     "evolution_chain": [
         {
             "name": "yamask",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/562.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "cofagrigus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/563.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "runerigus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/867.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/867.png",
+            "types": [
+                "ground",
+                "ghost"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#654e8c"
+            ]
         }
     ]
 }

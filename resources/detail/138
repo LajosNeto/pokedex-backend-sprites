@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/138Omanyte.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/138.wav",
     "base_stats": {
         "hp": 35,
         "attack": 40,
@@ -61,17 +62,33 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+    "short_description": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "omanyte",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         },
         {
             "name": "omastar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/67/787Tapu_Bulu.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/787.wav",
     "base_stats": {
         "hp": 70,
         "attack": 130,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "tapu-bulu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#eb90a4"
+            ]
         }
     ]
 }

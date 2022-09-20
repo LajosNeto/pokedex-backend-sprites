@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e2/410Shieldon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/410.wav",
     "base_stats": {
         "hp": 30,
         "attack": 42,
@@ -57,17 +58,33 @@
         "#af9539",
         "#afafc9"
     ],
-    "short_description": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
+    "short_description": "Much remains unknown about this Pokémon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "shieldon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/410.png",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#afafc9"
+            ]
         },
         {
             "name": "bastiodon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/411.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/411.png",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#afafc9"
+            ]
         }
     ]
 }

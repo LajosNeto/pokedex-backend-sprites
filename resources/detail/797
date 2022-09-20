@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/89/797Celesteela.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/797.wav",
     "base_stats": {
         "hp": 97,
         "attack": 101,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "celesteela",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/797.png",
+            "types": [
+                "steel",
+                "flying"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#9e85eb"
+            ]
         }
     ]
 }

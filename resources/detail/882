@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/16/882Dracovish.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 90,
         "attack": 90,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "dracovish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#6630f3"
+            ]
         }
     ]
 }

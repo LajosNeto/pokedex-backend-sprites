@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f8/187Hoppip.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/187.wav",
     "base_stats": {
         "hp": 35,
         "attack": 35,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "hoppip",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "skiploom",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "jumpluff",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         }
     ]
 }

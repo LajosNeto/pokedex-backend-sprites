@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/836.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/836Boltund.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 69,
         "attack": 90,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "yamper",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/835.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/835.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "boltund",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/836.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/836.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

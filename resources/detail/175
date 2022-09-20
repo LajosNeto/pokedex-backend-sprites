@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/175Togepi.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/175.wav",
     "base_stats": {
         "hp": 35,
         "attack": 20,
@@ -59,21 +60,43 @@
     "types_colors": [
         "#eb90a4"
     ],
-    "short_description": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+    "short_description": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
     "habitat": "forest",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "togepi",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         },
         {
             "name": "togetic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         },
         {
             "name": "togekiss",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
+            "types": [
+                "fairy",
+                "flying"
+            ],
+            "types_colors": [
+                "#eb90a4",
+                "#9e85eb"
+            ]
         }
     ]
 }

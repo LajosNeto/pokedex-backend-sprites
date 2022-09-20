@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0e/543Venipede.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/543.wav",
     "base_stats": {
         "hp": 30,
         "attack": 45,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "venipede",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         },
         {
             "name": "whirlipede",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         },
         {
             "name": "scolipede",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         }
     ]
 }

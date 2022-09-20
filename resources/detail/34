@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "227"
+            "value": "253"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c6/034Nidoking.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/34.wav",
     "base_stats": {
         "hp": 81,
         "attack": 102,
@@ -61,21 +62,41 @@
         "#953a93",
         "#dbb963"
     ],
-    "short_description": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+    "short_description": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
     "habitat": "grassland",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "nidoran-m",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidorino",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidoking",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#dbb963"
+            ]
         }
     ]
 }

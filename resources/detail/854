@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b1/854Sinistea.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 40,
         "attack": 45,
@@ -61,11 +62,23 @@
     "evolution_chain": [
         {
             "name": "sinistea",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         },
         {
             "name": "polteageist",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/41/130Gyarados.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/130.wav",
     "base_stats": {
         "hp": 95,
         "attack": 125,
@@ -57,17 +58,31 @@
         "#5f84ea",
         "#9e85eb"
     ],
-    "short_description": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
+    "short_description": "I suspect this Pokémon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw.",
     "habitat": "waters-edge",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "magikarp",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "gyarados",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         }
     ]
 }

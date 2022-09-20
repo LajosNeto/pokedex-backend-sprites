@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1d/091Cloyster.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/91.wav",
     "base_stats": {
         "hp": 50,
         "attack": 95,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "shellder",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "cloyster",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#8ed2d2"
+            ]
         }
     ]
 }

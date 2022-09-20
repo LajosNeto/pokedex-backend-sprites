@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/14/745Lycanroc.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 75,
         "attack": 115,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "rockruff",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "lycanroc",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         }
     ]
 }

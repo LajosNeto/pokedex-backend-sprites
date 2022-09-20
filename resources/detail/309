@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/309Electrike.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/309.wav",
     "base_stats": {
         "hp": 40,
         "attack": 45,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "electrike",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         },
         {
             "name": "manectric",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

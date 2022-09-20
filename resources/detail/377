@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/377.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/aa/377Regirock.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/377.wav",
     "base_stats": {
         "hp": 80,
         "attack": 100,
@@ -55,13 +56,19 @@
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+    "short_description": "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart.",
     "habitat": "cave",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "regirock",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/377.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/377.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         }
     ]
 }

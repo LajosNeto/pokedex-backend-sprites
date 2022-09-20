@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/29/256Combusken.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/256.wav",
     "base_stats": {
         "hp": 60,
         "attack": 85,
@@ -63,15 +64,37 @@
     "evolution_chain": [
         {
             "name": "torchic",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/255.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/255.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "combusken",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/256.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         },
         {
             "name": "blaziken",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/257.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/257.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         }
     ]
 }

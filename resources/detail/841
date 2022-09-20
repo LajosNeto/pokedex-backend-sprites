@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/01/841Flapple.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 70,
         "attack": 110,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "applin",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#6630f3"
+            ]
         },
         {
             "name": "flapple",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#6630f3"
+            ]
         },
         {
             "name": "appletun",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#6630f3"
+            ]
         }
     ]
 }

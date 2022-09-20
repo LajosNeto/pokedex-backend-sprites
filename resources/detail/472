@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ac/472Gliscor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/472.wav",
     "base_stats": {
         "hp": 75,
         "attack": 95,
@@ -61,17 +62,33 @@
         "#dbb963",
         "#9e85eb"
     ],
-    "short_description": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
+    "short_description": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "gligar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png",
+            "types": [
+                "ground",
+                "flying"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#9e85eb"
+            ]
         },
         {
             "name": "gliscor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
+            "types": [
+                "ground",
+                "flying"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#9e85eb"
+            ]
         }
     ]
 }

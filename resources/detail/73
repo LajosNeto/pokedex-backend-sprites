@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f6/073Tentacruel.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/73.wav",
     "base_stats": {
         "hp": 80,
         "attack": 70,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#953a93"
     ],
-    "short_description": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+    "short_description": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "tentacool",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png",
+            "types": [
+                "water",
+                "poison"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#953a93"
+            ]
         },
         {
             "name": "tentacruel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
+            "types": [
+                "water",
+                "poison"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#953a93"
+            ]
         }
     ]
 }

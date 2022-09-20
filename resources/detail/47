@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/80/047Parasect.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/47.wav",
     "base_stats": {
         "hp": 60,
         "attack": 95,
@@ -61,17 +62,33 @@
         "#9daf2b",
         "#6dc04c"
     ],
-    "short_description": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+    "short_description": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
     "habitat": "forest",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "paras",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         },
         {
             "name": "parasect",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         }
     ]
 }

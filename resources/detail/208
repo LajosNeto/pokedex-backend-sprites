@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/ba/208Steelix.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/208.wav",
     "base_stats": {
         "hp": 75,
         "attack": 85,
@@ -61,17 +62,33 @@
         "#afafc9",
         "#dbb963"
     ],
-    "short_description": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "short_description": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
     "habitat": "cave",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "onix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "steelix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
+            "types": [
+                "steel",
+                "ground"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#dbb963"
+            ]
         }
     ]
 }

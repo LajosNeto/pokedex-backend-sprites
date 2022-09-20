@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/31/050Diglett.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/50.wav",
     "base_stats": {
         "hp": 10,
         "attack": 55,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon.",
+    "short_description": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
     "habitat": "cave",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "diglett",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "dugtrio",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/51.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/51.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         }
     ]
 }

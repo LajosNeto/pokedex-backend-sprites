@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/02/129Magikarp.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/129.wav",
     "base_stats": {
         "hp": 20,
         "attack": 10,
@@ -55,17 +56,31 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
+    "short_description": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
     "habitat": "waters-edge",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "magikarp",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/129.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "gyarados",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/130.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         }
     ]
 }

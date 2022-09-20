@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/838Carkol.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 80,
         "attack": 60,
@@ -67,15 +68,37 @@
     "evolution_chain": [
         {
             "name": "rolycoly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/837.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/837.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "carkol",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/838.png",
+            "types": [
+                "rock",
+                "fire"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#ed7835"
+            ]
         },
         {
             "name": "coalossal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/839.png",
+            "types": [
+                "rock",
+                "fire"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#ed7835"
+            ]
         }
     ]
 }

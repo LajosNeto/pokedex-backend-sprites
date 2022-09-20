@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/112Rhydon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/112.wav",
     "base_stats": {
         "hp": 105,
         "attack": 130,
@@ -61,21 +62,45 @@
         "#dbb963",
         "#af9539"
     ],
-    "short_description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+    "short_description": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
     "habitat": "rough-terrain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "rhyhorn",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         },
         {
             "name": "rhydon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         },
         {
             "name": "rhyperior",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/871.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/871Pincurchin.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 48,
         "attack": 101,
@@ -61,7 +62,13 @@
     "evolution_chain": [
         {
             "name": "pincurchin",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/871.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/871.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

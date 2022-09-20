@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "302"
+            "value": "335"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/382.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/41/382Kyogre.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/382.wav",
     "base_stats": {
         "hp": 100,
         "attack": 100,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "kyogre",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/382.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/382.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

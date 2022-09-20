@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e5/759Stufful.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/759.wav",
     "base_stats": {
         "hp": 70,
         "attack": 75,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "stufful",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
+            "types": [
+                "normal",
+                "fighting"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#b72f29"
+            ]
         },
         {
             "name": "bewear",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png",
+            "types": [
+                "normal",
+                "fighting"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#b72f29"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "239"
+            "value": "265"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a4/724Decidueye.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/724.wav",
     "base_stats": {
         "hp": 78,
         "attack": 107,
@@ -57,21 +58,45 @@
         "#6dc04c",
         "#654e8c"
     ],
-    "short_description": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.",
+    "short_description": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "rowlet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "dartrix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "decidueye",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
+            "types": [
+                "grass",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#654e8c"
+            ]
         }
     ]
 }

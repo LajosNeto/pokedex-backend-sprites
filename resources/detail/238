@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/238.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0e/238Smoochum.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/238.wav",
     "base_stats": {
         "hp": 45,
         "attack": 30,
@@ -61,17 +62,33 @@
         "#8ed2d2",
         "#f6527e"
     ],
-    "short_description": "Highly perceptive sensors, Smoochum’s lips are kept moist by its daily application of tree sap.",
+    "short_description": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
     "habitat": "urban",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "smoochum",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/238.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/238.png",
+            "types": [
+                "ice",
+                "psychic"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#f6527e"
+            ]
         },
         {
             "name": "jynx",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/124.png",
+            "types": [
+                "ice",
+                "psychic"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#f6527e"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/71/215Sneasel.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/215.wav",
     "base_stats": {
         "hp": 55,
         "attack": 95,
@@ -61,17 +62,33 @@
         "#644e40",
         "#8ed2d2"
     ],
-    "short_description": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+    "short_description": "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.",
     "habitat": "forest",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "sneasel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#8ed2d2"
+            ]
         },
         {
             "name": "weavile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#8ed2d2"
+            ]
         }
     ]
 }

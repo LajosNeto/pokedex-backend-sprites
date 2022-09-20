@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ef/480Uxie.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/480.wav",
     "base_stats": {
         "hp": 75,
         "attack": 75,
@@ -51,13 +52,19 @@
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+    "short_description": "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge.",
     "habitat": "",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "uxie",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/480.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         }
     ]
 }

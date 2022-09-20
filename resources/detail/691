@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/691.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a9/691Dragalge.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/691.wav",
     "base_stats": {
         "hp": 65,
         "attack": 75,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "skrelp",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/690.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/690.png",
+            "types": [
+                "poison",
+                "water"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#5f84ea"
+            ]
         },
         {
             "name": "dragalge",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/691.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/691.png",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#6630f3"
+            ]
         }
     ]
 }

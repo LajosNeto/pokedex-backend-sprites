@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/764Comfey.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/764.wav",
     "base_stats": {
         "hp": 51,
         "attack": 52,
@@ -65,7 +66,13 @@
     "evolution_chain": [
         {
             "name": "comfey",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

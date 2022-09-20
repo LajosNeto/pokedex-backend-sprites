@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/093Haunter.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/93.wav",
     "base_stats": {
         "hp": 45,
         "attack": 50,
@@ -53,21 +54,45 @@
         "#654e8c",
         "#953a93"
     ],
-    "short_description": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+    "short_description": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
     "habitat": "cave",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "gastly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         },
         {
             "name": "haunter",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         },
         {
             "name": "gengar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#953a93"
+            ]
         }
     ]
 }

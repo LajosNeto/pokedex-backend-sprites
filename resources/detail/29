@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/81/029Nidoran.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/29.wav",
     "base_stats": {
         "hp": 55,
         "attack": 47,
@@ -59,21 +60,41 @@
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom.",
+    "short_description": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn.",
     "habitat": "grassland",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "nidoran-f",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidorina",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidoqueen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#dbb963"
+            ]
         }
     ]
 }

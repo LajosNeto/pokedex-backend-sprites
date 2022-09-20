@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/880.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/91/880Dracozolt.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 90,
         "attack": 100,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "dracozolt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/880.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/880.png",
+            "types": [
+                "electric",
+                "dragon"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#6630f3"
+            ]
         }
     ]
 }

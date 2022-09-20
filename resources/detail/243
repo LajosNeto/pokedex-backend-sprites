@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c1/243Raikou.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/243.wav",
     "base_stats": {
         "hp": 90,
         "attack": 85,
@@ -61,7 +62,13 @@
     "evolution_chain": [
         {
             "name": "raikou",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/243.png",
+            "types": [
+                "electric"
+            ],
+            "types_colors": [
+                "#f6cb3b"
+            ]
         }
     ]
 }

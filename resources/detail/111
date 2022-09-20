@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/111Rhyhorn.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/111.wav",
     "base_stats": {
         "hp": 80,
         "attack": 85,
@@ -61,21 +62,45 @@
         "#dbb963",
         "#af9539"
     ],
-    "short_description": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+    "short_description": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.",
     "habitat": "rough-terrain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "rhyhorn",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         },
         {
             "name": "rhydon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         },
         {
             "name": "rhyperior",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#af9539"
+            ]
         }
     ]
 }

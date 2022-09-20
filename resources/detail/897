@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7e/897Spectrier.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 100,
         "attack": 65,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "spectrier",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
+            "types": [
+                "ghost"
+            ],
+            "types_colors": [
+                "#654e8c"
+            ]
         }
     ]
 }

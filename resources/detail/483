@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/483.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/483Dialga.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/483.wav",
     "base_stats": {
         "hp": 100,
         "attack": 120,
@@ -57,13 +58,21 @@
         "#afafc9",
         "#6630f3"
     ],
-    "short_description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "short_description": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
     "habitat": "",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "dialga",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/483.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/483.png",
+            "types": [
+                "steel",
+                "dragon"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#6630f3"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/82/752Araquanid.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/752.wav",
     "base_stats": {
         "hp": 68,
         "attack": 70,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "dewpider",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/751.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/751.png",
+            "types": [
+                "water",
+                "bug"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9daf2b"
+            ]
         },
         {
             "name": "araquanid",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png",
+            "types": [
+                "water",
+                "bug"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9daf2b"
+            ]
         }
     ]
 }

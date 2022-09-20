@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/082Magneton.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/82.wav",
     "base_stats": {
         "hp": 50,
         "attack": 60,
@@ -61,21 +62,45 @@
         "#f6cb3b",
         "#afafc9"
     ],
-    "short_description": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
+    "short_description": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
     "habitat": "rough-terrain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "magnemite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         },
         {
             "name": "magneton",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         },
         {
             "name": "magnezone",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         }
     ]
 }

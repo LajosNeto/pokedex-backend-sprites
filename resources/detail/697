@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/697Tyrantrum.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/697.wav",
     "base_stats": {
         "hp": 82,
         "attack": 121,
@@ -57,17 +58,33 @@
         "#af9539",
         "#6630f3"
     ],
-    "short_description": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
+    "short_description": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world.",
     "habitat": "",
     "color": "#e0626a",
     "evolution_chain": [
         {
             "name": "tyrunt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6630f3"
+            ]
         },
         {
             "name": "tyrantrum",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6630f3"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/587.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b4/587Emolga.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/587.wav",
     "base_stats": {
         "hp": 55,
         "attack": 75,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "emolga",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/587.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/587.png",
+            "types": [
+                "electric",
+                "flying"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#9e85eb"
+            ]
         }
     ]
 }

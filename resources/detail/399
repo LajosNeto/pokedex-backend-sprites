@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f5/399Bidoof.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/399.wav",
     "base_stats": {
         "hp": 59,
         "attack": 45,
@@ -59,17 +60,31 @@
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+    "short_description": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "bidoof",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "bibarel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
+            "types": [
+                "normal",
+                "water"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#5f84ea"
+            ]
         }
     ]
 }

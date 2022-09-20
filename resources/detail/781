@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2f/781Dhelmise.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/781.wav",
     "base_stats": {
         "hp": 70,
         "attack": 131,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "dhelmise",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#6dc04c"
+            ]
         }
     ]
 }

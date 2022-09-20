@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/710Pumpkaboo.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/710.wav",
     "base_stats": {
         "hp": 49,
         "attack": 66,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "pumpkaboo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#6dc04c"
+            ]
         },
         {
             "name": "gourgeist",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#6dc04c"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/45/347Anorith.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/347.wav",
     "base_stats": {
         "hp": 45,
         "attack": 95,
@@ -57,17 +58,33 @@
         "#af9539",
         "#9daf2b"
     ],
-    "short_description": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you’d expect.",
+    "short_description": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
     "habitat": "waters-edge",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "anorith",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
+            "types": [
+                "rock",
+                "bug"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9daf2b"
+            ]
         },
         {
             "name": "armaldo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png",
+            "types": [
+                "rock",
+                "bug"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9daf2b"
+            ]
         }
     ]
 }

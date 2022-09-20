@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/689.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/48/689Barbaracle.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/689.wav",
     "base_stats": {
         "hp": 72,
         "attack": 105,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "binacle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/688.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/688.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         },
         {
             "name": "barbaracle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/689.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/689.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         }
     ]
 }

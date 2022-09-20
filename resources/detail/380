@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/24/380Latias.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/380.wav",
     "base_stats": {
         "hp": 80,
         "attack": 80,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "latias",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/380.png",
+            "types": [
+                "dragon",
+                "psychic"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#f6527e"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a2/447Riolu.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/447.wav",
     "base_stats": {
         "hp": 40,
         "attack": 70,
@@ -59,17 +60,31 @@
     "types_colors": [
         "#b72f29"
     ],
-    "short_description": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
+    "short_description": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "riolu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         },
         {
             "name": "lucario",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png",
+            "types": [
+                "fighting",
+                "steel"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#afafc9"
+            ]
         }
     ]
 }

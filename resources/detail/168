@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/76/168Ariados.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/168.wav",
     "base_stats": {
         "hp": 70,
         "attack": 90,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "spinarak",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         },
         {
             "name": "ariados",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         }
     ]
 }

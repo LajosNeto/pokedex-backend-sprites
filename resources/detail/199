@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e1/199Slowking.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/199.wav",
     "base_stats": {
         "hp": 95,
         "attack": 75,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "slowpoke",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         },
         {
             "name": "slowbro",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         },
         {
             "name": "slowking",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/343Baltoy.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/343.wav",
     "base_stats": {
         "hp": 40,
         "attack": 40,
@@ -59,11 +60,27 @@
     "evolution_chain": [
         {
             "name": "baltoy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png",
+            "types": [
+                "ground",
+                "psychic"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#f6527e"
+            ]
         },
         {
             "name": "claydol",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png",
+            "types": [
+                "ground",
+                "psychic"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#f6527e"
+            ]
         }
     ]
 }

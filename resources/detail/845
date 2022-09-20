@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f3/845Cramorant.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 70,
         "attack": 85,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "cramorant",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/845.png",
+            "types": [
+                "flying",
+                "water"
+            ],
+            "types_colors": [
+                "#9e85eb",
+                "#5f84ea"
+            ]
         }
     ]
 }

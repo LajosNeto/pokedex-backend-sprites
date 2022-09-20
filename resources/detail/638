@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/638.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/65/638Cobalion.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/638.wav",
     "base_stats": {
         "hp": 91,
         "attack": 90,
@@ -53,13 +54,21 @@
         "#afafc9",
         "#b72f29"
     ],
-    "short_description": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+    "short_description": "From the moment it’s born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "cobalion",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/638.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/638.png",
+            "types": [
+                "steel",
+                "fighting"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#b72f29"
+            ]
         }
     ]
 }

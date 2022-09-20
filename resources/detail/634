@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a6/634Zweilous.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/634.wav",
     "base_stats": {
         "hp": 72,
         "attack": 85,
@@ -59,15 +60,39 @@
     "evolution_chain": [
         {
             "name": "deino",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#6630f3"
+            ]
         },
         {
             "name": "zweilous",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#6630f3"
+            ]
         },
         {
             "name": "hydreigon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#6630f3"
+            ]
         }
     ]
 }

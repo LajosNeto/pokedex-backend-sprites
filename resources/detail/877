@@ -1,6 +1,6 @@
 {
     "id": 877,
-    "name_en": "morpeko",
+    "name_en": "morpeko-full-belly",
     "name_ja": "モルペコ",
     "attributes": [
         {
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/51/877Morpeko.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 58,
         "attack": 95,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "morpeko",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png",
+            "types": [
+                "electric",
+                "dark"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#644e40"
+            ]
         }
     ]
 }

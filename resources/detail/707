@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/04/707Klefki.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/707.wav",
     "base_stats": {
         "hp": 57,
         "attack": 80,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "klefki",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png",
+            "types": [
+                "steel",
+                "fairy"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#eb90a4"
+            ]
         }
     ]
 }

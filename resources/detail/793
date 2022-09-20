@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/793.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2c/793Nihilego.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/793.wav",
     "base_stats": {
         "hp": 109,
         "attack": 53,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "nihilego",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/793.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/793.png",
+            "types": [
+                "rock",
+                "poison"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#953a93"
+            ]
         }
     ]
 }

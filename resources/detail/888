@@ -1,6 +1,6 @@
 {
     "id": 888,
-    "name_en": "zacian-hero",
+    "name_en": "zacian",
     "name_ja": "ザシアン",
     "attributes": [
         {
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e3/888Zacian-Hero.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 92,
         "attack": 130,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "zacian",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png",
+            "types": [
+                "fairy"
+            ],
+            "types_colors": [
+                "#eb90a4"
+            ]
         }
     ]
 }

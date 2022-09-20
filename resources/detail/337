@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/eb/337Lunatone.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/337.wav",
     "base_stats": {
         "hp": 90,
         "attack": 55,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "lunatone",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png",
+            "types": [
+                "rock",
+                "psychic"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#f6527e"
+            ]
         }
     ]
 }

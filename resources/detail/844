@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/844Sandaconda.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 72,
         "attack": 107,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#dbb963"
     ],
-    "short_description": "Sand swirls around its body with such speed and power that it could pulverize a skyscraper.",
+    "short_description": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "silicobra",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/843.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/843.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "sandaconda",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/844.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         }
     ]
 }

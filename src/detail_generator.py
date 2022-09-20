@@ -6,13 +6,15 @@ Pokemon detail generator.
 # Lajos Neto <lajosneto@gmail.com>
 
 import argparse
+import multiprocessing
 import os
 from shutil import copyfile
 
 import requests
 import json
 
-DETAIL_BASE_PATH = "../resources/detail/"
+LOCAL_DETAIL_BASE_PATH = "../resources/detail/"
+LOCAL_CRY_BASE_PATH = "../resources/cry/"
 
 ALL_REGIONS_ID_RANGE = range(1, 898)
 
@@ -21,8 +23,10 @@ BASE_POKEMON_DETAILS_API_URL = "https://pokeapi.co/api/v2/pokemon/"
 BASE_POKEMON_SPECIES_DATA_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 BASE_NAMES_API_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 
-BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/"
+REMOTE_BASE_SPRITE_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/"
 SPRITE_FILE_TYPE = ".png"
+REMOTE_BASE_CRY_PATH = "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/"
+CRY_FILE_TYPE = ".wav"
 ID_ART_MAP_FILE = "../resources/id_art_map"
 
 SPECIES_COLORS = {
@@ -60,40 +64,65 @@ TYPES_COLORS = {
     "???": "#5e9585"
 }
 
+session = None
 
-def build_detail_data():
-    with open(ID_ART_MAP_FILE) as id_art_map:
-        id_art_map = json.load(id_art_map)
+def set_global_session():
+    global session
+    if not session:
+        session = requests.Session()
 
-    for id in ALL_REGIONS_ID_RANGE:
-        print(f"Building data for id {id} of 898")
+def load_pokemon_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+    pokemon_data = requests.get(BASE_POKEMON_DETAILS_API_URL + pokemon_id)
+    return dict(pokemon_data.json())
 
-        pokemon_data = requests.get(BASE_POKEMON_DETAILS_API_URL + str(id))
-        pokemon_data = dict(pokemon_data.json())
-        species_data = requests.get(BASE_POKEMON_SPECIES_DATA_API_URL + str(id))
-        species_data = dict(species_data.json())
-        name_data = requests.get(BASE_NAMES_API_URL + str(id))
-        name_data = dict(name_data.json())
+def load_species_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+    species_data = requests.get(BASE_POKEMON_SPECIES_DATA_API_URL + pokemon_id)
+    return dict(species_data.json())
 
-        pokemon_detail = dict()
+def load_name_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+    name_data = requests.get(BASE_NAMES_API_URL + pokemon_id)
+    return dict(name_data.json())
 
-        pokemon_detail['id'] = pokemon_data['id']
-        pokemon_detail['name_en'] = pokemon_data['name']
-        pokemon_detail['name_ja'] = extract_japanese_name(name_data)
-        pokemon_detail['attributes'] = extract_attributes(pokemon_data, species_data)
-        pokemon_detail['sprite_url'] = BASE_SPRITE_PATH + str(id) + SPRITE_FILE_TYPE
-        pokemon_detail['art_url'] = id_art_map[str(id)]
-        pokemon_detail['base_stats'] = extract_base_stats(pokemon_data)
-        pokemon_detail['abilities'] = extract_abilities(pokemon_data)
-        pokemon_detail['types'] = [type['type']['name'] for type in pokemon_data['types']]
-        pokemon_detail['types_colors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
-        pokemon_detail['short_description'] = extract_flavor_description(species_data)
-        pokemon_detail['habitat'] = extract_habitat(species_data)
-        pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
-        pokemon_detail['evolution_chain'] = process_evolution_chain(species_data['evolution_chain']['url'])
 
-        with open(DETAIL_BASE_PATH + str(id), 'w') as fout:
-            json.dump(pokemon_detail , fout, ensure_ascii=False, indent=4)
+def build_detail_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+
+    print(f"Building data for id {pokemon_id} of 898")
+
+    with open(ID_ART_MAP_FILE) as id_art_map_file:
+        id_art_map = json.load(id_art_map_file)
+
+
+    pokemon_data = load_pokemon_data(pokemon_id)
+    species_data = load_species_data(pokemon_id)
+    name_data = load_name_data(pokemon_id)
+
+    pokemon_detail = dict()
+    pokemon_detail['id'] = pokemon_data['id']
+    pokemon_detail['name_en'] = pokemon_data['name']
+    pokemon_detail['name_ja'] = extract_japanese_name(name_data)
+    pokemon_detail['attributes'] = extract_attributes(pokemon_data, species_data)
+    pokemon_detail['sprite_url'] = REMOTE_BASE_SPRITE_PATH + pokemon_id + SPRITE_FILE_TYPE
+    pokemon_detail['art_url'] = id_art_map[pokemon_id]
+    pokemon_detail['cry_url'] = extract_cry_url(pokemon_id)
+    pokemon_detail['base_stats'] = extract_base_stats(pokemon_data)
+    pokemon_detail['abilities'] = extract_abilities(pokemon_data)
+    pokemon_detail['types'] = extract_types(pokemon_data)
+    pokemon_detail['types_colors'] = extract_types_colors(pokemon_data)
+    pokemon_detail['short_description'] = extract_flavor_description(species_data)
+    pokemon_detail['habitat'] = extract_habitat(species_data)
+    pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
+    pokemon_detail['evolution_chain'] = process_evolution_chain(species_data['evolution_chain']['url'])
+    with open(LOCAL_DETAIL_BASE_PATH + str(pokemon_id), 'w') as pokemon_detail_output_file:
+        json.dump(pokemon_detail , pokemon_detail_output_file, ensure_ascii=False, indent=4)
+
+    # clean up
+    id_art_map_file.close()
+    pokemon_detail_output_file.close()
+
 
 def process_evolution_chain(chain_url):
     chain_data = requests.get(chain_url)
@@ -123,13 +152,25 @@ def process_evolution_chain(chain_url):
 def extract_id_from_url(url):
     return url.split('/')[-2]
 
+def extract_cry_url(pokemon_id):
+    return REMOTE_BASE_CRY_PATH + pokemon_id + CRY_FILE_TYPE if os.path.isfile(LOCAL_CRY_BASE_PATH + pokemon_id + CRY_FILE_TYPE) else ""
+
 def extract_step_details(chain_step):
     pokemon_id = extract_id_from_url(chain_step['species']['url'])
+    step_pokemon_data = load_pokemon_data(pokemon_id)
     step_details = {
         'name': chain_step['species']['name'],
-        'sprite_url': BASE_SPRITE_PATH + str(pokemon_id) + SPRITE_FILE_TYPE
+        'sprite_url': REMOTE_BASE_SPRITE_PATH + str(pokemon_id) + SPRITE_FILE_TYPE,
+        'types': extract_types(step_pokemon_data),
+        'types_colors': extract_types_colors(step_pokemon_data)
     }
     return step_details
+
+def extract_types(pokemon_data):
+    return [type['type']['name'] for type in pokemon_data['types']]
+
+def extract_types_colors(pokemon_data):
+    return [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
 
 def extract_flavor_description(species_data):
     short_description = ""
@@ -211,8 +252,9 @@ if __name__ == '__main__':
     filter_argparse.add_argument('-s', '--setup', action='store_true')
     args = filter_argparse.parse_args()
     if(args.setup):
-        if not os.path.exists(DETAIL_BASE_PATH):
-            os.makedirs(DETAIL_BASE_PATH)
-            build_detail_data()
+        if not os.path.exists(LOCAL_DETAIL_BASE_PATH):
+            os.makedirs(LOCAL_DETAIL_BASE_PATH)
+            with multiprocessing.Pool(initializer=set_global_session) as pool:
+                pool.map(build_detail_data, ALL_REGIONS_ID_RANGE)
         else :
             print("Detail data folder already exists. Maybe it's not empty?")

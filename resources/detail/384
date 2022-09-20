@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/384.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/384Rayquaza.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/384.wav",
     "base_stats": {
         "hp": 105,
         "attack": 150,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "rayquaza",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/384.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/384.png",
+            "types": [
+                "dragon",
+                "flying"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#9e85eb"
+            ]
         }
     ]
 }

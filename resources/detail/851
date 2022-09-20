@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ed/851Centiskorch.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 100,
         "attack": 115,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "sizzlipede",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png",
+            "types": [
+                "fire",
+                "bug"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9daf2b"
+            ]
         },
         {
             "name": "centiskorch",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png",
+            "types": [
+                "fire",
+                "bug"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9daf2b"
+            ]
         }
     ]
 }

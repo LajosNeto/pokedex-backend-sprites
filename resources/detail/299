@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/89/299Nosepass.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/299.wav",
     "base_stats": {
         "hp": 30,
         "attack": 45,
@@ -59,17 +60,31 @@
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.",
+    "short_description": "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses.",
     "habitat": "cave",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "nosepass",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/299.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "probopass",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/476.png",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#afafc9"
+            ]
         }
     ]
 }

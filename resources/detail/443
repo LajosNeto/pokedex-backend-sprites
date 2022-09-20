@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/68/443Gible.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/443.wav",
     "base_stats": {
         "hp": 58,
         "attack": 70,
@@ -57,21 +58,45 @@
         "#6630f3",
         "#dbb963"
     ],
-    "short_description": "Its original home is an area much hotter than Alola. If you’re planning to live with one, your heating bill will soar.",
+    "short_description": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "gible",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         },
         {
             "name": "gabite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         },
         {
             "name": "garchomp",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         }
     ]
 }

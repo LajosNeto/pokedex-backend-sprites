@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cd/030Nidorina.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/30.wav",
     "base_stats": {
         "hp": 70,
         "attack": 62,
@@ -59,21 +60,41 @@
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+    "short_description": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
     "habitat": "grassland",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "nidoran-f",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidorina",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "nidoqueen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#dbb963"
+            ]
         }
     ]
 }

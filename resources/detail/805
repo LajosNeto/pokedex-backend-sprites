@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/27/805Stakataka.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/805.wav",
     "base_stats": {
         "hp": 61,
         "attack": 131,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "stakataka",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#afafc9"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/11/203Girafarig.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/203.wav",
     "base_stats": {
         "hp": 70,
         "attack": 80,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "girafarig",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
+            "types": [
+                "normal",
+                "psychic"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#f6527e"
+            ]
         }
     ]
 }

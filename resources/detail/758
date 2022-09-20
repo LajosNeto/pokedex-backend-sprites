@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/72/758Salazzle.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/758.wav",
     "base_stats": {
         "hp": 68,
         "attack": 64,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "salandit",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png",
+            "types": [
+                "poison",
+                "fire"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#ed7835"
+            ]
         },
         {
             "name": "salazzle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
+            "types": [
+                "poison",
+                "fire"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#ed7835"
+            ]
         }
     ]
 }

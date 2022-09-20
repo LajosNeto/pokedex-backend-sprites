@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/37/439Mime_Jr.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/439.wav",
     "base_stats": {
         "hp": 20,
         "attack": 25,
@@ -61,21 +62,45 @@
         "#f6527e",
         "#eb90a4"
     ],
-    "short_description": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+    "short_description": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
     "habitat": "",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "mime-jr",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "mr-mime",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png",
+            "types": [
+                "psychic",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#eb90a4"
+            ]
         },
         {
             "name": "mr-rime",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png",
+            "types": [
+                "ice",
+                "psychic"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#f6527e"
+            ]
         }
     ]
 }

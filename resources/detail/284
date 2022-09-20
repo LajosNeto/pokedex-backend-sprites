@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/0a/284Masquerain.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/284.wav",
     "base_stats": {
         "hp": 70,
         "attack": 60,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "surskit",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png",
+            "types": [
+                "bug",
+                "water"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#5f84ea"
+            ]
         },
         {
             "name": "masquerain",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         }
     ]
 }

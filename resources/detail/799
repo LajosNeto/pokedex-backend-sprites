@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/799.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/799Guzzlord.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/799.wav",
     "base_stats": {
         "hp": 223,
         "attack": 101,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "guzzlord",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/799.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/799.png",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#6630f3"
+            ]
         }
     ]
 }

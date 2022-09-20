@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/93/148Dragonair.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/148.wav",
     "base_stats": {
         "hp": 61,
         "attack": 84,
@@ -55,21 +56,41 @@
     "types_colors": [
         "#6630f3"
     ],
-    "short_description": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "short_description": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
     "habitat": "waters-edge",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "dratini",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/147.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "dragonair",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/148.png",
+            "types": [
+                "dragon"
+            ],
+            "types_colors": [
+                "#6630f3"
+            ]
         },
         {
             "name": "dragonite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/149.png",
+            "types": [
+                "dragon",
+                "flying"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#9e85eb"
+            ]
         }
     ]
 }

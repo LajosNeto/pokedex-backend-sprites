@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/35/227Skarmory.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/227.wav",
     "base_stats": {
         "hp": 65,
         "attack": 80,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "skarmory",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png",
+            "types": [
+                "steel",
+                "flying"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#9e85eb"
+            ]
         }
     ]
 }

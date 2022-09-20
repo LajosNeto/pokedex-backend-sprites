@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c3/696Tyrunt.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/696.wav",
     "base_stats": {
         "hp": 58,
         "attack": 89,
@@ -57,17 +58,33 @@
         "#af9539",
         "#6630f3"
     ],
-    "short_description": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured.",
+    "short_description": "This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "tyrunt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6630f3"
+            ]
         },
         {
             "name": "tyrantrum",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#6630f3"
+            ]
         }
     ]
 }

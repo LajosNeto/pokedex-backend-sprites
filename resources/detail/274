@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/07/274Nuzleaf.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/274.wav",
     "base_stats": {
         "hp": 70,
         "attack": 70,
@@ -67,15 +68,37 @@
     "evolution_chain": [
         {
             "name": "seedot",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "nuzleaf",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#644e40"
+            ]
         },
         {
             "name": "shiftry",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#644e40"
+            ]
         }
     ]
 }

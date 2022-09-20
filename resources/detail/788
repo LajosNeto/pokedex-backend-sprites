@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/788.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/66/788Tapu_Fini.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/788.wav",
     "base_stats": {
         "hp": 70,
         "attack": 75,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "tapu-fini",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/788.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/788.png",
+            "types": [
+                "water",
+                "fairy"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#eb90a4"
+            ]
         }
     ]
 }

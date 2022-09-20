@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8a/409Rampardos.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/409.wav",
     "base_stats": {
         "hp": 97,
         "attack": 165,
@@ -55,17 +56,29 @@
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
+    "short_description": "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "cranidos",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "rampardos",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         }
     ]
 }

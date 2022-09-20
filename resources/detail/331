@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/12/331Cacnea.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/331.wav",
     "base_stats": {
         "hp": 50,
         "attack": 85,
@@ -61,11 +62,25 @@
     "evolution_chain": [
         {
             "name": "cacnea",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "cacturne",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/332.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/332.png",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#644e40"
+            ]
         }
     ]
 }

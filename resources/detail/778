@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/778.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/778Mimikyu.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/778.wav",
     "base_stats": {
         "hp": 55,
         "attack": 90,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "mimikyu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/778.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/778.png",
+            "types": [
+                "ghost",
+                "fairy"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#eb90a4"
+            ]
         }
     ]
 }

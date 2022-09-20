@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/279.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f2/279Pelipper.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/279.wav",
     "base_stats": {
         "hp": 60,
         "attack": 50,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "wingull",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/278.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/278.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         },
         {
             "name": "pelipper",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/279.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/279.png",
+            "types": [
+                "water",
+                "flying"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#9e85eb"
+            ]
         }
     ]
 }

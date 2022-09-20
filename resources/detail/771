@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/771Pyukumuku.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/771.wav",
     "base_stats": {
         "hp": 55,
         "attack": 60,
@@ -55,13 +56,19 @@
     "types_colors": [
         "#5f84ea"
     ],
-    "short_description": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "short_description": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "pyukumuku",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/771.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         }
     ]
 }

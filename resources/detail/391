@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2e/391Monferno.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/391.wav",
     "base_stats": {
         "hp": 64,
         "attack": 78,
@@ -57,21 +58,43 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+    "short_description": "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "chimchar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "monferno",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         },
         {
             "name": "infernape",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         }
     ]
 }

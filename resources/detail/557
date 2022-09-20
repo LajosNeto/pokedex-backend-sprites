@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6b/557Dwebble.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/557.wav",
     "base_stats": {
         "hp": 50,
         "attack": 65,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "dwebble",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png",
+            "types": [
+                "bug",
+                "rock"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#af9539"
+            ]
         },
         {
             "name": "crustle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/558.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/558.png",
+            "types": [
+                "bug",
+                "rock"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#af9539"
+            ]
         }
     ]
 }

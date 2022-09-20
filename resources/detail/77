@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3b/077Ponyta.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/77.wav",
     "base_stats": {
         "hp": 50,
         "attack": 85,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#ed7835"
     ],
-    "short_description": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
+    "short_description": "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth.",
     "habitat": "grassland",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "ponyta",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/77.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "rapidash",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/78.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/78.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/56/849Toxtricity-Amped.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 75,
         "attack": 98,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "toxel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png",
+            "types": [
+                "electric",
+                "poison"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#953a93"
+            ]
         },
         {
             "name": "toxtricity",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png",
+            "types": [
+                "electric",
+                "poison"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#953a93"
+            ]
         }
     ]
 }

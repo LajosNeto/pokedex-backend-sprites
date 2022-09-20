@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/800.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/44/800Necrozma.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/800.wav",
     "base_stats": {
         "hp": 97,
         "attack": 107,
@@ -51,13 +52,19 @@
     "types_colors": [
         "#f6527e"
     ],
-    "short_description": "When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.",
+    "short_description": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "necrozma",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/800.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/800.png",
+            "types": [
+                "psychic"
+            ],
+            "types_colors": [
+                "#f6527e"
+            ]
         }
     ]
 }

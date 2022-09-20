@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/441.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/441Chatot.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/441.wav",
     "base_stats": {
         "hp": 76,
         "attack": 65,
@@ -61,13 +62,21 @@
         "#9e9e6f",
         "#9e85eb"
     ],
-    "short_description": "It can learn and speak human words. If they gather, they all learn the same saying.",
+    "short_description": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "chatot",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/441.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/441.png",
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#9e85eb"
+            ]
         }
     ]
 }

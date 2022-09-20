@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/249.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/44/249Lugia.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/249.wav",
     "base_stats": {
         "hp": 106,
         "attack": 90,
@@ -63,7 +64,15 @@
     "evolution_chain": [
         {
             "name": "lugia",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/249.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/249.png",
+            "types": [
+                "psychic",
+                "flying"
+            ],
+            "types_colors": [
+                "#f6527e",
+                "#9e85eb"
+            ]
         }
     ]
 }

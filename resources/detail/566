@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a3/566Archen.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/566.wav",
     "base_stats": {
         "hp": 55,
         "attack": 112,
@@ -53,17 +54,33 @@
         "#af9539",
         "#9e85eb"
     ],
-    "short_description": "Restored from a fossil, this ancient bird Pokémon has wings but can’t yet fly.",
+    "short_description": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.",
     "habitat": "",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "archen",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png",
+            "types": [
+                "rock",
+                "flying"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9e85eb"
+            ]
         },
         {
             "name": "archeops",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png",
+            "types": [
+                "rock",
+                "flying"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9e85eb"
+            ]
         }
     ]
 }

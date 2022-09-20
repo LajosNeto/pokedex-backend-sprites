@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f7/264Linoone.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/264.wav",
     "base_stats": {
         "hp": 78,
         "attack": 70,
@@ -59,21 +60,41 @@
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+    "short_description": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
     "habitat": "grassland",
     "color": "#f0f0f0",
     "evolution_chain": [
         {
             "name": "zigzagoon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/263.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "linoone",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/264.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "obstagoon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/862.png",
+            "types": [
+                "dark",
+                "normal"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#9e9e6f"
+            ]
         }
     ]
 }

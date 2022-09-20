@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1e/185Sudowoodo.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/185.wav",
     "base_stats": {
         "hp": 70,
         "attack": 100,
@@ -59,17 +60,29 @@
     "types_colors": [
         "#af9539"
     ],
-    "short_description": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+    "short_description": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note.",
     "habitat": "forest",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "bonsly",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/438.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/438.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         },
         {
             "name": "sudowoodo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png",
+            "types": [
+                "rock"
+            ],
+            "types_colors": [
+                "#af9539"
+            ]
         }
     ]
 }

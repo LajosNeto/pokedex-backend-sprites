@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fb/392Infernape.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/392.wav",
     "base_stats": {
         "hp": 76,
         "attack": 104,
@@ -57,21 +58,43 @@
         "#ed7835",
         "#b72f29"
     ],
-    "short_description": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+    "short_description": "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "chimchar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "monferno",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         },
         {
             "name": "infernape",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         }
     ]
 }

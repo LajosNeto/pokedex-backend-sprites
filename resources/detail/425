@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/eb/425Drifloon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/425.wav",
     "base_stats": {
         "hp": 90,
         "attack": 50,
@@ -61,17 +62,33 @@
         "#654e8c",
         "#9e85eb"
     ],
-    "short_description": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
+    "short_description": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "drifloon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png",
+            "types": [
+                "ghost",
+                "flying"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "drifblim",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png",
+            "types": [
+                "ghost",
+                "flying"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#9e85eb"
+            ]
         }
     ]
 }

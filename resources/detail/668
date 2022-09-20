@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/70/668Pyroar.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/668.wav",
     "base_stats": {
         "hp": 86,
         "attack": 68,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "litleo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png",
+            "types": [
+                "fire",
+                "normal"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e9e6f"
+            ]
         },
         {
             "name": "pyroar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png",
+            "types": [
+                "fire",
+                "normal"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e9e6f"
+            ]
         }
     ]
 }

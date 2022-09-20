@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/872Snom.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 30,
         "attack": 25,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "snom",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png",
+            "types": [
+                "ice",
+                "bug"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#9daf2b"
+            ]
         },
         {
             "name": "frosmoth",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/873.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/873.png",
+            "types": [
+                "ice",
+                "bug"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#9daf2b"
+            ]
         }
     ]
 }

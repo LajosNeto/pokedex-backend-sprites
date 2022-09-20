@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8b/454Toxicroak.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/454.wav",
     "base_stats": {
         "hp": 83,
         "attack": 106,
@@ -61,17 +62,33 @@
         "#953a93",
         "#b72f29"
     ],
-    "short_description": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
+    "short_description": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "croagunk",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png",
+            "types": [
+                "poison",
+                "fighting"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#b72f29"
+            ]
         },
         {
             "name": "toxicroak",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png",
+            "types": [
+                "poison",
+                "fighting"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#b72f29"
+            ]
         }
     ]
 }

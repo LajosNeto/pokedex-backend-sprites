@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/3d/341Corphish.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/341.wav",
     "base_stats": {
         "hp": 43,
         "attack": 80,
@@ -65,11 +66,25 @@
     "evolution_chain": [
         {
             "name": "corphish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/341.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "crawdaunt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/342.png",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#644e40"
+            ]
         }
     ]
 }

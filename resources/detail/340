@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/60/340Whiscash.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/340.wav",
     "base_stats": {
         "hp": 110,
         "attack": 78,
@@ -61,17 +62,33 @@
         "#5f84ea",
         "#dbb963"
     ],
-    "short_description": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+    "short_description": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
     "habitat": "waters-edge",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "barboach",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         },
         {
             "name": "whiscash",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         }
     ]
 }

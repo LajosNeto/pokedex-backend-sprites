@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/22/379Registeel.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/379.wav",
     "base_stats": {
         "hp": 80,
         "attack": 75,
@@ -55,13 +56,19 @@
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+    "short_description": "It’s rumored that this Pokémon was born deep underground in the planet’s mantle and that it emerged onto the surface 10,000 years ago.",
     "habitat": "cave",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "registeel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
+            "types": [
+                "steel"
+            ],
+            "types_colors": [
+                "#afafc9"
+            ]
         }
     ]
 }

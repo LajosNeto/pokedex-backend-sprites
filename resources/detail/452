@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/13/452Drapion.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/452.wav",
     "base_stats": {
         "hp": 70,
         "attack": 90,
@@ -61,17 +62,33 @@
         "#953a93",
         "#644e40"
     ],
-    "short_description": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.",
+    "short_description": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "skorupi",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png",
+            "types": [
+                "poison",
+                "bug"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#9daf2b"
+            ]
         },
         {
             "name": "drapion",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#644e40"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/22/827Nickit.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 40,
         "attack": 28,
@@ -65,11 +66,23 @@
     "evolution_chain": [
         {
             "name": "nickit",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png",
+            "types": [
+                "dark"
+            ],
+            "types_colors": [
+                "#644e40"
+            ]
         },
         {
             "name": "thievul",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png",
+            "types": [
+                "dark"
+            ],
+            "types_colors": [
+                "#644e40"
+            ]
         }
     ]
 }

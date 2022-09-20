@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "241"
+            "value": "268"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/17/169Crobat.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/169.wav",
     "base_stats": {
         "hp": 85,
         "attack": 90,
@@ -57,21 +58,45 @@
         "#953a93",
         "#9e85eb"
     ],
-    "short_description": "It feeds on the blood of living people and Pokémon. If it can’t drink any blood for even a short while, it becomes weak and unable to fly.",
+    "short_description": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed.",
     "habitat": "cave",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "zubat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/41.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/41.png",
+            "types": [
+                "poison",
+                "flying"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#9e85eb"
+            ]
         },
         {
             "name": "golbat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/42.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/42.png",
+            "types": [
+                "poison",
+                "flying"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#9e85eb"
+            ]
         },
         {
             "name": "crobat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png",
+            "types": [
+                "poison",
+                "flying"
+            ],
+            "types_colors": [
+                "#953a93",
+                "#9e85eb"
+            ]
         }
     ]
 }

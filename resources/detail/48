@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/048Venonat.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/48.wav",
     "base_stats": {
         "hp": 60,
         "attack": 55,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "venonat",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         },
         {
             "name": "venomoth",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#953a93"
+            ]
         }
     ]
 }

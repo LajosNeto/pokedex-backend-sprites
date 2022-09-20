@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/893Zarude.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 105,
         "attack": 120,
@@ -53,13 +54,21 @@
         "#644e40",
         "#6dc04c"
     ],
-    "short_description": "This Zarude’s special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child’s infancy.",
+    "short_description": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "zarude",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
+            "types": [
+                "dark",
+                "grass"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#6dc04c"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/d2/461Weavile.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/461.wav",
     "base_stats": {
         "hp": 70,
         "attack": 120,
@@ -57,17 +58,33 @@
         "#644e40",
         "#8ed2d2"
     ],
-    "short_description": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
+    "short_description": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
     "habitat": "",
     "color": "#585858",
     "evolution_chain": [
         {
             "name": "sneasel",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#8ed2d2"
+            ]
         },
         {
             "name": "weavile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#8ed2d2"
+            ]
         }
     ]
 }

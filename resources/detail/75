@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/75/075Graveler.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/75.wav",
     "base_stats": {
         "hp": 55,
         "attack": 95,
@@ -61,21 +62,45 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+    "short_description": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.",
     "habitat": "mountain",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "geodude",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "graveler",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "golem",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         }
     ]
 }

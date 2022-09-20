@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/62/362Glalie.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/362.wav",
     "base_stats": {
         "hp": 80,
         "attack": 80,
@@ -59,21 +60,41 @@
     "types_colors": [
         "#8ed2d2"
     ],
-    "short_description": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+    "short_description": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
     "habitat": "cave",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "snorunt",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "glalie",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         },
         {
             "name": "froslass",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png",
+            "types": [
+                "ice",
+                "ghost"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#654e8c"
+            ]
         }
     ]
 }

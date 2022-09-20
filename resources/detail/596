@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/596.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/7a/596Galvantula.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/596.wav",
     "base_stats": {
         "hp": 70,
         "attack": 77,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "joltik",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/595.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/595.png",
+            "types": [
+                "bug",
+                "electric"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#f6cb3b"
+            ]
         },
         {
             "name": "galvantula",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/596.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/596.png",
+            "types": [
+                "bug",
+                "electric"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#f6cb3b"
+            ]
         }
     ]
 }

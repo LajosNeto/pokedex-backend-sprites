@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/2a/044Gloom.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/44.wav",
     "base_stats": {
         "hp": 60,
         "attack": 65,
@@ -63,15 +64,39 @@
     "evolution_chain": [
         {
             "name": "oddish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "gloom",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "vileplume",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         }
     ]
 }

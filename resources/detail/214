@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/47/214Heracross.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/214.wav",
     "base_stats": {
         "hp": 80,
         "attack": 125,
@@ -61,13 +62,21 @@
         "#9daf2b",
         "#b72f29"
     ],
-    "short_description": "This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.",
+    "short_description": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
     "habitat": "forest",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "heracross",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png",
+            "types": [
+                "bug",
+                "fighting"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#b72f29"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "239"
+            "value": "265"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6d/306Aggron.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/306.wav",
     "base_stats": {
         "hp": 70,
         "attack": 110,
@@ -61,21 +62,45 @@
         "#afafc9",
         "#af9539"
     ],
-    "short_description": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+    "short_description": "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon’s strength.",
     "habitat": "mountain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "aron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "lairon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "aggron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/63/589Escavalier.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/589.wav",
     "base_stats": {
         "hp": 70,
         "attack": 135,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "karrablast",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/588.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/588.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "escavalier",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/589.png",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#afafc9"
+            ]
         }
     ]
 }

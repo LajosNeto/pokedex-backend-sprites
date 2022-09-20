@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/59/292Shedinja.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/292.wav",
     "base_stats": {
         "hp": 1,
         "attack": 90,
@@ -59,15 +60,39 @@
     "evolution_chain": [
         {
             "name": "nincada",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png",
+            "types": [
+                "bug",
+                "ground"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#dbb963"
+            ]
         },
         {
             "name": "ninjask",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png",
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#9e85eb"
+            ]
         },
         {
             "name": "shedinja",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png",
+            "types": [
+                "bug",
+                "ghost"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#654e8c"
+            ]
         }
     ]
 }

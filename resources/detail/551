@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/26/551Sandile.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/551.wav",
     "base_stats": {
         "hp": 50,
         "attack": 72,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "sandile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         },
         {
             "name": "krokorok",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         },
         {
             "name": "krookodile",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png",
+            "types": [
+                "ground",
+                "dark"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#644e40"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/de/286Breloom.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/286.wav",
     "base_stats": {
         "hp": 60,
         "attack": 130,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "shroomish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "breloom",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
+            "types": [
+                "grass",
+                "fighting"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#b72f29"
+            ]
         }
     ]
 }

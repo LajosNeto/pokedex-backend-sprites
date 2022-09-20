@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/29/141Kabutops.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/141.wav",
     "base_stats": {
         "hp": 60,
         "attack": 115,
@@ -61,17 +62,33 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
+    "short_description": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
     "habitat": "sea",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "kabuto",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         },
         {
             "name": "kabutops",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         }
     ]
 }

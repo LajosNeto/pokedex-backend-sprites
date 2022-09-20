@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1e/723Dartrix.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/723.wav",
     "base_stats": {
         "hp": 78,
         "attack": 75,
@@ -57,21 +58,45 @@
         "#6dc04c",
         "#9e85eb"
     ],
-    "short_description": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
+    "short_description": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "rowlet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "dartrix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "decidueye",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
+            "types": [
+                "grass",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#654e8c"
+            ]
         }
     ]
 }

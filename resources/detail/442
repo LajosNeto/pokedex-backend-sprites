@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/442.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/442Spiritomb.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/442.wav",
     "base_stats": {
         "hp": 50,
         "attack": 92,
@@ -57,13 +58,21 @@
         "#654e8c",
         "#644e40"
     ],
-    "short_description": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+    "short_description": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits.",
     "habitat": "",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "spiritomb",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/442.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/442.png",
+            "types": [
+                "ghost",
+                "dark"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#644e40"
+            ]
         }
     ]
 }

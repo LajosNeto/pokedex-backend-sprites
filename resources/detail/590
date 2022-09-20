@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/590.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/cc/590Foongus.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/590.wav",
     "base_stats": {
         "hp": 69,
         "attack": 55,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "foongus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/590.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/590.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         },
         {
             "name": "amoonguss",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/591.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/591.png",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#953a93"
+            ]
         }
     ]
 }

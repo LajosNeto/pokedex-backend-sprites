@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9f/363Spheal.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/363.wav",
     "base_stats": {
         "hp": 70,
         "attack": 40,
@@ -61,21 +62,45 @@
         "#8ed2d2",
         "#5f84ea"
     ],
-    "short_description": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
+    "short_description": "During the season when drift ice approaches the shore, Spheal prefers living on the ice—where fewer predators lurk—rather than the land. Its fur retains heat superbly and resists harsh cold.",
     "habitat": "sea",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "spheal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/363.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "sealeo",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/364.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         },
         {
             "name": "walrein",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/365.png",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#5f84ea"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "297"
+            "value": "330"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/646.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c3/646Kyurem.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/646.wav",
     "base_stats": {
         "hp": 125,
         "attack": 130,
@@ -53,13 +54,21 @@
         "#6630f3",
         "#8ed2d2"
     ],
-    "short_description": "The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.",
+    "short_description": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "kyurem",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/646.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/646.png",
+            "types": [
+                "dragon",
+                "ice"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#8ed2d2"
+            ]
         }
     ]
 }

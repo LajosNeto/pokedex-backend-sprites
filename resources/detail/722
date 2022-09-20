@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/74/722Rowlet.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/722.wav",
     "base_stats": {
         "hp": 68,
         "attack": 55,
@@ -57,21 +58,45 @@
         "#6dc04c",
         "#9e85eb"
     ],
-    "short_description": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+    "short_description": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "rowlet",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "dartrix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         },
         {
             "name": "decidueye",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
+            "types": [
+                "grass",
+                "ghost"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#654e8c"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c7/213Shuckle.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/213.wav",
     "base_stats": {
         "hp": 20,
         "attack": 10,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "shuckle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
+            "types": [
+                "bug",
+                "rock"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#af9539"
+            ]
         }
     ]
 }

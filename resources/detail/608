@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/a5/608Lampent.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/608.wav",
     "base_stats": {
         "hp": 60,
         "attack": 40,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "litwick",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png",
+            "types": [
+                "ghost",
+                "fire"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#ed7835"
+            ]
         },
         {
             "name": "lampent",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
+            "types": [
+                "ghost",
+                "fire"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#ed7835"
+            ]
         },
         {
             "name": "chandelure",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png",
+            "types": [
+                "ghost",
+                "fire"
+            ],
+            "types_colors": [
+                "#654e8c",
+                "#ed7835"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4f/120Staryu.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/120.wav",
     "base_stats": {
         "hp": 30,
         "attack": 45,
@@ -65,11 +66,25 @@
     "evolution_chain": [
         {
             "name": "staryu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/120.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "starmie",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/121.png",
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#f6527e"
+            ]
         }
     ]
 }

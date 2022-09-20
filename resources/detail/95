@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9a/095Onix.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/95.wav",
     "base_stats": {
         "hp": 35,
         "attack": 45,
@@ -61,17 +62,33 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+    "short_description": "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes.",
     "habitat": "cave",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "onix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "steelix",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
+            "types": [
+                "steel",
+                "ground"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#dbb963"
+            ]
         }
     ]
 }

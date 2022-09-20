@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f9/140Kabuto.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/140.wav",
     "base_stats": {
         "hp": 30,
         "attack": 80,
@@ -61,17 +62,33 @@
         "#af9539",
         "#5f84ea"
     ],
-    "short_description": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+    "short_description": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
     "habitat": "sea",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "kabuto",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         },
         {
             "name": "kabutops",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#5f84ea"
+            ]
         }
     ]
 }

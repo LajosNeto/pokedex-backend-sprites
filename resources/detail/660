@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/34/660Diggersby.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/660.wav",
     "base_stats": {
         "hp": 85,
         "attack": 56,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "bunnelby",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/659.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         },
         {
             "name": "diggersby",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/660.png",
+            "types": [
+                "normal",
+                "ground"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#dbb963"
+            ]
         }
     ]
 }

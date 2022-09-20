@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ea/809Melmetal.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 135,
         "attack": 143,
@@ -51,17 +52,19 @@
     "types_colors": [
         "#afafc9"
     ],
-    "short_description": "It can send electric beams streaking out from the hole in its belly. The beams’ tremendous energy can vaporize an opponent in one shot.",
+    "short_description": "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
-            "name": "meltan",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/808.png"
-        },
-        {
             "name": "melmetal",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png",
+            "types": [
+                "steel"
+            ],
+            "types_colors": [
+                "#afafc9"
+            ]
         }
     ]
 }

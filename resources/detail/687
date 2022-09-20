@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e4/687Malamar.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/687.wav",
     "base_stats": {
         "hp": 86,
         "attack": 92,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "inkay",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/686.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/686.png",
+            "types": [
+                "dark",
+                "psychic"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#f6527e"
+            ]
         },
         {
             "name": "malamar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png",
+            "types": [
+                "dark",
+                "psychic"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#f6527e"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/536.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/536Palpitoad.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/536.wav",
     "base_stats": {
         "hp": 75,
         "attack": 65,
@@ -67,15 +68,37 @@
     "evolution_chain": [
         {
             "name": "tympole",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/535.png",
+            "types": [
+                "water"
+            ],
+            "types_colors": [
+                "#5f84ea"
+            ]
         },
         {
             "name": "palpitoad",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/536.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/536.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         },
         {
             "name": "seismitoad",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/537.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/537.png",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#dbb963"
+            ]
         }
     ]
 }

@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "306"
+            "value": "340"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8d/643Reshiram.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/643.wav",
     "base_stats": {
         "hp": 100,
         "attack": 120,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "reshiram",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png",
+            "types": [
+                "dragon",
+                "fire"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#ed7835"
+            ]
         }
     ]
 }

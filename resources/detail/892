@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e7/892Urshifu-Single_Strike.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 100,
         "attack": 130,
@@ -53,17 +54,31 @@
         "#b72f29",
         "#644e40"
     ],
-    "short_description": "This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river.",
+    "short_description": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "kubfu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         },
         {
             "name": "urshifu",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
+            "types": [
+                "fighting",
+                "dark"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#644e40"
+            ]
         }
     ]
 }

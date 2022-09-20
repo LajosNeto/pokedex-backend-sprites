@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/8e/542Leavanny.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/542.wav",
     "base_stats": {
         "hp": 75,
         "attack": 103,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "sewaddle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         },
         {
             "name": "swadloon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         },
         {
             "name": "leavanny",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#6dc04c"
+            ]
         }
     ]
 }

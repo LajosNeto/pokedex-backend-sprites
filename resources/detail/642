@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/b8/642Thundurus.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/642.wav",
     "base_stats": {
         "hp": 79,
         "attack": 115,
@@ -57,13 +58,21 @@
         "#f6cb3b",
         "#9e85eb"
     ],
-    "short_description": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+    "short_description": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "thundurus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png",
+            "types": [
+                "electric",
+                "flying"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#9e85eb"
+            ]
         }
     ]
 }

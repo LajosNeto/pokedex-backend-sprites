@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/8/88/592Frillish.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/592.wav",
     "base_stats": {
         "hp": 55,
         "attack": 40,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "frillish",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#654e8c"
+            ]
         },
         {
             "name": "jellicent",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "types_colors": [
+                "#5f84ea",
+                "#654e8c"
+            ]
         }
     ]
 }

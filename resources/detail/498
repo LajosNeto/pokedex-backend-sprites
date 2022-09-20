@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/5/5b/498Tepig.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/498.wav",
     "base_stats": {
         "hp": 65,
         "attack": 63,
@@ -61,15 +62,37 @@
     "evolution_chain": [
         {
             "name": "tepig",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/498.png",
+            "types": [
+                "fire"
+            ],
+            "types_colors": [
+                "#ed7835"
+            ]
         },
         {
             "name": "pignite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/499.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         },
         {
             "name": "emboar",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/500.png",
+            "types": [
+                "fire",
+                "fighting"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#b72f29"
+            ]
         }
     ]
 }

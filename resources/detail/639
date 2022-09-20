@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/a/ad/639Terrakion.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/639.wav",
     "base_stats": {
         "hp": 91,
         "attack": 129,
@@ -53,13 +54,21 @@
         "#af9539",
         "#b72f29"
     ],
-    "short_description": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+    "short_description": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon.",
     "habitat": "",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "terrakion",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
+            "types": [
+                "rock",
+                "fighting"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#b72f29"
+            ]
         }
     ]
 }

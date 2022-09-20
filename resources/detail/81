@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/6c/081Magnemite.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/81.wav",
     "base_stats": {
         "hp": 25,
         "attack": 35,
@@ -61,21 +62,45 @@
         "#f6cb3b",
         "#afafc9"
     ],
-    "short_description": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
+    "short_description": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
     "habitat": "rough-terrain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "magnemite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         },
         {
             "name": "magneton",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         },
         {
             "name": "magnezone",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#afafc9"
+            ]
         }
     ]
 }

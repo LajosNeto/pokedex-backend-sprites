@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/2/24/103Exeggutor.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/103.wav",
     "base_stats": {
         "hp": 95,
         "attack": 95,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "exeggcute",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
+            "types": [
+                "grass",
+                "psychic"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#f6527e"
+            ]
         },
         {
             "name": "exeggutor",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
+            "types": [
+                "grass",
+                "psychic"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#f6527e"
+            ]
         }
     ]
 }

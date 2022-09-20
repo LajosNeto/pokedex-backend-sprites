@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bf/305Lairon.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/305.wav",
     "base_stats": {
         "hp": 60,
         "attack": 90,
@@ -61,21 +62,45 @@
         "#afafc9",
         "#af9539"
     ],
-    "short_description": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
+    "short_description": "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.",
     "habitat": "mountain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "aron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "lairon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "aggron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         }
     ]
 }

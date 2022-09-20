@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1b/146Moltres.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/146.wav",
     "base_stats": {
         "hp": 90,
         "attack": 100,
@@ -57,13 +58,21 @@
         "#ed7835",
         "#9e85eb"
     ],
-    "short_description": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
+    "short_description": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
     "habitat": "rare",
     "color": "#ecd061",
     "evolution_chain": [
         {
             "name": "moltres",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png",
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e85eb"
+            ]
         }
     ]
 }

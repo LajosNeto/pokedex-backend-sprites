@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/702.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/c/c9/702Dedenne.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/702.wav",
     "base_stats": {
         "hp": 67,
         "attack": 58,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "dedenne",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/702.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/702.png",
+            "types": [
+                "electric",
+                "fairy"
+            ],
+            "types_colors": [
+                "#f6cb3b",
+                "#eb90a4"
+            ]
         }
     ]
 }

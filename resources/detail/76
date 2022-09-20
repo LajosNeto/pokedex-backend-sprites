@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f2/076Golem.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/76.wav",
     "base_stats": {
         "hp": 80,
         "attack": 120,
@@ -61,21 +62,45 @@
         "#af9539",
         "#dbb963"
     ],
-    "short_description": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
+    "short_description": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth.",
     "habitat": "mountain",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "geodude",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "graveler",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         },
         {
             "name": "golem",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#dbb963"
+            ]
         }
     ]
 }

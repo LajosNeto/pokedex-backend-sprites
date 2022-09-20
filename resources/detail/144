@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/4e/144Articuno.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/144.wav",
     "base_stats": {
         "hp": 90,
         "attack": 85,
@@ -57,13 +58,21 @@
         "#8ed2d2",
         "#9e85eb"
     ],
-    "short_description": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+    "short_description": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
     "habitat": "rare",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "articuno",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png",
+            "types": [
+                "ice",
+                "flying"
+            ],
+            "types_colors": [
+                "#8ed2d2",
+                "#9e85eb"
+            ]
         }
     ]
 }

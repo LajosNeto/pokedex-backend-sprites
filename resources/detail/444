@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9d/444Gabite.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/444.wav",
     "base_stats": {
         "hp": 68,
         "attack": 90,
@@ -57,21 +58,45 @@
         "#6630f3",
         "#dbb963"
     ],
-    "short_description": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
+    "short_description": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
     "habitat": "",
     "color": "#4589e9",
     "evolution_chain": [
         {
             "name": "gible",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         },
         {
             "name": "gabite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         },
         {
             "name": "garchomp",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "types_colors": [
+                "#6630f3",
+                "#dbb963"
+            ]
         }
     ]
 }

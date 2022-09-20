@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/90/774Minior.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/774.wav",
     "base_stats": {
         "hp": 60,
         "attack": 60,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "minior",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png",
+            "types": [
+                "rock",
+                "flying"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9e85eb"
+            ]
         }
     ]
 }

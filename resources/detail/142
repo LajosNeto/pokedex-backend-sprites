@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/142.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/142Aerodactyl.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/142.wav",
     "base_stats": {
         "hp": 80,
         "attack": 105,
@@ -61,13 +62,21 @@
         "#af9539",
         "#9e85eb"
     ],
-    "short_description": "The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond.",
+    "short_description": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
     "habitat": "mountain",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "aerodactyl",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/142.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/142.png",
+            "types": [
+                "rock",
+                "flying"
+            ],
+            "types_colors": [
+                "#af9539",
+                "#9e85eb"
+            ]
         }
     ]
 }

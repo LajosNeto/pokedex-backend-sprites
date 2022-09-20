@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/560.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/e8/560Scrafty.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/560.wav",
     "base_stats": {
         "hp": 65,
         "attack": 90,
@@ -67,11 +68,27 @@
     "evolution_chain": [
         {
             "name": "scraggy",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/559.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/559.png",
+            "types": [
+                "dark",
+                "fighting"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#b72f29"
+            ]
         },
         {
             "name": "scrafty",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/560.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/560.png",
+            "types": [
+                "dark",
+                "fighting"
+            ],
+            "types_colors": [
+                "#644e40",
+                "#b72f29"
+            ]
         }
     ]
 }

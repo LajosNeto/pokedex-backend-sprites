@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "196"
+            "value": "218"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/92/040Wigglytuff.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/40.wav",
     "base_stats": {
         "hp": 140,
         "attack": 70,
@@ -67,15 +68,39 @@
     "evolution_chain": [
         {
             "name": "igglybuff",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#eb90a4"
+            ]
         },
         {
             "name": "jigglypuff",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#eb90a4"
+            ]
         },
         {
             "name": "wigglytuff",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#eb90a4"
+            ]
         }
     ]
 }

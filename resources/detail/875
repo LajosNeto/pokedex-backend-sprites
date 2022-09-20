@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/875.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/9/9b/875Eiscue-Ice.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 75,
         "attack": 80,
@@ -57,7 +58,13 @@
     "evolution_chain": [
         {
             "name": "eiscue",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/875.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/875.png",
+            "types": [
+                "ice"
+            ],
+            "types_colors": [
+                "#8ed2d2"
+            ]
         }
     ]
 }

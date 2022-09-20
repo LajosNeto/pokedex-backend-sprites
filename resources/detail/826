@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/826Orbeetle.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 60,
         "attack": 45,
@@ -67,15 +68,37 @@
     "evolution_chain": [
         {
             "name": "blipbug",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/824.png",
+            "types": [
+                "bug"
+            ],
+            "types_colors": [
+                "#9daf2b"
+            ]
         },
         {
             "name": "dottler",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/825.png",
+            "types": [
+                "bug",
+                "psychic"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#f6527e"
+            ]
         },
         {
             "name": "orbeetle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/826.png",
+            "types": [
+                "bug",
+                "psychic"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#f6527e"
+            ]
         }
     ]
 }

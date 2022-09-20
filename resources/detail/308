@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/05/308Medicham.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/308.wav",
     "base_stats": {
         "hp": 60,
         "attack": 60,
@@ -63,11 +64,27 @@
     "evolution_chain": [
         {
             "name": "meditite",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png",
+            "types": [
+                "fighting",
+                "psychic"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#f6527e"
+            ]
         },
         {
             "name": "medicham",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png",
+            "types": [
+                "fighting",
+                "psychic"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#f6527e"
+            ]
         }
     ]
 }

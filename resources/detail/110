@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/4/42/110Weezing.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/110.wav",
     "base_stats": {
         "hp": 65,
         "attack": 90,
@@ -43,6 +44,14 @@
         {
             "name": "Levitate",
             "description": "Evades ground moves."
+        },
+        {
+            "name": "Neutralizing Gas",
+            "description": ""
+        },
+        {
+            "name": "Stench",
+            "description": "Has a 10% chance of making target Pokémon flinch with each hit."
         }
     ],
     "types": [
@@ -51,17 +60,29 @@
     "types_colors": [
         "#953a93"
     ],
-    "short_description": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.",
+    "short_description": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
     "habitat": "urban",
     "color": "#9e6dbb",
     "evolution_chain": [
         {
             "name": "koffing",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         },
         {
             "name": "weezing",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
+            "types": [
+                "poison"
+            ],
+            "types_colors": [
+                "#953a93"
+            ]
         }
     ]
 }

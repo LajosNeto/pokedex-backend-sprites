@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/1/1a/632Durant.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/632.wav",
     "base_stats": {
         "hp": 58,
         "attack": 109,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "durant",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/632.png",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "types_colors": [
+                "#9daf2b",
+                "#afafc9"
+            ]
         }
     ]
 }

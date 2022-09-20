@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "270"
+            "value": "300"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/645Landorus.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/645.wav",
     "base_stats": {
         "hp": 89,
         "attack": 125,
@@ -57,13 +58,21 @@
         "#dbb963",
         "#9e85eb"
     ],
-    "short_description": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+    "short_description": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests.",
     "habitat": "",
     "color": "#a8733d",
     "evolution_chain": [
         {
             "name": "landorus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/645.png",
+            "types": [
+                "ground",
+                "flying"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#9e85eb"
+            ]
         }
     ]
 }

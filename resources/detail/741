@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/e/ed/741Oricorio-Baile.png",
+    "cry_url": "",
     "base_stats": {
         "hp": 75,
         "attack": 70,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "oricorio",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png",
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "types_colors": [
+                "#ed7835",
+                "#9e85eb"
+            ]
         }
     ]
 }

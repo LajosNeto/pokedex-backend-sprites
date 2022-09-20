@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/08/641Tornadus.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/641.wav",
     "base_stats": {
         "hp": 79,
         "attack": 115,
@@ -55,13 +56,19 @@
     "types_colors": [
         "#9e85eb"
     ],
-    "short_description": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+    "short_description": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "tornadus",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
+            "types": [
+                "flying"
+            ],
+            "types_colors": [
+                "#9e85eb"
+            ]
         }
     ]
 }

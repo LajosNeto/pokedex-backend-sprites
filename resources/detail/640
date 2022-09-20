@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "261"
+            "value": "290"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/7/79/640Virizion.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/640.wav",
     "base_stats": {
         "hp": 91,
         "attack": 90,
@@ -53,13 +54,21 @@
         "#6dc04c",
         "#b72f29"
     ],
-    "short_description": "Legends say this Pokémon confounded opponents with its swift movements.",
+    "short_description": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "virizion",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png",
+            "types": [
+                "grass",
+                "fighting"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#b72f29"
+            ]
         }
     ]
 }

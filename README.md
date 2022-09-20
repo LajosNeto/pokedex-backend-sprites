@@ -69,6 +69,9 @@ pokemon pagination data from:
 original sprites source from:
 - https://github.com/PokeAPI/sprites
 
+pokemon cry audio files from:
+- https://www.sounds-resource.com/3ds/pokemonultrasunultramoon/
+
 icons from :
 - https://www.freepik.com
 - https://www.flaticon.com

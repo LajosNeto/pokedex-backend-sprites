@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dd/357Tropius.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/357.wav",
     "base_stats": {
         "hp": 99,
         "attack": 68,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "tropius",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
+            "types": [
+                "grass",
+                "flying"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#9e85eb"
+            ]
         }
     ]
 }

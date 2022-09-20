@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/6/63/530Excadrill.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/530.wav",
     "base_stats": {
         "hp": 110,
         "attack": 135,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "drilbur",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png",
+            "types": [
+                "ground"
+            ],
+            "types_colors": [
+                "#dbb963"
+            ]
         },
         {
             "name": "excadrill",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png",
+            "types": [
+                "ground",
+                "steel"
+            ],
+            "types_colors": [
+                "#dbb963",
+                "#afafc9"
+            ]
         }
     ]
 }

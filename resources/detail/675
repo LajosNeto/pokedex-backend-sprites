@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/0/08/675Pangoro.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/675.wav",
     "base_stats": {
         "hp": 95,
         "attack": 124,
@@ -67,11 +68,25 @@
     "evolution_chain": [
         {
             "name": "pancham",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/674.png",
+            "types": [
+                "fighting"
+            ],
+            "types_colors": [
+                "#b72f29"
+            ]
         },
         {
             "name": "pangoro",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/675.png",
+            "types": [
+                "fighting",
+                "dark"
+            ],
+            "types_colors": [
+                "#b72f29",
+                "#644e40"
+            ]
         }
     ]
 }

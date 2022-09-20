@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/531.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/f5/531Audino.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/531.wav",
     "base_stats": {
         "hp": 103,
         "attack": 60,
@@ -59,13 +60,19 @@
     "types_colors": [
         "#9e9e6f"
     ],
-    "short_description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+    "short_description": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions.",
     "habitat": "",
     "color": "#eb96c6",
     "evolution_chain": [
         {
             "name": "audino",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/531.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/531.png",
+            "types": [
+                "normal"
+            ],
+            "types_colors": [
+                "#9e9e6f"
+            ]
         }
     ]
 }

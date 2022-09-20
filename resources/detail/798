@@ -13,7 +13,7 @@
         },
         {
             "name": "base exp",
-            "value": "257"
+            "value": "285"
         },
         {
             "name": "growth rate",
@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/798.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/f/fe/798Kartana.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/798.wav",
     "base_stats": {
         "hp": 59,
         "attack": 181,
@@ -59,7 +60,15 @@
     "evolution_chain": [
         {
             "name": "kartana",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/798.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/798.png",
+            "types": [
+                "grass",
+                "steel"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#afafc9"
+            ]
         }
     ]
 }

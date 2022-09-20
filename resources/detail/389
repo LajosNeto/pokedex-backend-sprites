@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/389.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/df/389Torterra.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/389.wav",
     "base_stats": {
         "hp": 95,
         "attack": 109,
@@ -57,21 +58,41 @@
         "#6dc04c",
         "#dbb963"
     ],
-    "short_description": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+    "short_description": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water.",
     "habitat": "",
     "color": "#62b570",
     "evolution_chain": [
         {
             "name": "turtwig",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/387.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/387.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "grotle",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/388.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/388.png",
+            "types": [
+                "grass"
+            ],
+            "types_colors": [
+                "#6dc04c"
+            ]
         },
         {
             "name": "torterra",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/389.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/389.png",
+            "types": [
+                "grass",
+                "ground"
+            ],
+            "types_colors": [
+                "#6dc04c",
+                "#dbb963"
+            ]
         }
     ]
 }

@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/d/dc/780Drampa.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/780.wav",
     "base_stats": {
         "hp": 78,
         "attack": 60,
@@ -67,7 +68,15 @@
     "evolution_chain": [
         {
             "name": "drampa",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png",
+            "types": [
+                "normal",
+                "dragon"
+            ],
+            "types_colors": [
+                "#9e9e6f",
+                "#6630f3"
+            ]
         }
     ]
 }

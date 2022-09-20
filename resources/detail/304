@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/b/bb/304Aron.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/304.wav",
     "base_stats": {
         "hp": 50,
         "attack": 70,
@@ -61,21 +62,45 @@
         "#afafc9",
         "#af9539"
     ],
-    "short_description": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
+    "short_description": "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives.",
     "habitat": "mountain",
     "color": "#a0a0a0",
     "evolution_chain": [
         {
             "name": "aron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "lairon",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         },
         {
             "name": "aggron",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#af9539"
+            ]
         }
     ]
 }

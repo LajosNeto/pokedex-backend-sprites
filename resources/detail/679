@@ -30,6 +30,7 @@
     ],
     "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png",
     "art_url": "https://cdn2.bulbagarden.net/upload/3/35/679Honedge.png",
+    "cry_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/cry/679.wav",
     "base_stats": {
         "hp": 45,
         "attack": 80,
@@ -59,15 +60,39 @@
     "evolution_chain": [
         {
             "name": "honedge",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png",
+            "types": [
+                "steel",
+                "ghost"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#654e8c"
+            ]
         },
         {
             "name": "doublade",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/680.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/680.png",
+            "types": [
+                "steel",
+                "ghost"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#654e8c"
+            ]
         },
         {
             "name": "aegislash",
-            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/681.png"
+            "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/681.png",
+            "types": [
+                "steel",
+                "ghost"
+            ],
+            "types_colors": [
+                "#afafc9",
+                "#654e8c"
+            ]
         }
     ]
 }
