@@ -45,15 +45,23 @@ TYPES_COLORS = {
     "???": "#5e9585"
 }
 
+def load_pokemon_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+    pokemon_data = requests.get(BASE_POKEMON_DETAILS_API_URL + pokemon_id)
+    return dict(pokemon_data.json())
+
+def load_name_data(pokemon_id):
+    pokemon_id = str(pokemon_id)
+    name_data = requests.get(BASE_NAMES_API_URL + pokemon_id)
+    return dict(name_data.json())
+
 def build_pages():
     pokemons = list()
     for id in ALL_REGIONS_ID_RANGE:
         print(f"Building data for id {id} of 898")
 
-        pokemon_details = requests.get(BASE_POKEMON_DETAILS_API_URL + str(id))
-        pokemon_details = dict(pokemon_details.json())
-        pokemon_names = requests.get(BASE_NAMES_API_URL + str(id))
-        pokemon_names = dict(pokemon_names.json())
+        pokemon_details = load_pokemon_data(id)
+        pokemon_names = load_name_data(id)
 
         name_ja = ""
         for name in pokemon_names['names']:
@@ -65,8 +73,7 @@ def build_pages():
         pokemon_data['name_en'] = pokemon_details['name']
         pokemon_data['name_ja'] = name_ja
         pokemon_data['sprite'] = BASE_SPRITE_PATH + str(id) + SPRITE_FILE_TYPE
-        pokemon_data['types'] = [type['type']['name'] for type in pokemon_details['types']]
-        pokemon_data['types_colors'] = [TYPES_COLORS[type['type']['name']] for type in pokemon_details['types']]
+        pokemon_data['types'] = extract_types(pokemon_details)
 
         pokemons.append(pokemon_data)
     
@@ -76,6 +83,11 @@ def build_pages():
         with open(PAGES_BASE_PATH + str(page_number), 'w') as fout:
             json.dump(page , fout, ensure_ascii=False, indent=4)
         page_number += 1
+
+def extract_types(pokemon_data):
+    types_names = [type['type']['name'] for type in pokemon_data['types']]
+    types_colors = [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
+    return list(map(lambda name, color : {'name': name, 'color': color}, types_names, types_colors))
 
 if __name__ == '__main__':
     filter_argparse = argparse.ArgumentParser()

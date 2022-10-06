@@ -111,7 +111,6 @@ def build_detail_data(pokemon_id):
     pokemon_detail['base_stats'] = extract_base_stats(pokemon_data)
     pokemon_detail['abilities'] = extract_abilities(pokemon_data)
     pokemon_detail['types'] = extract_types(pokemon_data)
-    pokemon_detail['types_colors'] = extract_types_colors(pokemon_data)
     pokemon_detail['short_description'] = extract_flavor_description(species_data)
     pokemon_detail['habitat'] = extract_habitat(species_data)
     pokemon_detail['color'] = SPECIES_COLORS[species_data['color']['name']]
@@ -162,15 +161,15 @@ def extract_step_details(chain_step):
         'name': chain_step['species']['name'],
         'sprite_url': REMOTE_BASE_SPRITE_PATH + str(pokemon_id) + SPRITE_FILE_TYPE,
         'types': extract_types(step_pokemon_data),
-        'types_colors': extract_types_colors(step_pokemon_data)
+        # 'types_colors': extract_types_colors(step_pokemon_data)
     }
     return step_details
 
 def extract_types(pokemon_data):
-    return [type['type']['name'] for type in pokemon_data['types']]
+    types_names = [type['type']['name'] for type in pokemon_data['types']]
+    types_colors = [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
+    return list(map(lambda name, color : {'name': name, 'color': color}, types_names, types_colors))
 
-def extract_types_colors(pokemon_data):
-    return [TYPES_COLORS[type['type']['name']] for type in pokemon_data['types']]
 
 def extract_flavor_description(species_data):
     short_description = ""
