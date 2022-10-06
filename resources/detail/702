@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#eb90a4"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "dedenne",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/702.png",
             "types": [
-                "electric",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#eb90a4"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

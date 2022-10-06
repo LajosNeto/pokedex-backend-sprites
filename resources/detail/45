@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "poison"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#953a93"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
     "habitat": "grassland",
@@ -66,36 +68,42 @@
             "name": "oddish",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/43.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "gloom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/44.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "vileplume",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/45.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fighting",
-        "flying"
-    ],
-    "types_colors": [
-        "#b72f29",
-        "#9e85eb"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "hawlucha",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/701.png",
             "types": [
-                "fighting",
-                "flying"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#9e85eb"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

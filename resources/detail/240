@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fire"
-    ],
-    "types_colors": [
-        "#ed7835"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.",
     "habitat": "mountain",
@@ -64,30 +64,30 @@
             "name": "magby",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/240.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "magmar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/126.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "magmortar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/467.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

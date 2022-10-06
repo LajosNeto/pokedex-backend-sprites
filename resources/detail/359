@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dark"
-    ],
-    "types_colors": [
-        "#644e40"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
     "habitat": "mountain",
@@ -68,10 +68,10 @@
             "name": "absol",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/359.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

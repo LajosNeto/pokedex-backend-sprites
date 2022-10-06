@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ice"
-    ],
-    "types_colors": [
-        "#8ed2d2"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "glastrier",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/896.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

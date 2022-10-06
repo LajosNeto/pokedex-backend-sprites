@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
     "habitat": "mountain",
@@ -68,20 +68,20 @@
             "name": "cubone",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/104.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "marowak",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/105.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

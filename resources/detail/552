@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "dark"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#644e40"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "sandile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/551.png",
             "types": [
-                "ground",
-                "dark"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#644e40"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "krokorok",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/552.png",
             "types": [
-                "ground",
-                "dark"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#644e40"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "krookodile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/553.png",
             "types": [
-                "ground",
-                "dark"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#644e40"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

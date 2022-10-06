@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "grass"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#6dc04c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "dhelmise",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/781.png",
             "types": [
-                "ghost",
-                "grass"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6dc04c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

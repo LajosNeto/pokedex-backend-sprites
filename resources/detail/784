@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "fighting"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#b72f29"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
     "habitat": "",
@@ -70,34 +72,38 @@
             "name": "jangmo-o",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/782.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "hakamo-o",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/783.png",
             "types": [
-                "dragon",
-                "fighting"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#b72f29"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "kommo-o",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/784.png",
             "types": [
-                "dragon",
-                "fighting"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#b72f29"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

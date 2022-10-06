@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "poison",
-        "flying"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#9e85eb"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed.",
     "habitat": "cave",
@@ -66,36 +68,42 @@
             "name": "zubat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/41.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "golbat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/42.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "crobat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

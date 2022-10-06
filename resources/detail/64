@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "psychic"
-    ],
-    "types_colors": [
-        "#f6527e"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.",
     "habitat": "urban",
@@ -68,30 +68,30 @@
             "name": "abra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/63.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "kadabra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/64.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "alakazam",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/65.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

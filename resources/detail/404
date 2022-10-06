@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "electric"
-    ],
-    "types_colors": [
-        "#f6cb3b"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "shinx",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/403.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "luxio",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/404.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "luxray",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/405.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

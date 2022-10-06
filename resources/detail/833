@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
     "habitat": "",
@@ -68,22 +68,24 @@
             "name": "chewtle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "drednaw",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

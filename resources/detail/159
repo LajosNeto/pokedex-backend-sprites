@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
     "habitat": "waters-edge",
@@ -64,30 +64,30 @@
             "name": "totodile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/158.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "croconaw",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/159.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "feraligatr",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/160.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

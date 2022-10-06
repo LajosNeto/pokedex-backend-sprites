@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
     "habitat": "",
@@ -60,20 +60,20 @@
             "name": "phione",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/489.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "manaphy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/490.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

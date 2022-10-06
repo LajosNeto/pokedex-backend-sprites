@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”.",
     "habitat": "",
@@ -64,30 +64,30 @@
             "name": "oshawott",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/501.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "dewott",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/502.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "samurott",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/503.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

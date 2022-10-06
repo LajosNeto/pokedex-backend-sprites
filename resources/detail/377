@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "rock"
-    ],
-    "types_colors": [
-        "#af9539"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart.",
     "habitat": "cave",
@@ -64,10 +64,10 @@
             "name": "regirock",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/377.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

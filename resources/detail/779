@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "psychic"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#f6527e"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "bruxish",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/779.png",
             "types": [
-                "water",
-                "psychic"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6527e"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

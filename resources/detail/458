@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "flying"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#9e85eb"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "mantyke",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/458.png",
             "types": [
-                "water",
-                "flying"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9e85eb"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "mantine",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/226.png",
             "types": [
-                "water",
-                "flying"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9e85eb"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

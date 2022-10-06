@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "bug",
-        "ground"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#dbb963"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
     "habitat": "forest",
@@ -66,36 +68,42 @@
             "name": "nincada",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/290.png",
             "types": [
-                "bug",
-                "ground"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#dbb963"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "ninjask",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/291.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "shedinja",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/292.png",
             "types": [
-                "bug",
-                "ghost"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#654e8c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

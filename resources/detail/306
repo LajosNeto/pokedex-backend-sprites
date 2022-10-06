@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "steel",
-        "rock"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#af9539"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon’s strength.",
     "habitat": "mountain",
@@ -70,36 +72,42 @@
             "name": "aron",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
             "types": [
-                "steel",
-                "rock"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#af9539"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "lairon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
             "types": [
-                "steel",
-                "rock"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#af9539"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "aggron",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
             "types": [
-                "steel",
-                "rock"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#af9539"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

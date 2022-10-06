@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "steel",
-        "fairy"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#eb90a4"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
     "habitat": "cave",
@@ -70,12 +72,14 @@
             "name": "mawile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/303.png",
             "types": [
-                "steel",
-                "fairy"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#eb90a4"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "ghost"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#654e8c"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
     "habitat": "",
@@ -62,32 +64,34 @@
             "name": "cosmog",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "cosmoem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "solgaleo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png",
             "types": [
-                "psychic",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#afafc9"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

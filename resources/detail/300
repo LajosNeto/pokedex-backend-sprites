@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "normal"
-    ],
-    "types_colors": [
-        "#9e9e6f"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
     "habitat": "forest",
@@ -68,20 +68,20 @@
             "name": "skitty",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/300.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "delcatty",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

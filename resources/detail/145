@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "electric",
-        "flying"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#9e85eb"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after.",
     "habitat": "rare",
@@ -66,12 +68,14 @@
             "name": "zapdos",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/145.png",
             "types": [
-                "electric",
-                "flying"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#9e85eb"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

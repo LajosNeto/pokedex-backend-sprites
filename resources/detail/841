@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "dragon"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#6630f3"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "applin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "flapple",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "appletun",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

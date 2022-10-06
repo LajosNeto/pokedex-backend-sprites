@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fairy"
-    ],
-    "types_colors": [
-        "#eb90a4"
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
     "habitat": "",
@@ -68,10 +68,10 @@
             "name": "comfey",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/764.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "rock"
-    ],
-    "types_colors": [
-        "#af9539"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "rockruff",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/744.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "lycanroc",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/745.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

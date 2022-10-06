@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "psychic"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#f6527e"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
     "habitat": "forest",
@@ -66,24 +68,28 @@
             "name": "exeggcute",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
             "types": [
-                "grass",
-                "psychic"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#f6527e"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "exeggutor",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
             "types": [
-                "grass",
-                "psychic"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#f6527e"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "wishiwashi",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/746.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

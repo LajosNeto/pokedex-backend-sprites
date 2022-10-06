@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "poison",
-        "dragon"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#6630f3"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
     "habitat": "",
@@ -62,22 +64,24 @@
             "name": "poipole",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/803.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "naganadel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/804.png",
             "types": [
-                "poison",
-                "dragon"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#6630f3"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

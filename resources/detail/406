@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "poison"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#953a93"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "budew",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "roselia",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "roserade",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

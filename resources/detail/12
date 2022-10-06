@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "bug",
-        "flying"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#9e85eb"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
     "habitat": "forest",
@@ -66,32 +68,34 @@
             "name": "caterpie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "metapod",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "butterfree",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

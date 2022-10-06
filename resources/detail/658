@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "dark"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#644e40"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
     "habitat": "",
@@ -66,32 +68,34 @@
             "name": "froakie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/656.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "frogadier",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/657.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "greninja",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/658.png",
             "types": [
-                "water",
-                "dark"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#644e40"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

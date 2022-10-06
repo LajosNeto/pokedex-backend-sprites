@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "grass"
-    ],
-    "types_colors": [
-        "#6dc04c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
     "habitat": "rough-terrain",
@@ -64,22 +64,24 @@
             "name": "cacnea",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "cacturne",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/332.png",
             "types": [
-                "grass",
-                "dark"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#644e40"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

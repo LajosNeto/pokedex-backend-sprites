@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ghost"
-    ],
-    "types_colors": [
-        "#654e8c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light.",
     "habitat": "cave",
@@ -60,20 +60,20 @@
             "name": "misdreavus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "mismagius",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/429.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

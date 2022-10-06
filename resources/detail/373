@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "flying"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#9e85eb"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.",
     "habitat": "rough-terrain",
@@ -66,32 +68,34 @@
             "name": "bagon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/371.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "shelgon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/372.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "salamence",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/373.png",
             "types": [
-                "dragon",
-                "flying"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#9e85eb"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

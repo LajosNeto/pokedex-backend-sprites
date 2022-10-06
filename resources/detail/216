@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "normal"
-    ],
-    "types_colors": [
-        "#9e9e6f"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
     "habitat": "mountain",
@@ -68,20 +68,20 @@
             "name": "teddiursa",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/216.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "ursaring",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/217.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "fire",
-        "dragon"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#6630f3"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "turtonator",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/776.png",
             "types": [
-                "fire",
-                "dragon"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#6630f3"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

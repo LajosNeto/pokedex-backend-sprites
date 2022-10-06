@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "normal"
-    ],
-    "types_colors": [
-        "#9e9e6f"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger.",
     "habitat": "mountain",
@@ -68,20 +68,20 @@
             "name": "teddiursa",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/216.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "ursaring",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/217.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

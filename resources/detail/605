@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "psychic"
-    ],
-    "types_colors": [
-        "#f6527e"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "elgyem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/605.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "beheeyem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/606.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

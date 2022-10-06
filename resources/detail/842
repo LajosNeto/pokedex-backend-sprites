@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "dragon"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#6630f3"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "applin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/840.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "flapple",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/841.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "appletun",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/842.png",
             "types": [
-                "grass",
-                "dragon"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#6630f3"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

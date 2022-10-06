@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "ice"
-    ],
-    "types_colors": [
-        "#8ed2d2"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.",
     "habitat": "cave",
@@ -68,32 +68,34 @@
             "name": "snorunt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "glalie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "froslass",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png",
             "types": [
-                "ice",
-                "ghost"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#654e8c"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

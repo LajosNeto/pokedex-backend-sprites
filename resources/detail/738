@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "bug",
-        "electric"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#f6cb3b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
     "habitat": "",
@@ -62,34 +64,38 @@
             "name": "grubbin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/736.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "charjabug",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/737.png",
             "types": [
-                "bug",
-                "electric"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#f6cb3b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "vikavolt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/738.png",
             "types": [
-                "bug",
-                "electric"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#f6cb3b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

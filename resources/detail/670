@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fairy"
-    ],
-    "types_colors": [
-        "#eb90a4"
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
     "habitat": "",
@@ -64,30 +64,30 @@
             "name": "flabebe",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/669.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "floette",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/670.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "florges",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/671.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

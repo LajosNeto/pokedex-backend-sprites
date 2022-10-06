@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "normal"
-    ],
-    "types_colors": [
-        "#9e9e6f"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.",
     "habitat": "cave",
@@ -68,10 +68,10 @@
             "name": "dunsparce",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/206.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

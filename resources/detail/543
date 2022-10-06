@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "poison"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#953a93"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "venipede",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/543.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "whirlipede",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/544.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "scolipede",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/545.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

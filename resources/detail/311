@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "electric"
-    ],
-    "types_colors": [
-        "#f6cb3b"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
     "habitat": "grassland",
@@ -64,10 +64,10 @@
             "name": "plusle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/311.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

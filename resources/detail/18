@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "flying"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#9e85eb"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
     "habitat": "forest",
@@ -70,36 +72,42 @@
             "name": "pidgey",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/16.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "pidgeotto",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/17.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "pidgeot",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/18.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "steel"
-    ],
-    "types_colors": [
-        "#afafc9"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
     "habitat": "",
@@ -64,20 +64,20 @@
             "name": "cufant",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/878.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "copperajah",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/879.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

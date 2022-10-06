@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "fighting"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#b72f29"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "terrakion",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/639.png",
             "types": [
-                "rock",
-                "fighting"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#b72f29"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

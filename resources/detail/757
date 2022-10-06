@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "poison",
-        "fire"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#ed7835"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "salandit",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/757.png",
             "types": [
-                "poison",
-                "fire"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#ed7835"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "salazzle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/758.png",
             "types": [
-                "poison",
-                "fire"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#ed7835"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

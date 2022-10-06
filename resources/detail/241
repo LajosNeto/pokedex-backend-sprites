@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "normal"
-    ],
-    "types_colors": [
-        "#9e9e6f"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
     "habitat": "grassland",
@@ -68,10 +68,10 @@
             "name": "miltank",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/241.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

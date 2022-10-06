@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fire"
-    ],
-    "types_colors": [
-        "#ed7835"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
     "habitat": "",
@@ -64,20 +64,20 @@
             "name": "pansear",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/513.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "simisear",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/514.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

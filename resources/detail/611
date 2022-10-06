@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dragon"
-    ],
-    "types_colors": [
-        "#6630f3"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "axew",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/610.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "fraxure",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/611.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "haxorus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/612.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

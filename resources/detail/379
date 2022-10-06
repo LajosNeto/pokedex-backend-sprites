@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "steel"
-    ],
-    "types_colors": [
-        "#afafc9"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "It’s rumored that this Pokémon was born deep underground in the planet’s mantle and that it emerged onto the surface 10,000 years ago.",
     "habitat": "cave",
@@ -64,10 +64,10 @@
             "name": "registeel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/379.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

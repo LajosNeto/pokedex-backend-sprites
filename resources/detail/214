@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "fighting"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#b72f29"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
     "habitat": "forest",
@@ -70,12 +72,14 @@
             "name": "heracross",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/214.png",
             "types": [
-                "bug",
-                "fighting"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#b72f29"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

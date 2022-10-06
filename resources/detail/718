@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "ground"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#dbb963"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "zygarde",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/718.png",
             "types": [
-                "dragon",
-                "ground"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#dbb963"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

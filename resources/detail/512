@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "grass"
-    ],
-    "types_colors": [
-        "#6dc04c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
     "habitat": "",
@@ -64,20 +64,20 @@
             "name": "pansage",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/511.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "simisage",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/512.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

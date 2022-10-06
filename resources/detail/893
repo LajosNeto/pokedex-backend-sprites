@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dark",
-        "grass"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#6dc04c"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "zarude",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
             "types": [
-                "dark",
-                "grass"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#6dc04c"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

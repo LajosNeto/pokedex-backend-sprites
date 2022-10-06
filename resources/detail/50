@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
     "habitat": "cave",
@@ -68,20 +68,20 @@
             "name": "diglett",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/50.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "dugtrio",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/51.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

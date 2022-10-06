@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "ghost"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#654e8c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.",
     "habitat": "",
@@ -66,36 +68,42 @@
             "name": "rowlet",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "dartrix",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "decidueye",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
             "types": [
-                "grass",
-                "ghost"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#654e8c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

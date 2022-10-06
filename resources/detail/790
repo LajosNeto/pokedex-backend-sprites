@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "psychic"
-    ],
-    "types_colors": [
-        "#f6527e"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.",
     "habitat": "",
@@ -60,32 +60,34 @@
             "name": "cosmog",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/789.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "cosmoem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/790.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "solgaleo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/791.png",
             "types": [
-                "psychic",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#afafc9"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

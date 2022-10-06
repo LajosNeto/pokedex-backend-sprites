@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
     "habitat": "rough-terrain",
@@ -64,20 +64,20 @@
             "name": "phanpy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "donphan",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "psychic"
-    ],
-    "types_colors": [
-        "#f6527e"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "gothita",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/574.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "gothorita",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/575.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "gothitelle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/576.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "dragon"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#6630f3"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "drampa",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/780.png",
             "types": [
-                "normal",
-                "dragon"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#6630f3"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

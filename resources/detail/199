@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "psychic"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#f6527e"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
     "habitat": "waters-edge",
@@ -70,36 +72,42 @@
             "name": "slowpoke",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/79.png",
             "types": [
-                "water",
-                "psychic"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6527e"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "slowbro",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/80.png",
             "types": [
-                "water",
-                "psychic"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6527e"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "slowking",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/199.png",
             "types": [
-                "water",
-                "psychic"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6527e"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

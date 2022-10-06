@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "grass"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#6dc04c"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "paras",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/46.png",
             "types": [
-                "bug",
-                "grass"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#6dc04c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "parasect",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/47.png",
             "types": [
-                "bug",
-                "grass"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#6dc04c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

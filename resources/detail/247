@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "ground"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#dbb963"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
     "habitat": "mountain",
@@ -62,36 +64,42 @@
             "name": "larvitar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/246.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "pupitar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/247.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "tyranitar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/248.png",
             "types": [
-                "rock",
-                "dark"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#644e40"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

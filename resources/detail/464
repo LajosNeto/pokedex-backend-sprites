@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "rock"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#af9539"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "rhyhorn",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "rhydon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "rhyperior",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

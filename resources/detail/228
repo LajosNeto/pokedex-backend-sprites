@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "fire"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#ed7835"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "They make repeated eerie howls before dawn to call attention to their pack.",
     "habitat": "rough-terrain",
@@ -70,24 +72,28 @@
             "name": "houndour",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/228.png",
             "types": [
-                "dark",
-                "fire"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#ed7835"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "houndoom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/229.png",
             "types": [
-                "dark",
-                "fire"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#ed7835"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "grass"
-    ],
-    "types_colors": [
-        "#6dc04c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Motionless, save for the occasional quiver. A rich array of Pokémon can be found gathered around it, drawn by the scent exuded from Cherrim's folded petals.",
     "habitat": "",
@@ -60,20 +60,20 @@
             "name": "cherubi",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/420.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "cherrim",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/421.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "poison"
-    ],
-    "types_colors": [
-        "#953a93"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
     "habitat": "urban",
@@ -68,20 +68,20 @@
             "name": "koffing",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "weezing",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

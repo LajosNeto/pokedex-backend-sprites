@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fire"
-    ],
-    "types_colors": [
-        "#ed7835"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
     "habitat": "grassland",
@@ -64,20 +64,20 @@
             "name": "vulpix",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/37.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "ninetales",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/38.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

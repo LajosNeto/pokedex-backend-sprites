@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fire"
-    ],
-    "types_colors": [
-        "#ed7835"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.",
     "habitat": "grassland",
@@ -64,30 +64,30 @@
             "name": "cyndaquil",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/155.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "quilava",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/156.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "typhlosion",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/157.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

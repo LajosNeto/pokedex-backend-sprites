@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "rock",
-        "fairy"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#eb90a4"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "carbink",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/703.png",
             "types": [
-                "rock",
-                "fairy"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#eb90a4"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

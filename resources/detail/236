@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fighting"
-    ],
-    "types_colors": [
-        "#b72f29"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
     "habitat": "urban",
@@ -68,40 +68,40 @@
             "name": "tyrogue",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmonlee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmonchan",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmontop",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

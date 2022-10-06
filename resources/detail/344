@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "ground",
-        "psychic"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#f6527e"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
     "habitat": "rough-terrain",
@@ -62,24 +64,28 @@
             "name": "baltoy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/343.png",
             "types": [
-                "ground",
-                "psychic"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#f6527e"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "claydol",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/344.png",
             "types": [
-                "ground",
-                "psychic"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#f6527e"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

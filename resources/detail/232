@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
     "habitat": "rough-terrain",
@@ -64,20 +64,20 @@
             "name": "phanpy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/231.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "donphan",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/232.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

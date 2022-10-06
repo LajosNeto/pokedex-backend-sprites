@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "flying"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#9e85eb"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "minior",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/774.png",
             "types": [
-                "rock",
-                "flying"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#9e85eb"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

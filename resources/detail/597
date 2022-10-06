@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "grass",
-        "steel"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#afafc9"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
     "habitat": "",
@@ -62,24 +64,28 @@
             "name": "ferroseed",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/597.png",
             "types": [
-                "grass",
-                "steel"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#afafc9"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "ferrothorn",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png",
             "types": [
-                "grass",
-                "steel"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#afafc9"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

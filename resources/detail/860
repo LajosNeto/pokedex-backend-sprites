@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "fairy"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#eb90a4"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "impidimp",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/859.png",
             "types": [
-                "dark",
-                "fairy"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#eb90a4"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "morgrem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/860.png",
             "types": [
-                "dark",
-                "fairy"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#eb90a4"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "grimmsnarl",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/861.png",
             "types": [
-                "dark",
-                "fairy"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#eb90a4"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

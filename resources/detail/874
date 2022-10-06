@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "rock"
-    ],
-    "types_colors": [
-        "#af9539"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "stonjourner",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/874.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

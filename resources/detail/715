@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "flying",
-        "dragon"
-    ],
-    "types_colors": [
-        "#9e85eb",
-        "#6630f3"
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "noibat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/714.png",
             "types": [
-                "flying",
-                "dragon"
-            ],
-            "types_colors": [
-                "#9e85eb",
-                "#6630f3"
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "noivern",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/715.png",
             "types": [
-                "flying",
-                "dragon"
-            ],
-            "types_colors": [
-                "#9e85eb",
-                "#6630f3"
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

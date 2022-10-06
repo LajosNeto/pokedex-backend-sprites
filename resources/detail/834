@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "rock"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#af9539"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "habitat": "",
@@ -70,22 +72,24 @@
             "name": "chewtle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/833.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "drednaw",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/834.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

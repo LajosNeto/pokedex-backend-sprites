@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "bug"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#9daf2b"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "skorupi",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/451.png",
             "types": [
-                "poison",
-                "bug"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9daf2b"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "drapion",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/452.png",
             "types": [
-                "poison",
-                "dark"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#644e40"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

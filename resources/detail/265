@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "bug"
-    ],
-    "types_colors": [
-        "#9daf2b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves.",
     "habitat": "forest",
@@ -64,30 +64,30 @@
             "name": "wurmple",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/265.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "silcoon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/266.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "cascoon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/268.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

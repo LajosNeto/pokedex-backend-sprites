@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "poison"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#953a93"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
     "habitat": "sea",
@@ -70,24 +72,28 @@
             "name": "tentacool",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/72.png",
             "types": [
-                "water",
-                "poison"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#953a93"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "tentacruel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/73.png",
             "types": [
-                "water",
-                "poison"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#953a93"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

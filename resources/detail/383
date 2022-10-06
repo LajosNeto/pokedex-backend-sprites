@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
     "habitat": "rough-terrain",
@@ -60,10 +60,10 @@
             "name": "groudon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/383.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

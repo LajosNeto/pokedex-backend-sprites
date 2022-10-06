@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "psychic"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#f6527e"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
     "habitat": "waters-edge",
@@ -62,12 +64,14 @@
             "name": "latios",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/381.png",
             "types": [
-                "dragon",
-                "psychic"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#f6527e"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

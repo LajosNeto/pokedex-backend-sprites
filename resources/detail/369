@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "rock"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#af9539"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil.",
     "habitat": "sea",
@@ -70,12 +72,14 @@
             "name": "relicanth",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/369.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

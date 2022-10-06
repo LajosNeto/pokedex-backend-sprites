@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "fire"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#ed7835"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "victini",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/494.png",
             "types": [
-                "psychic",
-                "fire"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#ed7835"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

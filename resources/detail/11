@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "bug"
-    ],
-    "types_colors": [
-        "#9daf2b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
     "habitat": "forest",
@@ -60,32 +60,34 @@
             "name": "caterpie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/10.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "metapod",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/11.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "butterfree",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/12.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "water",
-        "fighting"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#b72f29"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "keldeo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/647.png",
             "types": [
-                "water",
-                "fighting"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#b72f29"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

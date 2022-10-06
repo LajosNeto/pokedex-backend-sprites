@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dark"
-    ],
-    "types_colors": [
-        "#644e40"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "nickit",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/827.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "thievul",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/828.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "grass"
-    ],
-    "types_colors": [
-        "#6dc04c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
     "habitat": "grassland",
@@ -64,30 +64,30 @@
             "name": "chikorita",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/152.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "bayleef",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/153.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "meganium",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/154.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

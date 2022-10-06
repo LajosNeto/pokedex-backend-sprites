@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dark"
-    ],
-    "types_colors": [
-        "#644e40"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "purrloin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/509.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "liepard",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/510.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

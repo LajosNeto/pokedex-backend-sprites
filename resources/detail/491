@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "dark"
-    ],
-    "types_colors": [
-        "#644e40"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "darkrai",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/491.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

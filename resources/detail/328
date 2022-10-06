@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "ground"
-    ],
-    "types_colors": [
-        "#dbb963"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
     "habitat": "rough-terrain",
@@ -68,34 +68,38 @@
             "name": "trapinch",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/328.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "vibrava",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/329.png",
             "types": [
-                "ground",
-                "dragon"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#6630f3"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "flygon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/330.png",
             "types": [
-                "ground",
-                "dragon"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#6630f3"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "steel"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#afafc9"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades.",
     "habitat": "",
@@ -66,32 +68,34 @@
             "name": "piplup",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/393.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "prinplup",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/394.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "empoleon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/395.png",
             "types": [
-                "water",
-                "steel"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#afafc9"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

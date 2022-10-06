@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "poison"
-    ],
-    "types_colors": [
-        "#953a93"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn.",
     "habitat": "grassland",
@@ -68,32 +68,34 @@
             "name": "nidoran-f",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidorina",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidoqueen",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
             "types": [
-                "poison",
-                "ground"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#dbb963"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "dragon"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#6630f3"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "dracovish",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
             "types": [
-                "water",
-                "dragon"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6630f3"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dark",
-        "flying"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#9e85eb"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "yveltal",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/717.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

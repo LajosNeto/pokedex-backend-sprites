@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "electric"
-    ],
-    "types_colors": [
-        "#f6cb3b"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
     "habitat": "grassland",
@@ -68,20 +68,20 @@
             "name": "electrike",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "manectric",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

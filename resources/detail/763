@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "grass"
-    ],
-    "types_colors": [
-        "#6dc04c"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "bounsweet",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/761.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "steenee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/762.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "tsareena",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/763.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

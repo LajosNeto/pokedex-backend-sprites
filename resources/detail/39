@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "fairy"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#eb90a4"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
     "habitat": "grassland",
@@ -70,36 +72,42 @@
             "name": "igglybuff",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/174.png",
             "types": [
-                "normal",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#eb90a4"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "jigglypuff",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/39.png",
             "types": [
-                "normal",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#eb90a4"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "wigglytuff",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/40.png",
             "types": [
-                "normal",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#eb90a4"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

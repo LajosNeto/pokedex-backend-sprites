@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "ghost"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#654e8c"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "golett",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/622.png",
             "types": [
-                "ground",
-                "ghost"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#654e8c"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "golurk",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/623.png",
             "types": [
-                "ground",
-                "ghost"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#654e8c"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

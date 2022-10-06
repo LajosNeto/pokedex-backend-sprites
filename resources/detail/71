@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "poison"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#953a93"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
     "habitat": "forest",
@@ -66,36 +68,42 @@
             "name": "bellsprout",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/69.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "weepinbell",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/70.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "victreebel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/71.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

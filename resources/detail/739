@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fighting"
-    ],
-    "types_colors": [
-        "#b72f29"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
     "habitat": "",
@@ -68,22 +68,24 @@
             "name": "crabrawler",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/739.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "crabominable",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/740.png",
             "types": [
-                "fighting",
-                "ice"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#8ed2d2"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

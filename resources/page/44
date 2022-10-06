@@ -5,12 +5,14 @@
         "name_ja": "パッチルドン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
         "types": [
-            "electric",
-            "ice"
-        ],
-        "types_colors": [
-            "#f6cb3b",
-            "#8ed2d2"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            },
+            {
+                "name": "ice",
+                "color": "#8ed2d2"
+            }
         ]
     },
     {
@@ -19,12 +21,14 @@
         "name_ja": "ウオノラゴン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/882.png",
         "types": [
-            "water",
-            "dragon"
-        ],
-        "types_colors": [
-            "#5f84ea",
-            "#6630f3"
+            {
+                "name": "water",
+                "color": "#5f84ea"
+            },
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            }
         ]
     },
     {
@@ -33,12 +37,14 @@
         "name_ja": "ウオチルドン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/883.png",
         "types": [
-            "water",
-            "ice"
-        ],
-        "types_colors": [
-            "#5f84ea",
-            "#8ed2d2"
+            {
+                "name": "water",
+                "color": "#5f84ea"
+            },
+            {
+                "name": "ice",
+                "color": "#8ed2d2"
+            }
         ]
     },
     {
@@ -47,12 +53,14 @@
         "name_ja": "ジュラルドン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/884.png",
         "types": [
-            "steel",
-            "dragon"
-        ],
-        "types_colors": [
-            "#afafc9",
-            "#6630f3"
+            {
+                "name": "steel",
+                "color": "#afafc9"
+            },
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            }
         ]
     },
     {
@@ -61,12 +69,14 @@
         "name_ja": "ドラメシヤ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
         "types": [
-            "dragon",
-            "ghost"
-        ],
-        "types_colors": [
-            "#6630f3",
-            "#654e8c"
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            },
+            {
+                "name": "ghost",
+                "color": "#654e8c"
+            }
         ]
     },
     {
@@ -75,12 +85,14 @@
         "name_ja": "ドロンチ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png",
         "types": [
-            "dragon",
-            "ghost"
-        ],
-        "types_colors": [
-            "#6630f3",
-            "#654e8c"
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            },
+            {
+                "name": "ghost",
+                "color": "#654e8c"
+            }
         ]
     },
     {
@@ -89,36 +101,38 @@
         "name_ja": "ドラパルト",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png",
         "types": [
-            "dragon",
-            "ghost"
-        ],
-        "types_colors": [
-            "#6630f3",
-            "#654e8c"
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            },
+            {
+                "name": "ghost",
+                "color": "#654e8c"
+            }
         ]
     },
     {
         "id": 888,
-        "name_en": "zacian-hero",
+        "name_en": "zacian",
         "name_ja": "ザシアン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/888.png",
         "types": [
-            "fairy"
-        ],
-        "types_colors": [
-            "#eb90a4"
+            {
+                "name": "fairy",
+                "color": "#eb90a4"
+            }
         ]
     },
     {
         "id": 889,
-        "name_en": "zamazenta-hero",
+        "name_en": "zamazenta",
         "name_ja": "ザマゼンタ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/889.png",
         "types": [
-            "fighting"
-        ],
-        "types_colors": [
-            "#b72f29"
+            {
+                "name": "fighting",
+                "color": "#b72f29"
+            }
         ]
     },
     {
@@ -127,12 +141,14 @@
         "name_ja": "ムゲンダイナ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
         "types": [
-            "poison",
-            "dragon"
-        ],
-        "types_colors": [
-            "#953a93",
-            "#6630f3"
+            {
+                "name": "poison",
+                "color": "#953a93"
+            },
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            }
         ]
     },
     {
@@ -141,10 +157,10 @@
         "name_ja": "ダクマ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
         "types": [
-            "fighting"
-        ],
-        "types_colors": [
-            "#b72f29"
+            {
+                "name": "fighting",
+                "color": "#b72f29"
+            }
         ]
     },
     {
@@ -153,12 +169,14 @@
         "name_ja": "ウーラオス",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
         "types": [
-            "fighting",
-            "dark"
-        ],
-        "types_colors": [
-            "#b72f29",
-            "#644e40"
+            {
+                "name": "fighting",
+                "color": "#b72f29"
+            },
+            {
+                "name": "dark",
+                "color": "#644e40"
+            }
         ]
     },
     {
@@ -167,12 +185,14 @@
         "name_ja": "ザルード",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/893.png",
         "types": [
-            "dark",
-            "grass"
-        ],
-        "types_colors": [
-            "#644e40",
-            "#6dc04c"
+            {
+                "name": "dark",
+                "color": "#644e40"
+            },
+            {
+                "name": "grass",
+                "color": "#6dc04c"
+            }
         ]
     },
     {
@@ -181,10 +201,10 @@
         "name_ja": "レジエレキ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/894.png",
         "types": [
-            "electric"
-        ],
-        "types_colors": [
-            "#f6cb3b"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            }
         ]
     },
     {
@@ -193,10 +213,10 @@
         "name_ja": "レジドラゴ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
         "types": [
-            "dragon"
-        ],
-        "types_colors": [
-            "#6630f3"
+            {
+                "name": "dragon",
+                "color": "#6630f3"
+            }
         ]
     },
     {
@@ -205,10 +225,10 @@
         "name_ja": "ブリザポス",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/896.png",
         "types": [
-            "ice"
-        ],
-        "types_colors": [
-            "#8ed2d2"
+            {
+                "name": "ice",
+                "color": "#8ed2d2"
+            }
         ]
     },
     {
@@ -217,10 +237,10 @@
         "name_ja": "レイスポス",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
         "types": [
-            "ghost"
-        ],
-        "types_colors": [
-            "#654e8c"
+            {
+                "name": "ghost",
+                "color": "#654e8c"
+            }
         ]
     }
 ]

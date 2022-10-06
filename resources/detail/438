@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "rock"
-    ],
-    "types_colors": [
-        "#af9539"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "bonsly",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/438.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "sudowoodo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/185.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

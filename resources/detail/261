@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dark"
-    ],
-    "types_colors": [
-        "#644e40"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
     "habitat": "grassland",
@@ -68,20 +68,20 @@
             "name": "poochyena",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/261.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "mightyena",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/262.png",
             "types": [
-                "dark"
-            ],
-            "types_colors": [
-                "#644e40"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

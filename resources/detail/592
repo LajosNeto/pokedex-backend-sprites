@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "ghost"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#654e8c"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "frillish",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/592.png",
             "types": [
-                "water",
-                "ghost"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#654e8c"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "jellicent",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/593.png",
             "types": [
-                "water",
-                "ghost"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#654e8c"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

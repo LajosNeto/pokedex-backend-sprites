@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "steel"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#afafc9"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
     "habitat": "rough-terrain",
@@ -70,36 +72,42 @@
             "name": "magnemite",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magneton",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magnezone",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

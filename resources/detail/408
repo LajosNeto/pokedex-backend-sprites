@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "rock"
-    ],
-    "types_colors": [
-        "#af9539"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "An incredibly rare sight. They duel each other by ramming their heads together, and the resulting sound echoes throughout the area like the pealing of a bell.",
     "habitat": "",
@@ -64,20 +64,20 @@
             "name": "cranidos",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/408.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "rampardos",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/409.png",
             "types": [
-                "rock"
-            ],
-            "types_colors": [
-                "#af9539"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

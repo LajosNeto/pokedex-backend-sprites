@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "ice"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#8ed2d2"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "arctozolt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/881.png",
             "types": [
-                "electric",
-                "ice"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#8ed2d2"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

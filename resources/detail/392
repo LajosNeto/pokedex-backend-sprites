@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "fire",
-        "fighting"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#b72f29"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold.",
     "habitat": "",
@@ -66,34 +68,38 @@
             "name": "chimchar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/390.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "monferno",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/391.png",
             "types": [
-                "fire",
-                "fighting"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#b72f29"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "infernape",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/392.png",
             "types": [
-                "fire",
-                "fighting"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#b72f29"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

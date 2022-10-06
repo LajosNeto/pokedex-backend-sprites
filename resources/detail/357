@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "flying"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#9e85eb"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
     "habitat": "forest",
@@ -70,12 +72,14 @@
             "name": "tropius",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/357.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

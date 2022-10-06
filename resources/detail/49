@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "poison"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#953a93"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "venonat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/48.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "venomoth",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/49.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "rock"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#af9539"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "tirtouga",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/564.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "carracosta",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/565.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

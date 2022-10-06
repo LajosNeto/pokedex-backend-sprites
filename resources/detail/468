@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fairy",
-        "flying"
-    ],
-    "types_colors": [
-        "#eb90a4",
-        "#9e85eb"
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.",
     "habitat": "",
@@ -70,34 +72,38 @@
             "name": "togepi",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "togetic",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
             "types": [
-                "fairy",
-                "flying"
-            ],
-            "types_colors": [
-                "#eb90a4",
-                "#9e85eb"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "togekiss",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
             "types": [
-                "fairy",
-                "flying"
-            ],
-            "types_colors": [
-                "#eb90a4",
-                "#9e85eb"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

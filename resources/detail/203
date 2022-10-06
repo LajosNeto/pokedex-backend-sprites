@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "psychic"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#f6527e"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
     "habitat": "grassland",
@@ -70,12 +72,14 @@
             "name": "girafarig",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/203.png",
             "types": [
-                "normal",
-                "psychic"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#f6527e"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "rock",
-        "ground"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#dbb963"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth.",
     "habitat": "mountain",
@@ -70,36 +72,42 @@
             "name": "geodude",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/74.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "graveler",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/75.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "golem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/76.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

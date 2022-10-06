@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "psychic"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#f6527e"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
     "habitat": "cave",
@@ -62,12 +64,14 @@
             "name": "lunatone",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/337.png",
             "types": [
-                "rock",
-                "psychic"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#f6527e"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

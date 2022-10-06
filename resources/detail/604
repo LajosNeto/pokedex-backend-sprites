@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "electric"
-    ],
-    "types_colors": [
-        "#f6cb3b"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
     "habitat": "",
@@ -60,30 +60,30 @@
             "name": "tynamo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/602.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "eelektrik",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/603.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "eelektross",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/604.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

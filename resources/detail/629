@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "flying"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#9e85eb"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "vullaby",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/629.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "mandibuzz",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/630.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "flying"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#9e85eb"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Though capable of flight, Archeops was apparently better at hunting on the ground.",
     "habitat": "",
@@ -62,24 +64,28 @@
             "name": "archen",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/566.png",
             "types": [
-                "rock",
-                "flying"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#9e85eb"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "archeops",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/567.png",
             "types": [
-                "rock",
-                "flying"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#9e85eb"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

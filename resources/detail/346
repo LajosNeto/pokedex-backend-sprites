@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "rock",
-        "grass"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#6dc04c"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
     "habitat": "sea",
@@ -66,24 +68,28 @@
             "name": "lileep",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/345.png",
             "types": [
-                "rock",
-                "grass"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#6dc04c"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "cradily",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/346.png",
             "types": [
-                "rock",
-                "grass"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#6dc04c"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

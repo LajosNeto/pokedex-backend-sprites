@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "fire",
-        "ghost"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#654e8c"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "blacephalon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/806.png",
             "types": [
-                "fire",
-                "ghost"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#654e8c"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

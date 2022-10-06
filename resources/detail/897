@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ghost"
-    ],
-    "types_colors": [
-        "#654e8c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "spectrier",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/897.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

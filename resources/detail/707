@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "steel",
-        "fairy"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#eb90a4"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "klefki",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/707.png",
             "types": [
-                "steel",
-                "fairy"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#eb90a4"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

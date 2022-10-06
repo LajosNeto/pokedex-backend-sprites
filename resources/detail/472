@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "flying"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#9e85eb"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "gligar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png",
             "types": [
-                "ground",
-                "flying"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#9e85eb"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "gliscor",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
             "types": [
-                "ground",
-                "flying"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#9e85eb"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

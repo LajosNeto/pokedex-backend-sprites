@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "water"
-    ],
-    "types_colors": [
-        "#5f84ea"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
     "habitat": "sea",
@@ -68,22 +68,24 @@
             "name": "shellder",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/90.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "cloyster",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/91.png",
             "types": [
-                "water",
-                "ice"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#8ed2d2"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

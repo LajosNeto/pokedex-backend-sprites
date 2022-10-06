@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fairy"
-    ],
-    "types_colors": [
-        "#eb90a4"
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.",
     "habitat": "mountain",
@@ -68,30 +68,30 @@
             "name": "cleffa",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/173.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "clefairy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/35.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "clefable",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/36.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

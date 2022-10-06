@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "fighting"
-    ],
-    "types_colors": [
-        "#b72f29"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
     "habitat": "",
@@ -60,22 +60,24 @@
             "name": "kubfu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/891.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "urshifu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/892.png",
             "types": [
-                "fighting",
-                "dark"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#644e40"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

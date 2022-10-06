@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "fire"
-    ],
-    "types_colors": [
-        "#ed7835"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
     "habitat": "",
@@ -64,32 +64,34 @@
             "name": "fennekin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/653.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "braixen",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/654.png",
             "types": [
-                "fire"
-            ],
-            "types_colors": [
-                "#ed7835"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "delphox",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/655.png",
             "types": [
-                "fire",
-                "psychic"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#f6527e"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

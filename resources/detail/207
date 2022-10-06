@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "flying"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#9e85eb"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom.",
     "habitat": "mountain",
@@ -70,24 +72,28 @@
             "name": "gligar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/207.png",
             "types": [
-                "ground",
-                "flying"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#9e85eb"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "gliscor",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/472.png",
             "types": [
-                "ground",
-                "flying"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#9e85eb"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

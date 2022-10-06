@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "ground"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#dbb963"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
     "habitat": "waters-edge",
@@ -70,24 +72,28 @@
             "name": "barboach",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "whiscash",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

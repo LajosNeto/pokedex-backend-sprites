@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fairy"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#eb90a4"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "cottonee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "whimsicott",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "rock"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#af9539"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
     "habitat": "sea",
@@ -70,22 +72,24 @@
             "name": "corsola",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "cursola",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

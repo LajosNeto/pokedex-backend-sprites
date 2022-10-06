@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "grass"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#6dc04c"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
     "habitat": "waters-edge",
@@ -70,36 +72,42 @@
             "name": "lotad",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/270.png",
             "types": [
-                "water",
-                "grass"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6dc04c"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "lombre",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/271.png",
             "types": [
-                "water",
-                "grass"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6dc04c"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "ludicolo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/272.png",
             "types": [
-                "water",
-                "grass"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6dc04c"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

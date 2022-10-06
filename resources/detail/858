@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#eb90a4"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
     "habitat": "",
@@ -70,32 +72,34 @@
             "name": "hatenna",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/856.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "hattrem",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/857.png",
             "types": [
-                "psychic"
-            ],
-            "types_colors": [
-                "#f6527e"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "hatterene",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/858.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

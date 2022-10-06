@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#eb90a4"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life.",
     "habitat": "urban",
@@ -70,36 +72,42 @@
             "name": "ralts",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "kirlia",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "gardevoir",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

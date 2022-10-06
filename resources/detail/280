@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#eb90a4"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research.",
     "habitat": "urban",
@@ -70,36 +72,42 @@
             "name": "ralts",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/280.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "kirlia",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/281.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "gardevoir",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/282.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

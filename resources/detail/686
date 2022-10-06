@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "psychic"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#f6527e"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "inkay",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/686.png",
             "types": [
-                "dark",
-                "psychic"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#f6527e"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "malamar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/687.png",
             "types": [
-                "dark",
-                "psychic"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#f6527e"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

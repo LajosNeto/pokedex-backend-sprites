@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "normal",
-        "flying"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#9e85eb"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
     "habitat": "grassland",
@@ -66,24 +68,28 @@
             "name": "taillow",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/276.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "swellow",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/277.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

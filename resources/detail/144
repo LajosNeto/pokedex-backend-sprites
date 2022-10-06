@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "ice",
-        "flying"
-    ],
-    "types_colors": [
-        "#8ed2d2",
-        "#9e85eb"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
     "habitat": "rare",
@@ -66,12 +68,14 @@
             "name": "articuno",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/144.png",
             "types": [
-                "ice",
-                "flying"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#9e85eb"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

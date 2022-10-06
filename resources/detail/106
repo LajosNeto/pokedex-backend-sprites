@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fighting"
-    ],
-    "types_colors": [
-        "#b72f29"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
     "habitat": "urban",
@@ -68,40 +68,40 @@
             "name": "tyrogue",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/236.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmonlee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/106.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmonchan",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/107.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "hitmontop",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/237.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "poison"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#953a93"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "toxel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/848.png",
             "types": [
-                "electric",
-                "poison"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#953a93"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "toxtricity",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/849.png",
             "types": [
-                "electric",
-                "poison"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#953a93"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

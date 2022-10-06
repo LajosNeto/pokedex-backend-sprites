@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fairy"
-    ],
-    "types_colors": [
-        "#eb90a4"
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
     "habitat": "forest",
@@ -68,34 +68,38 @@
             "name": "togepi",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/175.png",
             "types": [
-                "fairy"
-            ],
-            "types_colors": [
-                "#eb90a4"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "togetic",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/176.png",
             "types": [
-                "fairy",
-                "flying"
-            ],
-            "types_colors": [
-                "#eb90a4",
-                "#9e85eb"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "togekiss",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/468.png",
             "types": [
-                "fairy",
-                "flying"
-            ],
-            "types_colors": [
-                "#eb90a4",
-                "#9e85eb"
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

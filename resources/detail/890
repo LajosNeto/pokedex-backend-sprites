@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "poison",
-        "dragon"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#6630f3"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "eternatus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/890.png",
             "types": [
-                "poison",
-                "dragon"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#6630f3"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

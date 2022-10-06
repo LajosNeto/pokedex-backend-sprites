@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "ground"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#dbb963"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
     "habitat": "grassland",
@@ -70,32 +72,34 @@
             "name": "nidoran-m",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/32.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidorino",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/33.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidoking",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/34.png",
             "types": [
-                "poison",
-                "ground"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#dbb963"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

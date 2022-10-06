@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fairy"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#eb90a4"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "cottonee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/546.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "whimsicott",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/547.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

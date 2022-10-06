@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fire",
-        "bug"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#9daf2b"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "sizzlipede",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/850.png",
             "types": [
-                "fire",
-                "bug"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9daf2b"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "centiskorch",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/851.png",
             "types": [
-                "fire",
-                "bug"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9daf2b"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

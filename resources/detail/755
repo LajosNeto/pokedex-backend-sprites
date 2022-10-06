@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fairy"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#eb90a4"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "morelull",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/755.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "shiinotic",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/756.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

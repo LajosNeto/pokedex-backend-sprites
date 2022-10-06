@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "electric"
-    ],
-    "types_colors": [
-        "#f6cb3b"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.",
     "habitat": "forest",
@@ -64,30 +64,30 @@
             "name": "pichu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/172.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "pikachu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/25.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "raichu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/26.png",
             "types": [
-                "electric"
-            ],
-            "types_colors": [
-                "#f6cb3b"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

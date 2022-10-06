@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "rock",
-        "ice"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#8ed2d2"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "amaura",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/698.png",
             "types": [
-                "rock",
-                "ice"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#8ed2d2"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "aurorus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/699.png",
             "types": [
-                "rock",
-                "ice"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#8ed2d2"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

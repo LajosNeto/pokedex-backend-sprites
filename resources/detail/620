@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "fighting"
-    ],
-    "types_colors": [
-        "#b72f29"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "mienfoo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/619.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "mienshao",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/620.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

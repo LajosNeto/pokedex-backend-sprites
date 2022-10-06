@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "flying"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#9e85eb"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "pidove",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/519.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "tranquill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/520.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "unfezant",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/521.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

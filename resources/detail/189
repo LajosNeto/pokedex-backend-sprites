@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "flying"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#9e85eb"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
     "habitat": "grassland",
@@ -70,36 +72,42 @@
             "name": "hoppip",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/187.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "skiploom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/188.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "jumpluff",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/189.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

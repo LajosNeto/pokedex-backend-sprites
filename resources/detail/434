@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "dark"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#644e40"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "stunky",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/434.png",
             "types": [
-                "poison",
-                "dark"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#644e40"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "skuntank",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/435.png",
             "types": [
-                "poison",
-                "dark"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#644e40"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

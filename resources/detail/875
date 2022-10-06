@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ice"
-    ],
-    "types_colors": [
-        "#8ed2d2"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "eiscue",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/875.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "bug"
-    ],
-    "types_colors": [
-        "#9daf2b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
     "habitat": "forest",
@@ -68,10 +68,10 @@
             "name": "pinsir",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/127.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

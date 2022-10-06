@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "flying"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#9e85eb"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "pikipek",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/731.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "trumbeak",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/732.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "toucannon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/733.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

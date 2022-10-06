@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "ground"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#dbb963"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Eats beach sand for nourishment. Should one Gastrodon encounter another of a different color, a fierce battle will inevitably ensue.",
     "habitat": "",
@@ -70,22 +72,24 @@
             "name": "shellos",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/422.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "gastrodon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/423.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

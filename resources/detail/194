@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "ground"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#dbb963"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
     "habitat": "waters-edge",
@@ -70,24 +72,28 @@
             "name": "wooper",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/194.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "quagsire",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/195.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

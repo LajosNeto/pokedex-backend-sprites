@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "electric",
-        "dark"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#644e40"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "morpeko",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/877.png",
             "types": [
-                "electric",
-                "dark"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#644e40"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

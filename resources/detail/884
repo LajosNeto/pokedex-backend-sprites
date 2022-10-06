@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "steel",
-        "dragon"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#6630f3"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "duraludon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/884.png",
             "types": [
-                "steel",
-                "dragon"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#6630f3"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

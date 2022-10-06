@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "poison"
-    ],
-    "types_colors": [
-        "#953a93"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
     "habitat": "grassland",
@@ -64,10 +64,10 @@
             "name": "seviper",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/336.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

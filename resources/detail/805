@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "steel"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#afafc9"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "stakataka",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/805.png",
             "types": [
-                "rock",
-                "steel"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#afafc9"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

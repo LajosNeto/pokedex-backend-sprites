@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "normal",
-        "psychic"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#f6527e"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "meloetta",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/648.png",
             "types": [
-                "normal",
-                "psychic"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#f6527e"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

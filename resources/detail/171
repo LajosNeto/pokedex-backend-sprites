@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "electric"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#f6cb3b"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
     "habitat": "sea",
@@ -70,24 +72,28 @@
             "name": "chinchou",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/170.png",
             "types": [
-                "water",
-                "electric"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6cb3b"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "lanturn",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/171.png",
             "types": [
-                "water",
-                "electric"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#f6cb3b"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

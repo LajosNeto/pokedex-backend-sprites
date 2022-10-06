@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "steel",
-        "ground"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#dbb963"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
     "habitat": "cave",
@@ -70,24 +72,28 @@
             "name": "onix",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/95.png",
             "types": [
-                "rock",
-                "ground"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#dbb963"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "steelix",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/208.png",
             "types": [
-                "steel",
-                "ground"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#dbb963"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

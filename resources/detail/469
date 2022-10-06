@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "flying"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#9e85eb"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "yanma",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/193.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "yanmega",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/469.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

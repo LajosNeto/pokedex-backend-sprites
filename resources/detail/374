@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "steel",
-        "psychic"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#f6527e"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.",
     "habitat": "rough-terrain",
@@ -66,36 +68,42 @@
             "name": "beldum",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/374.png",
             "types": [
-                "steel",
-                "psychic"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#f6527e"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "metang",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/375.png",
             "types": [
-                "steel",
-                "psychic"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#f6527e"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "metagross",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/376.png",
             "types": [
-                "steel",
-                "psychic"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#f6527e"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

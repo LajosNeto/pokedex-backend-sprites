@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "bug",
-        "fighting"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#b72f29"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "buzzwole",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/794.png",
             "types": [
-                "bug",
-                "fighting"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#b72f29"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

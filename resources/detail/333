@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "normal",
-        "flying"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#9e85eb"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
     "habitat": "forest",
@@ -66,24 +68,28 @@
             "name": "swablu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/333.png",
             "types": [
-                "normal",
-                "flying"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#9e85eb"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "altaria",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/334.png",
             "types": [
-                "dragon",
-                "flying"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#9e85eb"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

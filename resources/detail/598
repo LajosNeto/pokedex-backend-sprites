@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "steel"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#afafc9"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "ferroseed",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/597.png",
             "types": [
-                "grass",
-                "steel"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#afafc9"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "ferrothorn",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/598.png",
             "types": [
-                "grass",
-                "steel"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#afafc9"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "ice",
-        "bug"
-    ],
-    "types_colors": [
-        "#8ed2d2",
-        "#9daf2b"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        },
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "snom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/872.png",
             "types": [
-                "ice",
-                "bug"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#9daf2b"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "frosmoth",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/873.png",
             "types": [
-                "ice",
-                "bug"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#9daf2b"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "poison"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#953a93"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel.",
     "habitat": "grassland",
@@ -70,36 +72,42 @@
             "name": "budew",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/406.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "roselia",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "roserade",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/407.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

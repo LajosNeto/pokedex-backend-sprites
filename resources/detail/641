@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "flying"
-    ],
-    "types_colors": [
-        "#9e85eb"
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
     "habitat": "",
@@ -64,10 +64,10 @@
             "name": "tornadus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/641.png",
             "types": [
-                "flying"
-            ],
-            "types_colors": [
-                "#9e85eb"
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

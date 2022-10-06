@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "steel"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#afafc9"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "pawniard",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/624.png",
             "types": [
-                "dark",
-                "steel"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#afafc9"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "bisharp",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/625.png",
             "types": [
-                "dark",
-                "steel"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#afafc9"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

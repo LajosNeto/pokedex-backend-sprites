@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "grass"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#6dc04c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "phantump",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/708.png",
             "types": [
-                "ghost",
-                "grass"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6dc04c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "trevenant",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/709.png",
             "types": [
-                "ghost",
-                "grass"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6dc04c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "ghost"
-    ],
-    "types_colors": [
-        "#654e8c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue.",
     "habitat": "",
@@ -60,20 +60,20 @@
             "name": "misdreavus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/200.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "mismagius",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/429.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

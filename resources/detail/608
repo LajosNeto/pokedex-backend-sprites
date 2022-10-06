@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "fire"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#ed7835"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "litwick",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/607.png",
             "types": [
-                "ghost",
-                "fire"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#ed7835"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "lampent",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/608.png",
             "types": [
-                "ghost",
-                "fire"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#ed7835"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "chandelure",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/609.png",
             "types": [
-                "ghost",
-                "fire"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#ed7835"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

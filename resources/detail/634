@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dark",
-        "dragon"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#6630f3"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
     "habitat": "",
@@ -62,36 +64,42 @@
             "name": "deino",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/633.png",
             "types": [
-                "dark",
-                "dragon"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#6630f3"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "zweilous",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/634.png",
             "types": [
-                "dark",
-                "dragon"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#6630f3"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "hydreigon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/635.png",
             "types": [
-                "dark",
-                "dragon"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#6630f3"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "steel"
-    ],
-    "types_colors": [
-        "#afafc9"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "melmetal",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/809.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

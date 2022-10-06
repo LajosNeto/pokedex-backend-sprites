@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "fighting",
-        "psychic"
-    ],
-    "types_colors": [
-        "#b72f29",
-        "#f6527e"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.",
     "habitat": "mountain",
@@ -66,24 +68,28 @@
             "name": "meditite",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png",
             "types": [
-                "fighting",
-                "psychic"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#f6527e"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "medicham",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png",
             "types": [
-                "fighting",
-                "psychic"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#f6527e"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

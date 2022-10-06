@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dragon"
-    ],
-    "types_colors": [
-        "#6630f3"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "goomy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "sliggoo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "goodra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "ground"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#dbb963"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
     "habitat": "",
@@ -66,36 +68,42 @@
             "name": "gible",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/443.png",
             "types": [
-                "dragon",
-                "ground"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#dbb963"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "gabite",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/444.png",
             "types": [
-                "dragon",
-                "ground"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#dbb963"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "garchomp",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/445.png",
             "types": [
-                "dragon",
-                "ground"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#dbb963"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

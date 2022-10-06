@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "flying"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#9e85eb"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "murkrow",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/198.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "honchkrow",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/430.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

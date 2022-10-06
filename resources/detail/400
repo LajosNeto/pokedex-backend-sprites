@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "water"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#5f84ea"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in.",
     "habitat": "",
@@ -70,22 +72,24 @@
             "name": "bidoof",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/399.png",
             "types": [
-                "normal"
-            ],
-            "types_colors": [
-                "#9e9e6f"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "bibarel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/400.png",
             "types": [
-                "normal",
-                "water"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#5f84ea"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

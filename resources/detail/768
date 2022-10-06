@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "bug",
-        "water"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#5f84ea"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal.",
     "habitat": "",
@@ -62,24 +64,28 @@
             "name": "wimpod",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/767.png",
             "types": [
-                "bug",
-                "water"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#5f84ea"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "golisopod",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/768.png",
             "types": [
-                "bug",
-                "water"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#5f84ea"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

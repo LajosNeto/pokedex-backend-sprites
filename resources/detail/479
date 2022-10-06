@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "electric",
-        "ghost"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#654e8c"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "This bizarre Pokémon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "rotom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/479.png",
             "types": [
-                "electric",
-                "ghost"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#654e8c"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

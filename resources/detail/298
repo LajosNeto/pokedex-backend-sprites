@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "fairy"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#eb90a4"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
     "habitat": "waters-edge",
@@ -70,36 +72,42 @@
             "name": "azurill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png",
             "types": [
-                "normal",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#eb90a4"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "marill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png",
             "types": [
-                "water",
-                "fairy"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#eb90a4"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "azumarill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png",
             "types": [
-                "water",
-                "fairy"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#eb90a4"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

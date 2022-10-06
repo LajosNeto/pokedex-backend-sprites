@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "ghost"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#654e8c"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
     "habitat": "cave",
@@ -70,12 +72,14 @@
             "name": "sableye",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
             "types": [
-                "dark",
-                "ghost"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#654e8c"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

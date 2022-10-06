@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "flying"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#9e85eb"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "ledyba",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/165.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "ledian",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/166.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

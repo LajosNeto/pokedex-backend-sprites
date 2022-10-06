@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "flying"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#9e85eb"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "vullaby",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/629.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "mandibuzz",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/630.png",
             "types": [
-                "dark",
-                "flying"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#9e85eb"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "dark"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#644e40"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
     "habitat": "rough-terrain",
@@ -66,22 +68,24 @@
             "name": "cacnea",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/331.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "cacturne",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/332.png",
             "types": [
-                "grass",
-                "dark"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#644e40"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

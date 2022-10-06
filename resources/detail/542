@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "grass"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#6dc04c"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "sewaddle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/540.png",
             "types": [
-                "bug",
-                "grass"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#6dc04c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "swadloon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/541.png",
             "types": [
-                "bug",
-                "grass"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#6dc04c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "leavanny",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/542.png",
             "types": [
-                "bug",
-                "grass"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#6dc04c"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

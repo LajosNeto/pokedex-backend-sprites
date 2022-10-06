@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "bug"
-    ],
-    "types_colors": [
-        "#9daf2b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
     "habitat": "",
@@ -68,20 +68,20 @@
             "name": "shelmet",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/616.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "accelgor",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/617.png",
             "types": [
-                "bug"
-            ],
-            "types_colors": [
-                "#9daf2b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#eb90a4"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
     "habitat": "urban",
@@ -70,36 +72,42 @@
             "name": "mime-jr",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/439.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "mr-mime",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/122.png",
             "types": [
-                "psychic",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#eb90a4"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "mr-rime",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/866.png",
             "types": [
-                "ice",
-                "psychic"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#f6527e"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

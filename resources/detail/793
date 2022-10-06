@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "poison"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#953a93"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "nihilego",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/793.png",
             "types": [
-                "rock",
-                "poison"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#953a93"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

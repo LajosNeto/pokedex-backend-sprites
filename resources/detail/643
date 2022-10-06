@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "fire"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#ed7835"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "reshiram",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/643.png",
             "types": [
-                "dragon",
-                "fire"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#ed7835"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

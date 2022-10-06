@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "dark"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#644e40"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
     "habitat": "sea",
@@ -66,24 +68,28 @@
             "name": "carvanha",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png",
             "types": [
-                "water",
-                "dark"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#644e40"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "sharpedo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
             "types": [
-                "water",
-                "dark"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#644e40"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "ghost"
-    ],
-    "types_colors": [
-        "#654e8c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.",
     "habitat": "",
@@ -64,20 +64,20 @@
             "name": "sinistea",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/854.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "polteageist",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/855.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

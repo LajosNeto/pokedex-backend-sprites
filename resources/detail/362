@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "ice"
-    ],
-    "types_colors": [
-        "#8ed2d2"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
     "habitat": "cave",
@@ -68,32 +68,34 @@
             "name": "snorunt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "glalie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "froslass",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png",
             "types": [
-                "ice",
-                "ghost"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#654e8c"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

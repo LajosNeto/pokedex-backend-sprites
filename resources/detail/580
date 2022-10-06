@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "flying"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#9e85eb"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "ducklett",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/580.png",
             "types": [
-                "water",
-                "flying"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9e85eb"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "swanna",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/581.png",
             "types": [
-                "water",
-                "flying"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9e85eb"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

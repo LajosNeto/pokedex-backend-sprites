@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "steel"
-    ],
-    "types_colors": [
-        "#afafc9"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "klink",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/599.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "klang",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/600.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "klinklang",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/601.png",
             "types": [
-                "steel"
-            ],
-            "types_colors": [
-                "#afafc9"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "dragon"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#6630f3"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
     "habitat": "sea",
@@ -70,32 +72,34 @@
             "name": "horsea",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/116.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "seadra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/117.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "kingdra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/230.png",
             "types": [
-                "water",
-                "dragon"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6630f3"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

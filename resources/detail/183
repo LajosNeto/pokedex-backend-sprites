@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "fairy"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#eb90a4"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.",
     "habitat": "waters-edge",
@@ -70,36 +72,42 @@
             "name": "azurill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/298.png",
             "types": [
-                "normal",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#eb90a4"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "marill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/183.png",
             "types": [
-                "water",
-                "fairy"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#eb90a4"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "azumarill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/184.png",
             "types": [
-                "water",
-                "fairy"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#eb90a4"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

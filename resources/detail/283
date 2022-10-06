@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "bug",
-        "water"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#5f84ea"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
     "habitat": "waters-edge",
@@ -66,24 +68,28 @@
             "name": "surskit",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/283.png",
             "types": [
-                "bug",
-                "water"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#5f84ea"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "masquerain",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/284.png",
             "types": [
-                "bug",
-                "flying"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#9e85eb"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

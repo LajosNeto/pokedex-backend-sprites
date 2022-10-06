@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "steel",
-        "dragon"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#6630f3"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "dialga",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/483.png",
             "types": [
-                "steel",
-                "dragon"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#6630f3"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

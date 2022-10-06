@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ice",
-        "ground"
-    ],
-    "types_colors": [
-        "#8ed2d2",
-        "#dbb963"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies.",
     "habitat": "cave",
@@ -70,36 +72,42 @@
             "name": "swinub",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/220.png",
             "types": [
-                "ice",
-                "ground"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#dbb963"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "piloswine",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/221.png",
             "types": [
-                "ice",
-                "ground"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#dbb963"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "mamoswine",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/473.png",
             "types": [
-                "ice",
-                "ground"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#dbb963"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

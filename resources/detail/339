@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "water",
-        "ground"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#dbb963"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
     "habitat": "waters-edge",
@@ -70,24 +72,28 @@
             "name": "barboach",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/339.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "whiscash",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/340.png",
             "types": [
-                "water",
-                "ground"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#dbb963"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

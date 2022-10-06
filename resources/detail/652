@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fighting"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#b72f29"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
     "habitat": "",
@@ -66,32 +68,34 @@
             "name": "chespin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/650.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "quilladin",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/651.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "chesnaught",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/652.png",
             "types": [
-                "grass",
-                "fighting"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#b72f29"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

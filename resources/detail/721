@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "fire",
-        "water"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#5f84ea"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "volcanion",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/721.png",
             "types": [
-                "fire",
-                "water"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#5f84ea"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

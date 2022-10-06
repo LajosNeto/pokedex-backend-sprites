@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "flying"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#9e85eb"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings.",
     "habitat": "",
@@ -66,36 +68,42 @@
             "name": "rowlet",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/722.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "dartrix",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/723.png",
             "types": [
-                "grass",
-                "flying"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#9e85eb"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "decidueye",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/724.png",
             "types": [
-                "grass",
-                "ghost"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#654e8c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

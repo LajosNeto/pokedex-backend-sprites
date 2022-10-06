@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "fairy"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#eb90a4"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "mimikyu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/778.png",
             "types": [
-                "ghost",
-                "fairy"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#eb90a4"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

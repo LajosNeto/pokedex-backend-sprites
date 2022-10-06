@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "grass"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#6dc04c"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "deerling",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/585.png",
             "types": [
-                "normal",
-                "grass"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#6dc04c"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "sawsbuck",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/586.png",
             "types": [
-                "normal",
-                "grass"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#6dc04c"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

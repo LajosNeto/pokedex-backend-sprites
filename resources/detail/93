@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "poison"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#953a93"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
     "habitat": "cave",
@@ -62,36 +64,42 @@
             "name": "gastly",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/92.png",
             "types": [
-                "ghost",
-                "poison"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#953a93"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "haunter",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/93.png",
             "types": [
-                "ghost",
-                "poison"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#953a93"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "gengar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/94.png",
             "types": [
-                "ghost",
-                "poison"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#953a93"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

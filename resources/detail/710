@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "grass"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#6dc04c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        }
     ],
     "short_description": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "pumpkaboo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/710.png",
             "types": [
-                "ghost",
-                "grass"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6dc04c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "gourgeist",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/711.png",
             "types": [
-                "ghost",
-                "grass"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6dc04c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         }
     ]

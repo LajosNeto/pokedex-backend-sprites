@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "steel"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#afafc9"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
     "habitat": "rough-terrain",
@@ -70,36 +72,42 @@
             "name": "magnemite",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magneton",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magnezone",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

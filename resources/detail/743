@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "fairy"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#eb90a4"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "cutiefly",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/742.png",
             "types": [
-                "bug",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#eb90a4"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         },
         {
             "name": "ribombee",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/743.png",
             "types": [
-                "bug",
-                "fairy"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#eb90a4"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

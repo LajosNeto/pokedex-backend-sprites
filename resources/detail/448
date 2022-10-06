@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fighting",
-        "steel"
-    ],
-    "types_colors": [
-        "#b72f29",
-        "#afafc9"
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power.",
     "habitat": "",
@@ -70,22 +72,24 @@
             "name": "riolu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/447.png",
             "types": [
-                "fighting"
-            ],
-            "types_colors": [
-                "#b72f29"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "lucario",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/448.png",
             "types": [
-                "fighting",
-                "steel"
-            ],
-            "types_colors": [
-                "#b72f29",
-                "#afafc9"
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

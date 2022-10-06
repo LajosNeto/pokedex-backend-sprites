@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fighting"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#b72f29"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
     "habitat": "forest",
@@ -70,22 +72,24 @@
             "name": "shroomish",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/285.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "breloom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/286.png",
             "types": [
-                "grass",
-                "fighting"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#b72f29"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

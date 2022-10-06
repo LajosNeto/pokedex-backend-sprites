@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "poison"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#953a93"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
     "habitat": "grassland",
@@ -66,36 +68,42 @@
             "name": "bulbasaur",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/1.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "ivysaur",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/2.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "venusaur",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/3.png",
             "types": [
-                "grass",
-                "poison"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#953a93"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

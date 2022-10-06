@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "dragon"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#6630f3"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "dracozolt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/880.png",
             "types": [
-                "electric",
-                "dragon"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#6630f3"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

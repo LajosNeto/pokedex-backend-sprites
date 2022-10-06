@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fire",
-        "ground"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#dbb963"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
     "habitat": "mountain",
@@ -70,24 +72,28 @@
             "name": "numel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/322.png",
             "types": [
-                "fire",
-                "ground"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#dbb963"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "camerupt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/323.png",
             "types": [
-                "fire",
-                "ground"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#dbb963"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

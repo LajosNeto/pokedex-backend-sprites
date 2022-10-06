@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "ground"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#dbb963"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "sandygast",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/769.png",
             "types": [
-                "ghost",
-                "ground"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#dbb963"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "palossand",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/770.png",
             "types": [
-                "ghost",
-                "ground"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#dbb963"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

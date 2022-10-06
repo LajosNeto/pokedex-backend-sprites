@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "rock",
-        "psychic"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#f6527e"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
     "habitat": "cave",
@@ -62,12 +64,14 @@
             "name": "solrock",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/338.png",
             "types": [
-                "rock",
-                "psychic"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#f6527e"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

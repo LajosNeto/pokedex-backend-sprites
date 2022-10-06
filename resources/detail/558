@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "rock"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#af9539"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "dwebble",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/557.png",
             "types": [
-                "bug",
-                "rock"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#af9539"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "crustle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/558.png",
             "types": [
-                "bug",
-                "rock"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#af9539"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

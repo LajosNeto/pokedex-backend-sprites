@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "rock",
-        "water"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#5f84ea"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy’s defeat.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "binacle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/688.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "barbaracle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/689.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

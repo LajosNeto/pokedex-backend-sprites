@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "ice"
-    ],
-    "types_colors": [
-        "#8ed2d2"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "This Pokémon’s body is made of solid ice. It’s said that Regice was born beneath thick ice in the ice age.",
     "habitat": "cave",
@@ -64,10 +64,10 @@
             "name": "regice",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/378.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

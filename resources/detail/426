@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "flying"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#9e85eb"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "drifloon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/425.png",
             "types": [
-                "ghost",
-                "flying"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#9e85eb"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "drifblim",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/426.png",
             "types": [
-                "ghost",
-                "flying"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#9e85eb"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

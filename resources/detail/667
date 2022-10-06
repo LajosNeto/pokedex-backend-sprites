@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "fire",
-        "normal"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#9e9e6f"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "litleo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/667.png",
             "types": [
-                "fire",
-                "normal"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9e9e6f"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "pyroar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/668.png",
             "types": [
-                "fire",
-                "normal"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9e9e6f"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

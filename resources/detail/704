@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "dragon"
-    ],
-    "types_colors": [
-        "#6630f3"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Goomy hides away in the shade of trees, where it's nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic.",
     "habitat": "",
@@ -68,30 +68,30 @@
             "name": "goomy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/704.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "sliggoo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/705.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "goodra",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/706.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

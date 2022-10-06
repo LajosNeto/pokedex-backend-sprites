@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "psychic"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#f6527e"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        }
     ],
     "short_description": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
     "habitat": "forest",
@@ -66,24 +68,28 @@
             "name": "exeggcute",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/102.png",
             "types": [
-                "grass",
-                "psychic"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#f6527e"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         },
         {
             "name": "exeggutor",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/103.png",
             "types": [
-                "grass",
-                "psychic"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#f6527e"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                }
             ]
         }
     ]

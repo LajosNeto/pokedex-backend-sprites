@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dark",
-        "fighting"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#b72f29"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "scraggy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/559.png",
             "types": [
-                "dark",
-                "fighting"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#b72f29"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "scrafty",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/560.png",
             "types": [
-                "dark",
-                "fighting"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#b72f29"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

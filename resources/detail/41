@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "poison",
-        "flying"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#9e85eb"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.",
     "habitat": "cave",
@@ -66,36 +68,42 @@
             "name": "zubat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/41.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "golbat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/42.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "crobat",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/169.png",
             "types": [
-                "poison",
-                "flying"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#9e85eb"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

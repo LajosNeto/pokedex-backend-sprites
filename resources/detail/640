@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fighting"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#b72f29"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "virizion",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/640.png",
             "types": [
-                "grass",
-                "fighting"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#b72f29"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

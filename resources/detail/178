@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "psychic",
-        "flying"
-    ],
-    "types_colors": [
-        "#f6527e",
-        "#9e85eb"
+        {
+            "name": "psychic",
+            "color": "#f6527e"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "natu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/177.png",
             "types": [
-                "psychic",
-                "flying"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#9e85eb"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         },
         {
             "name": "xatu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/178.png",
             "types": [
-                "psychic",
-                "flying"
-            ],
-            "types_colors": [
-                "#f6527e",
-                "#9e85eb"
+                {
+                    "name": "psychic",
+                    "color": "#f6527e"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

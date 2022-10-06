@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "grass",
-        "steel"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#afafc9"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "kartana",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/798.png",
             "types": [
-                "grass",
-                "steel"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#afafc9"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

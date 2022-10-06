@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "fire",
-        "flying"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#9e85eb"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "oricorio",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/741.png",
             "types": [
-                "fire",
-                "flying"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9e85eb"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

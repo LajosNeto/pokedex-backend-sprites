@@ -51,10 +51,10 @@
         }
     ],
     "types": [
-        "ghost"
-    ],
-    "types_colors": [
-        "#654e8c"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
     "habitat": "",
@@ -64,22 +64,24 @@
             "name": "corsola",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/222.png",
             "types": [
-                "water",
-                "rock"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#af9539"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "cursola",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/864.png",
             "types": [
-                "ghost"
-            ],
-            "types_colors": [
-                "#654e8c"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

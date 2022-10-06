@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "rock",
-        "dragon"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#6630f3"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "tyrunt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/696.png",
             "types": [
-                "rock",
-                "dragon"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#6630f3"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         },
         {
             "name": "tyrantrum",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/697.png",
             "types": [
-                "rock",
-                "dragon"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#6630f3"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

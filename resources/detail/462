@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "steel"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#afafc9"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "magnemite",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/81.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magneton",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/82.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         },
         {
             "name": "magnezone",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/462.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

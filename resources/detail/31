@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "ground"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#dbb963"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        }
     ],
     "short_description": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
     "habitat": "grassland",
@@ -70,32 +72,34 @@
             "name": "nidoran-f",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/29.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidorina",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/30.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "nidoqueen",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/31.png",
             "types": [
-                "poison",
-                "ground"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#dbb963"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         }
     ]

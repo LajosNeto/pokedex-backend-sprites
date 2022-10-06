@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "electric"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#f6cb3b"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "zekrom",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/644.png",
             "types": [
-                "dragon",
-                "electric"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#f6cb3b"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

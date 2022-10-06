@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "ghost",
-        "dragon"
-    ],
-    "types_colors": [
-        "#654e8c",
-        "#6630f3"
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "giratina",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/487.png",
             "types": [
-                "ghost",
-                "dragon"
-            ],
-            "types_colors": [
-                "#654e8c",
-                "#6630f3"
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

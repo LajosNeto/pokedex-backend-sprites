@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "normal"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#9e9e6f"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        }
     ],
     "short_description": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "helioptile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/694.png",
             "types": [
-                "electric",
-                "normal"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#9e9e6f"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         },
         {
             "name": "heliolisk",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/695.png",
             "types": [
-                "electric",
-                "normal"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#9e9e6f"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                }
             ]
         }
     ]

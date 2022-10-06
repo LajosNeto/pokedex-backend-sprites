@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "fire",
-        "flying"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#9e85eb"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
     "habitat": "rare",
@@ -66,12 +68,14 @@
             "name": "ho-oh",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/250.png",
             "types": [
-                "fire",
-                "flying"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9e85eb"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "fairy"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#eb90a4"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
     "habitat": "",
@@ -66,32 +68,34 @@
             "name": "popplio",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/728.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "brionne",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/729.png",
             "types": [
-                "water"
-            ],
-            "types_colors": [
-                "#5f84ea"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "primarina",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/730.png",
             "types": [
-                "water",
-                "fairy"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#eb90a4"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

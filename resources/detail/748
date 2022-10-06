@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "water"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#5f84ea"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "mareanie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png",
             "types": [
-                "poison",
-                "water"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#5f84ea"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "toxapex",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png",
             "types": [
-                "poison",
-                "water"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#5f84ea"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

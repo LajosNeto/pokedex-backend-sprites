@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "grass",
-        "dark"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#644e40"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "dark",
+            "color": "#644e40"
+        }
     ],
     "short_description": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
     "habitat": "forest",
@@ -70,34 +72,38 @@
             "name": "seedot",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/273.png",
             "types": [
-                "grass"
-            ],
-            "types_colors": [
-                "#6dc04c"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                }
             ]
         },
         {
             "name": "nuzleaf",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/274.png",
             "types": [
-                "grass",
-                "dark"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#644e40"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         },
         {
             "name": "shiftry",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/275.png",
             "types": [
-                "grass",
-                "dark"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#644e40"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "rock"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#af9539"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
     "habitat": "mountain",
@@ -70,12 +72,14 @@
             "name": "shuckle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/213.png",
             "types": [
-                "bug",
-                "rock"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#af9539"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

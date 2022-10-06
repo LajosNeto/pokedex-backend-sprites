@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "bug",
-        "poison"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#953a93"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
     "habitat": "forest",
@@ -66,36 +68,42 @@
             "name": "weedle",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/13.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "kakuna",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/14.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "beedrill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/15.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

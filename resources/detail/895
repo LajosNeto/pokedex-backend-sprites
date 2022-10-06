@@ -47,10 +47,10 @@
         }
     ],
     "types": [
-        "dragon"
-    ],
-    "types_colors": [
-        "#6630f3"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
     "habitat": "",
@@ -60,10 +60,10 @@
             "name": "regidrago",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/895.png",
             "types": [
-                "dragon"
-            ],
-            "types_colors": [
-                "#6630f3"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

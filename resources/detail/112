@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "rock"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#af9539"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "rock",
+            "color": "#af9539"
+        }
     ],
     "short_description": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
     "habitat": "rough-terrain",
@@ -70,36 +72,42 @@
             "name": "rhyhorn",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/111.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "rhydon",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/112.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         },
         {
             "name": "rhyperior",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/464.png",
             "types": [
-                "ground",
-                "rock"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#af9539"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "rock",
-        "bug"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#9daf2b"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
     "habitat": "waters-edge",
@@ -66,24 +68,28 @@
             "name": "anorith",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/347.png",
             "types": [
-                "rock",
-                "bug"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#9daf2b"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "armaldo",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/348.png",
             "types": [
-                "rock",
-                "bug"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#9daf2b"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

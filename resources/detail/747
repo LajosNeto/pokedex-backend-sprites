@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "water"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#5f84ea"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "mareanie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/747.png",
             "types": [
-                "poison",
-                "water"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#5f84ea"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "toxapex",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/748.png",
             "types": [
-                "poison",
-                "water"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#5f84ea"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "ice",
-        "ghost"
-    ],
-    "types_colors": [
-        "#8ed2d2",
-        "#654e8c"
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine.",
     "habitat": "",
@@ -66,32 +68,34 @@
             "name": "snorunt",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/361.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "glalie",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/362.png",
             "types": [
-                "ice"
-            ],
-            "types_colors": [
-                "#8ed2d2"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "froslass",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/478.png",
             "types": [
-                "ice",
-                "ghost"
-            ],
-            "types_colors": [
-                "#8ed2d2",
-                "#654e8c"
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

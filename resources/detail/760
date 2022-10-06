@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "normal",
-        "fighting"
-    ],
-    "types_colors": [
-        "#9e9e6f",
-        "#b72f29"
+        {
+            "name": "normal",
+            "color": "#9e9e6f"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "stufful",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/759.png",
             "types": [
-                "normal",
-                "fighting"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#b72f29"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "bewear",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/760.png",
             "types": [
-                "normal",
-                "fighting"
-            ],
-            "types_colors": [
-                "#9e9e6f",
-                "#b72f29"
+                {
+                    "name": "normal",
+                    "color": "#9e9e6f"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

@@ -55,10 +55,10 @@
         }
     ],
     "types": [
-        "poison"
-    ],
-    "types_colors": [
-        "#953a93"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
     "habitat": "urban",
@@ -68,20 +68,20 @@
             "name": "koffing",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/109.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "weezing",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/110.png",
             "types": [
-                "poison"
-            ],
-            "types_colors": [
-                "#953a93"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

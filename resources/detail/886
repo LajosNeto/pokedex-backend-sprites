@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "ghost"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#654e8c"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.",
     "habitat": "",
@@ -70,36 +72,42 @@
             "name": "dreepy",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/885.png",
             "types": [
-                "dragon",
-                "ghost"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#654e8c"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "drakloak",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/886.png",
             "types": [
-                "dragon",
-                "ghost"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#654e8c"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "dragapult",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/887.png",
             "types": [
-                "dragon",
-                "ghost"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#654e8c"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

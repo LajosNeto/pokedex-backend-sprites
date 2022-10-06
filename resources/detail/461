@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "dark",
-        "ice"
-    ],
-    "types_colors": [
-        "#644e40",
-        "#8ed2d2"
+        {
+            "name": "dark",
+            "color": "#644e40"
+        },
+        {
+            "name": "ice",
+            "color": "#8ed2d2"
+        }
     ],
     "short_description": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "sneasel",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/215.png",
             "types": [
-                "dark",
-                "ice"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#8ed2d2"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         },
         {
             "name": "weavile",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/461.png",
             "types": [
-                "dark",
-                "ice"
-            ],
-            "types_colors": [
-                "#644e40",
-                "#8ed2d2"
+                {
+                    "name": "dark",
+                    "color": "#644e40"
+                },
+                {
+                    "name": "ice",
+                    "color": "#8ed2d2"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "poison",
-        "fighting"
-    ],
-    "types_colors": [
-        "#953a93",
-        "#b72f29"
+        {
+            "name": "poison",
+            "color": "#953a93"
+        },
+        {
+            "name": "fighting",
+            "color": "#b72f29"
+        }
     ],
     "short_description": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "croagunk",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/453.png",
             "types": [
-                "poison",
-                "fighting"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#b72f29"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         },
         {
             "name": "toxicroak",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/454.png",
             "types": [
-                "poison",
-                "fighting"
-            ],
-            "types_colors": [
-                "#953a93",
-                "#b72f29"
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                },
+                {
+                    "name": "fighting",
+                    "color": "#b72f29"
+                }
             ]
         }
     ]

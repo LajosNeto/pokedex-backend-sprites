@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "poison"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#953a93"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "poison",
+            "color": "#953a93"
+        }
     ],
     "short_description": "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web.",
     "habitat": "forest",
@@ -70,24 +72,28 @@
             "name": "spinarak",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/167.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         },
         {
             "name": "ariados",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/168.png",
             "types": [
-                "bug",
-                "poison"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#953a93"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "poison",
+                    "color": "#953a93"
+                }
             ]
         }
     ]

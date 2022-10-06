@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "dragon",
-        "flying"
-    ],
-    "types_colors": [
-        "#6630f3",
-        "#9e85eb"
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
     "habitat": "rare",
@@ -62,12 +64,14 @@
             "name": "rayquaza",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/384.png",
             "types": [
-                "dragon",
-                "flying"
-            ],
-            "types_colors": [
-                "#6630f3",
-                "#9e85eb"
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

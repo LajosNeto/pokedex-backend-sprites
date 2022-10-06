@@ -5,10 +5,10 @@
         "name_ja": "エネコロロ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/301.png",
         "types": [
-            "normal"
-        ],
-        "types_colors": [
-            "#9e9e6f"
+            {
+                "name": "normal",
+                "color": "#9e9e6f"
+            }
         ]
     },
     {
@@ -17,12 +17,14 @@
         "name_ja": "ヤミラミ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/302.png",
         "types": [
-            "dark",
-            "ghost"
-        ],
-        "types_colors": [
-            "#644e40",
-            "#654e8c"
+            {
+                "name": "dark",
+                "color": "#644e40"
+            },
+            {
+                "name": "ghost",
+                "color": "#654e8c"
+            }
         ]
     },
     {
@@ -31,12 +33,14 @@
         "name_ja": "クチート",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/303.png",
         "types": [
-            "steel",
-            "fairy"
-        ],
-        "types_colors": [
-            "#afafc9",
-            "#eb90a4"
+            {
+                "name": "steel",
+                "color": "#afafc9"
+            },
+            {
+                "name": "fairy",
+                "color": "#eb90a4"
+            }
         ]
     },
     {
@@ -45,12 +49,14 @@
         "name_ja": "ココドラ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/304.png",
         "types": [
-            "steel",
-            "rock"
-        ],
-        "types_colors": [
-            "#afafc9",
-            "#af9539"
+            {
+                "name": "steel",
+                "color": "#afafc9"
+            },
+            {
+                "name": "rock",
+                "color": "#af9539"
+            }
         ]
     },
     {
@@ -59,12 +65,14 @@
         "name_ja": "コドラ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/305.png",
         "types": [
-            "steel",
-            "rock"
-        ],
-        "types_colors": [
-            "#afafc9",
-            "#af9539"
+            {
+                "name": "steel",
+                "color": "#afafc9"
+            },
+            {
+                "name": "rock",
+                "color": "#af9539"
+            }
         ]
     },
     {
@@ -73,12 +81,14 @@
         "name_ja": "ボスゴドラ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/306.png",
         "types": [
-            "steel",
-            "rock"
-        ],
-        "types_colors": [
-            "#afafc9",
-            "#af9539"
+            {
+                "name": "steel",
+                "color": "#afafc9"
+            },
+            {
+                "name": "rock",
+                "color": "#af9539"
+            }
         ]
     },
     {
@@ -87,12 +97,14 @@
         "name_ja": "アサナン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/307.png",
         "types": [
-            "fighting",
-            "psychic"
-        ],
-        "types_colors": [
-            "#b72f29",
-            "#f6527e"
+            {
+                "name": "fighting",
+                "color": "#b72f29"
+            },
+            {
+                "name": "psychic",
+                "color": "#f6527e"
+            }
         ]
     },
     {
@@ -101,12 +113,14 @@
         "name_ja": "チャーレム",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/308.png",
         "types": [
-            "fighting",
-            "psychic"
-        ],
-        "types_colors": [
-            "#b72f29",
-            "#f6527e"
+            {
+                "name": "fighting",
+                "color": "#b72f29"
+            },
+            {
+                "name": "psychic",
+                "color": "#f6527e"
+            }
         ]
     },
     {
@@ -115,10 +129,10 @@
         "name_ja": "ラクライ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/309.png",
         "types": [
-            "electric"
-        ],
-        "types_colors": [
-            "#f6cb3b"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            }
         ]
     },
     {
@@ -127,10 +141,10 @@
         "name_ja": "ライボルト",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/310.png",
         "types": [
-            "electric"
-        ],
-        "types_colors": [
-            "#f6cb3b"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            }
         ]
     },
     {
@@ -139,10 +153,10 @@
         "name_ja": "プラスル",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/311.png",
         "types": [
-            "electric"
-        ],
-        "types_colors": [
-            "#f6cb3b"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            }
         ]
     },
     {
@@ -151,10 +165,10 @@
         "name_ja": "マイナン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/312.png",
         "types": [
-            "electric"
-        ],
-        "types_colors": [
-            "#f6cb3b"
+            {
+                "name": "electric",
+                "color": "#f6cb3b"
+            }
         ]
     },
     {
@@ -163,10 +177,10 @@
         "name_ja": "バルビート",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/313.png",
         "types": [
-            "bug"
-        ],
-        "types_colors": [
-            "#9daf2b"
+            {
+                "name": "bug",
+                "color": "#9daf2b"
+            }
         ]
     },
     {
@@ -175,10 +189,10 @@
         "name_ja": "イルミーゼ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/314.png",
         "types": [
-            "bug"
-        ],
-        "types_colors": [
-            "#9daf2b"
+            {
+                "name": "bug",
+                "color": "#9daf2b"
+            }
         ]
     },
     {
@@ -187,12 +201,14 @@
         "name_ja": "ロゼリア",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/315.png",
         "types": [
-            "grass",
-            "poison"
-        ],
-        "types_colors": [
-            "#6dc04c",
-            "#953a93"
+            {
+                "name": "grass",
+                "color": "#6dc04c"
+            },
+            {
+                "name": "poison",
+                "color": "#953a93"
+            }
         ]
     },
     {
@@ -201,10 +217,10 @@
         "name_ja": "ゴクリン",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/316.png",
         "types": [
-            "poison"
-        ],
-        "types_colors": [
-            "#953a93"
+            {
+                "name": "poison",
+                "color": "#953a93"
+            }
         ]
     },
     {
@@ -213,10 +229,10 @@
         "name_ja": "マルノーム",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/317.png",
         "types": [
-            "poison"
-        ],
-        "types_colors": [
-            "#953a93"
+            {
+                "name": "poison",
+                "color": "#953a93"
+            }
         ]
     },
     {
@@ -225,12 +241,14 @@
         "name_ja": "キバニア",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/318.png",
         "types": [
-            "water",
-            "dark"
-        ],
-        "types_colors": [
-            "#5f84ea",
-            "#644e40"
+            {
+                "name": "water",
+                "color": "#5f84ea"
+            },
+            {
+                "name": "dark",
+                "color": "#644e40"
+            }
         ]
     },
     {
@@ -239,12 +257,14 @@
         "name_ja": "サメハダー",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/319.png",
         "types": [
-            "water",
-            "dark"
-        ],
-        "types_colors": [
-            "#5f84ea",
-            "#644e40"
+            {
+                "name": "water",
+                "color": "#5f84ea"
+            },
+            {
+                "name": "dark",
+                "color": "#644e40"
+            }
         ]
     },
     {
@@ -253,10 +273,10 @@
         "name_ja": "ホエルコ",
         "sprite": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/320.png",
         "types": [
-            "water"
-        ],
-        "types_colors": [
-            "#5f84ea"
+            {
+                "name": "water",
+                "color": "#5f84ea"
+            }
         ]
     }
 ]

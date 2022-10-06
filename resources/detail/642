@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "electric",
-        "flying"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#9e85eb"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "thundurus",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/642.png",
             "types": [
-                "electric",
-                "flying"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#9e85eb"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

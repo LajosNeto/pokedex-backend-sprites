@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "steel",
-        "fairy"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#eb90a4"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
     "habitat": "",
@@ -62,12 +64,14 @@
             "name": "magearna",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/801.png",
             "types": [
-                "steel",
-                "fairy"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#eb90a4"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

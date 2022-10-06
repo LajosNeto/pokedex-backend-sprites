@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "steel",
-        "flying"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#9e85eb"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.",
     "habitat": "rough-terrain",
@@ -70,12 +72,14 @@
             "name": "skarmory",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/227.png",
             "types": [
-                "steel",
-                "flying"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#9e85eb"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

@@ -47,12 +47,14 @@
         }
     ],
     "types": [
-        "steel",
-        "ghost"
-    ],
-    "types_colors": [
-        "#afafc9",
-        "#654e8c"
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        },
+        {
+            "name": "ghost",
+            "color": "#654e8c"
+        }
     ],
     "short_description": "Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking.",
     "habitat": "",
@@ -62,36 +64,42 @@
             "name": "honedge",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/679.png",
             "types": [
-                "steel",
-                "ghost"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#654e8c"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "doublade",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/680.png",
             "types": [
-                "steel",
-                "ghost"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#654e8c"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         },
         {
             "name": "aegislash",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/681.png",
             "types": [
-                "steel",
-                "ghost"
-            ],
-            "types_colors": [
-                "#afafc9",
-                "#654e8c"
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                },
+                {
+                    "name": "ghost",
+                    "color": "#654e8c"
+                }
             ]
         }
     ]

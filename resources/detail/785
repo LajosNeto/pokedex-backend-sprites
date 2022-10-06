@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "electric",
-        "fairy"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#eb90a4"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "tapu-koko",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/785.png",
             "types": [
-                "electric",
-                "fairy"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#eb90a4"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "rock",
-        "water"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#5f84ea"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
     "habitat": "sea",
@@ -70,24 +72,28 @@
             "name": "omanyte",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/138.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "omastar",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/139.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]

@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "grass",
-        "fairy"
-    ],
-    "types_colors": [
-        "#6dc04c",
-        "#eb90a4"
+        {
+            "name": "grass",
+            "color": "#6dc04c"
+        },
+        {
+            "name": "fairy",
+            "color": "#eb90a4"
+        }
     ],
     "short_description": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "tapu-bulu",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/787.png",
             "types": [
-                "grass",
-                "fairy"
-            ],
-            "types_colors": [
-                "#6dc04c",
-                "#eb90a4"
+                {
+                    "name": "grass",
+                    "color": "#6dc04c"
+                },
+                {
+                    "name": "fairy",
+                    "color": "#eb90a4"
+                }
             ]
         }
     ]

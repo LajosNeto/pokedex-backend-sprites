@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "bug"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#9daf2b"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        }
     ],
     "short_description": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "dewpider",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/751.png",
             "types": [
-                "water",
-                "bug"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9daf2b"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         },
         {
             "name": "araquanid",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/752.png",
             "types": [
-                "water",
-                "bug"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#9daf2b"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                }
             ]
         }
     ]

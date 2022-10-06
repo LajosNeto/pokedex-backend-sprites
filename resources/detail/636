@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "bug",
-        "fire"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#ed7835"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        }
     ],
     "short_description": "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
     "habitat": "",
@@ -66,24 +68,28 @@
             "name": "larvesta",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/636.png",
             "types": [
-                "bug",
-                "fire"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#ed7835"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         },
         {
             "name": "volcarona",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/637.png",
             "types": [
-                "bug",
-                "fire"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#ed7835"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                }
             ]
         }
     ]

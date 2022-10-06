@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "ground",
-        "steel"
-    ],
-    "types_colors": [
-        "#dbb963",
-        "#afafc9"
+        {
+            "name": "ground",
+            "color": "#dbb963"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
     "habitat": "",
@@ -70,22 +72,24 @@
             "name": "drilbur",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/529.png",
             "types": [
-                "ground"
-            ],
-            "types_colors": [
-                "#dbb963"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                }
             ]
         },
         {
             "name": "excadrill",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/530.png",
             "types": [
-                "ground",
-                "steel"
-            ],
-            "types_colors": [
-                "#dbb963",
-                "#afafc9"
+                {
+                    "name": "ground",
+                    "color": "#dbb963"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

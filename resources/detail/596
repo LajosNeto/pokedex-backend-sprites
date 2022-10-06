@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "bug",
-        "electric"
-    ],
-    "types_colors": [
-        "#9daf2b",
-        "#f6cb3b"
+        {
+            "name": "bug",
+            "color": "#9daf2b"
+        },
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        }
     ],
     "short_description": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
     "habitat": "",
@@ -70,24 +72,28 @@
             "name": "joltik",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/595.png",
             "types": [
-                "bug",
-                "electric"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#f6cb3b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         },
         {
             "name": "galvantula",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/596.png",
             "types": [
-                "bug",
-                "electric"
-            ],
-            "types_colors": [
-                "#9daf2b",
-                "#f6cb3b"
+                {
+                    "name": "bug",
+                    "color": "#9daf2b"
+                },
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                }
             ]
         }
     ]

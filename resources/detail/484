@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "water",
-        "dragon"
-    ],
-    "types_colors": [
-        "#5f84ea",
-        "#6630f3"
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        },
+        {
+            "name": "dragon",
+            "color": "#6630f3"
+        }
     ],
     "short_description": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
     "habitat": "",
@@ -66,12 +68,14 @@
             "name": "palkia",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/484.png",
             "types": [
-                "water",
-                "dragon"
-            ],
-            "types_colors": [
-                "#5f84ea",
-                "#6630f3"
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                },
+                {
+                    "name": "dragon",
+                    "color": "#6630f3"
+                }
             ]
         }
     ]

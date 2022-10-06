@@ -51,12 +51,14 @@
         }
     ],
     "types": [
-        "fire",
-        "flying"
-    ],
-    "types_colors": [
-        "#ed7835",
-        "#9e85eb"
+        {
+            "name": "fire",
+            "color": "#ed7835"
+        },
+        {
+            "name": "flying",
+            "color": "#9e85eb"
+        }
     ],
     "short_description": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
     "habitat": "rare",
@@ -66,12 +68,14 @@
             "name": "moltres",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/146.png",
             "types": [
-                "fire",
-                "flying"
-            ],
-            "types_colors": [
-                "#ed7835",
-                "#9e85eb"
+                {
+                    "name": "fire",
+                    "color": "#ed7835"
+                },
+                {
+                    "name": "flying",
+                    "color": "#9e85eb"
+                }
             ]
         }
     ]

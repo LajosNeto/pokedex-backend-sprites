@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "electric",
-        "steel"
-    ],
-    "types_colors": [
-        "#f6cb3b",
-        "#afafc9"
+        {
+            "name": "electric",
+            "color": "#f6cb3b"
+        },
+        {
+            "name": "steel",
+            "color": "#afafc9"
+        }
     ],
     "short_description": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
     "habitat": "",
@@ -70,12 +72,14 @@
             "name": "togedemaru",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/777.png",
             "types": [
-                "electric",
-                "steel"
-            ],
-            "types_colors": [
-                "#f6cb3b",
-                "#afafc9"
+                {
+                    "name": "electric",
+                    "color": "#f6cb3b"
+                },
+                {
+                    "name": "steel",
+                    "color": "#afafc9"
+                }
             ]
         }
     ]

@@ -55,12 +55,14 @@
         }
     ],
     "types": [
-        "rock",
-        "water"
-    ],
-    "types_colors": [
-        "#af9539",
-        "#5f84ea"
+        {
+            "name": "rock",
+            "color": "#af9539"
+        },
+        {
+            "name": "water",
+            "color": "#5f84ea"
+        }
     ],
     "short_description": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
     "habitat": "sea",
@@ -70,24 +72,28 @@
             "name": "kabuto",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/140.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         },
         {
             "name": "kabutops",
             "sprite_url": "https://raw.githubusercontent.com/LajosNeto/pokedex-backend-sprites/main/resources/sprite/141.png",
             "types": [
-                "rock",
-                "water"
-            ],
-            "types_colors": [
-                "#af9539",
-                "#5f84ea"
+                {
+                    "name": "rock",
+                    "color": "#af9539"
+                },
+                {
+                    "name": "water",
+                    "color": "#5f84ea"
+                }
             ]
         }
     ]
